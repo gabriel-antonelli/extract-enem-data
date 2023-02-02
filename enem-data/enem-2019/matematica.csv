@@ -1,0 +1,420 @@
+,context,question,A,B,C,D,E,answer
+0,"
+
+
+A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 mg desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 kg pelo período de 5 dias.
+
+Esse medicamento pode ser comprado em frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento.
+
+Considere que 1 g desse medicamento ocupe um volume de 1 cm³.
+
+
+
+","
+
+A capacidade do frasco, em mililitro, que esses pais deverão comprar é
+
+
+",10,50,100,250,500,B
+1,"
+
+
+ Uma pessoa, que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Art. 1 234 do Código Civil, poderá ter que pagar pelas despesas do transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5% do valor do objeto.
+
+Ela sabe que o custo com transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapasse o valor atual do objeto.
+
+
+
+","
+
+Nessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a
+
+
+",20%,25%,40%,60%,80%,E
+2,"
+
+
+
+
+O serviço de meteorologia de uma cidade emite relatórios diários com a previsão do tempo. De posse dessas informações, a prefeitura emite três tipos de alertas para a população:
+
+• Alerta cinza: deverá ser emitido sempre que a previsão do tempo estimar que a temperatura será
+inferior a 10 °C, e a umidade relativa do ar for inferior a 40%;
+
+• Alerta laranja: deverá ser emitido sempre que a previsão do tempo estimar que a temperatura deve
+variar entre 35 °C e 40 °C, e a umidade relativa do ar deve ficar abaixo de 30%;
+
+• Alerta vermelho: deverá ser emitido sempre que a previsão do tempo estimar que a temperatura será superior a 40 ºC, e a umidade relativa do ar for inferior a 25%.
+
+Um resumo da previsão do tempo nessa cidade, para um período de 15 dias, foi apresentado no gráfico.
+
+
+
+
+Decorridos os 15 dias de validade desse relatório, um funcionário percebeu que, no período a que se refere o gráfico, foram emitidos os seguintes alertas:
+
+• Dia 1: alerta cinza;
+• Dia 12: alerta laranja;
+• Dia 13: alerta vermelho.
+
+
+
+
+
+","
+
+
+
+Em qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s) corretamente?
+
+
+
+
+
+",1.,12.,1 e 12.,1 e 13.,"1, 12 e 13.",A
+3,"
+
+
+A gripe é uma infecção respiratória aguda de curtaduração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.
+
+
+
+Disponível em: www.gripenet.pt.
+Acesso em: 2 nov. 2013 (adaptado).
+
+
+
+","
+
+
+
+
+
+Em notação científica, o diâmetro interno do vírus influenza, em mm, é
+
+
+
+
+
+
+
+","1,1x10​−1​​","1,1x10​−2​​","1,1x10​−3​​","1,1x10​−4​​","1,1x10​−5​​",D
+4,"
+
+
+Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6m, é cercado por grama. A administração do condomínio deseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8m, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 m² de área.
+ 
+
+
+O síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.
+
+
+
+
+Utilize 3 como aproximação para π.
+
+
+
+
+
+","
+
+A conclusão correta a que o síndico deverá chegar, considerando a nova área a ser pavimentada, é a de que o material disponível em estoque:
+
+
+","será suficiente, pois a área da nova região a ser pavimentada mede 21 m².","será suficiente, pois a área da nova região a ser pavimentada mede 24 m².","será suficiente, pois a área da nova região a ser pavimentada mede 48 m².","não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².","não será suficiente, pois a área da nova região a ser pavimentada mede 120 m².",E
+5,"
+
+
+O rótulo da embalagem de um cosmético informa que a dissolução de seu conteúdo, de acordo com suas especificações, rende 2,7 litros desse produto pronto para o uso. Uma pessoa será submetida a um tratamento estético em que deverá tomar um banho de imersão com esse produto numa banheira com capacidade de 0,3 m³.
+Para evitar o transbordamento, essa banheira será preenchida em 80% de sua capacidade.
+
+
+
+","
+
+
+
+
+Para esse banho, o número mínimo de embalagens desse cosmético é
+
+
+
+
+
+
+",9.,12.,89.,112.,134.,C
+6,"
+
+
+A Hydrangea macrophyila é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8.
+Sabe-se que pH = – log10x, em que x é a concentração de íon hidrogênio (H+).
+
+
+
+","
+
+Para produzir a Hydrangea cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que x assuma
+
+
+",qualquer valor acima de 10^{-8}10​−8    ​​.,qualquer valor positivo inferior a 10^{-7}10​−7​​.,valores maiores que 7 e menores que 8.,valores maiores que 70 e menores que 80.,valores maiores que 10^{-8}10​−8​​ e menores que 10^{-7}10​−7​​.,E
+7,"
+
+
+Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1% ao mês.
+O primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02.
+Para concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado.
+ 
+
+
+
+","
+
+O valor à vista, em real, que deverá constar na nota fiscal é de
+
+
+","398,02","400,00","401,94","404,00","406,02",B
+8,"
+
+
+Para contratar três máquinas que farão o reparo de vias rurais de um município, a prefeitura elaborou um edital que, entre outras cláusulas, previa:
+• Cada empresa interessada só pode cadastrar uma única máquina para concorrer ao edital;
+• O total de recursos destinados para contratar o conjunto das três máquinas é de R$ 31 000,00;
+• O valor a ser pago a cada empresa será inversamente proporcional à idade de uso da máquina cadastrada pela empresa para o presente edital.
+As três empresas vencedoras do edital cadastraram máquinas com 2, 3 e 5 anos de idade de uso.
+
+
+
+","
+
+
+
+
+Quanto receberá a empresa que cadastrou a máquina com maior idade de uso?
+
+
+
+
+
+
+","R$ 3.100,00","R$ 6.000,00","R$ 6.200,00","R$ 15.000,00","R$ 15.500,00",B
+9,"
+
+
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano 2000, era de R$ 1.250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2% em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10% maior do que foi em 2010.
+
+IBGE. Censo 2010. Disponível em: www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado).
+
+
+
+","
+
+
+
+
+Supondo que as projeções do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de
+
+
+
+
+
+
+","R$ 1.340,00.","R$ 1.349,00","R$ 1.375,00","R$ 1.465,00","R$ 1.474,00.",E
+10,"
+
+
+Três sócios resolveram fundar uma fábrica. O investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial.
+Algum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos, investiram mais R$ 800 000,00 na fábrica. Cada um deles contribuiu com um quarto desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido feito. Os sócios decidiram então dividir o montante de R$ 1 800 000,00 obtido com a venda, de modo proporcional à quantia total investida por cada sócio.
+
+
+
+","
+
+
+
+
+Quais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos més sócios iniciais e o quarto sócio, respectivamente, receberam?
+
+
+
+
+
+
+","29,60 e 11,11.","28,70 e 13,89.","25,00 e 25,00.","18,52 e 11,11.","12,96 e 13,89.",A
+11,"
+
+
+Comum em lançamentos de empreendimentos imobiliários, as maquetes de condomínios funcionam como uma ótima ferramenta de marketing para as construtoras, pois, além de encantar clientes, auxiliam de maneira significativa os corretores na negociação e venda de imóveis.
+Um condomínio está sendo lançado em um novo bairro de uma cidade. Na maquete projetada pela construtora, em escala de 1 : 200, existe um reservatório de água com capacidade de 45 cm³.
+Quando todas as famílias estiverem residindo no condomínio, a estimativa é que, por dia, sejam consumidos 30.000 litros de água.
+
+
+
+","
+
+
+
+
+Em uma eventual falta de água, o reservatório cheio será suficiente para abastecer o condomínio por quantos dias?
+
+
+
+
+
+
+",30,15,12,6,3,C
+12,"
+
+
+O preparador físico de um time de basquete dispõe de um plantel de 20 jogadores, com média de altura igual a 1,80 m.
+No último treino antes da estreia em um campeonato, um dos jogadores desfalcou o time em razão de uma séria contusão, forçando o técnico a contratar outro jogador para recompor o grupo.
+
+
+
+","
+
+Se o novo jogador é 0,20 m mais baixo que o anterior, qual é a média de altura, em metro, do novo grupo?
+
+
+","1,60.","1,78.","1,79.","1,81.","1,82.",C
+13,"
+
+
+Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada
+contra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor.
+
+Disponível em: www.oficinabrasil.com.br. Acesso em: 25 ago. 2014 (adaptado).
+
+
+
+
+
+Após uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação
+
+1: rolamento, 2: pastilha de freio, 3: caixa de direção, 4: catalisador e 5: amortecedor.
+
+Ao final obteve-se a sequência; 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4,… que apresenta um padrão de formação que consiste na repetição de um bloco de números.
+
+Essa sequência descreve a ordem em que os produtos apreendidos foram cadastrados.
+
+
+
+","
+
+
+
+
+
+O 2.015º. item cadastrado foi um(a)
+
+
+
+
+
+
+
+",rolamento.,catalisador.,amortecedor.,pastilha de freio.,caixa de direção.,E
+14,"
+
+
+O dono de um restaurante situado às margens de uma rodovia percebeu que, ao colocar uma placa de propaganda de seu restaurante ao longo da rodovia, as vendas aumentaram. Pesquisou junto aos seus clientes e concluiu que a probabilidade de um motorista perceber uma placa de anúncio é 1/2.
+Com isso, após autorização do órgão competente, decidiu instalar novas placas com anúncios de seu restaurante ao longo dessa rodovia, de maneira que a probabilidade de um motorista perceber pelo menos uma das placas instaladas fosse superior a 99/100.
+
+
+
+","
+
+
+
+
+A quantidade mínima de novas placas de propaganda a serem instaladas é
+
+
+
+
+
+
+",99,51,50,6,1,D
+15,"
+
+
+Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1000,00 por semana.
+Os outros funcionários são diaristas. Cada um trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.
+
+
+
+","
+
+Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por
+
+
+",Y = 80X + 920.,Y = 80X + 1000.,Y = 80X + 1080.,Y = 160X + 840.,Y = 160X + 1000.,D
+16,"
+
+
+Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia.
+Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.
+
+
+
+","
+
+
+
+
+De quantas maneiras diferentes podem ser formadas essas quatro duplas?
+
+
+
+
+
+
+",69,70,90,104,105,C
+17,"
+
+
+Para construir uma piscina, cuja área total da superfície interna é igual a 40 m², uma construtora apresentou o seguinte orçamento:
+
+• R$ 10 000,00 pela elaboração do projeto;
+• R$ 40 000,00 pelos custos fixos;
+• R$ 2 500,00 por metro quadrado para construção da área interna da piscina.
+
+Após a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50%, mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25%. Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10% em relação ao total inicial.
+
+
+
+","
+
+
+
+
+O percentual de desconto que a construtora deverá conceder nos custos fixos é de
+
+
+
+
+
+
+","23,3%.","25,0%.","50,0%.","87,5%.","100,0%.",D
+18,"
+
+
+Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20% das declarações de imposto de renda que lhe foram encaminhadas.
+Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.
+Constatou-se, ainda, que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.
+
+
+
+","
+
+
+
+
+Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que ela era fraudulenta?
+
+
+
+
+
+
+","0,0500","0,1000","0,1125","0,3125","0,5000",E
