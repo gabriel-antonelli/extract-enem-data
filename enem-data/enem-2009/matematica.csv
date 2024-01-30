@@ -1,6 +1,17 @@
 ,context,question,A,B,C,D,E,answer
 0,"
 
+Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00.
+
+
+","
+
+De acordo com essas informações, qual foi o valor da cota calculada no acerto final para cada uma das 55 pessoas?
+
+
+","R$ 14,00.","R$ 17,00.","R$ 22,00.","R$ 32,00.","R$ 57,00.",D
+1,"
+
 
 Uma resolução do Conselho Nacional de Política Energética (CNPE) estabeleceu a obrigatoriedade de adição de biodiesel ao óleo diesel comercializado nos postos. A exigência é que, a partir de 1.º de julho de 2009, 4% do volume da mistura final seja formada por biodiesel. Até junho de 2009, esse percentual era de 3%. Essa medida estimula a demanda de biodiesel, bem como possibilita a redução da importação de dísel de petróleo.
 
@@ -15,7 +26,7 @@ Estimativas indicam que, com a adição de 4% de biodiesel ao dísel, serão con
 
 
 ","27,75 milhões de litros.","37,00 milhões de litros.","231,25 milhões de litros.","693,75 milhões de litros.","888,00 milhões de litros.",D
-1,"
+2,"
 
 
 Técnicos concluem mapeamento do aquífero Guarani
@@ -32,29 +43,7 @@ Comparando as capacidades do aquífero Guarani e desse novo reservatório da SAB
 
 
 ","1,5 x 102 vezes a capacidade do reservatório novo.","1,5 x 103 vezes a capacidade do reservatório novo.","1,5 x 106 vezes a capacidade do reservatório novo.","1,5 x 108 vezes a capacidade do reservatório novo.","1,5 x 109 vezes a capacidade do reservatório novo.",E
-2,"
-
-A rampa de um hospital tem na sua parte mais elevada uma altura de 2,2 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 3,2 metros e alcançou uma altura de 0,8 metro.
-
-
-","
-
-A distância em metros que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é
-
-
-","1,16 metros.","3,0 metros.","5,4 metros.","5,6 metros.","7,04 metros.",D
 3,"
-
-Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00.
-
-
-","
-
-De acordo com essas informações, qual foi o valor da cota calculada no acerto final para cada uma das 55 pessoas?
-
-
-","R$ 14,00.","R$ 17,00.","R$ 22,00.","R$ 32,00.","R$ 57,00.",D
-4,"
 
 
 Para cada indivíduo, a sua inscrição no Cadastro de Pessoas Físicas (CPF) é composto por um número de 9 algarismos e outro número de 2 algarismos, na forma d1 e d2, em que os dígitos d1 e d2 são denominados dígitos verificadores. Os dígitos verificadores são calculados, a partir da esquerda, da seguinte maneira: os 9 primeiros algarismos são multiplicados pela sequência 10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10, o segundo por 9, e assim sucessivamente); em seguida, calcula-se o resto r da divisão da soma dos resultados das multiplicações por 11, e se esse resto r for 0 ou 1, d1 é zero, caso contrário d1 = (11 – r). O dígito d2 é calculado pela mesma regra, na qual os números a serem multiplicados pela sequência dada são contados a partir do segundo algarismo, sendo d1 o último algarismo, isto é, d2 é zero se o resto s da divisão por 11 das somas das multiplicações for 0 ou 1, caso contrário, d2 = (11 – s).
@@ -67,31 +56,29 @@ Suponha que João tenha perdido seus documentos, inclusive o cartão de CPF e, a
 
 
 ",0 e 9.,1 e 4.,1 e 7.,9 e 1.,0 e 1.,A
+4,"
+
+Uma escola lançou uma campanha para seus alunos arrecadarem, durante 30 dias, alimentos não perecíveis para doar a uma comunidade carente da região. Vinte alunos aceitaram a tarefa e nos primeiros 10 dias trabalharam 3 horas diárias, arrecadando 12 kg de alimentos por dia. Animados com os resultados, 30 novos alunos somaram-se ao grupo, e passaram a trabalhar 4 horas por dia nos dias seguintes até o término da campanha.
+
+
+","
+
+Admitindo-se que o ritmo de coleta tenha se mantido constante, a quantidade de alimentos arrecadados ao final do prazo estipulado seria de
+
+
+",920 kg.,800 kg.,720 kg.,600 kg.,570 kg.,A
 5,"
 
-Suponha que a etapa final de uma gincana escolar consista em um desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos. Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10 alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0.
+A rampa de um hospital tem na sua parte mais elevada uma altura de 2,2 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 3,2 metros e alcançou uma altura de 0,8 metro.
 
 
 ","
 
-Se o aluno da equipe Gama que faltou tivesse comparecido, essa equipe
+A distância em metros que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é
 
 
-","teria a pontuação igual a 6,5 se ele obtivesse nota 0.",seria a vencedora se ele obtivesse nota 10.,seria a segunda colocada se ele obtivesse nota 8.,"permaneceria na terceira posição, independentemente da nota obtida pelo aluno.",empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9.,D
+","1,16 metros.","3,0 metros.","5,4 metros.","5,6 metros.","7,04 metros.",D
 6,"
-
-
-Segundo as regras da Fórmula 1, o peso mínimo do carro, de tanque vazio, com o piloto, é de 605 kg, e a gasolina deve ter densidade entre 725 e 780 gramas por litro. Entre os circuitos nos quais ocorrem competições dessa categoria, o mais longo é Spa-Francorchamps, na Bélgica, cujo traçado tem 7 km de extensão. O consumo médio de um carro da Fórmula 1 é de 75 litros para cada 100 km.
-
-
-
-","
-
-Suponha que um piloto de uma equipe específica, que utiliza um tipo de gasolina com densidade de 750 g/L, esteja no circuito de Spa-Francorchamps, parado no box para reabastecimento. Caso ele pretenda dar mais 16 voltas, ao ser liberado para retornar à pista, seu carro deverá pesar, no mínimo,
-
-
-",617 kg.,668 kg.,680 kg.,689 kg.,717 kg.,B
-7,"
 
 Um posto de combustível vende 10.000 litros de álcool por dia a R$ 1,50 cada litro. Seu proprietário percebeu que, para cada centavo de desconto que  concedia por litro, eram vendidos 100 litros a mais por dia. Por exemplo, no dia em que o preço do álcool foi R$ 1,48, foram vendidos 10.200 litros.
 
@@ -103,7 +90,7 @@ Considerando x o valor, em centavos, do desconto dado no preço de cada litro, e
 
 
 ",V = 10.000 + 50x – x².,V = 10.000 + 50x + x².,V = 15.000 – 50x – x².,V = 15.000 + 50x – x².,V = 15.000 – 50x + x².,D
-8,"
+7,"
 
 
 Uma cooperativa de colheita propôs a um fazendeiro um contrato de trabalho nos seguintes termos: a cooperativa forneceria 12 trabalhadores e 4 máquinas, em um regime de trabalho de 6 horas diárias, capazes de colher 20 hectares de milho por dia, ao custo de R$ 10,00 por trabalhador por dia de trabalho, e R$ 1.000,00 pelo aluguel diário de cada máquina. O fazendeiro argumentou que fecharia contrato se a cooperativa colhesse 180 hectares de milho em 6 dias, com gasto inferior a R$ 25.000,00.
@@ -116,17 +103,30 @@ Para atender às exigências do fazendeiro e supondo que o ritmo dos trabalhador
 
 
 ",manter sua proposta.,oferecer 4 máquinas a mais.,oferecer 6 trabalhadores a mais.,aumentar a jornada de trabalho para 9 horas diárias.,"reduzir em R$ 400,00 o valor do aluguel diário de uma máquina.",D
-9,"
+8,"
 
-Uma escola lançou uma campanha para seus alunos arrecadarem, durante 30 dias, alimentos não perecíveis para doar a uma comunidade carente da região. Vinte alunos aceitaram a tarefa e nos primeiros 10 dias trabalharam 3 horas diárias, arrecadando 12 kg de alimentos por dia. Animados com os resultados, 30 novos alunos somaram-se ao grupo, e passaram a trabalhar 4 horas por dia nos dias seguintes até o término da campanha.
+
+Segundo as regras da Fórmula 1, o peso mínimo do carro, de tanque vazio, com o piloto, é de 605 kg, e a gasolina deve ter densidade entre 725 e 780 gramas por litro. Entre os circuitos nos quais ocorrem competições dessa categoria, o mais longo é Spa-Francorchamps, na Bélgica, cujo traçado tem 7 km de extensão. O consumo médio de um carro da Fórmula 1 é de 75 litros para cada 100 km.
+
 
 
 ","
 
-Admitindo-se que o ritmo de coleta tenha se mantido constante, a quantidade de alimentos arrecadados ao final do prazo estipulado seria de
+Suponha que um piloto de uma equipe específica, que utiliza um tipo de gasolina com densidade de 750 g/L, esteja no circuito de Spa-Francorchamps, parado no box para reabastecimento. Caso ele pretenda dar mais 16 voltas, ao ser liberado para retornar à pista, seu carro deverá pesar, no mínimo,
 
 
-",920 kg.,800 kg.,720 kg.,600 kg.,570 kg.,A
+",617 kg.,668 kg.,680 kg.,689 kg.,717 kg.,B
+9,"
+
+Suponha que a etapa final de uma gincana escolar consista em um desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos. Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10 alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0.
+
+
+","
+
+Se o aluno da equipe Gama que faltou tivesse comparecido, essa equipe
+
+
+","teria a pontuação igual a 6,5 se ele obtivesse nota 0.",seria a vencedora se ele obtivesse nota 10.,seria a segunda colocada se ele obtivesse nota 8.,"permaneceria na terceira posição, independentemente da nota obtida pelo aluno.",empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9.,D
 10,"
 
 Doze times se inscreveram em um torneio de futebol amador. O jogo de abertura do torneio foi escolhido da seguinte forma: primeiro foram sorteados 4 times para compor o Grupo A. Em seguida, entre os times do Grupo A, foram sorteados 2 times para realizar o jogo de abertura do torneio, sendo que o primeiro deles jogaria em seu próprio campo, e o segundo seria o time visitante.
@@ -184,17 +184,6 @@ Suponha que, em determinado dia, Joana tenha iniciado seus exercícios às 10h30
 ",não poderia fazer sequer a metade dos exercícios e dispor dos períodos de descanso especificados em seu programa.,poderia ter feito todos os exercícios e cumprido rigorosamente os períodos de descanso especificados em seu programa.,"poderia ter feito todos os exercícios, mas teria de ter deixado de cumprir um dos períodos de descanso especificados em seu programa.","conseguiria fazer todos os exercícios e cumpriria todos os períodos de descanso especificados em seu programa, e ainda se permitiria uma pausa de 7 min.",não poderia fazer todas as 3 séries dos exercícios especificados em seu programa; em alguma dessas séries deveria ter feito uma série a menos e não deveria ter cumprido um dos períodos de descanso.,B
 14,"
 
-Um artesão construiu peças de artesanato interceptando uma pirâmide de base quadrada com um plano. Após fazer um estudo das diferentes peças que poderia obter, ele concluiu que uma delas poderia ter uma das faces pentagonal.
-
-
-","
-
-Qual dos argumentos a seguir justifica a conclusão do artesão?
-
-
-","Uma pirâmide de base quadrada tem 4 arestas laterais e a interseção de um plano com a pirâmide intercepta suas arestas laterais. Assim, esses pontos formam um polígono de 4 lados.","Uma pirâmide de base quadrada tem 4 faces triangulares e, quando um plano intercepta essa pirâmide, divide cada face em um triângulo e um trapézio. Logo, um dos polígonos tem 4 lados.","Uma pirâmide de base quadrada tem 5 faces e a interseção de uma face com um plano é um segmento de reta. Assim, se o plano interceptar todas as faces, o polígono obtido nessa interseção tem 5 lados.","O número de lados de qualquer polígono obtido como interseção de uma pirâmide com um plano é igual ao número de faces da pirâmide. Como a pirâmide tem 5 faces, o polígono tem 5 lados.","O número de lados de qualquer polígono obtido interceptando-se uma pirâmide por um plano é igual ao número de arestas laterais da pirâmide. Como a pirâmide tem 4 arestas laterais, o polígono tem 4 lados.",C
-15,"
-
 
 Um médico está estudando um novo medicamento que combate um tipo de câncer em estágios avançados. Porém, devido ao forte efeito dos seus componentes, a cada dose administrada há uma chance de 10% de que o paciente sofra algum dos efeitos colaterais observados no estudo, tais como dores de cabeça, vômitos ou mesmo agravamento dos sintomas da doença. O médico oferece tratamentos compostos por 3, 4, 6, 8 ou 10 doses do medicamento, de acordo com o risco que o paciente pretende assumir.
 
@@ -206,6 +195,17 @@ Se um paciente considera aceitável um risco de até 35% de chances de que ocorr
 
 
 ",3 doses.,4 doses.,6 doses.,8 doses.,10 doses.,B
+15,"
+
+Um artesão construiu peças de artesanato interceptando uma pirâmide de base quadrada com um plano. Após fazer um estudo das diferentes peças que poderia obter, ele concluiu que uma delas poderia ter uma das faces pentagonal.
+
+
+","
+
+Qual dos argumentos a seguir justifica a conclusão do artesão?
+
+
+","Uma pirâmide de base quadrada tem 4 arestas laterais e a interseção de um plano com a pirâmide intercepta suas arestas laterais. Assim, esses pontos formam um polígono de 4 lados.","Uma pirâmide de base quadrada tem 4 faces triangulares e, quando um plano intercepta essa pirâmide, divide cada face em um triângulo e um trapézio. Logo, um dos polígonos tem 4 lados.","Uma pirâmide de base quadrada tem 5 faces e a interseção de uma face com um plano é um segmento de reta. Assim, se o plano interceptar todas as faces, o polígono obtido nessa interseção tem 5 lados.","O número de lados de qualquer polígono obtido como interseção de uma pirâmide com um plano é igual ao número de faces da pirâmide. Como a pirâmide tem 5 faces, o polígono tem 5 lados.","O número de lados de qualquer polígono obtido interceptando-se uma pirâmide por um plano é igual ao número de arestas laterais da pirâmide. Como a pirâmide tem 4 arestas laterais, o polígono tem 4 lados.",C
 16,"
 
 João deve 12 parcelas de R$ 150,00 referentes ao cheque especial de seu banco e cinco parcelas de R$ 80,00 referentes ao cartão de crédito. O gerente do banco lhe ofereceu duas parcelas de desconto no cheque especial, caso João quitasse esta dívida imediatamente ou, na mesma condição, isto é, quitação imediata, com 25% de desconto na dívida do cartão. João também poderia renegociar suas dívidas em 18 parcelas mensais de R$ 125,00. Sabendo desses termos, José, amigo de João, ofereceu-lhe emprestar o dinheiro que julgasse necessário pelo tempo de 18 meses, com juros de 25% sobre o total emprestado.

@@ -1,2 +1,6 @@
 [tool.isort]
 profile = "black"
+
+[tool.pyright]
+typeCheckingMode = "false"
+reportArgumentType = "false"

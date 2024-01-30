@@ -24,17 +24,6 @@ A caixa escolhida pelo casal deve ser a de número
 ",1.,2.,3.,4.,5.,C
 1,"
 
-Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.
-
-
-","
-
-A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é
-
-
-","11,25.","27,00.","28,80.","32,25.","49,50.",B
-2,"
-
 
 O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade V de contração de um músculo ao ser submetido a um peso p é dada pela equação (p + a) (v +b) = K, com a, b e K constantes.
 Um fisioterapeuta, com o intuito de maximizar o efeito benéfico dos exercícios que recomendaria a um de seus pacientes, quis estudar essa equação e a classificou desta forma:
@@ -74,18 +63,18 @@ O gráfico da equação que o fisioterapeuta utilizou para maximizar o efeito do
 
 
 ",Semirreta oblíqua.,semirreta horizontal.,ramo de parábola.,arco de circunferência.,ramo de hipérbole.,E
-3,"
+2,"
 
-Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.
+Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.
 
 
 ","
 
-O volume do monumento original, em metro cúbico, é de
+A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é
 
 
-",100,400,1600,6250,10000,C
-4,"
+","11,25.","27,00.","28,80.","32,25.","49,50.",B
+3,"
 
 
 A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (X e Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista Y para executar a mesma tarefa.
@@ -100,6 +89,17 @@ A razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é i
 
 
 ",5/4,1/4,4/3,4/1,3/4,B
+4,"
+
+Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.
+
+
+","
+
+O volume do monumento original, em metro cúbico, é de
+
+
+",100,400,1600,6250,10000,C
 5,"
 
 

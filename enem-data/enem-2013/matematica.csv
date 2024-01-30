@@ -2,32 +2,48 @@
 0,"
 
 
-Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).
-Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.
+Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a y  centímetros. Essas placas são vendidas em caixas com N unidades e, na caixa, é
+especificada a área máxima S que pode ser coberta pelas N placas.
+Devido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta S não fosse alterada.
 
 
 
 ","
 
-Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de
+A quantidade X, de placas do novo modelo, em cada nova caixa será igual a:
 
 
-","0,83","1,20","12,03","104,73","120,34",C
+",N/9,N/6,N/3,3N,9N,A
 1,"
 
 
-Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.
-Nessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.
+O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.
+
+Disponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
 
 
 
 ","
 
-Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?
+Um contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de:
 
 
-",1/2,5/8,1/4,5/6,5/14,A
+","R$ 900,00.","R$ 1 200,00.","R$ 2 100,00.","R$ 3 900,00.","R$ 5 100,00.",B
 2,"
+
+
+Para aumentar as vendas no início do ano, uma loja de departamentos remarcou os preços de seus produtos 20% abaixo do preço original. Quando chegam ao caixa, os clientes que possuem o cartão fidelidade da loja têm direito a um desconto adicional de 10% sobre o valor total de suas compras.
+Um cliente deseja comprar um produto que custava R$ 50,00 antes da remarcação de preços. Ele não possui o cartão fidelidade da loja.
+
+
+
+","
+
+Caso esse cliente possuísse o cartão fidelidade da loja, a economia adicional que obteria ao efetuar a compra, em reais, seria de
+
+
+","15,00","14,00","10,00","5,00","4,00",E
+3,"
 
 
 Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem
@@ -42,7 +58,75 @@ Considerando esse caminhão carregado com 900 telhas, quantos tijolos, no máxim
 
 
 ",300 tijolos,360 tijolos,400 tijolos,480 tijolos,600 tijolos,D
-3,"
+4,"
+
+
+Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de
+areia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m³ de concreto.
+
+
+
+","
+
+Qual é o volume de cimento, em m³, na carga de concreto trazido pela betoneira?
+
+
+","1,75","2,00","2,33","4,00","8,00",B
+5,"
+
+
+Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.
+Nessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.
+
+
+
+","
+
+Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?
+
+
+",1/2,5/8,1/4,5/6,5/14,A
+6,"
+
+
+O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.
+
+Disponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.
+
+
+
+","
+
+No ano de 2101, o Sol estará no ciclo de atividade magnética de número
+
+
+",32,34,33,35,31,A
+7,"
+
+
+Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).
+Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.
+
+
+
+","
+
+Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de
+
+
+","0,83","1,20","12,03","104,73","120,34",C
+8,"
+
+Considere 0,3 como aproximação para log10 2.
+
+
+","
+
+Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?
+
+
+",27,36,50,54,100,E
+9,"
 
 
 

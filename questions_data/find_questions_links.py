@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 class FindQuestionsLinks:
     logging.basicConfig(level=logging.INFO)
 
-    def create_dict_by_year(self, year_area_dict, year, areas, css_areas):
+    def create_dict_by_year(self, year_area_dict, year, areas):
         max_retries = 5
         retries = 0
         while retries < max_retries:
@@ -30,10 +30,9 @@ class FindQuestionsLinks:
 
                     year_area_dict[year].update({area: []})
 
-                    questions_elements = soup.select(
-                        "a.question-item." + css_areas[area]
-                    )
+                    questions_elements = soup.find_all('a', {'area': area})                    
                     logging.info(f"Found {len(questions_elements)} questions")
+
                     for link in questions_elements:
                         year_area_dict[year][area].append(link.get("href"))
 
@@ -45,12 +44,6 @@ class FindQuestionsLinks:
 
     def find_links(self):
         areas = ["linguagens", "ciencias-natureza", "matematica", "ciencias-humanas"]
-        css_areas = {
-            areas[0]: "languages",
-            areas[1]: "natural-science",
-            areas[2]: "math",
-            areas[3]: "human-science",
-        }
         year_area_dict = {}
 
         with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -60,9 +53,8 @@ class FindQuestionsLinks:
                     year_area_dict,
                     year,
                     areas,
-                    css_areas,
                 )
-                for year in range(2009, 2023)
+                for year in range(2009, 2024)
             ]
             for future in concurrent.futures.as_completed(results):
                 year_area_dict = future.result()

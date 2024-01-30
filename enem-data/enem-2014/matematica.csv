@@ -1,17 +1,6 @@
 ,context,question,A,B,C,D,E,answer
 0,"
 
-Use 3 como valor aproximado para π.
-
-
-","
-
-A redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a
-
-
-",168.,304.,306.,378.,514.,E
-1,"
-
 
 O Brasil é um país com uma vantagem econômica clara no terreno dos recursos naturais, dispondo de uma das maiores áreas com vocação agrícola do mundo. Especialistas calculam que, dos 853 milhões de hectares do país, as cidades, as reservas indígenas e as áreas de preservação, incluindo florestas e mananciais, cubram por volta de 470 milhões de hectares. Aproximadamente 280 milhões se destinam à agropecuária, 200 milhões para pastagens e 80 milhões para a agricultura, somadas as lavouras anuais e as perenes, como o café e a fruticultura.
  
@@ -28,6 +17,17 @@ De acordo com os dados apresentados, o percentual correspondente à área utiliz
 
 
 ","32,8%","28,6%","10,7%","9,4%","8,0%",D
+1,"
+
+Use 3 como valor aproximado para π.
+
+
+","
+
+A redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a
+
+
+",168.,304.,306.,378.,514.,E
 2,"
 
 O secretário de saúde comprará recipientes de um mesmo tipo, de modo a instalar 20 deles em cada escola, abastecidos com álcool em gel na sua capacidade máxima, de forma a utilizar todo o gel dos galões de uma só vez.

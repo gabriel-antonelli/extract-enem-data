@@ -129,7 +129,7 @@ class ScrapQuestions:
                         )
                 df = pd.DataFrame(
                     data_list,
-                    columns=[
+                    columns = [
                         "context",
                         "question",
                         "A",

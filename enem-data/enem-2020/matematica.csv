@@ -15,6 +15,33 @@ A quantidade mínima de combustível, em litro, que esse motociclista deve reaba
 1,"
 
 
+A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa d’água tem dimensões 2 cm x 3,51 cm x 4 cm.
+Dado: 1 dm3 = 1 L
+
+
+
+","
+
+A escala usada pelo arquiteto foi
+
+
+",1 : 10,1 : 100,1 : 1 000,1 : 10 000,1 : 100 000,B
+2,"
+
+
+Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo.
+
+
+
+","
+
+Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?
+
+
+",160,157,130,120,60,A
+3,"
+
+
 O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir.
 
 Caixas do tipo A: 4 unidades de piso, R$ 35,00;
@@ -30,48 +57,7 @@ A compra que atende às necessidades do proprietário, proporciona a menor sobr
 
 
 ",5 caixas do tipo A.,1 caixa do tipo A e 4 caixas do tipo B.,3 caixas do tipo A e 1 caixa do tipo B.,5 caixas do tipo A e 1 caixa do tipo B.,6 caixas do tipo B.,C
-2,"
-
-
-A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa d’água tem dimensões 2 cm x 3,51 cm x 4 cm.
-Dado: 1 dm3 = 1 L
-
-
-
-","
-
-A escala usada pelo arquiteto foi
-
-
-",1 : 10,1 : 100,1 : 1 000,1 : 10 000,1 : 100 000,B
-3,"
-
-
-Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo.
-
-
-
-","
-
-Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?
-
-
-",160,157,130,120,60,A
 4,"
-
-
-Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada.
- 
-
-
-
-","
-
-As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são
-
-
-",2 quadrados e 4 retângulos.,1 retângulo e 4 triângulos isósceles.,2 quadrados e 4 trapézios isósceles.,"1 quadrado, 3 retângulos e 2 trapézios retângulos.","2 retângulos, 2 quadrados e 2 trapézios retângulos.",C
-5,"
 
 
 Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado:
@@ -92,20 +78,21 @@ O pneu escolhido foi
 
 
 ",I.,II.,III.,IV.,V.,A
-6,"
+5,"
 
 
-O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.
+Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada.
+ 
 
 
 
 ","
 
-Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?
+As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são
 
 
-","1,96","1,98","2,05","2,06","2,08",D
-7,"
+",2 quadrados e 4 retângulos.,1 retângulo e 4 triângulos isósceles.,2 quadrados e 4 trapézios isósceles.,"1 quadrado, 3 retângulos e 2 trapézios retângulos.","2 retângulos, 2 quadrados e 2 trapézios retângulos.",C
+6,"
 
 
 Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na presença ou ausência de dois antígenos, A e B, na superfície das células vermelhas do sangue. Como dois antígenos estão envolvidos, os quatro tipos sanguíneos distintos são:
@@ -132,3 +119,16 @@ Dessas pessoas que foram submetidas à coleta de sangue, o número das que poss
 
 
 ",30.,60.,70.,90.,100.,C
+7,"
+
+
+O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.
+
+
+
+","
+
+Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?
+
+
+","1,96","1,98","2,05","2,06","2,08",D

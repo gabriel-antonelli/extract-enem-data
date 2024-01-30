@@ -2,32 +2,6 @@
 0,"
 
 
-Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6h 15 min da manhã. Analisando os dados coletados durante o mês de fevereiro, o  qual teve 21 dias letivos, ele concluiu que 6 h 21 min foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 h 22 min.
-
-
-
-","
-
-A probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 h 21 min da manhã é, no máximo,
-
-
-",4/21,5/21,6/21,7/21,8/21,D
-1,"
-
-
-Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X.
-
-
-
-","
-
-Os valores possíveis para X são, apenas,
-
-
-",X > 1 500.,X < 3 000.,1 500 < X < 2 250.,1 500 < X < 3 000.,2 250 < X < 3 000.,C
-2,"
-
-
 Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.
 
 
@@ -38,6 +12,33 @@ Nestas condições, a maior distância, em metro, que dois bombeiros poderiam t
 
 
 ",30.,40.,45.,60.,68.,B
+1,"
+
+
+Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na 1ª fase o torneio conta com 2n competidores, então na 2ª fase restarão n competidores, e assim sucessivamente até a partida final.
+Em um torneio de tênis, disputado nesse sistema, participam 128 tenistas.
+
+
+
+","
+
+Para se definir o campeão desse torneio, o número de partidas necessárias é dado por
+
+
+",2 X 128,64 + 32 + 16 + 8 + 4 + 2 ,128 + 64 + 32 + 16 + 8 + 4 + 2 + 1,128 + 64 + 32 + 16 + 8 + 4 + 2 ,64 + 32 + 16 + 8+ 4 + 2+ 1,E
+2,"
+
+
+Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.
+
+
+
+","
+
+Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?
+
+
+","29,25 e 0,75 ","28,75 e 1,25 ","28,50 e 1,50 ","27,75 e 2,25 ","25,00 e 5,00",B
 3,"
 
 
@@ -55,57 +56,17 @@ da outra. Esse fazendeiro pretende aumentar sua produção total em 15%,  aume
 4,"
 
 
-Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na 1ª fase o torneio conta com 2n competidores, então na 2ª fase restarão n competidores, e assim sucessivamente até a partida final.
-Em um torneio de tênis, disputado nesse sistema, participam 128 tenistas.
+Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6h 15 min da manhã. Analisando os dados coletados durante o mês de fevereiro, o  qual teve 21 dias letivos, ele concluiu que 6 h 21 min foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 h 22 min.
 
 
 
 ","
 
-Para se definir o campeão desse torneio, o número de partidas necessárias é dado por
+A probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 h 21 min da manhã é, no máximo,
 
 
-",2 X 128,64 + 32 + 16 + 8 + 4 + 2 ,128 + 64 + 32 + 16 + 8 + 4 + 2 + 1,128 + 64 + 32 + 16 + 8 + 4 + 2 ,64 + 32 + 16 + 8+ 4 + 2+ 1,E
+",4/21,5/21,6/21,7/21,8/21,D
 5,"
-
-
-Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.
-
-
-
-","
-
-Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?
-
-
-","29,25 e 0,75 ","28,75 e 1,25 ","28,50 e 1,50 ","27,75 e 2,25 ","25,00 e 5,00",B
-6,"
-
-
-Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.
-
-
-
-","
-
-De acordo com as informações dadas, o último andar do edifício é o
-
-
-",16º,22º,23º,25º,32º,C
-7,"
-
-
-A prefeitura de um pequeno município do interior decide colocar postes para  iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.
-
-
-
-","
-
-Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é
-
-
-","R$512 000,00.","R$520 000,00.","R$528 000,00.","R$552 000,00.","R$584 000,00.",C
-8,"
 
 
 O artigo 33 da lei brasileira sobre drogas prevê a pena de reclusão de 5 a 15 anos para qualquer pessoa que seja condenada por tráfico ilícito ou produção não autorizada de drogas. Entretanto, caso o condenado seja réu primário, com bons antecedentes criminais, essa pena pode sofrer uma redução de um sexto a dois terços.
@@ -119,6 +80,46 @@ Após o benefício da redução de pena, sua pena poderá variar de
 
 
 ",1 ano e 8 meses a 12 anos e 6 meses.,1 ano e 8 meses a 5 anos.,3 anos e 4 meses a 10 anos.,4 anos e 2 meses a 5 anos.,4 anos e 2 meses a 12 anos e 6 meses.,A
+6,"
+
+
+Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X.
+
+
+
+","
+
+Os valores possíveis para X são, apenas,
+
+
+",X > 1 500.,X < 3 000.,1 500 < X < 2 250.,1 500 < X < 3 000.,2 250 < X < 3 000.,C
+7,"
+
+
+O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.
+Contudo, após depositar vinte perguntas de diferentes níveis na urna, ele observou que 25% delas eram de nível fácil. Querendo que as perguntas de nível fácil sejam a maioria, o gerente decidiu acrescentar mais perguntas de nível fácil à urna, de modo que a probabilidade de o primeiro participante retirar, aleatoriamente, uma pergunta de nível fácil seja de 75%.
+
+
+
+","
+
+Com essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a
+
+
+",10.,15.,35.,40.,45.,D
+8,"
+
+
+Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.
+
+
+
+","
+
+De acordo com as informações dadas, o último andar do edifício é o
+
+
+",16º,22º,23º,25º,32º,C
 9,"
 
 
@@ -136,33 +137,6 @@ O mínimo de pontos que esse estudante precisa obter na quarta avaliação para
 10,"
 
 
-Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20% do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio.
-
-
-
-","
-
-Quantos alunos compraram somente um bilhete?
-
-
-",34,42,47,48,79,D
-11,"
-
-
-O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.
-Contudo, após depositar vinte perguntas de diferentes níveis na urna, ele observou que 25% delas eram de nível fácil. Querendo que as perguntas de nível fácil sejam a maioria, o gerente decidiu acrescentar mais perguntas de nível fácil à urna, de modo que a probabilidade de o primeiro participante retirar, aleatoriamente, uma pergunta de nível fácil seja de 75%.
-
-
-
-","
-
-Com essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a
-
-
-",10.,15.,35.,40.,45.,D
-12,"
-
-
 Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não ê dado desconto em nenhuma das situações.
 
 
@@ -173,6 +147,32 @@ Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo 
 
 
 ",20,24,29,40,58,B
+11,"
+
+
+A prefeitura de um pequeno município do interior decide colocar postes para  iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.
+
+
+
+","
+
+Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é
+
+
+","R$512 000,00.","R$520 000,00.","R$528 000,00.","R$552 000,00.","R$584 000,00.",C
+12,"
+
+
+Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20% do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio.
+
+
+
+","
+
+Quantos alunos compraram somente um bilhete?
+
+
+",34,42,47,48,79,D
 13,"
 
 

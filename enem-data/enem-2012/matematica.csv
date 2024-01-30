@@ -1,17 +1,6 @@
 ,context,question,A,B,C,D,E,answer
 0,"
 
-Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.
-
-
-","
-
-A quantidade de cartas que forma o monte é
-
-
-",21.,24.,26.,28.,31.,B
-1,"
-
 O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido.
 Todos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada.
  
@@ -24,7 +13,7 @@ O diretor sabe que algum aluno acertará a resposta porque há
 
 
 ",10 alunos a mais do que possíveis respostas distintas.  ,20 alunos a mais do que possíveis respostas distintas.  ,119 alunos a mais do que possíveis respostas distintas.  ,260 alunos a mais do que possíveis respostas distintas.  ,270 alunos a mais do que possíveis respostas distintas.,A
-2,"
+1,"
 
 Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.
 
@@ -35,18 +24,18 @@ Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fa
 
 
 ",37,51,88,89,91,C
-3,"
+2,"
 
-Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.
+Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.
 
 
 ","
 
-Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é
+A quantidade de cartas que forma o monte é
 
 
-",153.  ,460.,1 218.,1 380.,3 066.,D
-4,"
+",21.,24.,26.,28.,31.,B
+3,"
 
 A capacidade mínima, em BTU/h, de um aparelho de ar-condicionado, para ambientes sem exposição ao sol, pode ser determinada da seguinte forma:
 • 600 BTU/h por m2 , considerando-se até duas pessoas no ambiente;
@@ -61,7 +50,7 @@ A capacidade mínima, em BTU/h, desse aparelho de arcondicionado deve ser
 
 
 ",12 000.  ,12 600.  ,13 200.  ,13 800.  ,15 000.,D
-5,"
+4,"
 
 João decidiu contratar os serviços de uma empresa por telefone através do SAC (Serviço de Atendimento ao Consumidor). O atendente ditou para João o número de protocolo de atendimento da ligação e pediu que ele anotasse. Entretanto, João não entendeu um dos algarismos ditados pelo atendente e anotou o número 1 3 _ 9 8 2 0 7, sendo que o espaço vazio é o do algarismo que João não entendeu.
 
@@ -73,6 +62,17 @@ De acordo com essas informações, a posição ocupada pelo algarismo que falta 
 
 
 ",centena.,dezena de milhar.,centena de milhar.,milhão.,centena de milhão.,C
+5,"
+
+Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.
+
+
+","
+
+Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é
+
+
+",153.  ,460.,1 218.,1 380.,3 066.,D
 6,"
 
 
@@ -106,6 +106,17 @@ Qual será a economia diária de água obtida por meio da substituição de uma 
 ",24 litros,36 litros,40 litros,42 litros,50 litros,B
 8,"
 
+Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30 000 m² e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10 000 m²).
+
+
+","
+
+A variância das produções dos talhões expressa em (sacas/hectare)² é
+
+
+","20,25.","4,50.","0,71.","0,50.","0,25.",E
+9,"
+
 José, Paulo e Antônio estão jogando dados não viciados, nos quais, em cada uma das seis faces, há um número de 1 a 6. Cada um deles jogará dois dados simultaneamente. José acredita que, após jogar seus dados, os números das faces voltadas para cima lhe darão uma soma igual a 7. Já Paulo acredita que sua soma será igual a 4 e Antônio acredita que sua soma será igual a 8.
  
 
@@ -116,17 +127,6 @@ Com essa escolha, quem tem a maior probabilidade de acertar sua respectiva soma 
 
 
 ","Antônio, já que sua soma é a maior de todas as escolhidas.","José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 4 possibilidades para a escolha de Paulo.","José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 2 possibilidades para a escolha de Paulo.","José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas 3 possibilidades para formar a soma de Paulo.","Paulo, já que sua soma é a menor de todas.",D
-9,"
-
-Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30 000 m² e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10 000 m²).
-
-
-","
-
-A variância das produções dos talhões expressa em (sacas/hectare)² é
-
-
-","20,25.","4,50.","0,71.","0,50.","0,25.",E
 10,"
 
 Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k⋅m2/3, em que k é uma constante positiva.
@@ -157,22 +157,6 @@ De acordo com o texto, quantas cores podem ser representadas pelo sistema propos
 12,"
 
 
-Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.
-Dado: 1° equivale a 60’ e 1’ equivale a 60”.
-
-PAVARIN, G. Galileu, fev. 2012 (adaptado).
-
-
-
-","
-
-A representação angular da localização do vulcão com relação a sua longitude na forma decimal é
-
-
-","124,02°.","124,05°.","124,20°.","124,30°.","124,50°.",B
-13,"
-
-
 A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%.
 
 Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado).
@@ -186,3 +170,19 @@ Levando em consideração o processo de cozimento e a contração sofrida, o vol
 
 
 ","20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.","36% menor que V, porque a área da base diminui de a2 para ((1 − 0,2)a)².","48,8% menor que V, porque o volume diminui de a3 para (0,8a)³.","51,2% menor que V, porque cada lado diminui para 80% do comprimento original.","60% menor que V, porque cada lado diminui 20%.",C
+13,"
+
+
+Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.
+Dado: 1° equivale a 60’ e 1’ equivale a 60”.
+
+PAVARIN, G. Galileu, fev. 2012 (adaptado).
+
+
+
+","
+
+A representação angular da localização do vulcão com relação a sua longitude na forma decimal é
+
+
+","124,02°.","124,05°.","124,20°.","124,30°.","124,50°.",B

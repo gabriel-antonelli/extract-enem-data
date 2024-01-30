@@ -1,26 +1,38 @@
 ,context,question,A,B,C,D,E,answer
 0,"
 
-Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.
+
+Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).
+CaCO3(s) + SO2(g) → CaSO3(s) + CO2(g) (1)
+Por sua vez, o sulfito de cálcio formado por ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.
+2 CaSO3(s) + O2(g) → 2CaSO4(s) (2)
+As massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol e 40 g/mol, respectivamente.
+
+BAIRD, C. Química ambiental. Porto Alegre: Bookman, 2002 (adaptado).
+
 
 
 ","
 
-Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?
+Considerando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de
 
 
-",Mudou de sentido.,Sofreu reflexão total.,Atingiu o valor do ângulo limite.,Direcionou-se para a superfície de separação.,Aproximou-se da normal à superfície de separação.,E
+",64.,108.,122.,136.,245.,C
 1,"
 
-Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.
+
+É comum aos fotógrafos tirar fotos coloridas em ambiente iluminados por lampadas fluorescentes, que contêm uma forte composição de luz verde. A consequências desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.
+
+Disponível em:http://nautilus.fis.uc.pt. Acesso em 20 maio 2014 (adaptado)
+
 
 
 ","
 
-O poder terapêutico dessas células baseia-se em sua capacidade de
+Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?
 
 
-",multiplicação lenta.,comunicação entre células.,adesão a diferentes tecidos.,diferenciação em células especializadas.,reconhecimento de células semelhantes.,D
+",Ciano.,Verde.,Amarelo.,Magenta.,Vermelho.,D
 2,"
 
 
@@ -50,38 +62,19 @@ Que parte do ciclo de geração de energia das usinas nucleares está associada 
 4,"
 
 
-É comum aos fotógrafos tirar fotos coloridas em ambiente iluminados por lampadas fluorescentes, que contêm uma forte composição de luz verde. A consequências desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.
+Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante. O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração. A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl3) e outras espécies orgânicas cloradas tóxicas
 
-Disponível em:http://nautilus.fis.uc.pt. Acesso em 20 maio 2014 (adaptado)
+SPIRO, T. G.; STIGLIANI, W. M. Química ambiental. São Paulo: Pearson, 2009 (adaptado).
 
 
 
 ","
 
-Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?
+Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a:
 
 
-",Ciano.,Verde.,Amarelo.,Magenta.,Vermelho.,D
+","filtração, com o uso de filtros de carvão ativo","fluoretação, pela adição de fluoreto de sódio","coagulação, pela adição de sulfato de alumínio.","correção do pH, pela adição de carbonato de sódio.","floculação, em tanques de concreto com a água em movimento.",A
 5,"
-
-
-Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).
-CaCO3(s) + SO2(g) → CaSO3(s) + CO2(g) (1)
-Por sua vez, o sulfito de cálcio formado por ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.
-2 CaSO3(s) + O2(g) → 2CaSO4(s) (2)
-As massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol e 40 g/mol, respectivamente.
-
-BAIRD, C. Química ambiental. Porto Alegre: Bookman, 2002 (adaptado).
-
-
-
-","
-
-Considerando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de
-
-
-",64.,108.,122.,136.,245.,C
-6,"
 
 
 Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.
@@ -96,21 +89,28 @@ Nesses plásticos, a fragmentação da resina polimérica é facilitada porque o
 
 
 ",dissolvem-se na água.,absorvem água com facilidade.,caramelizam por aquecimento e quebram.,são digeridos por organismos decompositores.,decompõem-se espontaneamente em contato com água e gás carbônico.,D
-7,"
+6,"
 
-
-A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.
-
-SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado).
-
+Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.
 
 
 ","
 
-A substância capaz de formar as estruturas mencionadas é
+O poder terapêutico dessas células baseia-se em sua capacidade de
 
 
-",C18H36.,C17H33COONa.,CH3 CH2 COONa.,CH3CH2CH2 COOH.,CH3CH2CH2CH2OCH2CH2CH2CH3,B
+",multiplicação lenta.,comunicação entre células.,adesão a diferentes tecidos.,diferenciação em células especializadas.,reconhecimento de células semelhantes.,D
+7,"
+
+Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.
+
+
+","
+
+Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?
+
+
+",Mudou de sentido.,Sofreu reflexão total.,Atingiu o valor do ângulo limite.,Direcionou-se para a superfície de separação.,Aproximou-se da normal à superfície de separação.,E
 8,"
 
 Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.
@@ -125,6 +125,21 @@ Uma característica da mitocôndria que sustenta essa teoria é a
 9,"
 
 
+A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.
+
+SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado).
+
+
+
+","
+
+A substância capaz de formar as estruturas mencionadas é
+
+
+",C18H36.,C17H33COONa.,CH3 CH2 COONa.,CH3CH2CH2 COOH.,CH3CH2CH2CH2OCH2CH2CH2CH3,B
+10,"
+
+
 Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.
 
 PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Tropical Plant Pathology, v. 36, n. 2, mar.-abr. 2011 (adaptado).
@@ -137,74 +152,7 @@ Qual dos processos biológicos mencionados indica uma relação ecológica de co
 
 
 ",Fixação de nitrogênio para o tomateiro.,Disponibilização de cálcio para o tomateiro,Diminuição da quantidade de ferro disponível para o fungo.,Liberação de substâncias que inibem o crescimento do fungo.,Liberação de auxinas que estimulam o crescimento do tomateiro.,C
-10,"
-
-
-Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.
-
-YODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).
-
-
-
-","
-
-Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)
-
-
-",comprimento da haste seja mantido constante.,massa do corpo suspenso pela haste seja pequena.,material da haste possua alta condutividade térmica.,amplitude da oscilação seja constante a qualquer temperatura.,energia potencial gravitacional do corpo suspenso se mantenha constante.,A
 11,"
-
-Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.
-
-
-","
-
-Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por
-
-
-",modificação de características.,incremento no tamanho corporal.,complexificação de seus sistemas.,melhoria de processos e estruturas.,especialização para uma determinada finalidade.,A
-12,"
-
-O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.
-
-
-","
-
-Essa fonte de energia subutilizada, citada no texto, é o
-
-
-","etanol, obtido a partir da decomposição da matéria orgânica por bactérias.","gás natural, formado pela ação de fungos decompositores da matéria orgânica.","óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.","gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.","gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.",D
-13,"
-
-
-Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.
-
-SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem… A química do mau cheiro. Química Nova na Escola, v. 33, n. 1, fev. 2011 (adaptado).
-
-
-
-","
-
-A eficiência do uso do vinagre nesse caso se explica pela
-
-
-","sobreposição de odor, propiciada pelo cheiro característico do vinagre.","solubilidade da piridina, de caráter ácido, na solução ácida empregada.","inibição da proliferação das bactérias presentes, devido à ação do ácido acético.","degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.","reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.",E
-14,"
-
-
-Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante. O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração. A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl3) e outras espécies orgânicas cloradas tóxicas
-
-SPIRO, T. G.; STIGLIANI, W. M. Química ambiental. São Paulo: Pearson, 2009 (adaptado).
-
-
-
-","
-
-Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a:
-
-
-","filtração, com o uso de filtros de carvão ativo","fluoretação, pela adição de fluoreto de sódio","coagulação, pela adição de sulfato de alumínio.","correção do pH, pela adição de carbonato de sódio.","floculação, em tanques de concreto com a água em movimento.",A
-15,"
 
 
 A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.
@@ -219,7 +167,85 @@ Essa malformação congênita ocorre porque esses enantiômeros
 
 
 ",reagem entre si.,não podem ser separados., não estão presentes em partes iguais.,interagem de maneira distinta com o organismo.,são estruturas com diferentes grupos funcionais.,D
+12,"
+
+Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.
+
+
+","
+
+Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por
+
+
+",modificação de características.,incremento no tamanho corporal.,complexificação de seus sistemas.,melhoria de processos e estruturas.,especialização para uma determinada finalidade.,A
+13,"
+
+Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.
+
+
+","
+
+O fenômeno descrito é a
+
+
+",difração.,refração.,polarização.,interferência.,ressonância.,E
+14,"
+
+
+Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.
+
+O Hoje, 15 out. 2011 (adaptado).
+
+
+
+","
+
+Para suprir o déficit nutricional a que os produtos rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em
+
+
+",vitaminas A e E. ,frutose e sacarose.,aminoácidos naturais.,aminoácidos essenciais.,ácidos graxos saturados.,D
+15,"
+
+
+Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.
+
+YODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).
+
+
+
+","
+
+Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)
+
+
+",comprimento da haste seja mantido constante.,massa do corpo suspenso pela haste seja pequena.,material da haste possua alta condutividade térmica.,amplitude da oscilação seja constante a qualquer temperatura.,energia potencial gravitacional do corpo suspenso se mantenha constante.,A
 16,"
+
+O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.
+
+
+","
+
+Essa fonte de energia subutilizada, citada no texto, é o
+
+
+","etanol, obtido a partir da decomposição da matéria orgânica por bactérias.","gás natural, formado pela ação de fungos decompositores da matéria orgânica.","óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.","gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.","gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.",D
+17,"
+
+
+Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.
+
+SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem… A química do mau cheiro. Química Nova na Escola, v. 33, n. 1, fev. 2011 (adaptado).
+
+
+
+","
+
+A eficiência do uso do vinagre nesse caso se explica pela
+
+
+","sobreposição de odor, propiciada pelo cheiro característico do vinagre.","solubilidade da piridina, de caráter ácido, na solução ácida empregada.","inibição da proliferação das bactérias presentes, devido à ação do ácido acético.","degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.","reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.",E
+18,"
 
 
 Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.
@@ -235,29 +261,3 @@ No contexto apresentado, a propriedade física das ondas que permite essa distin
 
 
 ",frequência.,intensidade.,forma de onda.,amplitude de onda.,velocidade de propagação.,A
-17,"
-
-Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.
-
-
-","
-
-O fenômeno descrito é a
-
-
-",difração.,refração.,polarização.,interferência.,ressonância.,E
-18,"
-
-
-Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.
-
-O Hoje, 15 out. 2011 (adaptado).
-
-
-
-","
-
-Para suprir o déficit nutricional a que os produtos rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em
-
-
-",vitaminas A e E. ,frutose e sacarose.,aminoácidos naturais.,aminoácidos essenciais.,ácidos graxos saturados.,D
