@@ -1,5 +1,105 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,51,"
+
+Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.
+
+
+","
+
+A dificuldade extra para reabrir a geladeira ocorre porque o(a)
+
+
+",volume de ar dentro da geladeira diminuiu.,motor da geladeira está funcionando com potência máxima.,força exercida pelo imã fixado na porta da geladeira aumenta.,pressão no interior da geladeira está abaixo da pressão externa.,temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.,D,
+1,50,"
+
+
+Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.
+
+MATEUS, A. L. Química na cabeça. Belo Horizonte: UFMG, 2001 (adaptado).
+
+
+
+","
+
+A explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)
+
+
+",formação de óxidos de caráter ácido.,evaporação do indicador fenolftaleína.,vaporização de parte da água do frasco.,vaporização dos gases de caráter alcalino.,aumento do pH da solução no interior do frasco.,A,
+2,54,"
+
+
+A palavra “biotecnologia” surgiu no século XX, quando o cientista Herbert Boyer introduziu a informação responsável pela fabricação da insulina humana em uma bactéria, para que ela passasse a produzir a substância.
+
+Disponível em: www.brasil.gov.br. Acesso em: 28 jul. 2012 (adaptado).
+
+
+
+","
+
+As bactérias modificadas por Herbert Boyer passaram a produzir insulina humana porque receberam
+
+
+",a sequência de DNA codificante de insulina humana.,a proteína sintetizada por células humanas.,um RNA recombinante de insulina humana.,o RNA mensageiro de insulina humana.,um cromossomo da espécie humana.,A,
+3,55,"
+
+
+Será que uma miragem ajudou a afundar o Titanic? O fenômeno ótico conhecido como Fata Morgana pode fazer com que uma falsa parede de água apareça sobre o horizonte molhado. Quando as condições são favoráveis, a luz refletida pela água fria pode ser desviada por uma camada incomum de ar quente acima, chegando até o observador, vinda de muitos ângulos diferentes. De acordo com estudos de pesquisadores da Universidade de San Diego, uma Fata Morgana pode ter obscurecido os icebergs da visão da tripulação que estava a bordo do Titanic. Dessa forma, a certa distancia, o horizonte verdadeiro fica encoberto por uma névoa escurecida, que se parece muito com águas calmas no escuro.
+
+Disponível em: http://apod.nasa.gov. Acesso em: 6 set. 2012 (adaptado).
+
+
+
+","
+
+O fenômeno ótico que, segundo os pesquisadores, provoca a Fata Morgana é a
+
+
+",ressonância.,refração.,difração.,reflexão.,difusão.,B,
+4,52,"
+
+
+Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s.
+
+Disponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado)
+
+
+
+","
+
+Supondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:
+
+
+","5,4 x 10² J.","6,5 x 10³ J.","8,6 x 10³ J.","1,3 x 104 J.","3,2 x 104 J.",B,
+5,46,"
+
+
+
+
+
+
+
+","
+
+Expressa em termos do comprimento de onda (λ), a espessura mínima é igual a
+
+
+",λ / 4.,λ / 2.,3λ / 4.,λ.,2λ.,A,enem-data/enem-2015/46-images/context_img_0.png
+6,47,"
+
+
+Um importante princípio da biologia, relacionado à transmissão de caracteres e à embriogênese humana, foi quebrado com a descoberta do microquimerismo fetal. Microquimerismo é o nome dado ao fenômeno biológico referente a uma pequena população de células ou DNA presente em um indivíduo, mas derivada de um organismo geneticamente distinto. Investigando-se a presença do cromossomo Y, foi revelado que diversos tecidos de mulheres continham células masculinas. A análise do histórico médico revelou uma correlação extremamente curiosa: apenas as mulheres que antes tiveram filhos homens apresentaram microquimerismo masculino. Essa correlação levou à interpretação de que existe uma troca natural entre células do feto e maternas durante a gravidez.
+
+MUOTRI, A. Você não é só você: carregamos células maternas na maioria de nossos órgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).
+
+
+
+","
+
+O princípio contestado com essa descoberta, relacionado ao desenvolvimento do corpo humano, é o de que
+
+
+",o fenótipo das nossas células pode mudar por influência do meio ambiente.,a dominância genética determina a expressão de alguns genes.,as mutações genéticas introduzem variabilidade no genoma.,as mitocôndrias e o seu DNA provêm do gameta materno.,as nossas células corporais provêm de um único zigoto.,E,
+7,53,"
 
 
 A bomba
@@ -15,30 +115,8 @@ ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento
 Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na
 
 
-","fissão do 235U ocorre liberação de grande quantidade de calor, que dá continuidade à reação.","fissão do 235U ocorre liberação de energia, que vai desintegrando o isótopo 238U, enriquecendo-o em mais 235U.","fissão do 235U ocorre uma liberação de nêutrons, que bombardearão outros núcleos.","fusão do 235U com 238U ocorre formação de neutrino, que bombardeará outros núcleos radioativos.","fusão do 235U com 238U ocorre formação de outros elementos radioativos mais pesados, que desencadeiam novos processos de fusão.",C
-1,"
-
-Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.
-
-
-","
-
-A dificuldade extra para reabrir a geladeira ocorre porque o(a)
-
-
-",volume de ar dentro da geladeira diminuiu.,motor da geladeira está funcionando com potência máxima.,força exercida pelo imã fixado na porta da geladeira aumenta.,pressão no interior da geladeira está abaixo da pressão externa.,temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.,D
-2,"
-
-Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, D, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica kd (do estilingue mais “duro”) é o dobro da constante elástica Km (do estilingue mais “mole”).
-
-
-","
-
-A razão entre os alcances Dd  / Dm, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a
-
-
-",1 / 4.,1 / 2.,1.,2.,4.,B
-3,"
+","fissão do 235U ocorre liberação de grande quantidade de calor, que dá continuidade à reação.","fissão do 235U ocorre liberação de energia, que vai desintegrando o isótopo 238U, enriquecendo-o em mais 235U.","fissão do 235U ocorre uma liberação de nêutrons, que bombardearão outros núcleos.","fusão do 235U com 238U ocorre formação de neutrino, que bombardeará outros núcleos radioativos.","fusão do 235U com 238U ocorre formação de outros elementos radioativos mais pesados, que desencadeiam novos processos de fusão.",C,
+8,56,"
 
 Considere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); ZnO (81 g/mol); SO2 (64 g/mol); CO (28 g/mol); CO2 (44 g/mol); e Zn (65 g/mol).
 
@@ -48,68 +126,8 @@ Considere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); ZnO (81 g/mol); SO2 
 Que valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?
 
 
-",25,33,40,50,54,C
-4,"
-
-
-Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.
-
-MATEUS, A. L. Química na cabeça. Belo Horizonte: UFMG, 2001 (adaptado).
-
-
-
-","
-
-A explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)
-
-
-",formação de óxidos de caráter ácido.,evaporação do indicador fenolftaleína.,vaporização de parte da água do frasco.,vaporização dos gases de caráter alcalino.,aumento do pH da solução no interior do frasco.,A
-5,"
-
-
-Um importante princípio da biologia, relacionado à transmissão de caracteres e à embriogênese humana, foi quebrado com a descoberta do microquimerismo fetal. Microquimerismo é o nome dado ao fenômeno biológico referente a uma pequena população de células ou DNA presente em um indivíduo, mas derivada de um organismo geneticamente distinto. Investigando-se a presença do cromossomo Y, foi revelado que diversos tecidos de mulheres continham células masculinas. A análise do histórico médico revelou uma correlação extremamente curiosa: apenas as mulheres que antes tiveram filhos homens apresentaram microquimerismo masculino. Essa correlação levou à interpretação de que existe uma troca natural entre células do feto e maternas durante a gravidez.
-
-MUOTRI, A. Você não é só você: carregamos células maternas na maioria de nossos órgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).
-
-
-
-","
-
-O princípio contestado com essa descoberta, relacionado ao desenvolvimento do corpo humano, é o de que
-
-
-",o fenótipo das nossas células pode mudar por influência do meio ambiente.,a dominância genética determina a expressão de alguns genes.,as mutações genéticas introduzem variabilidade no genoma.,as mitocôndrias e o seu DNA provêm do gameta materno.,as nossas células corporais provêm de um único zigoto.,E
-6,"
-
-
-A palavra “biotecnologia” surgiu no século XX, quando o cientista Herbert Boyer introduziu a informação responsável pela fabricação da insulina humana em uma bactéria, para que ela passasse a produzir a substância.
-
-Disponível em: www.brasil.gov.br. Acesso em: 28 jul. 2012 (adaptado).
-
-
-
-","
-
-As bactérias modificadas por Herbert Boyer passaram a produzir insulina humana porque receberam
-
-
-",a sequência de DNA codificante de insulina humana.,a proteína sintetizada por células humanas.,um RNA recombinante de insulina humana.,o RNA mensageiro de insulina humana.,um cromossomo da espécie humana.,A
-7,"
-
-
-Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s.
-
-Disponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado)
-
-
-
-","
-
-Supondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:
-
-
-","5,4 x 10² J.","6,5 x 10³ J.","8,6 x 10³ J.","1,3 x 104 J.","3,2 x 104 J.",B
-8,"
+",25,33,40,50,54,C,
+9,61,"
 
 
 Tanto a febre amarela quanto a dengue são doenças causadas por vírus do grupo dos arbovírus, pertencentes ao gênero Flavivirus, existindo quatro sorotipos para o vírus causador da dengue. A transmissão de ambas acontece por meio da picada de mosquitos, como o Aedes aegypti. Entretanto, embora compartilhem essas características, hoje somente existe vacina, no Brasil, para a febre amarela e nenhuma vacina efetiva para a dengue.
@@ -123,56 +141,47 @@ MINISTÉRIO DA SAÚDE. Fundação Nacional de Saúde. Dengue: Instruções para 
 Esse fato pode ser atribuído à
 
 
-",maior taxa de mutação do vírus da febre amarela do que do vírus da dengue.,alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela.,menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela.,presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo no vírus da febre amarela.,baixa capacidade de indução da resposta imunológica pelo vírus da dengue em relação ao da febre amarela.,B
-9,"
+",maior taxa de mutação do vírus da febre amarela do que do vírus da dengue.,alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela.,menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela.,presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo no vírus da febre amarela.,baixa capacidade de indução da resposta imunológica pelo vírus da dengue em relação ao da febre amarela.,B,
+10,59,"
+
+Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, D, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica kd (do estilingue mais “duro”) é o dobro da constante elástica Km (do estilingue mais “mole”).
 
 
-Será que uma miragem ajudou a afundar o Titanic? O fenômeno ótico conhecido como Fata Morgana pode fazer com que uma falsa parede de água apareça sobre o horizonte molhado. Quando as condições são favoráveis, a luz refletida pela água fria pode ser desviada por uma camada incomum de ar quente acima, chegando até o observador, vinda de muitos ângulos diferentes. De acordo com estudos de pesquisadores da Universidade de San Diego, uma Fata Morgana pode ter obscurecido os icebergs da visão da tripulação que estava a bordo do Titanic. Dessa forma, a certa distancia, o horizonte verdadeiro fica encoberto por uma névoa escurecida, que se parece muito com águas calmas no escuro.
+","
 
-Disponível em: http://apod.nasa.gov. Acesso em: 6 set. 2012 (adaptado).
+A razão entre os alcances Dd  / Dm, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a
+
+
+",1 / 4.,1 / 2.,1.,2.,4.,B,
+11,57,"
+
+
+
+
 
 
 
 ","
 
-O fenômeno ótico que, segundo os pesquisadores, provoca a Fata Morgana é a
+A variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:
 
 
-",ressonância.,refração.,difração.,reflexão.,difusão.,B
-10,"
-
-Pesticidas são substâncias utilizadas para promover o controle de pragas. No entanto, após sua aplicação em ambientes abertos, alguns pesticidas organoclorados são arrastados pela água até lagos e rios e, ao passar pelas guelras dos peixes, podem difundir-se para seus tecidos lipídicos e lá se acumularem.
+",-106.,"-94,0.","-82,0.","-21,2.","-16,4.",C,enem-data/enem-2015/57-images/context_img_0.png
+12,60,"
 
 
-","
-
-A característica desses compostos, responsável pelo processo descrito no texto, é o(a)
 
 
-",baixa polaridade.,baixa massa molecular.,ocorrência de halogênios.,tamanho pequeno das moléculas.,presença de hidroxilas nas cadeias.,A
-11,"
 
-Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.
 
 
 ","
 
-Uma das características a que o texto se refere é a
+Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25 oC, qual é o valor numérico da constante de equilíbrio da reação I?
 
 
-",reprodução por viviparidade.,respiração pulmonar nos adultos.,regulação térmica por endotermia.,cobertura corporal delgada e altamente permeável.,locomoção por membros anteriores e posteriores desenvolvidos.,D
-12,"
-
-As altas temperaturas de combustão e o atrito entre suas peças móveis são alguns dos fatores que provocam o aquecimento dos motores à combustão interna. Para evitar o superaquecimento e consequentes danos a esses motores, foram desenvolvidos os atuais sistemas de refrigeração, em que um fluido arrefecedor com propriedades especiais circula pelo interior do motor, absorvendo o calor que, ao passar pelo radiador, é transferido para a atmosfera.
-
-
-","
-
-Qual propriedade o fluido arrefecedor deve possuir para cumprir seu objetivo com maior eficiência?
-
-
-",Alto calor específico.,Alto calor latente de fusão.,Baixa condutividade térmica.,Baixa temperatura de ebulição.,Alto coeficiente de dilatação térmica.,A
-13,"
+","4,5x10-26",5x105,"0,8x10-9","0,2x105","2,2x1026",B,enem-data/enem-2015/60-images/context_img_0.png
+13,71,"
 
 
 O ar atmosférico pode ser utilizado para armazenar o excedente de energia gerada no sistema elétrico, diminuindo seu desperdício, por meio do seguinte processo: água e gás carbônico são inicialmente removidos do ar atmosférico e a massa de ar restante é resfriada ate -198°C. Presente na proporção de 78% dessa massa de ar, o nitrogênio gasoso é liquefeito, ocupando um volume 700 vezes menor. A energia excedente do sistema elétrico é utilizada nesse processo, sendo parcialmente recuperada quando o nitrogênio líquido, exposto à temperatura ambiente, entra em ebulição e se expande, fazendo girar turbinas que convertem energia mecânica em energia elétrica.
@@ -186,8 +195,69 @@ MACHADO, R. Disponível em: www.correiobraziliense.com.br. Acesso em: 9 set. 201
 No processo descrito, o excedente de energia elétrica é armazenado pela
 
 
-",expansão do nitrogênio durante a ebulição.,absorção de calor pelo nitrogênio durante a ebulição.,realização de trabalho sobre o nitrogênio durante a liquefação.,retirada de água e gás carbônico da atmosfera antes do resfriamento.,liberação de calor do nitrogênio para a vizinhança durante a liquefação,C
-14,"
+",expansão do nitrogênio durante a ebulição.,absorção de calor pelo nitrogênio durante a ebulição.,realização de trabalho sobre o nitrogênio durante a liquefação.,retirada de água e gás carbônico da atmosfera antes do resfriamento.,liberação de calor do nitrogênio para a vizinhança durante a liquefação,C,
+14,62,"
+
+
+
+
+
+
+
+","
+
+A equação química que representa a reação de formação da mancha avermelhada é:
+
+
+",Ca2+(aq) +  2Cu+(aq) --> Ca(s) + 2Cu2+(aq)).,Ca2+(aq) + 2Fe2+(aq) --> Ca(s) + 2Fe3+(aq).,Cu2+(aq) + 2 Fe2+(aq) --> Cu(s) + 2Fe3+(aq).,3Ca2+(aq) + 2 Fe(s) --> 3 Ca(s) + 2Fe3+(aq).,3 Cu2+(aq) + 2 Fe(s) --> 3 Cu(s) + 2 Fe3+(aq).,E,enem-data/enem-2015/62-images/context_img_0.png
+15,63,"
+
+
+
+
+
+
+
+","
+
+Nessa situação, qual foi a massa da barra obtida pelos alunos?
+
+
+","3,00 kg","3,75 kg","5,00 kg","6,00 kg","15,00 kg",E,enem-data/enem-2015/63-images/context_img_0.png
+16,68,"
+
+Pesticidas são substâncias utilizadas para promover o controle de pragas. No entanto, após sua aplicação em ambientes abertos, alguns pesticidas organoclorados são arrastados pela água até lagos e rios e, ao passar pelas guelras dos peixes, podem difundir-se para seus tecidos lipídicos e lá se acumularem.
+
+
+","
+
+A característica desses compostos, responsável pelo processo descrito no texto, é o(a)
+
+
+",baixa polaridade.,baixa massa molecular.,ocorrência de halogênios.,tamanho pequeno das moléculas.,presença de hidroxilas nas cadeias.,A,
+17,64,"
+
+Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.
+
+
+","
+
+Uma das características a que o texto se refere é a
+
+
+",reprodução por viviparidade.,respiração pulmonar nos adultos.,regulação térmica por endotermia.,cobertura corporal delgada e altamente permeável.,locomoção por membros anteriores e posteriores desenvolvidos.,D,
+18,67,"
+
+As altas temperaturas de combustão e o atrito entre suas peças móveis são alguns dos fatores que provocam o aquecimento dos motores à combustão interna. Para evitar o superaquecimento e consequentes danos a esses motores, foram desenvolvidos os atuais sistemas de refrigeração, em que um fluido arrefecedor com propriedades especiais circula pelo interior do motor, absorvendo o calor que, ao passar pelo radiador, é transferido para a atmosfera.
+
+
+","
+
+Qual propriedade o fluido arrefecedor deve possuir para cumprir seu objetivo com maior eficiência?
+
+
+",Alto calor específico.,Alto calor latente de fusão.,Baixa condutividade térmica.,Baixa temperatura de ebulição.,Alto coeficiente de dilatação térmica.,A,
+19,74,"
 
 O formato das células de organismos pluricelulares é extremamente variado. Existem células discoides, como é o caso das hemácias, as que lembram uma estrela, como os neurônios, e ainda algumas alongadas, como as musculares.
 
@@ -197,8 +267,22 @@ O formato das células de organismos pluricelulares é extremamente variado. Exi
 Em um mesmo organismo, a diferenciação dessas células ocorre por
 
 
-",produzirem mutações específicas.,possuírem DNA mitocondrial diferentes.,apresentarem conjunto de genes distintos.,expressarem porções distintas do genoma.,terem um número distinto de cromossomos.,D
-15,"
+",produzirem mutações específicas.,possuírem DNA mitocondrial diferentes.,apresentarem conjunto de genes distintos.,expressarem porções distintas do genoma.,terem um número distinto de cromossomos.,D,
+20,58,"
+
+
+
+
+
+
+
+","
+
+Se fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)
+
+
+",íris.,retina.,pupila.,córnea.,cristalino.,B,enem-data/enem-2015/58-images/context_img_0.png
+21,72,"
 
 
 Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epóxi, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.
@@ -212,8 +296,22 @@ SANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE. Ivaipor
 Comprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode
 
 
-","alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento.","romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento.","prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento.","romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento.","desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento.",B
-16,"
+","alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento.","romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento.","prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento.","romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento.","desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento.",B,
+22,65,"
+
+
+
+
+
+
+
+","
+
+Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o
+
+
+","2,2,7,7-tetrametil-octano.","3,3,4,4-tetrametil-hexano.","2,2,5,5-tetrametil-hexano.","3,3,6,6-tetrametil-octano.","2,2,4,4-tetrametil-hexano.",C,enem-data/enem-2015/65-images/context_img_0.png
+23,73,"
 
 Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.
 
@@ -223,8 +321,8 @@ Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se difere
 Essa diferenciação se deve principalmente ao(à)
 
 
-",intensidade sonora do som de cada instrumento musical.,potência sonora do som emitido pelos diferentes instrumentos musicais.,diferente velocidade de propagação do som emitido por cada instrumento musical.,"timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.","altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",D
-17,"
+",intensidade sonora do som de cada instrumento musical.,potência sonora do som emitido pelos diferentes instrumentos musicais.,diferente velocidade de propagação do som emitido por cada instrumento musical.,"timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.","altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",D,
+24,84,"
 
 Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.
 
@@ -234,23 +332,8 @@ Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo 
 Nessa situação o sistema excretor dos estudantes
 
 
-",aumentou a filtração glomerular.,produziu maior volume de urina.,produziu urina com menos ureia.,produziu urina com maior concentração de sais.,reduziu a reabsorção de glicose e aminoácidos.,D
-18,"
-
-
-O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas.
-
-ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado).
-
-
-
-","
-
-Animais garantem suas necessidades metabólicas desse elemento pela
-
-
-",absorção do gás nitrogênio pela respiração.,ingestão de moléculas de carboidratos vegetais.,incorporação de nitritos dissolvidos na água consumida.,transferência da matéria orgânica pelas cadeias tróficas.,protocooperação com microrganismos fixadores de nitrogênio.,D
-19,"
+",aumentou a filtração glomerular.,produziu maior volume de urina.,produziu urina com menos ureia.,produziu urina com maior concentração de sais.,reduziu a reabsorção de glicose e aminoácidos.,D,
+25,83,"
 
 A cariotipagem é um método que analisa células de um indivíduo para determinar seu padrão cromossômico. Essa técnica consiste na montagem fotográfica, em sequência, dos pares de cromossomos e permite identificar um indivíduo normal (46, XX ou 46, XY) ou com alguma alteração cromossômica. A investigação do cariótipo de uma criança do sexo masculino com alterações morfológicas e comprometimento cognitivo verificou que ela apresentava fórmula cariotípica 47, XY, +18.
 
@@ -260,8 +343,8 @@ A cariotipagem é um método que analisa células de um indivíduo para determin
 A alteração cromossômica da criança pode ser classificada como
 
 
-","estrutural, do tipo deleção.","numérica, do tipo euploidia.","numérica, do tipo poliploidia.","estrutural, do tipo duplicação.","numérica, do tipo aneuploidia.",E
-20,"
+","estrutural, do tipo deleção.","numérica, do tipo euploidia.","numérica, do tipo poliploidia.","estrutural, do tipo duplicação.","numérica, do tipo aneuploidia.",E,
+26,89,"
 
 
 Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas.
@@ -275,4 +358,188 @@ KIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castan
 Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente,
 
 
-",flotação e decantação.,decomposição e centrifugação.,floculação e separação magnética.,destilação fracionada e peneiração.,dissolução fracionada e magnetização.,C
+",flotação e decantação.,decomposição e centrifugação.,floculação e separação magnética.,destilação fracionada e peneiração.,dissolução fracionada e magnetização.,C,
+27,77,"
+
+
+
+
+
+
+
+
+Considere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m² , que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.
+
+
+","
+
+Desprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de
+
+
+","1,0 s.","4,0 s.",10 s.,33 s.,300 s.,D,enem-data/enem-2015/77-images/context_img_0.png
+28,87,"
+
+
+O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas.
+
+ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado).
+
+
+
+","
+
+Animais garantem suas necessidades metabólicas desse elemento pela
+
+
+",absorção do gás nitrogênio pela respiração.,ingestão de moléculas de carboidratos vegetais.,incorporação de nitritos dissolvidos na água consumida.,transferência da matéria orgânica pelas cadeias tróficas.,protocooperação com microrganismos fixadores de nitrogênio.,D,
+29,86,"
+
+
+
+
+
+
+
+","
+
+Os produtos obtidos na oxidação do alceno representado, em solução aquosa de KMnO4, são:
+
+
+",Ácido benzoico e ácido etanoico,Ácido benzoico e ácido propanoico.,Ácido etanoico e ácido 2-feniletanoico.,Ácido 2-feniletanoico e ácido metanoico.,Ácido 2-feniletanoico e ácido propanoico.,A,enem-data/enem-2015/86-images/context_img_0.png
+30,81,"
+
+
+
+
+
+
+
+","
+
+Qual curva representa o perfil de consumo de glicose, para manutenção da homeostase de uma célula que inicialmente está em uma condição anaeróbica e é submetida a um aumento gradual da concentração de oxigênio?
+
+
+",1,2,3,4,5,E,enem-data/enem-2015/81-images/context_img_0.png
+31,75,"
+
+Para obter a posição de um telefone celular, a polícia baseia-se em informações do tempo de resposta do aparelho em relação às torres de celular da região de onde se originou a ligação. Em uma região, um aparelho está na área de cobertura de cinco torres, conforme o esquema
+
+
+
+
+
+
+
+
+
+","
+
+Considerando que as torres e o celular são puntiformes e que estão sobre um mesmo plano, qual o número mínimo de torres necessárias para se localizar a posição do do telefone celular que originou a ligação?
+
+
+",Uma.,Duas.,Três.,Quatro.,Cinco.,C,enem-data/enem-2015/75-images/context_img_0.png
+32,79,"
+
+
+
+
+
+
+
+","
+
+Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?
+
+
+",Etapa única na síntese.,Obtenção do produto puro.,Ausência de reagentes oxidantes.,Ausência de elementos metálicos no processo.,Gasto de energia nulo na separação do produto.,A,enem-data/enem-2015/79-images/context_img_0.png
+33,82,"
+
+
+
+
+
+
+
+
+Para atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10°C e outra a 40°C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16°C.
+
+
+","
+
+Qual selo deveria ser posto na garrafa térmica testada?
+
+
+",A,B,C,D,E,D,enem-data/enem-2015/82-images/context_img_0.png
+34,85,"
+
+
+
+
+
+
+
+","
+
+As funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,
+
+
+",álcool e éster.,aldeído e cetona.,éter e hidrocarboneto.,enol e ácido carboxílico.,ácido carboxílico e amida.,A,enem-data/enem-2015/85-images/context_img_0.png
+35,88,"
+
+
+
+
+
+
+
+
+Para selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:
+
+
+
+
+
+
+
+
+
+
+Considere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10-9 m.
+
+
+","
+
+O filtro solar que a pessoa deve selecionar é o
+
+
+",V.,IV.,III.,II.,I.,B,"enem-data/enem-2015/88-images/context_img_0.png,enem-data/enem-2015/88-images/context_img_1.png"
+36,76,"
+
+Muitos estudos de síntese e endereçamento de proteínas utilizam aminoácidos marcados radioativamente para acompanhar as proteínas, desde fases iniciais de sua produção até seu destino final. Esses ensaios foram muito empregados para estudo e caracterização de células secretoras.
+
+
+","
+
+Após esses ensaios de radioatividade, qual o gráfico que representa a evolução temporal da produção de proteínas e sua localização em uma célula secretora?
+
+
+",enem-data/enem-2015/76-images/alt_img_0.png,enem-data/enem-2015/76-images/alt_img_1.png,enem-data/enem-2015/76-images/alt_img_2.png,enem-data/enem-2015/76-images/alt_img_3.png,enem-data/enem-2015/76-images/alt_img_4.png,C,
+37,80,"
+
+“O circuito deve ser tal que as tomadas e a lâmpada devem estar submetidas à tensão nominal da rede elétrica e a lâmpada deve poder ser ligada ou desligada por um interruptor sem afetar os outros dispositivos” – pensou.
+Símbolos adotados:
+
+
+
+
+
+
+
+
+
+","
+
+Qual dos circuitos esboçados atende às exigências?
+
+
+",enem-data/enem-2015/80-images/alt_img_0.png,enem-data/enem-2015/80-images/alt_img_1.png,enem-data/enem-2015/80-images/alt_img_2.png,enem-data/enem-2015/80-images/alt_img_3.png,enem-data/enem-2015/80-images/alt_img_4.png,E,enem-data/enem-2015/80-images/context_img_0.png

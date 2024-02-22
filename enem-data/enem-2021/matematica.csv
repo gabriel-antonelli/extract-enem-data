@@ -1,5 +1,18 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,142,"
+
+
+Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$300,00.
+
+
+
+","
+
+Para não ter prejuízo, o menor número de lavagens diárias que o lava rápido deve efetuar é
+
+
+",6,8,9,15,20,C,
+1,136,"
 
 
 O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:
@@ -19,34 +32,8 @@ Em uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.
 Quantos anos de fundação essa cidade comemorará em 2050?
 
 
-",379,381,579,581,601,D
-1,"
-
-
-Uma unidade de medida comum usada para a expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.
-
-
-
-","
-
-Nas condições estabelecidas, o valor total, em real, obtido, pelo fazendeiro com a venda de todos os terrenos será igual a
-
-
-",700 000,1 600 000,1 900 000,2 200 000,2 800 000,C
-2,"
-
-
-Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$300,00.
-
-
-
-","
-
-Para não ter prejuízo, o menor número de lavagens diárias que o lava rápido deve efetuar é
-
-
-",6,8,9,15,20,C
-3,"
+",379,381,579,581,601,D,
+2,148,"
 
 
 O dono de uma loja pretende usar cartões imantados para a sua divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão:
@@ -67,8 +54,50 @@ Use 3 como aproximação para π e use 1,7 como aproximação para √3.
 Nessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um
 
 
-",triângulo,quadrado,retângulo,hexágono,círculo,E
-4,"
+",triângulo,quadrado,retângulo,hexágono,círculo,E,
+3,138,"
+
+
+Uma unidade de medida comum usada para a expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.
+
+
+
+","
+
+Nas condições estabelecidas, o valor total, em real, obtido, pelo fazendeiro com a venda de todos os terrenos será igual a
+
+
+",700 000,1 600 000,1 900 000,2 200 000,2 800 000,C,
+4,141,"
+
+
+Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:
+
+
+
+
+
+
+
+
+
+
+
+
+Sabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx), que, por sua vez, é determinada pela fórmula:
+Fc máx. = 220 – idades,
+em que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).
+ 
+
+
+
+","
+
+Os trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são:
+
+
+","leve no plano, forte no plano, subida moderada e subida forte.","leve no plano, forte no plano e subida moderada. ","forte no plano, subida moderada e subida forte. ",forte no plano e subida moderada. ,leve no plano e subida forte. ,D,enem-data/enem-2021/141-images/context_img_0.png
+5,140,"
 
 
 Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:
@@ -83,8 +112,202 @@ Considera-se que, em qualquer caso, o laboratório implantado será utilizado na
 A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de
 
 
-","1,31 mil reais","1,90 mil reais","2,30 mil reais","2,36 mil reais","2,95 mil reais",B
-5,"
+","1,31 mil reais","1,90 mil reais","2,30 mil reais","2,36 mil reais","2,95 mil reais",B,
+6,144,"
+
+
+Muitos brinquedos que frequentemente são encontrados em praças e parques públicos apresentam formatos de figuras geométricas bidimensionais e tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade e espessura são congruentes.
+
+
+
+
+
+
+
+
+
+
+","
+
+Com base na proposta apresentada, quantas figuras geométricas planas de cada tipo são formadas pela união das hastes?
+
+
+",12 trapézios isósceles e 12 quadrados. ,24 trapézios isósceles e 12 quadrados. ,12 paralelogramos e 12 quadrados. ,8 trapézios isósceles,,A,enem-data/enem-2021/144-images/context_img_0.png
+7,146,"
+
+
+O instrumento da percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.
+
+
+
+
+
+
+
+
+
+
+
+
+Uma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de uma triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.
+Considere 1,7 como valor aproximado para √3.
+Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é
+
+
+
+","
+
+Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é:
+
+
+","9,07.","13,60.","20,40.","27,18.","36,24.",D,enem-data/enem-2021/146-images/context_img_0.png
+8,137,"
+
+
+Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binárias, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:
+
+
+
+
+
+Por exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:
+
+
+
+
+
+
+
+
+
+
+","
+
+Considerando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por
+
+
+",101,1101,1111,10101,11001,D,enem-data/enem-2021/137-images/context_img_0.png
+9,147,"
+
+
+Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.
+
+
+
+
+
+
+
+
+
+
+
+
+Sabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).
+Utilize 3 como aproximação para π.
+ 
+
+
+
+","
+
+Qual é a capacidade volumétrica, em milimitro, dessa caneca?
+
+
+",216,408,732,2196,2928,C,enem-data/enem-2021/147-images/context_img_0.png
+10,143,"
+
+
+Após a consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.
+
+
+
+
+
+
+
+
+
+
+
+
+Dessas farmácias, algumas oferecem descontos:
+
+na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;
+na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.
+
+O paciente deseja efetuar a compra de modo a minimizar duas despesa com os medicamentos.
+
+
+
+","
+
+De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:
+
+
+","X, Y e Z na Farmácia 1. ","X e Y na Farmácia 1, e Z na Farmácia 3. ","X e Y na Farmácia 2, e Z na Farmácia 3. ","X na Farmácia 2, e Y e Z na Farmácia 3. ","X, Y e Z na Farmácia 3. ",C,enem-data/enem-2021/143-images/context_img_0.png
+11,151,"
+
+
+Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 10 km percorridos.
+
+
+
+","
+
+O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é
+
+
+","15,9","16,1","16,4","17,4","18,0",D,
+12,145,"
+
+
+Num octaedro regular, duas faces são consideradas opostas quando não têm nem arestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de suas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro faces numeradas.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação dada?
+
+
+","1, 2, 3 e 4",1 e 3,1,2,4,E,enem-data/enem-2021/145-images/context_img_0.png
+13,150,"
+
+
+Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10kg.
+Em duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:
+
+
+
+
+
+
+
+
+
+
+
+
+Para ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.
+ 
+
+
+
+","
+
+Qual a quantidade máxima de camisetas que essa pessoa poderá levar?
+
+
+",22,24,26,33,39,B,enem-data/enem-2021/150-images/context_img_0.png
+14,152,"
 
 
 O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.
@@ -103,34 +326,109 @@ Analisando as informações dos fornecedores, o construtor providenciará a quan
 Qual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para aquisição do material?
 
 
-",I,II,III,IV,V,B
-6,"
+",I,II,III,IV,V,B,
+15,149,"
 
 
-Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 10 km percorridos.
-
-
-
-","
-
-O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é
-
-
-","15,9","16,1","16,4","17,4","18,0",D
-7,"
-
-
-Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocar de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.
+A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluído é diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no fluido e à sua densidade (em quilograma por meto cúbico), com uma constante de proporcionalidade adimensional.
 
 
 
 ","
 
-Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?
+Nessa relação, a unidade de medida adequada para o módulo volumétrico é
 
 
-","6,0","5,7","5,0","4,5","4,4",A
-8,"
+",enem-data/enem-2021/149-images/alt_img_0.png,enem-data/enem-2021/149-images/alt_img_1.png,enem-data/enem-2021/149-images/alt_img_2.png,enem-data/enem-2021/149-images/alt_img_3.png,enem-data/enem-2021/149-images/alt_img_4.png,B,
+16,128,"
+
+
+A figura foi extraída de um antigo jogo de computadores, chamado Bang! Bang!
+
+
+
+
+
+
+
+
+
+
+
+
+No jogo, dois competidores controlam os canhões  A  e  B  , disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo de velocidade inicial de disparo    e para o ângulo de disparo .
+Em determinado momento de uma partida, o competidor  B  deve disparar; ele sabe que a bala disparada anteriormente, = 53 °, Passou tangenciando o Ponto  P  .
+No jogo,   é igual a 10 m / s 2. Considere sen 53 ° = 0,8, cos 53 ° = 0,6 e desprezível a ação de dissipativas.
+
+Disponível em:  http://mebdownloads.butzke.net.br . Acesso em: 18 abr. 2015 (adaptado).
+
+
+
+
+
+Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de    que permitiria ao disparo pelo canhão  B  atingir o canhão  A?
+
+
+
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de que permitiria ao disparo pelo canhão  B  atingir o canhão  A?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",30 m/s,35 m/s,40 m/s,45 m/s,50 m/s,C,"enem-data/enem-2021/128-images/context_img_0.png,enem-data/enem-2021/128-images/context_img_1.png,enem-data/enem-2021/128-images/context_img_2.png,enem-data/enem-2021/128-images/context_img_3.png,enem-data/enem-2021/128-images/context_img_4.png"
+17,153,"
+
+
+Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.
+Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para 
+
+
+
+","
+
+Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a
+
+
+","1,12","3,10","4,35","4,48","5,60",D,enem-data/enem-2021/153-images/context_img_0.png
+18,157,"
+
+
+Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.
+
+
+
+","
+
+A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é
+
+
+",10% menor,1% menor,igual,1% maior,11% maior,B,
+19,159,"
 
 
 Um  nutricionista verificou, na dieta diária do seu cliente, a falta de 800mg do mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado.
@@ -151,42 +449,275 @@ O cliente decidiu comprar sachês de um único suplemento no qual gastasse menos
 Nessas condições, o cliente deverá comprar sachês do suplemento
 
 
-",I,II,III,IV,V,D
-9,"
+",I,II,III,IV,V,D,
+20,158,"
 
 
-Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.
-
-
-
-","
-
-A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é
-
-
-",10% menor,1% menor,igual,1% maior,11% maior,B
-10,"
-
-
-O organizador de uma competição de lançamento de
-dados pretende tornar o campeonato mais competitivo.
-Pelas regras atuais da competição, numa rodada, o
-jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.
-A fim de tornar o jogo mais atrativo, planeja modificar
-as regras de modo que a probabilidade de um jogador
-pontuar em uma rodada seja igual ou superior a 9/10. Para
-isso, decide aumentar a quantidade de dardos a serem
-lançados em cada rodada.
+Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocar de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.
 
 
 
 ","
 
-Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é
+Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?
 
 
-",2,4,6,9,10,B
-11,"
+","6,0","5,7","5,0","4,5","4,4",A,
+21,139,"
+
+
+Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição 6 tecidos diferentes e 15 pedras ornamentais distintas.
+
+
+
+","
+
+A quantidade de fantasias com materiais diferentes que podem ser produzidas é representada pela expressão
+
+
+",enem-data/enem-2021/139-images/alt_img_0.png,enem-data/enem-2021/139-images/alt_img_1.png,enem-data/enem-2021/139-images/alt_img_2.png,enem-data/enem-2021/139-images/alt_img_3.png,enem-data/enem-2021/139-images/alt_img_4.png,A,
+22,160,"
+
+
+Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400g de frango, 600g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:
+
+
+
+
+
+
+
+
+
+
+
+
+Em relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.
+
+
+
+","
+
+Qual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?
+
+
+","12,5","28,0","30,0","50,0","70,0",C,enem-data/enem-2021/160-images/context_img_0.png
+23,163,"
+
+
+Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.
+
+
+
+
+
+
+
+
+
+
+
+
+O castelo possui uma ponte de 38,4m de comprimento e 1,68m de largura. O artesão que trabalhou para o parque produziu a réplica do castelo, em escala. Nessa obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160cm e 7 cm.
+
+
+
+","
+
+A escala utilizada para fazer a réplica é
+
+
+",1 : 576,1 : 240,1 : 24,"1 : 4,2","1 : 2,4",C,enem-data/enem-2021/163-images/context_img_0.png
+24,166,"
+
+
+A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.
+Os remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.
+
+
+
+
+
+
+
+
+
+
+","
+
+No período de 2005 a 2009, o aumento percentual no volume de vendas foi de
+
+
+","45,4.","54,5.",120.,220.,"283,2.",C,enem-data/enem-2021/166-images/context_img_0.png
+25,164,"
+
+
+A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.
+
+
+
+
+
+
+
+
+
+
+
+
+Segundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.
+
+Disponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado)
+
+
+
+","
+
+O número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de
+
+
+","0,17","0,49","1,71","2,06","3,32",D,enem-data/enem-2021/164-images/context_img_0.png
+26,167,"
+
+
+Um casal está planejando comprar um apartamento
+de dois quartos num bairro de uma cidade e consultou
+a página de uma corretora de imóveis, encontrando
+105 apartamentos de dois quartos à venda no bairro
+desejado. Eles usaram um aplicativo da corretora para
+gerar a distribuição dos preços do conjunto de imóveis
+selecionados.
+O gráfico ilustra a distribuição de frequências dos
+preços de venda dos apartamentos dessa lista (em
+mil reais), no qual as faixas de preço são dadas por
+]300, 400], ]400, 5001, ]500, 600], ]00, 700], ]700, 800],
+]800, 900], ]900, 1 000], ]1 000, 1 100], ]1 100, 1 200] e
+]1 200, 1 300].
+A mesma corretora anuncia que cerca de 50% dos
+apartamentos de dois quartos nesse bairro, publicados
+em sua página, têm preço de venda inferior a 550 mil reais.
+No entanto, o casal achou que essa última informação
+não era compatível com o gráfico obtido.
+
+
+
+
+
+
+
+
+
+
+","
+
+Com base no gráfico obtido, o menor preço, p (em mil reais), para o qual pelo menos 50% dos apartamentos apresenta preço inferior a p
+
+
+",600.,700.,800.,900.,1000.,C,enem-data/enem-2021/167-images/context_img_0.png
+27,169,"
+
+
+O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala de Richter, ocorridos em nosso planeta nos anos 2000 e 2011.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+Um pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período. Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é
+
+
+",11.,15.,"15,5.","15,7.","17,5.",C,enem-data/enem-2021/169-images/context_img_0.png
+28,171,"
+
+
+Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual é a média das idades, em ano, desses alunos?
+
+
+",9,12,18,19,27,D,enem-data/enem-2021/171-images/context_img_0.png
+29,172,"
+
+
+Em um estudo realizado pelo IBGE em quatro estados e no Distrito Federal, com mais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média, apenas seis minutos do dia de cada pessoa.
+Na faixa de idade de 10 a 24 anos, a média diária é de três minutos. No entanto, no grupo de idades entre 24 e 60 anos, o tempo médio diário dedicado à leitura é de 5 minutos. Entre os mais velhos, com 60 anos ou mais, a média é de 12 minutos.
+A quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição percentual descrita no quadro.
+
+
+
+
+
+
+
+
+
+
+","
+
+Os valores de x e y do quadro são, respectivamente, iguais a
+
+
+",10 e 80.,10 e 90.,20 e 60.,20 e 80.,25 e 5,A,enem-data/enem-2021/172-images/context_img_0.png
+30,168,"
+
+
+A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se comunicar com seus generais.
+No método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás) de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.
+
+
+
+
+
+
+
+
+
+
+
+
+Para quebrar um código como esse, a análise de frequências das letras de um texto é uma ferramenta importante.
+Uma análise do texto do romance O guarani, de José de Alencar, que é composto por 491 631 letras, gerou o seguinte gráfico de frequências:
+
+
+
+
+
+
+
+
+
+
+","
+
+Após codificar esse texto com a regra do exemplo fornecido, faz-se nova analise de frequência no texto codificado.
+As quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são
+
+
+","A,E,O e S. ","D, E, F e G.","D, E, F e G.","D,H,R e V.","X, B L e P.",C,"enem-data/enem-2021/168-images/context_img_0.png,enem-data/enem-2021/168-images/context_img_1.png"
+31,173,"
 
 
 Um zootecnista pretende testar se uma nova ração
@@ -219,8 +750,28 @@ alimentados com a ração atual.
 A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior
 
 
-","5,0.","9,5.","10,0.","10,5.","15,0.",E
-12,"
+","5,0.","9,5.","10,0.","10,5.","15,0.",E,
+32,170,"
+
+
+O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de Fevereiro de 2015.
+
+
+
+
+
+
+
+
+
+
+","
+
+Nessa data, o reservatório com o maior volume de água era o
+
+
+",I.,II.,III.,IV.,V.,D,enem-data/enem-2021/170-images/context_img_0.png
+33,176,"
 
 
 Aplicativos que gerenciam serviços de hospedagem
@@ -240,4 +791,215 @@ diárias.
 Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão
 
 
-",P=d.n + L + d.n.s,P=d.n + L + d.s,P= d+ L +s,P= d.n.s + L,P= d.n + L +s,A
+",P=d.n + L + d.n.s,P=d.n + L + d.s,P= d+ L +s,P= d.n.s + L,P= d.n + L +s,A,
+34,174,"
+
+
+Uma rede de hamburgueria tem três franquias em
+cidades distintas. Visando incluir um novo tipo de lanche
+no cardápio, o gerente de marketing da rede sugeriu que
+fossem colocados à venda cinco novos tipos de lanche,
+em edições especiais. Os lanches foram oferecidos pelo
+mesmo período de tempo em todos os franqueados,
+O tipo que apresentasse a maior média por franquia
+seria incluído definitivamente no cardápio. Terminado o
+período de experiência, a gerência recebeu um relatório
+descrevendo as quantidades vendidas, em unidade, de
+cada um dos cinco tipos de lanche nas três franquias
+
+
+
+
+
+
+
+
+
+
+","
+
+Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo
+
+
+",I.,II.,III.,IV.,V.,A,enem-data/enem-2021/174-images/context_img_0.png
+35,154,"
+
+
+O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (l).
+
+
+
+
+
+
+
+
+
+
+","
+
+O gráfico que melhor representa essa relação é
+
+
+",enem-data/enem-2021/154-images/alt_img_0.png,enem-data/enem-2021/154-images/alt_img_1.png,enem-data/enem-2021/154-images/alt_img_2.png,enem-data/enem-2021/154-images/alt_img_3.png,enem-data/enem-2021/154-images/alt_img_4.png,A,enem-data/enem-2021/154-images/context_img_0.png
+36,177,"
+
+
+O organizador de uma competição de lançamento de
+dados pretende tornar o campeonato mais competitivo.
+Pelas regras atuais da competição, numa rodada, o
+jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.
+A fim de tornar o jogo mais atrativo, planeja modificar
+as regras de modo que a probabilidade de um jogador
+pontuar em uma rodada seja igual ou superior a 9/10. Para
+isso, decide aumentar a quantidade de dardos a serem
+lançados em cada rodada.
+
+
+
+","
+
+Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é
+
+
+",2,4,6,9,10,B,
+37,161,"
+
+
+Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição P (em cm) da massa m em função do tempo t (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) =  ou P(t) = , em que A>0 é a amplitude de deslocamento máximo e  é a frequência, que se relaciona com o período T pela fórmula .
+Considere a ausência de quaisquer forças dissipativas.
+
+
+
+
+
+
+
+
+
+
+","
+
+A expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é
+
+
+",-3 cos (2t),-3 sen (2t),3 cos (2t),-6 cos (2t),6 cos (2t),A,"enem-data/enem-2021/161-images/context_img_0.png,enem-data/enem-2021/161-images/context_img_1.png,enem-data/enem-2021/161-images/context_img_2.png,enem-data/enem-2021/161-images/context_img_3.png,enem-data/enem-2021/161-images/context_img_4.png"
+38,156,"
+
+
+Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = , i, j  {1, 2, 3, 4, 5}, em que o elemento  corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento  é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual região foi selecionada para o investimento da construtora?
+
+
+",1,2,3,4,5,E,"enem-data/enem-2021/156-images/context_img_0.png,enem-data/enem-2021/156-images/context_img_1.png,enem-data/enem-2021/156-images/context_img_2.png,enem-data/enem-2021/156-images/context_img_3.png,enem-data/enem-2021/156-images/context_img_4.png"
+39,179,"
+
+
+Um segmento de reta está dividido em duas partes
+na proporção áurea quando o todo está para uma das
+partes na mesma razão em que essa parte está para a
+outra. Essa constante de proporcionalidade é comumente
+representada pela letra grega ρ, e seu valor é dado pela
+solução positiva da equação ρ²=ρ+1
+Assim como a potência ρ², as potências superiores
+de ρ podem ser expressas da forma aρ + b, em que a e b
+são inteiros positivos, como apresentad0o no quadro.
+
+
+
+
+
+
+
+
+
+
+","
+
+A potência ρ7, escrita na forma aρ+b (a e b são inteiros positivos), é
+
+
+",5ρ+3,7ρ+2,9ρ+6,11ρ+7,13ρ+8,E,enem-data/enem-2021/179-images/context_img_0.png
+40,162,"
+
+
+Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo  e estrela *, definidas sobre o conjunto dos números reais por xy = x² + xy – y² e x * y = xy + x.
+O navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma da duas maiores soluções da equação (ab)*(ba) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.
+Um navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b=1.
+
+
+
+","
+
+Dessa forma, o valor recebido pelo navio receptor será
+
+
+",enem-data/enem-2021/162-images/alt_img_0.png,enem-data/enem-2021/162-images/alt_img_1.png,enem-data/enem-2021/162-images/alt_img_2.png,enem-data/enem-2021/162-images/alt_img_3.png,enem-data/enem-2021/162-images/alt_img_4.png,D,"enem-data/enem-2021/162-images/context_img_0.png,enem-data/enem-2021/162-images/context_img_1.png,enem-data/enem-2021/162-images/context_img_2.png,enem-data/enem-2021/162-images/context_img_3.png"
+41,155,"
+
+
+O administrador de um teatro percebeu que, com o ingresso do evento a R$20,00, um show conseguia atrair 200 pessoas e que, a cada R$1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.
+
+
+
+","
+
+O gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é
+
+
+",enem-data/enem-2021/155-images/alt_img_0.png,enem-data/enem-2021/155-images/alt_img_1.png,enem-data/enem-2021/155-images/alt_img_2.png,enem-data/enem-2021/155-images/alt_img_3.png,enem-data/enem-2021/155-images/alt_img_4.png,E,
+42,180,"
+
+
+O Atomiuim, representado na imagem é um
+dos principais pontos turísticos de Bruxelas. Ele foi
+construído em 1958 para a primeira grande exposição
+mundial depois da Segunda Guerra Mundial, a Feira
+Mundial de Bruxelas.
+Trata-se de uma estrutura metálica construída no
+formato de um cubo. Essa estrutura está apoiada por um
+dos vértices sobre uma base paralela ao plano do solo,
+e a diagonal do cubo, contendo esse vértice, é ortogonal
+ao plano da base. Centradas nos vértices desse cubo,
+foram construídas oito esferas metálicas, e uma outra
+esfera foi construída centrada no ponto de interseção das
+diagonais do cubo. As oito esferas sobre os vértices são
+interligadas segundo suas arestas, e a esfera central se
+conecta a elas pelas diagonais do cubo.
+Todas essas interligações são feitas por tubos
+cilíndricos que possuem escadas em seu interior,
+permitindo o deslocamento de pessoas pela parte
+interna da estrutura. Na diagonal ortogonal à base, o
+deslocamento é feito por um elevador, que permite o
+deslocamento entre as esferas da base e a esfera do
+ponto mais alto, passando pela esfera central.
+Considere um visitante que se deslocou pelo interior
+do Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passand0 por todas as arestas e todas as diagonais do cubo.
+
+
+
+
+
+
+
+
+
+
+","
+
+A projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representada por
+
+
+",enem-data/enem-2021/180-images/alt_img_0.png,enem-data/enem-2021/180-images/alt_img_1.png,enem-data/enem-2021/180-images/alt_img_2.png,enem-data/enem-2021/180-images/alt_img_3.png,enem-data/enem-2021/180-images/alt_img_4.png,E,enem-data/enem-2021/180-images/context_img_0.png

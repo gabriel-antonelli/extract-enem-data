@@ -1,5 +1,187 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,142,"
+
+
+
+
+
+
+
+
+Suponha que a variação percentual relativa na taxa de fecundidade no período de 2000 a 2010 se repita no período de 2010 a 2020.
+
+
+","
+
+Nesse caso, em 2020 a taxa de fecundidade no Brasil estará mais próxima de
+
+
+","1,14.","1,42.","1,52.","1,70.","1,80.",C,enem-data/enem-2014/142-images/context_img_0.png
+1,137,"
+
+
+
+
+
+
+
+
+Em seguida, retira-se o cilindro de madeira do meio do papel enrolado, finalizando a confecção do diploma. Considere que a espessura da folha de papel original seja desprezível.
+ 
+
+
+","
+
+Qual é a medida, em centímetros, do lado da folha de papel usado na confecção do diploma?
+ 
+
+
+",π d  ,2π d  ,4π d  ,5π d  ,10π d,D,enem-data/enem-2014/137-images/context_img_0.png
+2,145,"
+
+
+
+
+
+
+
+","
+
+O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é:
+ 
+
+
+",25.,33.,42.,45.,49.,E,enem-data/enem-2014/145-images/context_img_0.png
+3,146,"
+
+
+
+
+
+
+
+
+Será produzida uma nova lata, com os mesmos formato e volume, de tal modo que as dimensões de sua base sejam 25% maiores que as da lata atual.
+ 
+
+
+","
+
+Para obter a altura da nova lata, a altura da lata atual deve ser reduzida em
+ 
+
+
+","14,4%  ","20,0%  ","32,0%  ","36,0%  ","64,0%",D,enem-data/enem-2014/146-images/context_img_0.png
+4,136,"
+
+
+
+
+
+
+
+
+Deseja-se reproduzi-la numa folha de papel retangular com 42 cm de comprimento e 30 cm de altura, deixando livres 3 cm em cada margem, conforme a Figura 2.
+
+
+
+
+
+
+
+
+
+
+
+A reprodução da gravura deve ocupar o máximo possível da região disponível, mantendo-se as proporções da Figura 1
+
+PRADO, A. C. Superinteressante, ed. 301, fev. 2012 (adaptado).
+
+
+
+","
+
+A escala da gravura reproduzida na folha de papel é
+
+
+",1 : 3.,1 : 4.,1 : 20.,1 : 25.,1 : 32.,D,"enem-data/enem-2014/136-images/context_img_0.png,enem-data/enem-2014/136-images/context_img_1.png"
+5,141,"
+
+
+
+
+
+
+
+
+
+Suponha que a taxa de desemprego oculto do mês de dezembro de 2012 tenha sido a metade da mesma taxa em junho de 2012 e que a taxa de desemprego total em dezembro de 2012 seja igual a essa taxa em dezembro de 2011.
+
+Disponível em: dieese.org.br. Acesso em: 1 ago. 2012 (fragmento).
+
+
+
+","
+
+Nesse caso, a taxa de desemprego aberto de dezembro de 2012 teria sido, em termos percentuais, de
+ 
+
+
+","1,1.","3,5.","4,5.","6,8.","7,9.",E,enem-data/enem-2014/141-images/context_img_0.png
+6,150,"
+
+
+
+
+
+
+
+","
+
+A menor nota que o candidato II deverá obter na prova final de química para vencer a competição é
+ 
+
+
+",18.,19.,22.,25.,26.,A,enem-data/enem-2014/150-images/context_img_0.png
+7,143,"
+
+
+
+
+
+
+
+
+
+Os resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.
+A campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país.
+
+Disponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).
+
+
+
+
+","
+
+As regiões brasileiras onde foram intensificadas campanhas na época são
+
+
+","Norte, Centro-Oeste e Sul.","Norte, Nordeste e Sudeste.","Nordeste, Norte e Sul.","Nordeste, Sudeste e Sul.","Centro-Oeste, Sul e Sudeste.",B,enem-data/enem-2014/143-images/context_img_0.png
+8,148,"
+
+
+
+
+
+
+
+","
+
+Qual deve ser o aumento na receita da empresa para que o lucro mensal em 2014 seja o mesmo de 2013?
+
+
+","R$ 114 285,00  ","R$ 130 000,00  ","R$ 160 000,00 ","R$ 210 000,00  ","R$ 213 333,00",B,enem-data/enem-2014/148-images/context_img_0.png
+9,159,"
 
 
 O Brasil é um país com uma vantagem econômica clara no terreno dos recursos naturais, dispondo de uma das maiores áreas com vocação agrícola do mundo. Especialistas calculam que, dos 853 milhões de hectares do país, as cidades, as reservas indígenas e as áreas de preservação, incluindo florestas e mananciais, cubram por volta de 470 milhões de hectares. Aproximadamente 280 milhões se destinam à agropecuária, 200 milhões para pastagens e 80 milhões para a agricultura, somadas as lavouras anuais e as perenes, como o café e a fruticultura.
@@ -16,8 +198,8 @@ De acordo com os dados apresentados, o percentual correspondente à área utiliz
  
 
 
-","32,8%","28,6%","10,7%","9,4%","8,0%",D
-1,"
+","32,8%","28,6%","10,7%","9,4%","8,0%",D,
+10,158,"
 
 Use 3 como valor aproximado para π.
 
@@ -27,8 +209,226 @@ Use 3 como valor aproximado para π.
 A redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a
 
 
-",168.,304.,306.,378.,514.,E
-2,"
+",168.,304.,306.,378.,514.,E,
+11,161,"
+
+
+
+
+
+
+
+
+Para quantificar os sapatos pela cor, os donos representaram a cor branca pelo número 0 e a cor preta pelo número 1. Sabe-se que a média da distribuição desses zeros e uns é igual a 0,45.
+Os donos da loja decidiram que a numeração dos sapatos com maior número de reclamações e a cor com maior número de reclamações não serão mais vendidas.
+
+
+","
+
+A loja encaminhou um ofício ao fornecedor dos sapatos, explicando que não serão mais encomendados os sapatos de cor
+ 
+
+
+",branca e os de número 38.  ,branca e os de número 37.  ,branca e os de número 36.  ,preta e os de número 38.  ,preta e os de número 37.,A,enem-data/enem-2014/161-images/context_img_0.png
+12,156,"
+
+Valor do kWh (com tributos) x consumo (em kWh) + Cosip
+
+
+
+
+O valor da Cosip é fixo em cada faixa de consumo.  O quadro mostra o valor cobrado para algumas faixas.
+ 
+
+
+
+
+
+
+
+
+
+
+Suponha que, em uma residência, todo mês o consumo seja de 150 kWh, e o valor do kWh (com tributos) seja de R$ 0,50. O morador dessa residência pretende diminuir seu consumo mensal de energia elétrica com o objetivo de reduzir o custo total da conta em pelo menos 10%.
+
+
+","
+
+Qual deve ser o consumo máximo, em kWh, dessa residência para produzir a redução pretendida pelo morador?
+ 
+
+
+","134,1","135,0","137,1","138,6","143,1",C,enem-data/enem-2014/156-images/context_img_0.png
+13,155,"
+
+
+
+
+
+
+
+","
+
+Levando-se em consideração os experimentos feitos, o reagente que atende às expectativas do pesquisador é o
+
+
+",1.,2.,3.,4.,5.,B,enem-data/enem-2014/155-images/context_img_0.png
+14,157,"
+
+
+
+
+
+
+
+
+Essa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.
+
+
+","
+
+Dos planos telefônicos apresentados, qual é o mais vantajoso, em tempo de chamada, para o gasto previsto para essa pessoa?
+
+
+",A,B,C,D,E,C,enem-data/enem-2014/157-images/context_img_0.png
+15,166,"
+
+
+
+
+
+
+
+","
+
+A quantidade máxima de triângulos não congruentes dois a dois que podem ser construídos é
+
+
+",3.,5.,6.,8.,10.,A,enem-data/enem-2014/166-images/context_img_0.png
+16,162,"
+
+
+
+
+
+
+
+
+
+
+BENSEÑOR, I. M.; LOTUFO, P. A. Epidemologia: abordagem prática.
+São Paulo: Sarvier, 2011 (adaptado).
+
+
+
+","
+
+Conforme o quadro do teste proposto, a sensibilidade dele é de
+ 
+
+
+","47,5%.","85,0%.","86,3%.","94,4%.","95,0%.",E,enem-data/enem-2014/162-images/context_img_0.png
+17,170,"
+
+
+
+
+
+
+
+","
+
+Segundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior. O candidato aprovado será
+ 
+
+
+",K.  ,L.,M.,N.,P.,D,enem-data/enem-2014/170-images/context_img_0.png
+18,169,"
+
+
+
+
+
+
+
+","
+
+Se cada brasileiro adotar o consumo de água indicado no quadro, mantendo o mesmo consumo nas demais atividades, então economizará diariamente, em média, em litros de água,
+
+
+","30,0.","69,6.","100,4.","130,4.","170,0.",C,enem-data/enem-2014/169-images/context_img_0.png
+19,172,"
+
+
+
+
+
+
+
+","
+
+Em que dia dessa semana a quantidade total de bactérias nesse ambiente de cultura foi máxima?
+ 
+
+
+",Terça-feira.  ,Quarta-feira.  ,Quinta-feira.  ,Sexta-feira.  ,Domingo.,A,enem-data/enem-2014/172-images/context_img_0.png
+20,139,"
+
+
+
+
+
+
+
+
+No topo da escultura foi ligada uma torneira que verte água, para dentro dela, com vazão constante.
+ 
+
+
+","
+
+O gráfico que expressa a altura (h) da água na escultura em função do tempo (t) decorrido é:
+
+
+",enem-data/enem-2014/139-images/alt_img_0.png,enem-data/enem-2014/139-images/alt_img_1.png,enem-data/enem-2014/139-images/alt_img_2.png,enem-data/enem-2014/139-images/alt_img_3.png,enem-data/enem-2014/139-images/alt_img_4.png,D,enem-data/enem-2014/139-images/context_img_0.png
+21,171,"
+
+
+
+
+
+
+
+
+
+Considere um silo de 2 m de altura, 6 m de largura de topo e 20 m de comprimento. Para cada metro de altura do silo, a largura do topo tem 0,5 m a mais do que a largura do fundo. Após a silagem, 1 tonelada de forragem ocupa 2 m3 desse tipo de silo.
+
+EMBRAPA. Gado de corte. Disponível em: www.cnpgc.embrapa.br. Acesso em: 1 ago. 2012 (adaptado).
+
+
+
+
+","
+
+Após a silagem, a quantidade máxima de forragem que cabe no silo, em toneladas, é
+
+
+",110.,125.,130.,220.,260.,A,enem-data/enem-2014/171-images/context_img_0.png
+22,173,"
+
+
+
+
+
+
+
+","
+
+Quantos minutos essa torneira levará para encher completamente o restante do depósito?
+
+
+",8,10,16,18,24,B,enem-data/enem-2014/173-images/context_img_0.png
+23,179,"
 
 O secretário de saúde comprará recipientes de um mesmo tipo, de modo a instalar 20 deles em cada escola, abastecidos com álcool em gel na sua capacidade máxima, de forma a utilizar todo o gel dos galões de uma só vez.
 
@@ -38,4 +438,83 @@ O secretário de saúde comprará recipientes de um mesmo tipo, de modo a instal
 Que tipo de recipiente o secretário de saúde deve comprar?
 
 
-",I,II,III,IV,V,C
+",I,II,III,IV,V,C,
+24,177,"
+
+
+
+
+
+
+
+
+
+
+Disponível em: www.culturaperuana.com.br. Acesse em: 13 dez. 2012.
+
+
+
+","
+
+O número da representação do quipus da Figura 2, em base decimal, é
+ 
+
+
+",364.,463.,3 064.,3 640.,4 603.,C,enem-data/enem-2014/177-images/context_img_0.png
+25,153,"
+
+
+
+
+
+
+
+
+As medições de velocidade deixariam de ocorrer de maneira instantânea, ao se passar pelo radar, e seriam feitas a partir da velocidade média no trecho, considerando o tempo gasto no percurso entre um radar e outro. Sabe-se que a velocidade média é calculada como sendo a razão entre a distância percorrida e o tempo gasto para percorrê-la. O teste realizado mostrou que o tempo que permite uma condução segura de deslocamento no percurso entre os dois radares deveria ser de, no mínimo, 1 minuto e 24 segundos. Com isso, a CET precisa instalar uma placa antes do primeiro radar informando a velocidade média máxima permitida nesse trecho da via. O valor a ser exibido na placa deve ser o maior possível, entre os que atendem às condições de condução segura observadas.
+
+
+
+
+
+Disponível em: www1.folha.uol.com.br. Acesso em: 11 jan. 2014 (adaptado).
+
+
+
+","
+
+A placa de sinalização que informa a velocidade que atende a essas condições é
+
+
+",enem-data/enem-2014/153-images/alt_img_0.png,enem-data/enem-2014/153-images/alt_img_1.png,enem-data/enem-2014/153-images/alt_img_2.png,enem-data/enem-2014/153-images/alt_img_3.png,enem-data/enem-2014/153-images/alt_img_4.png,C,enem-data/enem-2014/153-images/context_img_0.png
+26,154,"
+
+
+
+
+
+
+
+","
+
+A figura que melhor representa a projeção ortogonal, sobre o piso da casa (plano), do caminho percorrido pela mão dessa pessoa é:
+
+
+",enem-data/enem-2014/154-images/alt_img_0.png,enem-data/enem-2014/154-images/alt_img_1.png,enem-data/enem-2014/154-images/alt_img_2.png,enem-data/enem-2014/154-images/alt_img_3.png,enem-data/enem-2014/154-images/alt_img_4.png,C,enem-data/enem-2014/154-images/context_img_0.png
+27,167,"
+
+
+
+
+
+
+
+
+Na figura, considere o plano cartesiano que contém a trajetória do assento do balanço, no qual a origem está localizada no topo do suporte do balanço, o eixo X é paralelo ao chão do parque, e o eixo Y tem orientação positiva para cima.
+
+
+","
+
+A curva determinada pela trajetória do assento do balanço é parte do gráfico da função
+
+
+",enem-data/enem-2014/167-images/alt_img_0.png,enem-data/enem-2014/167-images/alt_img_1.png,enem-data/enem-2014/167-images/alt_img_2.png,enem-data/enem-2014/167-images/alt_img_3.png,enem-data/enem-2014/167-images/alt_img_4.png,D,enem-data/enem-2014/167-images/context_img_0.png

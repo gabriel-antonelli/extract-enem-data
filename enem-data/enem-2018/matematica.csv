@@ -1,18 +1,18 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,140,"
 
 
-Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.
+Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6h 15 min da manhã. Analisando os dados coletados durante o mês de fevereiro, o  qual teve 21 dias letivos, ele concluiu que 6 h 21 min foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 h 22 min.
 
 
 
 ","
 
-Nestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é
+A probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 h 21 min da manhã é, no máximo,
 
 
-",30.,40.,45.,60.,68.,B
-1,"
+",4/21,5/21,6/21,7/21,8/21,D,
+1,149,"
 
 
 Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na 1ª fase o torneio conta com 2n competidores, então na 2ª fase restarão n competidores, e assim sucessivamente até a partida final.
@@ -25,21 +25,8 @@ Em um torneio de tênis, disputado nesse sistema, participam 128 tenistas.
 Para se definir o campeão desse torneio, o número de partidas necessárias é dado por
 
 
-",2 X 128,64 + 32 + 16 + 8 + 4 + 2 ,128 + 64 + 32 + 16 + 8 + 4 + 2 + 1,128 + 64 + 32 + 16 + 8 + 4 + 2 ,64 + 32 + 16 + 8+ 4 + 2+ 1,E
-2,"
-
-
-Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.
-
-
-
-","
-
-Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?
-
-
-","29,25 e 0,75 ","28,75 e 1,25 ","28,50 e 1,50 ","27,75 e 2,25 ","25,00 e 5,00",B
-3,"
+",2 X 128,64 + 32 + 16 + 8 + 4 + 2 ,128 + 64 + 32 + 16 + 8 + 4 + 2 + 1,128 + 64 + 32 + 16 + 8 + 4 + 2 ,64 + 32 + 16 + 8+ 4 + 2+ 1,E,
+2,142,"
 
 
 Um produtor de milho utiliza uma área de 160 hectares para as suas atividades agrícolas. Essa área é dividida em duas partes: uma de 40 hectares, com maior produtividade, e outra, de 120 hectares, com menor produtividade. A produtividade é dada pela razão entre a produção, em tonelada, e a área cultivada. Sabe-se que a área de 40 hectares tem produtividade igual a 2,5 vezes à
@@ -52,21 +39,21 @@ da outra. Esse fazendeiro pretende aumentar sua produção total em 15%,  aume
  Qual é a área mínima, em hectare, em que o produtor precisará comprar? 
 
 
-",36,33,27,24,21,B
-4,"
+",36,33,27,24,21,B,
+3,152,"
 
 
-Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6h 15 min da manhã. Analisando os dados coletados durante o mês de fevereiro, o  qual teve 21 dias letivos, ele concluiu que 6 h 21 min foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 h 22 min.
+Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.
 
 
 
 ","
 
-A probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 h 21 min da manhã é, no máximo,
+Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?
 
 
-",4/21,5/21,6/21,7/21,8/21,D
-5,"
+","29,25 e 0,75 ","28,75 e 1,25 ","28,50 e 1,50 ","27,75 e 2,25 ","25,00 e 5,00",B,
+4,150,"
 
 
 O artigo 33 da lei brasileira sobre drogas prevê a pena de reclusão de 5 a 15 anos para qualquer pessoa que seja condenada por tráfico ilícito ou produção não autorizada de drogas. Entretanto, caso o condenado seja réu primário, com bons antecedentes criminais, essa pena pode sofrer uma redução de um sexto a dois terços.
@@ -79,8 +66,23 @@ Suponha que um réu primário, com bons antecedentes criminais, foi condenado p
 Após o benefício da redução de pena, sua pena poderá variar de
 
 
-",1 ano e 8 meses a 12 anos e 6 meses.,1 ano e 8 meses a 5 anos.,3 anos e 4 meses a 10 anos.,4 anos e 2 meses a 5 anos.,4 anos e 2 meses a 12 anos e 6 meses.,A
-6,"
+",1 ano e 8 meses a 12 anos e 6 meses.,1 ano e 8 meses a 5 anos.,3 anos e 4 meses a 10 anos.,4 anos e 2 meses a 5 anos.,4 anos e 2 meses a 12 anos e 6 meses.,A,
+5,137,"
+
+
+O colesterol total de uma pessoa é obtido pela soma da taxa do seu “colesterol bom” com a taxa do seu “colesterol ruim”. Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de “colesterol bom”, porém, taxa do “colesterol ruim” (também chamado LDL) de 280 mg/dL. O quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.
+
+O paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.
+
+
+
+","
+
+De acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é
+
+
+",ótima.,próxima de ótima.,limite,alta.,muito alta.,D,enem-data/enem-2018/137-images/context_img_0.png
+6,144,"
 
 
 Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X.
@@ -92,8 +94,171 @@ Uma empresa de comunicação tem a tarefa de elaborar um material publicitário
 Os valores possíveis para X são, apenas,
 
 
-",X > 1 500.,X < 3 000.,1 500 < X < 2 250.,1 500 < X < 3 000.,2 250 < X < 3 000.,C
-7,"
+",X > 1 500.,X < 3 000.,1 500 < X < 2 250.,1 500 < X < 3 000.,2 250 < X < 3 000.,C,
+7,143,"
+
+
+A raiva é uma doença viral e infecciosa, transmitida por mamíferos. A campanha nacional de vacinação antirrábica tem o objetivo de controlar a circulação do vírus da raiva canina e felina, prevenindo a raiva humana. O gráfico mostra a cobertura (porcentagem de vacinados) da campanha, em cães, nos anos de 2013, 2015 e 2017, no município de Belo Horizonte, em Minas Gerais. Os valores das coberturas dos anos de 2014 e 2016 não estão informados no gráfico e deseja-se estimá-los. Para tal, levou-se em consideração que a variação na cobertura de vacinação da campanha antirrábica, nos períodos de 2013 a 2015 e de 2015 a 2017, deu-se de forma linear.
+
+
+
+
+","
+
+Qual teria sido a cobertura dessa campanha no ano de 2014?
+
+
+","62,3%","63,0%","63,5%","64,0%","65,5%",B,enem-data/enem-2018/143-images/context_img_0.png
+8,148,"
+
+
+Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.
+
+
+
+","
+
+Nestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é
+
+
+",30.,40.,45.,60.,68.,B,
+9,147,"
+
+
+De acordo com um relatório recente da Agência Internacional de Energia (AIE), o mercado de veículos elétricos atingiu um novo marco em 2016, quando foram vendidos mais de 750 mil automóveis da categoria. Com isso, o total de carros elétricos vendidos no mundo alcançou a marca de 2 milhões de unidades desde que os primeiros modelos começaram a ser comercializados em 2011. No Brasil, a expansão das vendas também se verifica. A marca A, por exemplo, expandiu suas vendas no ano de 2016, superando em 360 unidades as vendas de 2015, conforme representado no gráfico.
+
+
+
+
+","
+
+A média anual do número de carros vendidos pela marca A, nos anos representados no gráfico, foi de
+
+
+",192.,240.,252.,320.,420.,D,enem-data/enem-2018/147-images/context_img_0.png
+10,141,"
+
+
+Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.
+Certo mapa tem escala 1 : 58 000 000.
+
+Considere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 cm.
+
+
+
+","
+
+A medida real, em quilômetro, desse segmento de reta é
+
+
+",4 408.,7 632.,44 080.,76 316.,440 800.,A,enem-data/enem-2018/141-images/context_img_0.png
+11,145,"
+
+
+Em 2014 foi inaugurada a maior roda-gigante do mundo, a High Roller, situada em Las Vegas. A figura representa um esboço dessa roda-gigante, no qual o ponto A representa uma de suas cadeiras:
+
+A partir da posição indicada, em que o segmento OA se encontra paralelo ao plano do solo, rotaciona-se a High Roller no sentido anti-horário, em torno do ponto O. Sejam t o ângulo determinado pelo segmento OA em relação à sua posição inicial, e f a função que descreve a altura do ponto A, em relação ao solo, em função de t. Após duas voltas completas, f tem o seguinte gráfico:
+
+
+
+","
+
+A expressão da função altura é dada por
+
+
+",f(t) = 80sen(t) + 88 ,f(t) = 80cos(t) + 8 8,f(t) = 88cos(t) + 168 ,f(t) = 168sen(t) + 88cos(t),f(t) = 88sen(t) + 168cos(t),A,enem-data/enem-2018/145-images/context_img_0.png
+12,139,"
+
+
+O remo de assento deslizante é um esporte que faz uso de um barco e dois remos do mesmo tamanho. A figura mostra uma das posições de uma técnica chamada afastamento.
+
+Nessa posição, os dois remos se encontram no ponto A e suas outras extremidades estão indicadas pelos pontos B e C. Esses três pontos formam um triângulo ABC cujo ângulo   tem medida de 170°.
+
+
+
+","
+
+O  tipo de triângulo com vértices nos pontos A, B e C, no momento em que o remador está nessa posição, é
+
+
+",retângulo escaleno.,acutângulo escaleno.,acutângulo isósceles.,obtusângulo escaleno.,obtusângulo isósceles.,E,"enem-data/enem-2018/139-images/context_img_0.png,enem-data/enem-2018/139-images/context_img_1.png"
+13,153,"
+
+
+Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.
+
+
+
+
+","
+
+Um passageiro, ao chegar à sala de embarque desse aeroporto no instante indicado, visando esperar o menor tempo possível, deverá se dirigir à máquina
+
+
+",1.,2.,3.,4.,5.,B,enem-data/enem-2018/153-images/context_img_0.png
+14,138,"
+
+
+Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual ã quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias.
+Considere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.
+
+
+
+","
+
+O número de pessoas alcançadas pela campanha será dado pela expressão
+
+
+",enem-data/enem-2018/138-images/alt_img_0.png,enem-data/enem-2018/138-images/alt_img_1.png,enem-data/enem-2018/138-images/alt_img_2.png,enem-data/enem-2018/138-images/alt_img_3.png,enem-data/enem-2018/138-images/alt_img_4.png,A,
+15,154,"
+
+
+A Comissão Interna de Prevenção de Acidentes (CIPA) de uma empresa,  observando os altos custos com os frequentes acidentes de trabalho ocorridos, fez, a pedido da diretoria, uma pesquisa do número de acidentes sofridos por funcionários. Essa pesquisa, realizada com uma amostra de 100 funcionários, norteará as ações da empresa na política de segurança no trabalho.
+Os resultados obtidos estão no quadro.
+
+
+
+
+","
+
+A média do número de acidentes por funcionário na amostra que a CIPA apresentará à diretoria da empresa é
+
+
+","0,15.","0,30.","0,50.","1,11.","2,22.",D,enem-data/enem-2018/154-images/context_img_0.png
+16,136,"
+
+
+Numa atividade de treinamento realizada no Exército de um determinado país, três equipes – Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.
+• A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 km/h.
+• A equipe Beta também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 km/h.
+• Com uma velocidade média de 6,5 km/h, a equipe Gama concluiu seu caminho em 60 minutos.
+Com base nesses dados, foram comparadas as distâncias  percorridas pelas três equipes.
+
+
+
+","
+
+A ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é
+
+
+",enem-data/enem-2018/136-images/alt_img_0.png,enem-data/enem-2018/136-images/alt_img_1.png,enem-data/enem-2018/136-images/alt_img_2.png,enem-data/enem-2018/136-images/alt_img_3.png,enem-data/enem-2018/136-images/alt_img_4.png,A,enem-data/enem-2018/136-images/context_img_0.png
+17,156,"
+
+
+Na teoria das eleições, o Método de Borda sugere que, em vez de escolher um candidato, cada juiz deve criar um ranking de sua preferência para os concorrentes (isto é, criar uma lista com a ordem de classificação dos concorrentes). A este ranking é associada uma pontuação: um ponto para o último colocado no ranking, dois pontos para o penúltimo, três para o antepenúltimo, e assim sucessivamente. Ao final, soma-se a pontuação atribuída a cada concorrente por cada um dos juízes.
+Em uma escola houve um concurso de poesia no qual cinco alunos concorreram a um prêmio, sendo julgados por 25 juízes. Para a escolha da poesia vencedora foi utilizado o Método de Borda. Nos quadros, estão apresentados os rankings dos juízes e a frequência de cada ranking.
+
+ 
+
+
+
+","
+
+A poesia vencedora foi a de
+
+
+",Edu.,Dani.,Caio.,Bia.,Ana.,E,enem-data/enem-2018/156-images/context_img_0.png
+18,163,"
 
 
 O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.
@@ -106,21 +271,24 @@ Contudo, após depositar vinte perguntas de diferentes níveis na urna, ele obs
 Com essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a
 
 
-",10.,15.,35.,40.,45.,D
-8,"
+",10.,15.,35.,40.,45.,D,
+19,146,"
 
 
-Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.
+Minecraft é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma. É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento de cubinhos.
+Um jogador deseja construir um cubo com dimensões 4 x 4 x 4. Ele já empilhou alguns dos cubinhos necessários, conforme a figura.
+
+Os cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peça única, capaz de completar a tarefa.
 
 
 
 ","
 
-De acordo com as informações dadas, o último andar do edifício é o
+O formato da peça capaz de completar o cubo 4 x 4 x 4 é
 
 
-",16º,22º,23º,25º,32º,C
-9,"
+",enem-data/enem-2018/146-images/alt_img_0.png,enem-data/enem-2018/146-images/alt_img_1.png,enem-data/enem-2018/146-images/alt_img_2.png,enem-data/enem-2018/146-images/alt_img_3.png,enem-data/enem-2018/146-images/alt_img_4.png,A,enem-data/enem-2018/146-images/context_img_0.png
+20,162,"
 
 
 Os alunos da disciplina de estatística, em um curso universitário, realizam quatro avaliações por semestre com os pesos de 20%, 10%, 30% e 40%, respectivamente.
@@ -133,21 +301,8 @@ No final do semestre, precisam obter uma média nas quatro avaliações de, no 
 O mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é
 
 
-","29,8.","71,0.","74,5.","75,5.","84,0.",C
-10,"
-
-
-Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não ê dado desconto em nenhuma das situações.
-
-
-
-","
-
-Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?
-
-
-",20,24,29,40,58,B
-11,"
+","29,8.","71,0.","74,5.","75,5.","84,0.",C,
+21,159,"
 
 
 A prefeitura de um pequeno município do interior decide colocar postes para  iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.
@@ -159,8 +314,21 @@ A prefeitura de um pequeno município do interior decide colocar postes para  
 Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é
 
 
-","R$512 000,00.","R$520 000,00.","R$528 000,00.","R$552 000,00.","R$584 000,00.",C
-12,"
+","R$512 000,00.","R$520 000,00.","R$528 000,00.","R$552 000,00.","R$584 000,00.",C,
+22,160,"
+
+
+Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.
+
+
+
+","
+
+De acordo com as informações dadas, o último andar do edifício é o
+
+
+",16º,22º,23º,25º,32º,C,
+23,168,"
 
 
 Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20% do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio.
@@ -172,8 +340,69 @@ Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta a
 Quantos alunos compraram somente um bilhete?
 
 
-",34,42,47,48,79,D
-13,"
+",34,42,47,48,79,D,
+24,155,"
+
+
+A rosa dos ventos é uma figura que representa oito sentidos, que dividem o círculo em partes iguais.
+
+Uma câmera de vigilância está fixada no teto de um shopping e sua lente pode ser direcionada remotamente, através de um controlador, para qualquer sentido. A lente da câmera está apontada inicialmente no sentido Oeste e o seu controlador efetua três mudanças consecutivas, a saber:
+• 1ª mudança: 135° no sentido anti-horário;
+• 2ª mudança: 60° no sentido horário;
+• 3ª mudança: 45° no sentido anti-horário.
+Após a 3ª mudança, ele é orientado a reposicionar a câmera, com a menor amplitude possível, no sentido Noroeste (NO) devido a um movimento suspeito de um cliente.
+
+
+
+","
+
+Qual mudança de sentido o controlador deve efetuar para reposicionar a câmera?
+
+
+",75° no sentido horário.,105° no sentido anti-horário. ,120° no sentido anti-horário. ,135° no sentido anti-horário. ,165° no sentido horário.,E,enem-data/enem-2018/155-images/context_img_0.png
+25,166,"
+
+
+Um jogo pedagógico utiliza-se de uma interface algébrico-geométrica do seguinte modo: os alunos devem eliminar os pontos do plano cartesiano dando “tiros”, seguindo trajetórias que devem passar pelos pontos escolhidos. Para dar os tiros, o aluno deve escrever em uma janela do programa a equação cartesiana de uma reta ou de uma circunferência que passa pelos pontos e pela origem do sistema de coordenadas. Se o tiro for dado por meio da equação da circunferência, cada ponto diferente da origem que for atingido vale 2 pontos. Se o tiro for dado por meio da equação de uma reta, cada ponto diferente da origem que for atingido vale 1 ponto. Em uma situação de jogo, ainda restam os  seguintes pontos para serem eliminados: A(0 ; 4), 6(4 ; 4), C(4 ; 0), D(2 ; 2) e E(0; 2).
+
+ 
+
+
+
+","
+
+Passando pelo ponto A, qual equação forneceria a maior pontuação?
+
+
+",x = 0,y = 0,x² + y² =16,x² + (y-2)² = 4 ,(x -2 )² + ( y - 2 )² = 8,E,enem-data/enem-2018/166-images/context_img_0.png
+26,167,"
+
+
+Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha
+
+
+
+
+","
+
+Qual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?
+
+
+",12,18,30,40,50,D,enem-data/enem-2018/167-images/context_img_0.png
+27,172,"
+
+
+Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não ê dado desconto em nenhuma das situações.
+
+
+
+","
+
+Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?
+
+
+",20,24,29,40,58,B,
+28,171,"
 
 
 Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.
@@ -191,8 +420,24 @@ Considere 0,30 como aproximação para 
 Em que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?
 
 
-",1999 ,2002,2022,2026 ,2146,C
-14,"
+",1999 ,2002,2022,2026 ,2146,C,
+29,165,"
+
+
+Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente P submetido a juros compostos com taxa i, por um período de tempo n, produz um valor futuro V determinado pela fórmula:
+
+Em um contrato de empréstimo com sessenta parcelas fixas mensais, de R$820,00, a uma taxa de juros de 1,32% ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25% do valor da parcela.
+Utilize 0,2877 como aproximação para In  e 0,0131 como aproximação para In (1,0132).
+
+
+
+","
+
+A primeira das parcelas que poderá ser antecipada junto com a 30ª é a
+
+
+",56ª,55ª,52ª,51ª,45ª,C,"enem-data/enem-2018/165-images/context_img_0.png,enem-data/enem-2018/165-images/context_img_1.png"
+30,176,"
 
 
 Para ganhar um prêmio, uma pessoa deverá retirar, sucessivamente e sem reposição, duas bolas pretas de uma mesma urna.
@@ -215,4 +460,182 @@ A pessoa deve escolher uma entre as cinco opções apresentadas:
 Com o objetivo de obter a maior probabilidade possível de ganhar o prêmio, a pessoa deve escolher a opção
 
 
-",1.,2.,3.,4.,5.,E
+",1.,2.,3.,4.,5.,E,
+31,161,"
+
+
+O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em design e tecnologia.
+Disponível em: http://g1.globo.com. Acesso em: 4 fev. 2015 (adaptado).
+Uma montadora pretende participar desse evento com dois estandes, um na entrada e outro na região central do salão, expondo, em cada um deles, um carro compacto e uma caminhonete. Para compor os estandes, foram disponibilizados pela montadora quatro carros compactos, de modelos distintos, e seis caminhonetes de diferentes cores para serem escolhidos aqueles que serão expostos. A posição dos carros dentro de cada estande é irrelevante.
+
+
+
+","
+
+Uma expressão que fornece a quantidade de maneiras diferentes que os estandes podem ser compostos é
+
+
+",enem-data/enem-2018/161-images/alt_img_0.png,enem-data/enem-2018/161-images/alt_img_1.png,enem-data/enem-2018/161-images/alt_img_2.png,enem-data/enem-2018/161-images/alt_img_3.png,enem-data/enem-2018/161-images/alt_img_4.png,C,
+32,173,"
+
+
+O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.
+O atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares atê aquele momento.
+
+Ele precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.
+
+O atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.
+
+
+
+","
+
+Considerando essas condições, o salto que o atleta deverá escolher é o de tipo
+
+
+",T1.,T2.,T3.,T4.,T5.,C,"enem-data/enem-2018/173-images/context_img_0.png,enem-data/enem-2018/173-images/context_img_1.png"
+33,179,"
+
+
+A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.
+
+O passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os raios, pois o chafariz está cheio, um engenheiro fez a seguinte medição: esticou uma trena tangente ao chafariz, medindo a distância entre dois pontos A e B, conforme a figura. Com isso, obteve a medida do segmento de reta AB: 16 m.
+
+Dispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado.
+
+
+
+","
+
+A medida encontrada pelo engenheiro foi
+
+
+",4π.,8π.,48π.,64π.,192π.,D,"enem-data/enem-2018/179-images/context_img_0.png,enem-data/enem-2018/179-images/context_img_1.png"
+34,175,"
+
+
+A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x centímetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x%, como no exemplo da figura:
+
+A figura apresenta um projeto de uma rampa de acesso a uma garagem residencial cuja base, situada 2 metros abaixo do nível da rua, tem 8 metros de comprimento.
+
+Depois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde ela está localizada exigem que a inclinação máxima de uma rampa de acesso a uma garagem residencial seja de 20%.
+Se a rampa projetada tiver inclinação superior a 20%, o nível da garagem deverá ser alterado para diminuir o percentual de inclinação, mantendo o comprimento da base da rampa.
+
+
+
+","
+
+Para atender às normas técnicas do município, o nível da garagem deverá ser
+
+
+",elevado em 40 cm.,elevado em 50 cm.,mantido no mesmo nível.,rebaixado em 40 cm.,rebaixado em 50 cm.,A,"enem-data/enem-2018/175-images/context_img_0.png,enem-data/enem-2018/175-images/context_img_1.png"
+35,177,"
+
+
+A Ecofont possui design baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.
+
+Suponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio  Para que a área a ser pintada seja reduzida a  da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.
+
+
+
+","
+
+Nessas condições, o tamanho adequado da fonte será
+
+
+",64.,48.,24.,21.,12.,B,"enem-data/enem-2018/177-images/context_img_0.png,enem-data/enem-2018/177-images/context_img_1.png,enem-data/enem-2018/177-images/context_img_2.png"
+36,170,"
+
+
+Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma 30° com a borda inferior. O raio da base do cilindro mede 6/π cm, e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura.
+
+
+
+
+","
+
+O valor da medida da altura do cilindro, em centímetro, é
+
+
+",enem-data/enem-2018/170-images/alt_img_0.png,enem-data/enem-2018/170-images/alt_img_1.png,enem-data/enem-2018/170-images/alt_img_2.png,enem-data/enem-2018/170-images/alt_img_3.png,enem-data/enem-2018/170-images/alt_img_4.png,B,enem-data/enem-2018/170-images/context_img_0.png
+37,180,"
+
+
+Um designer de jogos planeja um jogo que faz uso de um tabuleiro de dimensão  n x n, com no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 x 8.
+
+O tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a 
+
+
+
+","
+
+A dimensão mínima que o designer deve adotar para esse tabuleiro é
+
+
+",4 x 4.,6 x 6.,9 x 9.,10 x 10.,11 x 11.,D,"enem-data/enem-2018/180-images/context_img_0.png,enem-data/enem-2018/180-images/context_img_1.png,enem-data/enem-2018/180-images/context_img_2.png"
+38,157,"
+
+
+Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por 12 semirretas com extremidades na origem, separadas por ângulos de  conforme a figura.
+
+Suponha que os objetos se desloquem apenas pelas semirretas e pelas circunferências dessa malha, não podendo passar pela origem (0;0).
+Considere o valor de π com aproximação de, pelo menos, uma casa decimal.
+
+
+
+","
+
+ Para realizar o percurso mais curto possível ao longo da malha, do ponto B até o ponto A, um objeto deve percorrer uma distância igual a:
+
+
+",enem-data/enem-2018/157-images/alt_img_0.png,enem-data/enem-2018/157-images/alt_img_1.png,enem-data/enem-2018/157-images/alt_img_2.png,enem-data/enem-2018/157-images/alt_img_3.png,enem-data/enem-2018/157-images/alt_img_4.png,A,"enem-data/enem-2018/157-images/context_img_0.png,enem-data/enem-2018/157-images/context_img_1.png"
+39,178,"
+
+
+Para criar um logotipo, um profissional da área de design gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo,  exatamente como mostra a imagem.
+
+Para construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.
+ 
+
+
+
+","
+
+Esse conjunto é dado pelos pares ordenados tais que
+
+
+",enem-data/enem-2018/178-images/alt_img_0.png,enem-data/enem-2018/178-images/alt_img_1.png,enem-data/enem-2018/178-images/alt_img_2.png,enem-data/enem-2018/178-images/alt_img_3.png,enem-data/enem-2018/178-images/alt_img_4.png,B,enem-data/enem-2018/178-images/context_img_0.png
+40,174,"
+
+
+Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um  guindaste iça uma viga de aço que se encontra inicialmente no solo.
+
+Na figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no  (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.
+ 
+
+
+
+
+","
+
+O gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre, é
+
+
+",enem-data/enem-2018/174-images/alt_img_0.png,enem-data/enem-2018/174-images/alt_img_1.png,enem-data/enem-2018/174-images/alt_img_2.png,enem-data/enem-2018/174-images/alt_img_3.png,enem-data/enem-2018/174-images/alt_img_4.png,A,"enem-data/enem-2018/174-images/context_img_0.png,enem-data/enem-2018/174-images/context_img_1.png,enem-data/enem-2018/174-images/context_img_2.png"
+41,169,"
+
+
+Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.
+
+Uma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm.
+ 
+  
+
+
+
+","
+
+O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é
+
+
+",enem-data/enem-2018/169-images/alt_img_0.png,enem-data/enem-2018/169-images/alt_img_1.png,enem-data/enem-2018/169-images/alt_img_2.png,enem-data/enem-2018/169-images/alt_img_3.png,enem-data/enem-2018/169-images/alt_img_4.png,A,"enem-data/enem-2018/169-images/context_img_0.png,enem-data/enem-2018/169-images/context_img_1.png,enem-data/enem-2018/169-images/context_img_2.png,enem-data/enem-2018/169-images/context_img_3.png"

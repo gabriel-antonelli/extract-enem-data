@@ -1,5 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,136,"
 
 O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido.
 Todos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada.
@@ -12,30 +12,8 @@ O diretor sabe que algum aluno acertará a resposta porque há
  
 
 
-",10 alunos a mais do que possíveis respostas distintas.  ,20 alunos a mais do que possíveis respostas distintas.  ,119 alunos a mais do que possíveis respostas distintas.  ,260 alunos a mais do que possíveis respostas distintas.  ,270 alunos a mais do que possíveis respostas distintas.,A
-1,"
-
-Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.
-
-
-","
-
-Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?
-
-
-",37,51,88,89,91,C
-2,"
-
-Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.
-
-
-","
-
-A quantidade de cartas que forma o monte é
-
-
-",21.,24.,26.,28.,31.,B
-3,"
+",10 alunos a mais do que possíveis respostas distintas.  ,20 alunos a mais do que possíveis respostas distintas.  ,119 alunos a mais do que possíveis respostas distintas.  ,260 alunos a mais do que possíveis respostas distintas.  ,270 alunos a mais do que possíveis respostas distintas.,A,
+1,152,"
 
 A capacidade mínima, em BTU/h, de um aparelho de ar-condicionado, para ambientes sem exposição ao sol, pode ser determinada da seguinte forma:
 • 600 BTU/h por m2 , considerando-se até duas pessoas no ambiente;
@@ -49,8 +27,198 @@ Será instalado um aparelho de ar-condicionado em uma sala, sem exposição ao s
 A capacidade mínima, em BTU/h, desse aparelho de arcondicionado deve ser
 
 
-",12 000.  ,12 600.  ,13 200.  ,13 800.  ,15 000.,D
-4,"
+",12 000.  ,12 600.  ,13 200.  ,13 800.  ,15 000.,D,
+2,146,"
+
+Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.
+
+
+","
+
+Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?
+
+
+",37,51,88,89,91,C,
+3,142,"
+
+Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.
+
+
+","
+
+A quantidade de cartas que forma o monte é
+
+
+",21.,24.,26.,28.,31.,B,
+4,138,"
+
+
+
+
+
+
+
+
+Uma jogada consiste em:
+1º) o jogador apresenta um palpite sobre a cor da bola que será retirada por ele da urna 2;
+2º) ele retira, aleatoriamente, uma bola da urna 1 e a coloca na urna 2, misturando-a com as que lá estão;
+3º) em seguida ele retira, também aleatoriamente, uma bola da urna 2;
+4º) se a cor da última bola retirada for a mesma do palpite inicial, ele ganha o jogo.
+ 
+
+
+","
+
+Qual cor deve ser escolhida pelo jogador para que ele tenha a maior probabilidade de ganhar?
+
+
+",Azul.  ,Amarela.  ,Branca.  ,Verde.  ,Vermelha.,E,enem-data/enem-2012/138-images/context_img_0.png
+5,148,"
+
+
+
+
+
+
+
+","
+
+Avaliando-se todas as informações, serão necessários
+
+
+",quatro unidades do tipo A e nenhuma unidade do tipo B.  ,três unidades do tipo A e uma unidade do tipo B.  ,duas unidades do tipo A e duas unidades do tipo B.  ,uma unidade do tipo A e três unidades do tipo B.  ,nenhuma unidade do tipo A e quatro unidades do tipo B.,C,enem-data/enem-2012/148-images/context_img_0.png
+6,144,"
+
+
+
+
+
+
+
+","
+
+De acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?
+
+
+",20,21,24,25,27,E,enem-data/enem-2012/144-images/context_img_0.png
+7,141,"
+
+
+
+
+
+
+
+","
+
+Quais serão os sólidos geométricos que Maria obterá a partir dessas planificações?
+
+
+","Cilindro, prisma de base pentagonal e pirâmide.  ","Cone, prisma de base pentagonal e pirâmide.  ","Cone, tronco de pirâmide e pirâmide.  ","Cilindro, tronco de pirâmide e prisma.  ","Cilindro, prisma e tronco de cone.",A,enem-data/enem-2012/141-images/context_img_0.png
+8,140,"
+
+
+
+
+
+
+
+","
+
+De acordo com o gráfico, os meses em que ocorreram, respectivamente, a maior e a menor venda absolutas em 2011 foram
+
+
+",março e abril.,março e agosto.,agosto e setembro.,junho e setembro.,junho e agosto.,E,enem-data/enem-2012/140-images/context_img_0.png
+9,149,"
+
+
+
+
+
+
+
+
+Nesta figura, os pontos A, B, C e D são pontos médios dos lados do quadrado e os segmentos AP e QC medem 1/4 da medida do lado do quadrado. Para confeccionar um vitral, são usados dois tipos de materiais: um para a parte sombreada da figura, que custa R$ 30,00 o m², e outro para a parte mais clara (regiões ABPDA e BCDQB), que custa R$ 50,00 o m².
+
+
+","
+
+De acordo com esses dados, qual é o custo dos materiais usados na fabricação de um vitral?
+ 
+
+
+","R$ 22,50","R$ 35,00","R$ 40,00","R$ 42,50","R$ 45,00",B,enem-data/enem-2012/149-images/context_img_0.png
+10,147,"
+
+
+
+
+
+
+
+","
+
+O que aconteceria com o nível da água se colocássemos no tanque um objeto cujo volume fosse de 2 400 cm³?
+
+
+","O nível subiria 0,2 cm, fazendo a água ficar com 20,2 cm de altura.  ","O nível subiria 1 cm, fazendo a água ficar com 21 cm de altura.  ","O nível subiria 2 cm, fazendo a água ficar com 22 cm de altura. ","O nível subiria 8 cm, fazendo a água transbordar.  ","O nível subiria 20 cm, fazendo a água transbordar.",C,enem-data/enem-2012/147-images/context_img_0.png
+11,143,"
+
+
+
+
+
+
+
+","
+
+Com base no gráfico e nas informações do texto, é possível inferir que houve maior aquecimento global em
+
+
+",1995.,1998.,2000.,2005.,2007.,E,enem-data/enem-2012/143-images/context_img_0.png
+12,137,"
+
+
+
+
+
+
+
+","
+
+Qual é a árvore que apresenta a maior altura real?
+
+
+",I,II,III,IV,V,D,enem-data/enem-2012/137-images/context_img_0.png
+13,151,"
+
+
+
+
+
+
+
+","
+
+Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por
+
+
+",2xy  ,15 − 3x  ,15 − 5y  ,−5y − 3x  ,5y + 3x − xy,E,enem-data/enem-2012/151-images/context_img_0.png
+14,139,"
+
+
+
+
+
+
+
+","
+
+Considerando as informações indicadas na figura, o consumo total de água registrado nesse hidrômetro, em litros, é igual a
+
+
+","3 534,85.  ","3 544,20.  ","3 534 850,00.  ","3 534 859,35.  ","3 534 850,39.",D,enem-data/enem-2012/139-images/context_img_0.png
+15,157,"
 
 João decidiu contratar os serviços de uma empresa por telefone através do SAC (Serviço de Atendimento ao Consumidor). O atendente ditou para João o número de protocolo de atendimento da ligação e pediu que ele anotasse. Entretanto, João não entendeu um dos algarismos ditados pelo atendente e anotou o número 1 3 _ 9 8 2 0 7, sendo que o espaço vazio é o do algarismo que João não entendeu.
 
@@ -61,19 +229,28 @@ De acordo com essas informações, a posição ocupada pelo algarismo que falta 
  
 
 
-",centena.,dezena de milhar.,centena de milhar.,milhão.,centena de milhão.,C
-5,"
+",centena.,dezena de milhar.,centena de milhar.,milhão.,centena de milhão.,C,
+16,155,"
 
-Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.
+
+
+
+
+
+
+
+em que QO é quantidade de oferta, QD é a quantidade de demanda e P é o preço do produto.
+A partir dessas equações, de oferta e de demanda, os economistas encontram o preço de equilíbrio de mercado, ou seja, quando QO e QD se igualam.
+ 
 
 
 ","
 
-Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é
+Para a situação descrita, qual o valor do preço de equilíbrio?
 
 
-",153.  ,460.,1 218.,1 380.,3 066.,D
-6,"
+",5,11,13,23,33,B,enem-data/enem-2012/155-images/context_img_0.png
+17,161,"
 
 
 O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas.
@@ -91,8 +268,8 @@ Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a esc
  
 
 
-",1:700  ,1:7 000  ,1:70 000  ,1:700 000  ,1:7 000 000,D
-7,"
+",1:700  ,1:7 000  ,1:70 000  ,1:700 000  ,1:7 000 000,D,
+18,169,"
 
 Há, em virtude da demanda crescente de economia de água, equipamentos e utensílios como, por exemplo, as bacias sanitárias ecológicas, que utilizam 6 litros de água por descarga em vez dos 15 litros utilizados por bacias sanitárias não ecológicas, conforme dados da Associação Brasileira de Normas Técnicas (ABNT).
 
@@ -103,8 +280,42 @@ Qual será a economia diária de água obtida por meio da substituição de uma 
  
 
 
-",24 litros,36 litros,40 litros,42 litros,50 litros,B
-8,"
+",24 litros,36 litros,40 litros,42 litros,50 litros,B,
+19,156,"
+
+Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.
+
+
+","
+
+Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é
+
+
+",153.  ,460.,1 218.,1 380.,3 066.,D,
+20,164,"
+
+O gráfico a seguir apresenta o resultado da enquete.
+
+
+
+
+
+
+
+
+
+
+O administrador do blog irá sortear um livro entre os visitantes que opinaram na postagem “Contos de Halloween”.
+
+
+","
+
+Sabendo que nenhum visitante votou mais de uma vez, a probabilidade de uma pessoa escolhida ao acaso entre as que opinaram ter assinalado que o conto “Contos de Halloween” é “Chato” é mais aproximada por
+ 
+
+
+","0,09.  ","0,12.  ","0,14.  ","0,15.","0,18.",D,enem-data/enem-2012/164-images/context_img_0.png
+21,172,"
 
 Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30 000 m² e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10 000 m²).
 
@@ -114,31 +325,71 @@ Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultor
 A variância das produções dos talhões expressa em (sacas/hectare)² é
 
 
-","20,25.","4,50.","0,71.","0,50.","0,25.",E
-9,"
+","20,25.","4,50.","0,71.","0,50.","0,25.",E,
+22,162,"
 
-José, Paulo e Antônio estão jogando dados não viciados, nos quais, em cada uma das seis faces, há um número de 1 a 6. Cada um deles jogará dois dados simultaneamente. José acredita que, após jogar seus dados, os números das faces voltadas para cima lhe darão uma soma igual a 7. Já Paulo acredita que sua soma será igual a 4 e Antônio acredita que sua soma será igual a 8.
+
+
+
+
+
+
+
+Dobrando-se o raio de duas das circunferências centradas em vértices opostos do losango e ainda mantendo-se a configuração das tangências, obtém-se uma situação conforme ilustrada pela Figura 2.
+
+
+
+
+
+
+
+
+
+","
+
+O perímetro do losango da Figura 2, quando comparado ao perímetro do losango da Figura 1, teve um aumento de
  
 
 
+",300%.,200%.,150%.,100%.,50%.,E,"enem-data/enem-2012/162-images/context_img_0.png,enem-data/enem-2012/162-images/context_img_1.png"
+23,159,"
+
+
+
+
+
+
+
+
+
+O gerente de atendimento deseja identificar os dias da semana em que o nível de eficiência pode ser considerado muito bom, ou seja, os dias em que o número de reclamações resolvidas excede o número de reclamações recebidas.
+
+Disponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado).
+ 
+
+
+
 ","
 
-Com essa escolha, quem tem a maior probabilidade de acertar sua respectiva soma é
+O gerente de atendimento pôde concluir, baseado no conceito de eficiência utilizado na empresa e nas informações do gráfico, que o nível de eficiência foi muito bom na
 
 
-","Antônio, já que sua soma é a maior de todas as escolhidas.","José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 4 possibilidades para a escolha de Paulo.","José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 2 possibilidades para a escolha de Paulo.","José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas 3 possibilidades para formar a soma de Paulo.","Paulo, já que sua soma é a menor de todas.",D
-10,"
+",segunda e na terça-feira.  ,terça e na quarta-feira.  ,terça e na quinta-feira.  ,"quinta-feira, no sábado e no domingo.  ","segunda, na quinta e na sexta-feira.",B,enem-data/enem-2012/159-images/context_img_0.png
+24,168,"
 
-Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k⋅m2/3, em que k é uma constante positiva.
+
+
+
+
 
 
 ","
 
-Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal?
+Com base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a
 
 
-",∛16,4,√24,8,64,B
-11,"
+","3,25 × 102 km.","3,25 × 103 km.","3,25 × 104 km.","3,25 × 105 km.","3,25 × 106 km.",D,enem-data/enem-2012/168-images/context_img_0.png
+25,173,"
 
 
 O designer português Miguel Neiva criou um sistema de símbolos que permite que pessoas daltônicas identifiquem cores. O sistema consiste na utilização de símbolos que identificam as cores primárias (azul, amarelo e vermelho). Além disso, a justaposição de dois desses símbolos permite identificar cores secundárias (como o verde, que é o amarelo combinado com o azul). O preto e o branco são identificados por pequenos quadrados: o que simboliza o preto é cheio, enquanto o que simboliza o branco é vazio. Os símbolos que representam preto e branco também podem estar associados aos símbolos que identificam cores, significando se estas são claras ou escuras.
@@ -153,8 +404,64 @@ Folha de São Paulo. Disponível em: www1.folha.uol.com.br. Acesso em: 18 fev. 2
 De acordo com o texto, quantas cores podem ser representadas pelo sistema proposto?
 
 
-",14,18,20,21,23,C
-12,"
+",14,18,20,21,23,C,
+26,174,"
+
+José, Paulo e Antônio estão jogando dados não viciados, nos quais, em cada uma das seis faces, há um número de 1 a 6. Cada um deles jogará dois dados simultaneamente. José acredita que, após jogar seus dados, os números das faces voltadas para cima lhe darão uma soma igual a 7. Já Paulo acredita que sua soma será igual a 4 e Antônio acredita que sua soma será igual a 8.
+ 
+
+
+","
+
+Com essa escolha, quem tem a maior probabilidade de acertar sua respectiva soma é
+
+
+","Antônio, já que sua soma é a maior de todas as escolhidas.","José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 4 possibilidades para a escolha de Paulo.","José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 2 possibilidades para a escolha de Paulo.","José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas 3 possibilidades para formar a soma de Paulo.","Paulo, já que sua soma é a menor de todas.",D,
+27,177,"
+
+Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k⋅m2/3, em que k é uma constante positiva.
+
+
+","
+
+Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal?
+
+
+",∛16,4,√24,8,64,B,
+28,167,"
+
+
+
+
+
+
+
+","
+
+Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é
+
+
+","0,20 m e 1,45 m.  ","0,20 m e 1,40 m.  ","0,25 m e 1,35 m.  ","0,25 m e 1,30 m.  ","0,45 m e 1,20 m.",E,enem-data/enem-2012/167-images/context_img_0.png
+29,170,"
+
+
+
+
+
+
+
+
+Um investidor deseja comprar duas das empresas listadas na tabela. Para tal, ele calcula a média da receita bruta anual dos últimos três anos (de 2009 até 2011) e escolhe as duas empresas de maior média anual.
+
+
+","
+
+As empresas que este investidor escolhe comprar são
+ 
+
+
+",Balas W e Pizzaria Y.,Chocolates X e Tecelagem Z.,Pizzaria Y e Alfinetes V.,Pizzaria Y e Chocolates X.,Tecelagem Z e Alfinetes V.,D,enem-data/enem-2012/170-images/context_img_0.png
+30,176,"
 
 
 A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%.
@@ -169,8 +476,41 @@ Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado).
 Levando em consideração o processo de cozimento e a contração sofrida, o volume V de uma travessa de argila, de forma cúbica de aresta a, diminui para um valor que é
 
 
-","20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.","36% menor que V, porque a área da base diminui de a2 para ((1 − 0,2)a)².","48,8% menor que V, porque o volume diminui de a3 para (0,8a)³.","51,2% menor que V, porque cada lado diminui para 80% do comprimento original.","60% menor que V, porque cada lado diminui 20%.",C
-13,"
+","20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.","36% menor que V, porque a área da base diminui de a2 para ((1 − 0,2)a)².","48,8% menor que V, porque o volume diminui de a3 para (0,8a)³.","51,2% menor que V, porque cada lado diminui para 80% do comprimento original.","60% menor que V, porque cada lado diminui 20%.",C,
+31,171,"
+
+
+
+
+
+
+
+
+Um paciente fez um exame de glicose nesse laboratório e comprovou que estava com hiperglicemia. Sua taxa de glicose era de 300 mg/dL. Seu médico prescreveu um tratamento em duas etapas. Na primeira etapa ele conseguiu reduzir sua taxa em 30% e na segunda etapa em 10%.
+
+
+","
+
+Ao calcular sua taxa de glicose após as duas reduções, o paciente verificou que estava na categoria de
+ 
+
+
+",hipoglicemia.,normal.,pré-diabetes.,diabetes melito.,hiperglicemia.,D,enem-data/enem-2012/171-images/context_img_0.png
+32,175,"
+
+
+
+
+
+
+
+","
+
+Com base no gráfico, o valor da parte inteira da mediana dos empregos formais surgidos no período é
+
+
+",212 952.,229 913.,240 621.,255 496.,298 041.,B,enem-data/enem-2012/175-images/context_img_0.png
+33,180,"
 
 
 Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.
@@ -185,4 +525,90 @@ PAVARIN, G. Galileu, fev. 2012 (adaptado).
 A representação angular da localização do vulcão com relação a sua longitude na forma decimal é
 
 
-","124,02°.","124,05°.","124,20°.","124,30°.","124,50°.",B
+","124,02°.","124,05°.","124,20°.","124,30°.","124,50°.",B,
+34,153,"
+
+
+
+
+
+
+
+","
+
+A expressão que traduz a resistência S dessa viga de madeira é
+
+
+",enem-data/enem-2012/153-images/alt_img_0.png,enem-data/enem-2012/153-images/alt_img_1.png,enem-data/enem-2012/153-images/alt_img_2.png,enem-data/enem-2012/153-images/alt_img_3.png,enem-data/enem-2012/153-images/alt_img_4.png,A,enem-data/enem-2012/153-images/context_img_0.png
+35,154,"
+
+
+
+
+
+
+
+
+O deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C.
+
+
+","
+
+O desenho que Bruno deve fazer é
+
+
+",enem-data/enem-2012/154-images/alt_img_0.png,enem-data/enem-2012/154-images/alt_img_1.png,enem-data/enem-2012/154-images/alt_img_2.png,enem-data/enem-2012/154-images/alt_img_3.png,enem-data/enem-2012/154-images/alt_img_4.png,E,enem-data/enem-2012/154-images/context_img_0.png
+36,165,"
+
+Em exposições de artes plásticas, é usual que estátuas sejam expostas sobre plataformas giratórias. Uma medida de segurança é que a base da escultura esteja integralmente apoiada sobre a plataforma. Para que se providencie o equipamento adequado, no caso de uma base quadrada que será fixada sobre uma plataforma circular, o auxiliar técnico do evento deve estimar a medida R do raio adequado para a plataforma em termos da medida L do lado da base da estátua.
+
+
+","
+
+Qual relação entre R e L o auxiliar técnico deverá apresentar de modo que a exigência de segurança seja cumprida?
+
+
+",enem-data/enem-2012/165-images/alt_img_0.png,enem-data/enem-2012/165-images/alt_img_1.png,enem-data/enem-2012/165-images/alt_img_2.png,enem-data/enem-2012/165-images/alt_img_3.png,enem-data/enem-2012/165-images/alt_img_4.png,A,
+37,166,"
+
+
+
+
+
+
+
+
+Na Figura 2, o ponto A está no plano do chão onde está colocado o globo da morte e o segmento AB passa pelo centro da esfera e é perpendicular ao plano do chão. Suponha que há um foco de luz direcionado para o chão colocado no ponto B e que um motoqueiro faça um trajeto dentro da esfera, percorrendo uma circunferência que passa pelos pontos A e B.
+
+
+","
+
+A imagem do trajeto feito pelo motoqueiro no plano do chão é melhor representada por
+
+
+",enem-data/enem-2012/166-images/alt_img_0.png,enem-data/enem-2012/166-images/alt_img_1.png,enem-data/enem-2012/166-images/alt_img_2.png,enem-data/enem-2012/166-images/alt_img_3.png,enem-data/enem-2012/166-images/alt_img_4.png,E,enem-data/enem-2012/166-images/context_img_0.png
+38,179,"
+
+Existem no mercado chuveiros elétricos de diferentes potências, que representam consumos e custos diversos. A potência (P) de um chuveiro elétrico é dada pelo produto entre sua resistência elétrica (R) e o quadrado da corrente elétrica (i) que por ele circula. O consumo de energia elétrica (E), por sua vez, é diretamente proporcional à potência do aparelho.
+
+
+","
+
+Considerando as características apresentadas, qual dos gráficos a seguir representa a relação entre a energia consumida (E) por um chuveiro elétrico e a corrente elétrica (i) que circula por ele?
+
+
+",enem-data/enem-2012/179-images/alt_img_0.png,enem-data/enem-2012/179-images/alt_img_1.png,enem-data/enem-2012/179-images/alt_img_2.png,enem-data/enem-2012/179-images/alt_img_3.png,enem-data/enem-2012/179-images/alt_img_4.png,D,
+39,178,"
+
+
+
+
+
+
+
+","
+
+Para obter essas médias, ele multiplicou a matriz obtida a partir da tabela por
+
+
+",enem-data/enem-2012/178-images/alt_img_0.png,enem-data/enem-2012/178-images/alt_img_1.png,enem-data/enem-2012/178-images/alt_img_2.png,enem-data/enem-2012/178-images/alt_img_3.png,enem-data/enem-2012/178-images/alt_img_4.png,E,enem-data/enem-2012/178-images/context_img_0.png

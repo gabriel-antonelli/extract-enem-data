@@ -2,6 +2,7 @@ import concurrent.futures
 import datetime
 import logging
 import os
+import re
 
 import pandas as pd
 import requests
@@ -40,38 +41,78 @@ class ScrapQuestions:
         raw_list = ScrapQuestions.get_elements_text(lst).splitlines()
         return [line for line in raw_list if line.strip()]
 
-    def add_row(self, soup, context_section, data_list):
+    @staticmethod
+    def extract_question_number( soup):
+        question_number_tag = soup.find("p", class_="navigation-question-number")
+        if question_number_tag:
+            question_number_text = question_number_tag.text.strip()
+            match = re.search(r'\d+', question_number_text)
+            if match:
+                return int(match.group())
+        return None
+
+    def download_image(self, img_url, filename):
+        img_data = requests.get(img_url).content
+        with open(filename, 'wb') as handler:
+            handler.write(img_data)
+
+    def add_row(self, soup, context_section, data_list, dir_path):
         question_section = self.get_element_by_classname(
             soup, "section", "alternatives-introduction"
         )
-        alternatives_list_ol = self.get_element_by_classname(
+        alternatives_list_ol_text = self.get_element_by_classname(
             soup, "ol", "alternatives-list type-text"
         )
+        alternatives_list_ol_image = self.get_element_by_classname(
+                soup, "ol", "alternatives-list type-image"
+                        )
         answer_div = self.get_element_by_classname(soup, "div", "answer")
 
         question_text = self.get_elements_text(question_section)
         context_text = self.get_elements_text(context_section)
-        alternatives_list = self.transform_elements_text_to_list(alternatives_list_ol)
+        alternatives_list = self.transform_elements_text_to_list(alternatives_list_ol_text)
         answer_text = self.transform_elements_text_to_list(answer_div)
 
-        if len(alternatives_list) == 5 and all(
+        if  all(
             [context_text, question_text, answer_text]
         ):
+            question_number = self.extract_question_number(soup)
+            # Download and save context images
+            context_images = context_section.find_all("img")
+            for i, img in enumerate(context_images):
+                img_url = img['src']
+                os.makedirs(f"{dir_path}/{question_number}-images", exist_ok=True)
+                img_filename = f"{dir_path}/{question_number}-images/context_img_{i}.png"
+                self.download_image(img_url, img_filename)
+
+            # Download and save alternatives images
+            if alternatives_list_ol_image:
+                alternatives_images = alternatives_list_ol_image.find_all("img")
+                for i, img in enumerate(alternatives_images):
+                    img_url = img['src']
+                    os.makedirs(f"{dir_path}/{question_number}-images", exist_ok=True)
+                    img_filename = f"{dir_path}/{question_number}-images/alt_img_{i}.png"
+                    self.download_image(img_url, img_filename)
+                    alternatives_list.append(img_filename)
+
             row = [
+                question_number,
                 context_text,
                 question_text,
-                alternatives_list[0],
-                alternatives_list[1],
-                alternatives_list[2],
-                alternatives_list[3],
-                alternatives_list[4],
-                answer_text[-1][-1],
+                alternatives_list[0] if alternatives_list else None,
+                alternatives_list[1] if len(alternatives_list) > 1 else None,
+                alternatives_list[2] if len(alternatives_list) > 2 else None,
+                alternatives_list[3] if len(alternatives_list) > 3 else None,
+                alternatives_list[4] if len(alternatives_list) > 4 else None,
+                answer_text[-1][-1] if answer_text else None,
+                # Include references to context and alternatives images in CSV
+                ",".join(f"{dir_path}/{question_number}-images/context_img_{i}.png" for i in range(len(context_images))),
             ]
             data_list.append(row)
 
         return data_list
 
-    def process_question(self, link, data_list):
+    def process_question(self, link, data_list, dir_path):
         max_retries = 5
         retries = 0
 
@@ -84,9 +125,7 @@ class ScrapQuestions:
                         soup, "section", "question-content"
                     )
                     if context_section is not None:
-                        verify_img_question = self.verify_img_question(context_section)
-                        if verify_img_question is False:
-                            data_list = self.add_row(soup, context_section, data_list)
+                        data_list = self.add_row(soup, context_section, data_list, dir_path)
                 return data_list
             except Exception as e:
                 logging.error(f"Error processing question: {link} - {str(e)}")
@@ -119,7 +158,7 @@ class ScrapQuestions:
 
                 with concurrent.futures.ThreadPoolExecutor() as executor:
                     results = [
-                        executor.submit(self.process_question, link, data_list)
+                        executor.submit(self.process_question, link, data_list, dir_path)
                         for link in links
                     ]
                     for future in concurrent.futures.as_completed(results):
@@ -130,6 +169,7 @@ class ScrapQuestions:
                 df = pd.DataFrame(
                     data_list,
                     columns = [
+                        "number",
                         "context",
                         "question",
                         "A",
@@ -138,6 +178,7 @@ class ScrapQuestions:
                         "D",
                         "E",
                         "answer",
+                        "context-images",
                     ],
                 )
 

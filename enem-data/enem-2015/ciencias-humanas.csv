@@ -1,20 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
-
-
-Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.
-
-REICH, R. O trabalho das nações: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).
-
-
-
-","
-
-A viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de
-
-
-",linhas de montagem e formação de estoques.,empresas burocráticas e mão de obra barata.,controle estatal e infraestrutura consolidada.,organização em rede e tecnologia de informação.,gestão centralizada e protecionismo econômico.,D
-1,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,3,"
 
 
 A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.
@@ -28,23 +13,8 @@ WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber:
 Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o(a)
 
 
-",progresso civilizatório como decorrência da expansão do industrialismo.,extinção do pensamento mítico como um desdobramento do capitalismo.,emancipação como consequência do processo de racionalização da vida.,afastamento de crenças tradicionais como uma característica da modernidade.,fim do monoteísmo como condição para a consolidação da ciência.,D
-2,"
-
-
-Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividi-lo!
-
-Discurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937. Apud OLIVEN, G. R. A parte e o todo: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.
-
-
-
-","
-
-O discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa à
-
-
-","supressão das diferenças socioeconomicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.","orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.","adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.","propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.","defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista.",C
-3,"
+",progresso civilizatório como decorrência da expansão do industrialismo.,extinção do pensamento mítico como um desdobramento do capitalismo.,emancipação como consequência do processo de racionalização da vida.,afastamento de crenças tradicionais como uma característica da modernidade.,fim do monoteísmo como condição para a consolidação da ciência.,D,
+1,4,"
 
 
 Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.
@@ -58,23 +28,8 @@ SEVCENKO, N. A corrida para o século XXI: no loop da montanha-russa. São Paulo
 O texto expõe uma tendência representativa do pensamento social contemporâneo, na qual o desenvolvimento de mecanismos de acautelamento ou administração de riscos tem como objetivo
 
 
-",priorizar os interesses econômicos em relação aos seres humanos e à natureza.,negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.,instituir o diálogo público sobre mudanças tecnológicas e suas consequências.,combater a introdução de tecnologias para travar o curso das mudanças sociais.,romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico.,C
-4,"
-
-
-A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e, enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: Tudo é um.
-
-NIETZSCHE, F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultural, 1999.
-
-
-
-","
-
-O que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?
-
-
-","O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.","O desejo de explicar, usando metáforas, a origem dos seres e das coisas.","A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.","A ambição de expor, de maneira metódica, as diferenças entre as coisas.","A tentativa de justificar, a partir de elementos empíricos, o que existe no real.",C
-5,"
+",priorizar os interesses econômicos em relação aos seres humanos e à natureza.,negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.,instituir o diálogo público sobre mudanças tecnológicas e suas consequências.,combater a introdução de tecnologias para travar o curso das mudanças sociais.,romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico.,C,
+2,5,"
 
 
 Ninguém nasce mulher: torna-se mulher. Nenhum destino biológico, psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora esse produto intermediário entre o macho e o castrado que qualificam o feminino.
@@ -88,68 +43,23 @@ BEAUVOIR, S. O segundo sexo. Rio de Janeiro: Nova Fronteira, 1980
 Na década de 1960, a proposição de Simone de Beauvoir contribuiu para estruturar um movimento social que teve como marca o(a)
 
 
-",ação do Poder Judiciário para criminalizar a violência sexual.,pressão do Poder Legislativo para impedir a dupla jornada de trabalho.,organização de protestos púbicos para garantir a igualdade de gênero.,oposição de grupos religiosos para impedir os casamento homoafetivos.,estabelecimento de políticas governamentais para promover ações afirmativas.,C
-6,"
+",ação do Poder Judiciário para criminalizar a violência sexual.,pressão do Poder Legislativo para impedir a dupla jornada de trabalho.,organização de protestos púbicos para garantir a igualdade de gênero.,oposição de grupos religiosos para impedir os casamento homoafetivos.,estabelecimento de políticas governamentais para promover ações afirmativas.,C,
+3,11,"
 
 
-Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.
+A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e, enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: Tudo é um.
 
-MANNHEIM, K. Ideologia e utopia. Porto Alegre: Globo 1950 (adaptado)
-
-
-
-","
-
-Ilustrando uma proposição básica da sociologia do conhecimento, o argumento de Karl Mannheim defende que o(a)
-
-
-",conhecimento sobre a realidade é condicionado socialmente.,submissão ao grupo manipula o conhecimento do mundo.,divergência é um privilégio de indivíduos excepcionais.,educação formal determina o conhecimento do idioma.,domínio das línguas universaliza o conhecimento.,A
-7,"
-
-
-Quanto ao “choque de civilizações”, é bom lembrar a carta de uma menina americana de sete anos cujo pai era piloto na Guerra do Afeganistão: ela escreveu que — embora amasse muito seu pai — estava pronta a deixá-lo morrer, a sacrificá-lo por seu país. Quando o presidente Bush citou suas palavras, elas foram entendidas como manifestação “normal” de patriotismo americano; vamos conduzir uma experiência mental simples e imaginar uma menina árabe maometana pateticamente lendo para as câmeras as mesmas palavras a respeito do pai que lutava pelo Talibã — não é necessário pensar muito sobre qual teria sido a nossa reação.
-
-ZIZEK, S. Bem-vindo ao deserto do real. São Paulo: Bom Tempo, 2003.
+NIETZSCHE, F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultural, 1999.
 
 
 
 ","
 
-A situação imaginária proposta pelo autor explicita o desafio cultual do(a)
+O que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?
 
 
-",prática da diplomacia.,exercício da alteridade.,expansão da democracia.,universalização do progresso.,conquista da autodeterminação.,B
-8,"
-
-
-Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d’água do grande sertão de Minas.
-
-VIEIRA, C. Degradação do solo causa perda de fontes de água de famílias de MG. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014
-
-
-
-","
-
-As veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois
-
-
-",colaboram para a formação de vegetação xerófila.,formam os leques aluviais nas planícies das bacias.,fornecem sumidouro para as águas de recarga da bacia.,contribuem para o aprofundamento dos talvegues à jusante.,constituem um sistema represador da água na chapada.,E
-9,"
-
-
-A questão ambiental, uma das principais pautas contemporâneas, possibilitou o surgimento de concepções políticas diversas, dentre as quais se destaca a preservação ambiental, que sugere uma ideia de intocabilidade da natureza e impede o seu aproveitamento econômico sob qualquer justificativa.
-
-PORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da globalização. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).
-
-
-
-","
-
-Considerando as atuais concepções políticas sobre a questão ambiental, a dinâmica caracterizada no texto quanto à proteção do meio ambiente está baseada na
-
-
-",prática econômica sustentável.,contenção de impactos ambientais.,utilização progressiva dos recursos naturais.,proibição permanente da exploração da natureza.,definição de áreas prioritárias para a exploração econômica,D
-10,"
+","O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.","O desejo de explicar, usando metáforas, a origem dos seres e das coisas.","A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.","A ambição de expor, de maneira metódica, as diferenças entre as coisas.","A tentativa de justificar, a partir de elementos empíricos, o que existe no real.",C,
+4,10,"
 
 
 Tanto potencial poderia ter ficado pelo caminho, se não fosse o reforço em tecnologia que um gaúcho buscou. Há pouco mais de oito anos, ele usava o bico da botina para cavoucar a terra e descobrir o nível de umidade do solo, na tentativa de saber o momento ideal para acionar os pivôs de irrigação. Até que conheceu uma estação meteorológica que, instalada na propriedade, ajuda a determinar a quantidade de água de que a planta necessita. Assim, quando inicia um plantio, o agricultor já entra no site do sistema e cadastra a área, o pivô, a cultura, o sistema de plantio, o espaçamento entre linhas e o número de plantas, para então receber recomendações diretamente dos técnicos da universidade.
@@ -163,8 +73,158 @@ CAETANO, M. O valor de cada gota. Globo Rural, n. 312, out. 2011.
 A implementação das tecnologias mencionadas no texto garante o avanço do processo de
 
 
-",monitoramento da produção.,valorização do preço da terra.,correção dos fatores climáticos.,divisão de tarefas na propriedade.,estabilização da fertilidade do solo.,A
-11,"
+",monitoramento da produção.,valorização do preço da terra.,correção dos fatores climáticos.,divisão de tarefas na propriedade.,estabilização da fertilidade do solo.,A,
+5,14,"
+
+
+Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.
+
+SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).
+
+
+
+","
+
+As ações tomadas pelos países contra a espionagem revelam preocupação com o(a)
+
+
+",subsídio industrial.,hegemonia cultural.,protecionismo dos mercados.,desemprego tecnológico.,segurança dos dados.,E,
+6,2,"
+
+
+Na sociedade contemporânea, onde as relações sociais tendem a reger-se por imagens midiáticas, a imagem de um indivíduo, principalmente na indústria do espetáculo, pode agregar valor econômico na medida de seu incremento técnico: amplitude do espelhamento e da atenção pública. Aparecer é então mais do que ser; o sujeito é famoso porque é falado. Nesse âmbito, a lógica circulatória do mercado, ao mesmo tempo que acena democraticamente para as massas com supostos “ganhos distributivos” (a informação ilimitada, a quebra das supostas hierarquias culturais), afeta a velha cultura disseminada na esfera pública. A participação nas redes sociais, a obsessão dos selfies, tanto falar e ser falado quanto ser visto são índices do desejo de “espelhamento”.
+
+SODRÉ, M. Disponível em: http://alias.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).
+
+
+
+","
+
+A crítica contida no texto sobre a sociedade contemporânea enfatiza
+
+
+",a prática identitária autorreferente.,a dinâmica política democratizante.,a produção instantânea de notícias.,os processos difusores de informações.,os mecanismos de convergência tecnológica.,A,
+7,1,"
+
+
+Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.
+
+REICH, R. O trabalho das nações: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).
+
+
+
+","
+
+A viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de
+
+
+",linhas de montagem e formação de estoques.,empresas burocráticas e mão de obra barata.,controle estatal e infraestrutura consolidada.,organização em rede e tecnologia de informação.,gestão centralizada e protecionismo econômico.,D,
+8,9,"
+
+
+Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d’água do grande sertão de Minas.
+
+VIEIRA, C. Degradação do solo causa perda de fontes de água de famílias de MG. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014
+
+
+
+","
+
+As veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois
+
+
+",colaboram para a formação de vegetação xerófila.,formam os leques aluviais nas planícies das bacias.,fornecem sumidouro para as águas de recarga da bacia.,contribuem para o aprofundamento dos talvegues à jusante.,constituem um sistema represador da água na chapada.,E,
+9,13,"
+
+
+Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividi-lo!
+
+Discurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937. Apud OLIVEN, G. R. A parte e o todo: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.
+
+
+
+","
+
+O discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa à
+
+
+","supressão das diferenças socioeconomicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.","orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.","adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.","propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.","defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista.",C,
+10,6,"
+
+
+Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.
+
+MANNHEIM, K. Ideologia e utopia. Porto Alegre: Globo 1950 (adaptado)
+
+
+
+","
+
+Ilustrando uma proposição básica da sociologia do conhecimento, o argumento de Karl Mannheim defende que o(a)
+
+
+",conhecimento sobre a realidade é condicionado socialmente.,submissão ao grupo manipula o conhecimento do mundo.,divergência é um privilégio de indivíduos excepcionais.,educação formal determina o conhecimento do idioma.,domínio das línguas universaliza o conhecimento.,A,
+11,8,"
+
+
+A questão ambiental, uma das principais pautas contemporâneas, possibilitou o surgimento de concepções políticas diversas, dentre as quais se destaca a preservação ambiental, que sugere uma ideia de intocabilidade da natureza e impede o seu aproveitamento econômico sob qualquer justificativa.
+
+PORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da globalização. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).
+
+
+
+","
+
+Considerando as atuais concepções políticas sobre a questão ambiental, a dinâmica caracterizada no texto quanto à proteção do meio ambiente está baseada na
+
+
+",prática econômica sustentável.,contenção de impactos ambientais.,utilização progressiva dos recursos naturais.,proibição permanente da exploração da natureza.,definição de áreas prioritárias para a exploração econômica,D,
+12,12,"
+
+
+Quanto ao “choque de civilizações”, é bom lembrar a carta de uma menina americana de sete anos cujo pai era piloto na Guerra do Afeganistão: ela escreveu que — embora amasse muito seu pai — estava pronta a deixá-lo morrer, a sacrificá-lo por seu país. Quando o presidente Bush citou suas palavras, elas foram entendidas como manifestação “normal” de patriotismo americano; vamos conduzir uma experiência mental simples e imaginar uma menina árabe maometana pateticamente lendo para as câmeras as mesmas palavras a respeito do pai que lutava pelo Talibã — não é necessário pensar muito sobre qual teria sido a nossa reação.
+
+ZIZEK, S. Bem-vindo ao deserto do real. São Paulo: Bom Tempo, 2003.
+
+
+
+","
+
+A situação imaginária proposta pelo autor explicita o desafio cultual do(a)
+
+
+",prática da diplomacia.,exercício da alteridade.,expansão da democracia.,universalização do progresso.,conquista da autodeterminação.,B,
+13,7,"
+
+
+A Unesco condenou a destruição da antiga capital assíria de Nimrod, no Iraque, pelo Estado Islâmico, com a agência da ONU considerando o ato como um crime de guerra. O grupo iniciou um processo de demolição em vários sítios arqueológicos em uma área reconhecida como um dos berços da civilização.
+
+Unesco e especialistas condenam destruição de cidade assíria pelo Estado Islâmico. Disponivel em: http://oglobo.globo.com. Acesso em: 30 mar. 2015 (adaptado).
+
+
+
+","
+
+O tipo de atentado descrito no texto tem como consequência para as populações de países como o Iraque a desestruturação do(a)
+
+
+",homogeneidade cultural.,patrimônio histórico.,controle ocidental.,unidade étnica.,religião oficial.,B,
+14,19,"
+
+
+Não nos resta a menor dúvida de que a principal contribuição dos diferentes tipos de movimentos sociais brasileiros nos últimos vinte anos foi no plano da reconstrução do processo de democratização do país. E não se trata apenas da reconstrução do regime político, da retomada da democracia e do fim do Regime Militar. Trata-se da reconstrução ou construção de novos rumos para a cultura do país, do preenchimento de vazios na condução da luta pela redemocratização, constituindo-se como agentes interlocutores que dialogam diretamente com a população e com o Estado.
+
+GOHN, M. G. M. Os sem-terras, ONGs e cidadania. São Paulo: Cortez, 2003 (adaptado).
+
+
+
+","
+
+No processo da redemocratização brasileira, os novos movimentos sociais contribuíram para
+
+
+",diminuir a legitimidade dos novos partidos políticos então criados.,tornar a democracia um valor social que ultrapassa os momentos eleitorais.,difundir a democracia representativa como objetivo fundamental da luta política.,ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos.,fragmentar as lutas políticas dos diversos atores sociais frente ao Estado.,B,
+15,15,"
 
 
 TEXTO I
@@ -192,68 +252,8 @@ Os relatos do último ato da Guerra de Canudos fazem uso de representações que
 Nesse sentido, cada autor caracterizou a atitude dos sertanejos, respectivamente, como fruto da
 
 
-",manipulação e incompetência.,ignorância e solidariedade.,hesitação e obstinação.,esperança e valentia.,bravura e loucura.,E
-12,"
-
-
-Na sociedade contemporânea, onde as relações sociais tendem a reger-se por imagens midiáticas, a imagem de um indivíduo, principalmente na indústria do espetáculo, pode agregar valor econômico na medida de seu incremento técnico: amplitude do espelhamento e da atenção pública. Aparecer é então mais do que ser; o sujeito é famoso porque é falado. Nesse âmbito, a lógica circulatória do mercado, ao mesmo tempo que acena democraticamente para as massas com supostos “ganhos distributivos” (a informação ilimitada, a quebra das supostas hierarquias culturais), afeta a velha cultura disseminada na esfera pública. A participação nas redes sociais, a obsessão dos selfies, tanto falar e ser falado quanto ser visto são índices do desejo de “espelhamento”.
-
-SODRÉ, M. Disponível em: http://alias.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).
-
-
-
-","
-
-A crítica contida no texto sobre a sociedade contemporânea enfatiza
-
-
-",a prática identitária autorreferente.,a dinâmica política democratizante.,a produção instantânea de notícias.,os processos difusores de informações.,os mecanismos de convergência tecnológica.,A
-13,"
-
-
-Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.
-
-SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).
-
-
-
-","
-
-As ações tomadas pelos países contra a espionagem revelam preocupação com o(a)
-
-
-",subsídio industrial.,hegemonia cultural.,protecionismo dos mercados.,desemprego tecnológico.,segurança dos dados.,E
-14,"
-
-
-Não nos resta a menor dúvida de que a principal contribuição dos diferentes tipos de movimentos sociais brasileiros nos últimos vinte anos foi no plano da reconstrução do processo de democratização do país. E não se trata apenas da reconstrução do regime político, da retomada da democracia e do fim do Regime Militar. Trata-se da reconstrução ou construção de novos rumos para a cultura do país, do preenchimento de vazios na condução da luta pela redemocratização, constituindo-se como agentes interlocutores que dialogam diretamente com a população e com o Estado.
-
-GOHN, M. G. M. Os sem-terras, ONGs e cidadania. São Paulo: Cortez, 2003 (adaptado).
-
-
-
-","
-
-No processo da redemocratização brasileira, os novos movimentos sociais contribuíram para
-
-
-",diminuir a legitimidade dos novos partidos políticos então criados.,tornar a democracia um valor social que ultrapassa os momentos eleitorais.,difundir a democracia representativa como objetivo fundamental da luta política.,ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos.,fragmentar as lutas políticas dos diversos atores sociais frente ao Estado.,B
-15,"
-
-
-A Unesco condenou a destruição da antiga capital assíria de Nimrod, no Iraque, pelo Estado Islâmico, com a agência da ONU considerando o ato como um crime de guerra. O grupo iniciou um processo de demolição em vários sítios arqueológicos em uma área reconhecida como um dos berços da civilização.
-
-Unesco e especialistas condenam destruição de cidade assíria pelo Estado Islâmico. Disponivel em: http://oglobo.globo.com. Acesso em: 30 mar. 2015 (adaptado).
-
-
-
-","
-
-O tipo de atentado descrito no texto tem como consequência para as populações de países como o Iraque a desestruturação do(a)
-
-
-",homogeneidade cultural.,patrimônio histórico.,controle ocidental.,unidade étnica.,religião oficial.,B
-16,"
+",manipulação e incompetência.,ignorância e solidariedade.,hesitação e obstinação.,esperança e valentia.,bravura e loucura.,E,
+16,17,"
 
 
 TEXTO I
@@ -277,83 +277,8 @@ CHALHOUB, S. Visões da liberdade: uma história das últimas décadas da escra
 Sobre o fim da escravidão no Brasil, o elemento destacado no Texto I que complementa os argumentos apresentados no Texto II é o(a)
 
 
-",variedade das estratégias de resistência dos cativos.,controle jurídico exercido pelos proprietários.,inovação social representada pela lei.,ineficácia prática da libertação.,significado político da Abolição.,E
-17,"
-
-
-O que implica o sistema da pólis é uma extraordinária preeminência da palavra sobre todos os outros instrumentos do poder. A palavra constitui o debate contraditório, a discussão, a argumentação e a polêmica. Torna-se a regra do jogo intelectual, assim como do jogo político.
-
-VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand, 1992 (adaptado).
-
-
-
-","
-
-Na configuração política da democracia grega, em especial a ateniense, a ágora tinha por função
-
-
-",agregar os cidadãos em torno de reis que governavam em prol da cidade.,permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados.,constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade.,reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra.,congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias.,C
-18,"
-
-
-Ora, em todas as coisas ordenadas a algum fim, é preciso haver algum dirigente, pelo qual se atinja diretamente o devido fim. Com efeito, um navio, que se move para diversos lados pelo impulso dos ventos contrários, não chegaria ao fim de destino, se por indústria do piloto não fosse dirigido ao porto; ora, tem o homem um fim, para o qual se ordenam toda a sua vida e ação. Acontece, porém, agirem os homens de modos diversos em vista do fim, o que a própria diversidade dos esforços e ações humanas comprova. Portanto, precisa o homem de um dirigente para o fim.
-
-AQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. Escritos políticos de São Tomás de Aquino. Petrópolis: Vozes, 1995 (adaptado).
-
-
-
-","
-
-No trecho citado, Tomás de Aquino justifica a monarquia como o regime de governo capaz de
-
-
-",refrear os movimentos religiosos contestatórios.,promover a atuação da sociedade civil na vida política.,unir a sociedade tendo em vista a realização do bem comum.,reformar a religião por meio do retorno à tradição helenística.,dissociar a relação política entre os poderes temporal e espiritual.,C
-19,"
-
-
-No início foram as cidades. O intelectual da Idade Média – no Ocidente – nasceu com elas. Foi com o desenvolvimento urbano ligado às funções comercial e industrial – digamos modestamente artesanal – que ele apareceu, como um desses homens de ofício que se instalavam nas cidades nas quais se impôs a divisão do trabalho. Um homem cujo ofício é escrever ou ensinar, e de preferência as duas coisas a um só tempo, um homem que, profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual – esse homem só aparecerá com as cidades.
-
-LE GOFF, J. Os intelectuais da Idade Média. Rio de Janeiro: José Olympio, 2010.
-
-
-
-","
-
-O surgimento da categoria mencionada no período em destaque no texto evidencia o(a)
-
-
-",apoio dado pela Igreja ao trabalho abstrato.,relação entre desenvolvimento urbano e divisão de trabalho.,importância organizacional das corporações de ofício.,progressiva expansão da educação escolar.,acúmulo de trabalho dos professores e eruditos.,B
-20,"
-
-
-O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos.
-
-BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado).
-
-
-
-","
-
-Uma causa para o processo socioespacial mencionado no texto é o(a)
-
-
-",carência de matérias-primas.,degradação da rede rodoviária.,aumento do crescimento vegetativo.,centralização do poder político.,realocação da atividade industrial.,E
-21,"
-
-
-A natureza fez os homens tão iguais, quanto às faculdades do corpo e do espírito, que, embora por vezes se encontre um homem manifestamente mais forte de corpo, ou de espírito mais vivo do que outro, mesmo assim, quando se considera tudo isto em conjunto, a diferença entre um e outro homem não é suficientemente considerável para que um deles possa com base nela reclamar algum benefício a que outro não possa igualmente aspirar.
-
-HOBBES, T. Leviatã. São Paulo: Martins Fontes, 2003.
-
-
-
-","
-
-Para Hobbes, antes da constituição da sociedade civil, quando dois homens desejavam o mesmo objeto, eles
-
-
-",entravam em conflito.,recorriam aos clérigos.,consultavam os anciãos.,apelavam aos governantes.,exerciam a solidariedade.,A
-22,"
+",variedade das estratégias de resistência dos cativos.,controle jurídico exercido pelos proprietários.,inovação social representada pela lei.,ineficácia prática da libertação.,significado político da Abolição.,E,
+17,24,"
 
 
 No final do século XX e em razão dos avanços da ciência, produziu-se um sistema presidido pelas técnicas da informação, que passaram a exercer um papel de elo entre as demais, unindo-as e assegurando ao novo sistema uma presença planetária. Um mercado que utiliza esse sistema de técnicas avançadas resulta nessa globalização perversa.
@@ -367,23 +292,37 @@ SANTOS, M. Por uma outra globalização. Rio de Janeiro: Record, 2008 (adaptado)
 Uma consequência para o setor produtivo e outra para o mundo do trabalho advindas das transformações citadas no texto estão presentes, respectivamente, em:
 
 
-",Eliminação das vantagens locacionais e ampliação da legislação laboral.,Limitação dos fluxos logísticos e fortalecimento de associações sindicais.,Diminuição dos investimentos industriais e desvalorização dos postos qualificados.,Concentração das áreas manufatureiras e redução da jornada semanal.,Automatização dos processos fabris e aumento dos níveis de desemprego.,E
-23,"
+",Eliminação das vantagens locacionais e ampliação da legislação laboral.,Limitação dos fluxos logísticos e fortalecimento de associações sindicais.,Diminuição dos investimentos industriais e desvalorização dos postos qualificados.,Concentração das áreas manufatureiras e redução da jornada semanal.,Automatização dos processos fabris e aumento dos níveis de desemprego.,E,
+18,20,"
 
 
-Iniciou-se em 1903 a introdução de obras de arte com representações de bandeirantes no acervo do Museu Paulista, mediante a aquisição de uma tela que homenageava o sertanista que comandara a destruição do Quilombo de Palmares. Essa aquisição, viabilizada por verba estadual, foi simultânea à emergência de uma interpretação histórica que apontava o fenômeno do sertanismo paulista como o elo decisivo entre a trajetória territorial do Brasil e de São Paulo, concepção essa que se consolidaria entre os historiadores ligados ao Instituto Histórico e Geográfico de São Paulo ao longo das três primeiras décadas do século XX.
+A natureza fez os homens tão iguais, quanto às faculdades do corpo e do espírito, que, embora por vezes se encontre um homem manifestamente mais forte de corpo, ou de espírito mais vivo do que outro, mesmo assim, quando se considera tudo isto em conjunto, a diferença entre um e outro homem não é suficientemente considerável para que um deles possa com base nela reclamar algum benefício a que outro não possa igualmente aspirar.
 
-MARINS, P. c. G. Nas matas com pose de reis: a representação de bandeirantes e a tradição da retratística monárquica européia. Revista do LEB, n. 44, tev. 2007.
+HOBBES, T. Leviatã. São Paulo: Martins Fontes, 2003.
 
 
 
 ","
 
-A prática governamental descrita no texto, com a escolha dos temas das obras, tinha como propósito a construção de uma memória que
+Para Hobbes, antes da constituição da sociedade civil, quando dois homens desejavam o mesmo objeto, eles
 
 
-",afirmava a centralidade de um estado na política do país.,resgatava a importância da resistência escrava na história brasileira.,evidenciava a importância da produção artística no contexto regional.,valorizava a saga histórica do povo na afirmação de uma memória social.,destacava a presença do indígena no desbravamento do território colonial.,A
-24,"
+",entravam em conflito.,recorriam aos clérigos.,consultavam os anciãos.,apelavam aos governantes.,exerciam a solidariedade.,A,
+19,16,"
+
+
+
+
+
+
+
+","
+
+De acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?
+
+
+",Tropical.,Litorâneo.,Equatorial.,Semiárido.,Subtropical.,D,enem-data/enem-2015/16-images/context_img_0.png
+20,18,"
 
 
 A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.
@@ -397,8 +336,53 @@ MAZRUI, A. “Procurai primeiramente o reino do político …” In: MAZRUI, A.,
 Para o autor, a “forma de hegemonia” e uma de suas características que explicam o engajamento dos africanos no processo analisado foram:
 
 
-",Comunismo / rejeição da democracia liberal.,Capitalismo / devastação do ambiente natural.,Fascismo / adoção do determinismo biológico.,Socialismo / planificação da economia nacional.,Colonialismo / imposição da missão civilizatória.,C
-25,"
+",Comunismo / rejeição da democracia liberal.,Capitalismo / devastação do ambiente natural.,Fascismo / adoção do determinismo biológico.,Socialismo / planificação da economia nacional.,Colonialismo / imposição da missão civilizatória.,C,
+21,29,"
+
+
+Ora, em todas as coisas ordenadas a algum fim, é preciso haver algum dirigente, pelo qual se atinja diretamente o devido fim. Com efeito, um navio, que se move para diversos lados pelo impulso dos ventos contrários, não chegaria ao fim de destino, se por indústria do piloto não fosse dirigido ao porto; ora, tem o homem um fim, para o qual se ordenam toda a sua vida e ação. Acontece, porém, agirem os homens de modos diversos em vista do fim, o que a própria diversidade dos esforços e ações humanas comprova. Portanto, precisa o homem de um dirigente para o fim.
+
+AQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. Escritos políticos de São Tomás de Aquino. Petrópolis: Vozes, 1995 (adaptado).
+
+
+
+","
+
+No trecho citado, Tomás de Aquino justifica a monarquia como o regime de governo capaz de
+
+
+",refrear os movimentos religiosos contestatórios.,promover a atuação da sociedade civil na vida política.,unir a sociedade tendo em vista a realização do bem comum.,reformar a religião por meio do retorno à tradição helenística.,dissociar a relação política entre os poderes temporal e espiritual.,C,
+22,28,"
+
+
+O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos.
+
+BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado).
+
+
+
+","
+
+Uma causa para o processo socioespacial mencionado no texto é o(a)
+
+
+",carência de matérias-primas.,degradação da rede rodoviária.,aumento do crescimento vegetativo.,centralização do poder político.,realocação da atividade industrial.,E,
+23,23,"
+
+
+O que implica o sistema da pólis é uma extraordinária preeminência da palavra sobre todos os outros instrumentos do poder. A palavra constitui o debate contraditório, a discussão, a argumentação e a polêmica. Torna-se a regra do jogo intelectual, assim como do jogo político.
+
+VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand, 1992 (adaptado).
+
+
+
+","
+
+Na configuração política da democracia grega, em especial a ateniense, a ágora tinha por função
+
+
+",agregar os cidadãos em torno de reis que governavam em prol da cidade.,permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados.,constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade.,reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra.,congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias.,C,
+24,25,"
 
 
 Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.
@@ -412,8 +396,38 @@ BIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Flor
 Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há
 
 
-",exposição do solo.,drenagem eficiente.,rocha matriz resistente.,agricultura mecanizada.,média pluviométrica elevada.,B
-26,"
+",exposição do solo.,drenagem eficiente.,rocha matriz resistente.,agricultura mecanizada.,média pluviométrica elevada.,B,
+25,22,"
+
+
+No início foram as cidades. O intelectual da Idade Média – no Ocidente – nasceu com elas. Foi com o desenvolvimento urbano ligado às funções comercial e industrial – digamos modestamente artesanal – que ele apareceu, como um desses homens de ofício que se instalavam nas cidades nas quais se impôs a divisão do trabalho. Um homem cujo ofício é escrever ou ensinar, e de preferência as duas coisas a um só tempo, um homem que, profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual – esse homem só aparecerá com as cidades.
+
+LE GOFF, J. Os intelectuais da Idade Média. Rio de Janeiro: José Olympio, 2010.
+
+
+
+","
+
+O surgimento da categoria mencionada no período em destaque no texto evidencia o(a)
+
+
+",apoio dado pela Igreja ao trabalho abstrato.,relação entre desenvolvimento urbano e divisão de trabalho.,importância organizacional das corporações de ofício.,progressiva expansão da educação escolar.,acúmulo de trabalho dos professores e eruditos.,B,
+26,30,"
+
+
+A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.
+
+TAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. Reforma política no Brasil. Belo Horizonte: UFMG, 2006 (adaptado).
+
+
+
+","
+
+Em relação ao regime democrático no país, a instituição analisada teve o seguinte papel:
+
+
+",Implementou o voto direto para presidente.,Combateu as fraudes sistemáticas nas apurações.,Alterou as regras para as candidaturas na ditadura.,Impulsionou as denúncias de corrupção administrativa.,Expandiu a participação com o fim do critério censitário.,B,
+27,32,"
 
 
 Voz do sangue
@@ -447,23 +461,8 @@ Disponível em: www.agostinhoneto.org. Acesso em: 30 jun. 2015.
 Nesse poema, o líder angolano Agostinho Neto, na década de 1940, evoca o pan-africanismo com o objetivo de
 
 
-",incitar a luta por políticas de ações afirmativas na América e na África.,reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos.,descrever o quadro de pobreza após os processos de independência no continente africano.,solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola.,conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência.,E
-27,"
-
-
-A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.
-
-TAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. Reforma política no Brasil. Belo Horizonte: UFMG, 2006 (adaptado).
-
-
-
-","
-
-Em relação ao regime democrático no país, a instituição analisada teve o seguinte papel:
-
-
-",Implementou o voto direto para presidente.,Combateu as fraudes sistemáticas nas apurações.,Alterou as regras para as candidaturas na ditadura.,Impulsionou as denúncias de corrupção administrativa.,Expandiu a participação com o fim do critério censitário.,B
-28,"
+",incitar a luta por políticas de ações afirmativas na América e na África.,reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos.,descrever o quadro de pobreza após os processos de independência no continente africano.,solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola.,conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência.,E,
+28,35,"
 
 
 Em sociedade de origens tão nitidamente personalistas como a nossa, é compreensível que os simples vínculos de pessoa a pessoa, independentes e até exclusivos de qualquer tendência para a cooperação autêntica entre os indivíduos, tenham sido quase sempre os mais decisivos. As agregações e relações pessoais, embora por vezes precárias, e, de outro lado, as lutas entre facções, entre famílias, entre regionalismos, faziam dela um todo incoerente e amorfo. O peculiar da vida brasileira parece ter sido por essa época, uma acentuação singularmente enérgica do afetivo, do irracional, do passional e uma estagnação ou antes uma atrofia correspondente das qualidades ordenadoras, disciplinadoras, racionalizadoras.
@@ -477,79 +476,29 @@ HOLANDA, S. B. Raízes do Brasil. São Paulo: Cia das Letras, 1995.
 Um traço formador da vida pública brasileira expressa-se, segundo a análise do historiador, na
 
 
-",rigidez das normas jurídicas.,prevalência dos interesses privados.,solidez da organização institucional.,legitimidade das ações burocráticas.,estabilidade das estruturas políticas.,B
-29,"
-
-
-O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.
-
-LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado).
+",rigidez das normas jurídicas.,prevalência dos interesses privados.,solidez da organização institucional.,legitimidade das ações burocráticas.,estabilidade das estruturas políticas.,B,
+29,31,"
 
 
 
-","
-
-A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da
 
 
-",expansão da fronteira agrícola.,remoção de populações nativas.,superação da condição de pobreza.,valorização de identidades coletivas.,implantação de modernos projetos agroindustriais.,D
-30,"
 
 
-Dominar a luz implica tanto um avanço tecnológico quanto uma certa liberação dos ritmos cíclicos da natureza, com a passagem das estações e as alternâncias de dia e noite. Com a iluminação noturna, a escuridão vai cedendo lugar à claridade, e a percepção temporal começa a se pautar pela marcação do relógio. Se a luz invade a noite, perde sentido a separação tradicional entre trabalho e descanso – todas as partes do dia podem ser aproveitadas produtivamente.
 
-SILVA FILHO. A. L. M. Fortaleza: imagens da cidade. Fortaleza: Museu do Ceará: Secult-CE. 2001 (adaptado).
+
+
+ZIRALDO. 20 anos de prontidão. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001.
 
 
 
 ","
 
-Em relação ao mundo do trabalho, a transformação apontada no texto teve como consequência a
+No período de 1964 a 1985, a estratégia do Regime Militar abordada na charge foi caracterizada pela
 
 
-",melhoria da qualidade da produção industrial.,redução da oferta de emprego nas zonas rurais.,permissão ao trabalhador para controlar seus próprios horários.,diminuição das exigências de esforço no trabalho com máquinas.,ampliação do período disponível para a jornada de trabalho.,E
-31,"
-
-Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).
-
-
-","
-
-Essa especiação não ocorre devido ao(à)
-
-
-",oscilação genética das raças.,convergência adaptativa das raças.,isolamento geógrafico entre as raças.,seleção natural que ocorre entre as raças.,manutenção do fluxo gênico entre as raças.,E
-32,"
-
-
-Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.
-
-HARVEY, D. O enigma do capital. São Paulo: Boitempo, 2011.
-
-
-
-","
-
-Inicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)
-
-
-",superprodução de bens de consumo.,colapso industrial de países asiáticos.,interdependência do sistema econômico.,isolamento político dos países desenvolvidos.,austeridade fiscal dos países em desenvolvimento.,C
-33,"
-
-
-A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto… Assim a lei pode triunfar e o mundo gozar da paz.
-
-ALDALBERON DE LAON, In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981.
-
-
-
-","
-
-A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:
-
-
-",Justificar a dominação estamental / revoltas camponestas.,Subverter a hierarquia social / centralização monárquica.,Impedir a igualdade jurídica / revoluções burguesas.,Controlar a exploração econômica / unificação monetária.,Questionar a ordem divina / Reforma Católica.,A
-34,"
+",priorização da segurança nacional.,captação de financiamentos estrangeiros.,execução de cortes nos gastos públicos.,nacionalização de empresas multinacionais.,promoção de políticas de distribuição de renda.,B,enem-data/enem-2015/31-images/context_img_0.png
+30,34,"
 
 
 Trasímaco estava impaciente porque Sócrates e os seus amigos presumiam que a justiça era algo real e importante. Trasímaco negava isso. Em seu entender, as pessoas acreditavam no certo e no errado apenas por terem sido ensinadas a obedecer às regras da sua sociedade. No entanto, essas regras não passavam de invenções humanas.
@@ -563,8 +512,70 @@ RACHELS, J. Problemas da Filosofia. Lisboa: Gradiva, 2009.
 O sofista Trasímaco, personagem imortalizado no diálogo A República, de Platão, sustentava que a correlação entre justiça e ética é resultado de
 
 
-",determinações biológicas impregnadas na natureza humana.,verdades objetivas com fundamento anterior aos interesses sociais.,mandamentos divinos inquestionáveis legados das tradições antigas.,convenções sociais resultantes de interesses humanos contingentes.,sentimentos experimentados diante de determinadas atitudes humanas.,D
-35,"
+",determinações biológicas impregnadas na natureza humana.,verdades objetivas com fundamento anterior aos interesses sociais.,mandamentos divinos inquestionáveis legados das tradições antigas.,convenções sociais resultantes de interesses humanos contingentes.,sentimentos experimentados diante de determinadas atitudes humanas.,D,
+31,36,"
+
+
+O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.
+
+LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado).
+
+
+
+","
+
+A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da
+
+
+",expansão da fronteira agrícola.,remoção de populações nativas.,superação da condição de pobreza.,valorização de identidades coletivas.,implantação de modernos projetos agroindustriais.,D,
+32,33,"
+
+
+Iniciou-se em 1903 a introdução de obras de arte com representações de bandeirantes no acervo do Museu Paulista, mediante a aquisição de uma tela que homenageava o sertanista que comandara a destruição do Quilombo de Palmares. Essa aquisição, viabilizada por verba estadual, foi simultânea à emergência de uma interpretação histórica que apontava o fenômeno do sertanismo paulista como o elo decisivo entre a trajetória territorial do Brasil e de São Paulo, concepção essa que se consolidaria entre os historiadores ligados ao Instituto Histórico e Geográfico de São Paulo ao longo das três primeiras décadas do século XX.
+
+MARINS, P. c. G. Nas matas com pose de reis: a representação de bandeirantes e a tradição da retratística monárquica européia. Revista do LEB, n. 44, tev. 2007.
+
+
+
+","
+
+A prática governamental descrita no texto, com a escolha dos temas das obras, tinha como propósito a construção de uma memória que
+
+
+",afirmava a centralidade de um estado na política do país.,resgatava a importância da resistência escrava na história brasileira.,evidenciava a importância da produção artística no contexto regional.,valorizava a saga histórica do povo na afirmação de uma memória social.,destacava a presença do indígena no desbravamento do território colonial.,A,
+33,27,"
+
+
+
+
+
+
+
+
+Os calendários são fontes históricas importantes, na medida em que expressam a concepção de tempo das sociedades. Essas imagens compõem um calendário medieval (1460-1475) e cada uma delas representa um mês, de janeiro a dezembro.
+
+
+","
+
+Com base na análise do calendário, apreende-se uma concepção de tempo
+
+
+","cíclica, marcada pelo mito arcaico do eterno retorno.","humanista, identificada pelo controle das horas de atividade por parte do trabalhador.","escatológica, associada a uma visão religiosa sobre o trabalho.","natural, expressa pelo trabalho realizado de acordo com as estações do ano.","romântica, definida por uma visão bucólica da sociedade.",D,enem-data/enem-2015/27-images/context_img_0.png
+34,26,"
+
+
+
+
+
+
+
+","
+
+A imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, que decorre do processo natural de
+
+
+","fraturamento geológico, derivado da força dos agentes internos.","solapamento de camadas de argilas, transportadas pela correnteza.","movimento circular de seixos e areias, arrastados por águas turbilhonares.","decomposição das camadas sedimentares, resultante da alteração química.","assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar.",C,enem-data/enem-2015/26-images/context_img_0.png
+35,40,"
 
 
 Apesar de seu disfarce de iniciativa e otimismo, o homem moderno está esmagado por um profundo sentimento de impotência que o faz olhar fixamente e, como que paralisado, para as catástrofes que se avizinham. Por isso, desde já, saliente-se a necessidade de uma permanente atitude crítica, o único modo pelo qual o homem realizará sua vocação natural de integrar-se, superando a atitude do simples ajustamento ou acomodação, apreendendo temas e tarefas de sua época.
@@ -578,38 +589,29 @@ FREIRE, P. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2
 Paulo Freire defende que a superação das dificuldades e a apreensão da realidade atual será obtida pelo(a)
 
 
-",desenvolvimento do pensamento autônomo.,obtenção de qualificação profissional.,resgate de valores tradicionais.,realização de desejos pessoais.,aumento da renda familiar.,A
-36,"
-
-
-A definição de queimadura é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados à vítima, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.
-
-Disponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).
+",desenvolvimento do pensamento autônomo.,obtenção de qualificação profissional.,resgate de valores tradicionais.,realização de desejos pessoais.,aumento da renda familiar.,A,
+36,21,"
 
 
 
-","
-
-Ao se deparar com um indivíduo que sofreu queimadura com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é
 
 
-",colocar gelo sobre a flictena para amenizar o ardor.,utilizar manteiga para evitar o rompimento da flictena.,passar creme dental para diminuir a ardência da flictena.,perfurar a flictena para que a água acumulada seja liberada.,cobrir a flictena com gazes molhadas para evitar a desidratação.,E
-37,"
 
 
-O principal articulador do atual modelo econômico chinês argumenta que o mercado é só um instrumento econômico, que se emprega de forma indistinta tanto no capitalismo como no socialismo. Porém os próprios chineses já estão sentindo, na sua sociedade, o seu real significado: o mercado não é algo neutro, ou um instrumental técnico que possibilita à sociedade utilizá-lo para a construção e edificação do socialismo. Ele é, ao contrário do que diz o articulador, um instrumento do capitalismo e é inerente à sua estrutura como modo de produção. A sua utilização está levando a uma polarização da sociedade chinesa.
 
-OLIVEIRA, A. A Revolução Chinesa. Caros Amigos, 31 jan. 2011 (adaptado).
+
+
+SCHWARCZ, L. M. As barbas do imperador. D. Pedro II, um monarca nos trópicos. São Paulo: Cia. Das Letras, 1998 (adaptado).
 
 
 
 ","
 
-No texto, as reformas econômicas ocorridas na China são colocadas como antagônicas à construção de um país socialista. Nesse contexto, a característica fundamental do socialismo, à qual o modelo econômico chinês atual se contrapõe é a
+Essas imagens de D. Pedro II foram feitas no início dos anos de 1850, pouco mais de uma década após o Golpe da Maioridade. Considerando o contexto histórico em que foram produzidas e os elementos simbólicos destacados, essas imagens representavam um
 
 
-",desestatização da economia.,instauração de um partido único.,manutenção da livre concorrência.,formação de sindicatos trabalhistas.,extinção gradual das classes sociais.,E
-38,"
+",jovem maduro que agiria de forma irresponsável.,imperador adulto que governaria segundo as leis.,líder guerreiro que comandaria as vitórias militares.,soberano religioso que acataria a autoridade papal.,monarca absolutista que exerceria seu autoritarismo.,B,enem-data/enem-2015/21-images/context_img_0.png
+37,37,"
 
 
 Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimento, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.
@@ -623,8 +625,8 @@ HUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural,
 Hume estabelece um vínculo entre pensamento e impressão ao considerar que
 
 
-",os conteúdos das ideias no intelecto têm origem na sensação.,o espírito é capaz de classificar os dados da percepção sensível.,as ideias fracas resultam de experiências sensoriais determinadas pelo acaso.,os sentimentos ordenam como os pensamentos devem ser processados na memória.,as ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria.,A
-39,"
+",os conteúdos das ideias no intelecto têm origem na sensação.,o espírito é capaz de classificar os dados da percepção sensível.,as ideias fracas resultam de experiências sensoriais determinadas pelo acaso.,os sentimentos ordenam como os pensamentos devem ser processados na memória.,as ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria.,A,
+38,43,"
 
 
 A língua de que usam, por toda a costa, carece de três letras; convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei, e dessa maneira vivem desordenadamente, sem terem além disto conta, nem peso, nem medida.
@@ -638,8 +640,23 @@ GÂNGAVO, P M. A primeira história do Brasil: história da província de Santa
 A observação do cronista português Pero de Magalhães de Gândavo, em 1576, sobre a ausência das letras F, L e R na língua mencionada, demonstra a
 
 
-",simplicidade da organização social das tribos brasileiras.,dominação portuguesa imposta aos índios no início da colonização.,superioridade da sociedade europeia em relação à sociedade indígena.,incompreensão dos valores socioculturais indígenas pelos portugueses.,dificuldade experimentada pelos portugueses no aprendizado da língua nativa.,D
-40,"
+",simplicidade da organização social das tribos brasileiras.,dominação portuguesa imposta aos índios no início da colonização.,superioridade da sociedade europeia em relação à sociedade indígena.,incompreensão dos valores socioculturais indígenas pelos portugueses.,dificuldade experimentada pelos portugueses no aprendizado da língua nativa.,D,
+39,39,"
+
+
+Dominar a luz implica tanto um avanço tecnológico quanto uma certa liberação dos ritmos cíclicos da natureza, com a passagem das estações e as alternâncias de dia e noite. Com a iluminação noturna, a escuridão vai cedendo lugar à claridade, e a percepção temporal começa a se pautar pela marcação do relógio. Se a luz invade a noite, perde sentido a separação tradicional entre trabalho e descanso – todas as partes do dia podem ser aproveitadas produtivamente.
+
+SILVA FILHO. A. L. M. Fortaleza: imagens da cidade. Fortaleza: Museu do Ceará: Secult-CE. 2001 (adaptado).
+
+
+
+","
+
+Em relação ao mundo do trabalho, a transformação apontada no texto teve como consequência a
+
+
+",melhoria da qualidade da produção industrial.,redução da oferta de emprego nas zonas rurais.,permissão ao trabalhador para controlar seus próprios horários.,diminuição das exigências de esforço no trabalho com máquinas.,ampliação do período disponível para a jornada de trabalho.,E,
+40,78,"
 
 
 Euphorbia milii é uma planta ornamental amplamente disseminada no Brasil e conhecida como coroa-de-cristo. O estudo químico do látex dessa espécie forneceu o mais potente produto natural moluscicida, a miliamina L.
@@ -653,8 +670,134 @@ MOREIRA, C. P. S.; ZANI, C. L.; ALVES, T. M. A. Atividade moluscicida do látex 
 O uso desse látex em água infestada por hospedeiros intermediários tem potencial para atuar no controle da
 
 
-",dengue.,malária.,elefantíase.,ascaridíase.,esquistossomose.,E
-41,"
+",dengue.,malária.,elefantíase.,ascaridíase.,esquistossomose.,E,
+41,45,"
+
+
+Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.
+
+HARVEY, D. O enigma do capital. São Paulo: Boitempo, 2011.
+
+
+
+","
+
+Inicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)
+
+
+",superprodução de bens de consumo.,colapso industrial de países asiáticos.,interdependência do sistema econômico.,isolamento político dos países desenvolvidos.,austeridade fiscal dos países em desenvolvimento.,C,
+42,38,"
+
+
+
+
+
+
+
+","
+
+No mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica.
+
+
+",desertificação das áreas afetadas.,poluição dos rios temporários.,queimadas dos remanescentes vegetais.,desmatamento das matas ciliares.,contaminação das águas subterrâneas.,A,enem-data/enem-2015/38-images/context_img_0.png
+43,66,"
+
+
+A definição de queimadura é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados à vítima, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.
+
+Disponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).
+
+
+
+","
+
+Ao se deparar com um indivíduo que sofreu queimadura com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é
+
+
+",colocar gelo sobre a flictena para amenizar o ardor.,utilizar manteiga para evitar o rompimento da flictena.,passar creme dental para diminuir a ardência da flictena.,perfurar a flictena para que a água acumulada seja liberada.,cobrir a flictena com gazes molhadas para evitar a desidratação.,E,
+44,42,"
+
+
+A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto… Assim a lei pode triunfar e o mundo gozar da paz.
+
+ALDALBERON DE LAON, In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981.
+
+
+
+","
+
+A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:
+
+
+",Justificar a dominação estamental / revoltas camponestas.,Subverter a hierarquia social / centralização monárquica.,Impedir a igualdade jurídica / revoluções burguesas.,Controlar a exploração econômica / unificação monetária.,Questionar a ordem divina / Reforma Católica.,A,
+45,44,"
+
+
+O principal articulador do atual modelo econômico chinês argumenta que o mercado é só um instrumento econômico, que se emprega de forma indistinta tanto no capitalismo como no socialismo. Porém os próprios chineses já estão sentindo, na sua sociedade, o seu real significado: o mercado não é algo neutro, ou um instrumental técnico que possibilita à sociedade utilizá-lo para a construção e edificação do socialismo. Ele é, ao contrário do que diz o articulador, um instrumento do capitalismo e é inerente à sua estrutura como modo de produção. A sua utilização está levando a uma polarização da sociedade chinesa.
+
+OLIVEIRA, A. A Revolução Chinesa. Caros Amigos, 31 jan. 2011 (adaptado).
+
+
+
+","
+
+No texto, as reformas econômicas ocorridas na China são colocadas como antagônicas à construção de um país socialista. Nesse contexto, a característica fundamental do socialismo, à qual o modelo econômico chinês atual se contrapõe é a
+
+
+",desestatização da economia.,instauração de um partido único.,manutenção da livre concorrência.,formação de sindicatos trabalhistas.,extinção gradual das classes sociais.,E,
+46,41,"
+
+
+
+
+
+
+
+","
+
+Na charge há uma crítica ao processo produtivo agrícola brasileiro relacionada ao
+
+
+",elevado preço das mercadorias no comércio.,aumento da demanda por produtos naturais.,crescimento da produção de alimentos.,hábito de adquirir derivados industriais.,uso de agrotóxicos nas plantações.,E,enem-data/enem-2015/41-images/context_img_0.png
+47,70,"
+
+Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).
+
+
+","
+
+Essa especiação não ocorre devido ao(à)
+
+
+",oscilação genética das raças.,convergência adaptativa das raças.,isolamento geógrafico entre as raças.,seleção natural que ocorre entre as raças.,manutenção do fluxo gênico entre as raças.,E,
+48,48,"
+
+
+Hipoxia ou mal das alturas consiste na diminuição de oxigênio (O2) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO2) em equilíbrio no sangue, conforme a relação:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mal da montanha. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado).
+
+
+
+","
+
+A alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)
+
+
+",elevação da pressão arterial.,aumento da temperatura corporal.,redução da temperatura do ambiente.,queda da pressão parcial de oxigênio.,diminuição da quantidade de hemácias.,D,enem-data/enem-2015/48-images/context_img_0.png
+49,110,"
 
 
 Casa dos Contos
@@ -681,4 +824,39 @@ m cada fosso me enforco &
 O contexto histórico e literário do período barroco- árcade fundamenta o poema Casa dos Contos, de 1975. A restauração de elementos daquele contexto por uma poética contemporânea revela que:
 
 
-","a disposição visual do poema reflete sua dimensão plástica, que prevalece sobre a observação da realidade social.","a reflexão do eu lírico privilegia a memória e resgata, em fragmentos, fatos e personalidades da Inconfidência Mineira.",a palavra “esconso” (escondido) demonstra o desencanto do poeta com a utopia e sua opção por uma linguagem erudita.,"o eu lírico pretende revitalizar os contrastes barrocos, gerando uma continuidade de procedimentos estéticos e literários.","o eu lírico recria, em seu momento histórico, numa linguagem de ruptura, o ambiente de opressão vivido pelos inconfidentes.",E
+","a disposição visual do poema reflete sua dimensão plástica, que prevalece sobre a observação da realidade social.","a reflexão do eu lírico privilegia a memória e resgata, em fragmentos, fatos e personalidades da Inconfidência Mineira.",a palavra “esconso” (escondido) demonstra o desencanto do poeta com a utopia e sua opção por uma linguagem erudita.,"o eu lírico pretende revitalizar os contrastes barrocos, gerando uma continuidade de procedimentos estéticos e literários.","o eu lírico recria, em seu momento histórico, numa linguagem de ruptura, o ambiente de opressão vivido pelos inconfidentes.",E,
+50,91,"
+
+
+
+
+
+
+
+
+
+
+Transportation Security Administration. Disponível em: www.tsa.gov. Acesso em: 13 jan. 2010 (adaptado).
+
+
+
+","
+
+As instituições públicas fazem uso de avisos como instrumento de comunicação com o cidadão. Esse aviso, voltado a passageiros, tem o objetivo de:
+
+
+",solicitar que as malas sejam apresentadas para inspeção.,notificar o passageiro pelo transporte de produtos proibidos.,informar que a mala foi revistada pelos oficiais de segurança.,dar instruções de como arrumar malas de forma a evitar inspeções.,apresentar desculpas pelo dano causado à mala durante a viagem.,C,enem-data/enem-2015/91-images/context_img_0.png
+51,173,"
+
+
+
+
+
+
+
+","
+
+A dose diária, em miligramas, que esse felino deverá receber é de
+
+
+","0,624.","52,0.","156,0.","750,0.","1 201,9.",B,enem-data/enem-2015/173-images/context_img_0.png

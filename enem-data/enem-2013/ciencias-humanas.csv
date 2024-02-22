@@ -1,20 +1,35 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,1,"
 
 
-Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.
+Na produção social que os homens realizam, eles entram em determinadas relações indispensáveis e independentes de sua vontade; tais relações de produção correspondem a um estágio definido de desenvolvimento das suas forças materiais de produção. A totalidade dessas relações constitui a estrutura econômica da sociedade — fundamento real, sobre o qual se erguem as superestruturas política e jurídica, e ao qual correspondem determinadas formas de consciência social.
 
-SENNETT, R. A corrosão do caráter: consequências pessoais do novo capitalismo. Rio de Janeiro: Record, 1999 (adaptado).
+MARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. Textos 3. São Paulo: Edições Sociais, 1977 (adaptado).
 
 
 
 ","
 
-Comparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que
+Para o autor, a relação entre economia e política estabelecida no sistema capitalista faz com que
 
 
-",as tecnologias de informação sejam usadas para democratizar as relações laborais.,as estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.,os procedimentos de terceirização sejam aprimorados pela qualificação profissional.,as organizações sindicais sejam fortalecidas com a valorização da especialização funcional.,os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho.,E
-1,"
+",o proletariado seja contemplado pelo processo de mais-valia.,o trabalho se constitua como o fundamento real da produção material., a consolidação das forças produtivas seja compatível com o progresso humano.,a autonomia da sociedade civil seja proporcional ao desenvolvimento econômico.,a burguesia revolucione o processo social de formação da consciência de classe.,B,
+1,11,"
+
+
+Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.
+
+MATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012.
+
+
+
+","
+
+A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:
+
+
+",Redução da utilização elétrica.,Ampliação do uso bioenergético.,Expansão das fontes renováveis.,Contenção da demanda urbano-industrial.,Intensificação da dependência geotérmica.,C,
+2,6,"
 
 
 Ninguém desconhece a necessidade que todos os fazendeiros têm de aumentar o número de seus trabalhadores. E como até há pouco supriam-se os fazendeiros dos braços necessários? As fazendas eram alimentadas pela aquisição de escravos, sem o menor auxílio pecuniário do governo. Ora, se os fazendeiros se supriam de braços à sua custa, e se é possível obtê-los ainda, posto que de outra qualidade, por que motivo não hão de procurar alcançá-los pela mesma maneira, isto é, à sua custa?
@@ -32,47 +47,23 @@ O fragmento do discurso dirigido ao parlamentar do Império refere-se às mudan�
 
 
 
-",fomentar ações públicas para ocupação das terras do interior.,adotar o regime assalariado para proteção da mão de obra estrangeira.,definir uma política de subsídio governamental para o fomento da imigração.,regulamentar o tráfico interprovincial de cativos para sobrevivência das fazendas.,financiar a fixação de famílias camponesas para estímulo da agricultura de subsistência.,C
-2,"
+",fomentar ações públicas para ocupação das terras do interior.,adotar o regime assalariado para proteção da mão de obra estrangeira.,definir uma política de subsídio governamental para o fomento da imigração.,regulamentar o tráfico interprovincial de cativos para sobrevivência das fazendas.,financiar a fixação de famílias camponesas para estímulo da agricultura de subsistência.,C,
+3,9,"
 
 
-A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como Um príncipe em Nova York e Ace Ventura: um maluco na África; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação O rei Leão, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.
+Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
 
-
-
-LEIBOWITZ, E. Filmes de Hollywood sobre África ficam no clichê. Disponível em: http://noticias.uol.com.br. Acesso em 17 abr, 2010.
-
-
-
+MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.
 
 
 
 ","
 
+A dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)
 
 
-A produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:
-
-
-
-
-",A história e a natureza.,O exotismo e as culturas.,A sociedade e a economia.,O comércio e o ambiente.,A diversidade e a política.,B
-3,"
-
-
-Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema.
-
-PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.
-
-
-
-","
-
-A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o(a)
-
-
-","poder militar, enquanto fiador da ordem econômica.","presidencialismo, como o objetivo de limitar o poder dos coronéis.",domínio de grupos regionais sobre a ordem federativa.,"intervenção nos estados, autorizada pelas normas constitucionais.",isonomia do governo federal no tratamento das disputas locais.,C
-4,"
+",crescimento da população urbana e aumento da especulação imobiliária.,"direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços.","delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.",implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.,"reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.",A,
+4,12,"
 
 
 A escravidão não há de ser suprimida no Brasil por uma guerra servil, muito menos por insurreições ou atentados locais. Não deve sê-lo, tampouco, por uma guerra civil, como o foi nos Estados Unidos. Ela poderia desaparecer, talvez, depois de uma revolução, como aconteceu na França, sendo essa revolução obra exclusiva da população livre. É no Parlamento e não em fazendas ou quilombos do interior, nem nas ruas e praças das cidades, que se há de ganhar, ou perder, a causa da liberdade.
@@ -91,74 +82,38 @@ No texto, Joaquim Nabuco defende um projeto político sobre como deveria ocorrer
 
 
 
-",copiava o modelo haitiano de emancipação negra.,incentivava a conquista de alforrias por meio de ações judiciais..,optava pela via legalista de libertação.,priorizava a negociação em torno das indenizações aos senhores.,antecipava a libertação paternalista dos cativos.,C
-5,"
+",copiava o modelo haitiano de emancipação negra.,incentivava a conquista de alforrias por meio de ações judiciais..,optava pela via legalista de libertação.,priorizava a negociação em torno das indenizações aos senhores.,antecipava a libertação paternalista dos cativos.,C,
+5,2,"
 
 
-Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
+Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.
 
-MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.
-
-
-
-","
-
-A dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)
-
-
-",crescimento da população urbana e aumento da especulação imobiliária.,"direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços.","delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.",implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.,"reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.",A
-6,"
-
-
-No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.
-
-PEREIRA, C.S. Os senhores da alegria: a presença das mulheres nas Grandes
-Sociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M.C.P.
-Carnavais e outras festas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).
+SENNETT, R. A corrosão do caráter: consequências pessoais do novo capitalismo. Rio de Janeiro: Record, 1999 (adaptado).
 
 
 
 ","
 
+Comparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que
 
 
-Manifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as
+",as tecnologias de informação sejam usadas para democratizar as relações laborais.,as estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.,os procedimentos de terceirização sejam aprimorados pela qualificação profissional.,as organizações sindicais sejam fortalecidas com a valorização da especialização funcional.,os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho.,E,
+6,14,"
 
 
+Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema.
 
-
-",distinções sociais eram deixadas de lado em nome da celebração,aspirações cosmopolitas da elite impediam a realização da festa fora dos clubes.,liberdades individuais eram extintas pelas regras das autoridades públicas.,tradições populares se transformavam em matéria de disputas sociais.,perseguições policiais tinham caráter xenófobo por repudiarem tradições estrangeiras.,D
-7,"
-
-
-Na produção social que os homens realizam, eles entram em determinadas relações indispensáveis e independentes de sua vontade; tais relações de produção correspondem a um estágio definido de desenvolvimento das suas forças materiais de produção. A totalidade dessas relações constitui a estrutura econômica da sociedade — fundamento real, sobre o qual se erguem as superestruturas política e jurídica, e ao qual correspondem determinadas formas de consciência social.
-
-MARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. Textos 3. São Paulo: Edições Sociais, 1977 (adaptado).
+PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.
 
 
 
 ","
 
-Para o autor, a relação entre economia e política estabelecida no sistema capitalista faz com que
+A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o(a)
 
 
-",o proletariado seja contemplado pelo processo de mais-valia.,o trabalho se constitua como o fundamento real da produção material., a consolidação das forças produtivas seja compatível com o progresso humano.,a autonomia da sociedade civil seja proporcional ao desenvolvimento econômico.,a burguesia revolucione o processo social de formação da consciência de classe.,B
-8,"
-
-
-Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.
-
-MATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012.
-
-
-
-","
-
-A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:
-
-
-",Redução da utilização elétrica.,Ampliação do uso bioenergético.,Expansão das fontes renováveis.,Contenção da demanda urbano-industrial.,Intensificação da dependência geotérmica.,C
-9,"
+","poder militar, enquanto fiador da ordem econômica.","presidencialismo, como o objetivo de limitar o poder dos coronéis.",domínio de grupos regionais sobre a ordem federativa.,"intervenção nos estados, autorizada pelas normas constitucionais.",isonomia do governo federal no tratamento das disputas locais.,C,
+7,5,"
 
 
 Tendo encarado a besta do passado olho no olho, tendo pedido e recebido perdão e tendo feito correções, viremos agora a página – não para esquecê-lo, mas para não deixá-lo aprisionar-nos para sempre. Avancemos em direção a um futuro glorioso de uma nova sociedade sul-africana, em que as pessoas valham não em razão de irrelevâncias biológicas ou de outros estranhos atributos, mas porque são pessoas de valor infinito criadas à imagem de Deus.
@@ -181,8 +136,8 @@ No texto, relaciona-se a consolidação da democracia na África do Sul à super
 
 
 
-","populista, que favorecia a cooptação de dissidentes políticos.","totalitarista, que bloqueava o diálogo com os movimentos sociais.","segregacionista, que impedia a universalização da cidadania.","estagnacionista, que disseminava a pauperização social.","fundamentalista, que engendrava conflitos religiosos.",C
-10,"
+","populista, que favorecia a cooptação de dissidentes políticos.","totalitarista, que bloqueava o diálogo com os movimentos sociais.","segregacionista, que impedia a universalização da cidadania.","estagnacionista, que disseminava a pauperização social.","fundamentalista, que engendrava conflitos religiosos.",C,
+8,13,"
 
 
 Tenho 44 anos e presenciei uma transformação impressionante na condição de homens e mulheres gays nos Estados Unidos. Quando nasci, relações homossexuais eram ilegais em todos os Estados Unidos, menos Illinois. Gays e lésbicas não podiam trabalhar no governo federal. Não havia nenhum político abertamente gay. Alguns homossexuais não assumidos ocupavam posições de poder, mas a tendência era eles tormarem as coisas ainda piores para seus semelhantes.
@@ -201,53 +156,67 @@ ROSS, A. Na máquina do tempo. Época, ed. 766, 28 jan. 2013.
 A dimensão política da transformação sugerida no texto teve como condição necessária a
 
 
-",ampliação da noção de cidadania.,reformulação de concepções religiosas.,manutenção de ideologias conservadoras.,implantação de cotas nas listas partidárias.,alteração da composição étnica da população.,A
-11,"
+",ampliação da noção de cidadania.,reformulação de concepções religiosas.,manutenção de ideologias conservadoras.,implantação de cotas nas listas partidárias.,alteração da composição étnica da população.,A,
+9,4,"
 
 
-Então, a travessia das veredas sertanejas é mais exaustiva que a de uma estepe nua. Nesta, ao menos, o viajante tem o desafogo de um horizonte largo e a perspectiva das planuras francas. Ao passo que a outra o afoga; abrevia-lhe o olhar; agride-o e estonteia-o; enlaça-o na trama espinescente e não o atrai; repulsa-o com as folhas urticantes, com o espinho, com os gravetos estalados em lanças, e desdobra-se-lhe na frente léguas e léguas, imutável no aspecto desolado; árvore sem folhas, de galhos estorcidos e secos, revoltos, entrecruzados, apontando rijamente no espaço ou estirando-se flexuosos pelo solo, lembrando um bracejar imenso, de tortura, da flora agonizante…
-
-CUNHA, E. Os sertões. Disponível em: http://pt.scribd.com. Acesso em: 2 jun. 2012.
+A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como Um príncipe em Nova York e Ace Ventura: um maluco na África; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação O rei Leão, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.
 
 
 
-","
-
-Os elementos da paisagem descritos no texto correspondem a aspectos biogeográficos presentes na
+LEIBOWITZ, E. Filmes de Hollywood sobre África ficam no clichê. Disponível em: http://noticias.uol.com.br. Acesso em 17 abr, 2010.
 
 
-",composição de vegetação xerófila.,formação de florestas latifoliadas.,transição para mata de grande porte.,adaptação à elevada salinidade.,homogeneização da cobertura perenifólia.,A
-12,"
 
-
-Nasce daqui uma questão: se vale mais ser amado que temido ou temido que amado. Responde-se que ambas as coisas seriam de desejar; mas porque é difícil juntá-las, é muito mais seguro ser temido que amado, quando haja de faltar uma das duas. Porque dos homens se pode dizer, duma maneira geral, que são ingratos, volúveis, simuladores, covardes e ávidos de lucro, e enquanto lhes fazes bem são inteiramente teus, oferecem-te o sangue, os bens, a vida e os filhos, quando, como acima disse, o perigo está longe; mas quando ele chega, revoltam-se.
-
-MAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.
 
 
 
 ","
 
-A partir da análise histórica do comportamento humano em suas relações sociais e políticas. Maquiavel define o homem como um ser
 
 
-","  munido de virtude, com disposição nata a praticar o bem a si e aos outros.","possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política.","  guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.","  naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais.","sociável por natureza, mantendo relações pacíficas com seus pares.",C
-13,"
+A produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:
 
 
-O edifício é circular. Os apartamentos dos prisioneiros ocupam a circunferência. Você pode chamá-los, se quiser, de celas. O apartamento do inspetor ocupa o centro; você pode chamá-lo, se quiser de alojamento do inspetor. A moral reformada; a saúde preservada; a indústria revigorada; a instrução difundida; os encargos públicos aliviados; a economia assentada, como deve ser, sobre uma rocha; o nó górdio da Lei sobre os Pobres não cortado, mas desfeito – tudo por uma simples ideia de arquitetura!
 
-BENTHAM, J. O panóptico. Belo Horizonte: Autêntica, 2008.
+
+",A história e a natureza.,O exotismo e as culturas.,A sociedade e a economia.,O comércio e o ambiente.,A diversidade e a política.,B,
+10,15,"
+
+
+No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.
+
+PEREIRA, C.S. Os senhores da alegria: a presença das mulheres nas Grandes
+Sociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M.C.P.
+Carnavais e outras festas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).
 
 
 
 ","
 
-Essa é a proposta de um sistema conhecido como panóptico, um modelo que mostra o poder da disciplina nas sociedades contemporâneas, exercido preferencialmente por mecanismos
 
 
-","religiosos, que se constituem como um olho divino controlador que tudo vê.","ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.","repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.","sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.","consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas.",D
-14,"
+Manifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as
+
+
+
+
+",distinções sociais eram deixadas de lado em nome da celebração,aspirações cosmopolitas da elite impediam a realização da festa fora dos clubes.,liberdades individuais eram extintas pelas regras das autoridades públicas.,tradições populares se transformavam em matéria de disputas sociais.,perseguições policiais tinham caráter xenófobo por repudiarem tradições estrangeiras.,D,
+11,8,"
+
+
+
+
+
+
+
+","
+
+Os mapas representam distintos padrões de distribuição de processos socioespaciais. Nesse sentido, a menor incidência de disputas territoriais envolvendo povos indígenas se explica pela
+
+
+",fertilização natural dos solos.,expansão da fronteira agrícola.,intensificação da migração de retorno.,homologação de reservas extrativistas.,concentração histórica da urbanização.,E,enem-data/enem-2013/8-images/context_img_0.png
+12,22,"
 
 
 Disneylândia
@@ -271,8 +240,37 @@ ANTUNES, A. Disponível em: www.radio.uol.com.br. Acesso em: 3 fev. 2013 (fragme
 Na canção, ressalta-se a coexistência, no contexto internacional atual, das seguintes situações:
 
 
-",Acirramento do controle alfandegário e estímulo ao capital especulativo.,Ampliação das trocas econômicas e seletividade dos fluxos populacionais.,Intensificação do controle informacional e adoção de barreiras fitossanitárias.,Aumento da circulação mercantil e desregulamentação do sistema financeiro.,Expansão do protecionismo comercial e descaracterização de identidades nacionais.,B
-15,"
+",Acirramento do controle alfandegário e estímulo ao capital especulativo.,Ampliação das trocas econômicas e seletividade dos fluxos populacionais.,Intensificação do controle informacional e adoção de barreiras fitossanitárias.,Aumento da circulação mercantil e desregulamentação do sistema financeiro.,Expansão do protecionismo comercial e descaracterização de identidades nacionais.,B,
+13,17,"
+
+
+Então, a travessia das veredas sertanejas é mais exaustiva que a de uma estepe nua. Nesta, ao menos, o viajante tem o desafogo de um horizonte largo e a perspectiva das planuras francas. Ao passo que a outra o afoga; abrevia-lhe o olhar; agride-o e estonteia-o; enlaça-o na trama espinescente e não o atrai; repulsa-o com as folhas urticantes, com o espinho, com os gravetos estalados em lanças, e desdobra-se-lhe na frente léguas e léguas, imutável no aspecto desolado; árvore sem folhas, de galhos estorcidos e secos, revoltos, entrecruzados, apontando rijamente no espaço ou estirando-se flexuosos pelo solo, lembrando um bracejar imenso, de tortura, da flora agonizante…
+
+CUNHA, E. Os sertões. Disponível em: http://pt.scribd.com. Acesso em: 2 jun. 2012.
+
+
+
+","
+
+Os elementos da paisagem descritos no texto correspondem a aspectos biogeográficos presentes na
+
+
+",composição de vegetação xerófila.,formação de florestas latifoliadas.,transição para mata de grande porte.,adaptação à elevada salinidade.,homogeneização da cobertura perenifólia.,A,
+14,16,"
+
+
+
+
+
+
+
+","
+
+Na imagem, da década de 1930, há uma crítica à conquista de um direito pelas mulheres, relacionado com a
+
+
+",redivisão do trabalho doméstico.,liberdade de orientação sexual.,garantia da equiparação salarial.,aprovação do direito ao divórcio.,obtenção da participação eleitoral.,E,enem-data/enem-2013/16-images/context_img_0.png
+15,19,"
 
 
 As Brigadas Internacionais foram unidades de combatentes formadas por voluntários de 53 nacionalidades dispostos a lutar em defesa da República espanhola. Estima-se que cerca de 60 mil cidadãos de várias partes do mundo – incluindo 40 brasileiros – tenham se incorporado a essas unidades. Apesar de coordenadas pelos comunistas, as Brigadas contaram com membros socialistas, liberais e de outras correntes político-ideológicas.
@@ -291,23 +289,8 @@ SOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).
 A Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930. A perspectiva política comum que promoveu a mobilização descrita foi o(a)
 
 
-",crítica ao stalinismo.,combate ao fascismo.,rejeição ao federalismo.,apoio ao corporativismo.,adesão ao anarquismo.,B
-16,"
-
-
-Para que não haja abuso, é preciso organizar as coisas de maneira que o poder seja contido pelo poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo dos principais, ou dos nobres, ou do povo, exercesse esses três poderes: o de fazer leis, o de executar as resoluções públicas e o de julgar os crimes ou as divergências dos indivíduos. Assim, criam-se os poderes Legislativo, Executivo e Judiciário, atuando de forma independente para a efetivação da liberdade, sendo que esta não existe se uma mesma pessoa ou grupo exercer os referidos poderes concomitantemente.
-
-MONTESQUIEU, B. Do espírito das leis. São Paulo Abril Cultural, 1979 (adaptado).
-
-
-
-","
-
-A divisão e a independência entre os poderes são condições necessárias para que possa haver liberdade em um Estado. Isso pode ocorrer apenas sob um modelo político em que haja
-
-
-",exercício de tutela sobre atividades jurídicas e políticas.,consagração do poder político pela autoridade religiosa. ,  concentração do poder nas mãos de elites técnico-cientifícas.,  estabelecimento de limites aos atores públicos e às instituições do governo.,"reunião das funções de legislar, julgar e executar nas mãos de um governante eleito.",D
-17,"
+",crítica ao stalinismo.,combate ao fascismo.,rejeição ao federalismo.,apoio ao corporativismo.,adesão ao anarquismo.,B,
+16,20,"
 
 
 De todas as transformações impostas pelo meio técnico-científico-informacional à logística de transportes, interessa-nos mais de perto a intermodalidade. E por uma razão muito simples: o potencial que tal “ferramenta logística” ostenta permite que haja, de fato, um sistema de transportes condizente com a escala geográfica do Brasil.
@@ -321,68 +304,8 @@ HUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agríco
 A necessidade de modais de transporte interligados, no território brasileiro, justifica-se pela(s)
 
 
-","variações climáticas no território, associadas à interiorização da produção.",grandes distâncias e a busca da redução dos custos de transporte.,"formação geológica do país, que impede o uso de um único modal.",proximidade entre a área de produção agrícola intensiva e os portos.,diminuição dos fluxos materiais em detrimento de fluxos imateriais.,B
-18,"
-
-
-Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.
-
-Bercito, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado).
-
-
-
-","
-
-
-
-O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o
-
-
-
-
-",surgimento de um país binacional.,fortalecimento de movimentos antissemitas.,esvaziamento de assentamentos judaicos.,reconhecimento de uma autoridade jurídica.,estabelecimento de fronteiras nacionais.,D
-19,"
-
-
-Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses. Em 451 a.C., porém, os plebeus conseguiram eleger uma comissão de dez pessoas – os decênviros – para escrever as leis. Dois deles viajaram a Atenas, na Grécia, para estudar a legislação de Sólon.
-
-COULANGES, F. A cidade antiga. São Paulo. Martins Fontes, 2000.
-
-
-
-","
-
-
-
-A superação da tradição jurídica oral no mundo antigo, descrita no texto, esteve relacionada à
-
-
-
-
-",adoção do sufrágio universal masculino.,extensão da cidadania aos homens livres.,afirmação de instituições democráticas.,implantação de direitos sociais.,tripartição dos poderes políticos.,B
-20,"
-
-
-Seguiam-se vinte criados custosamente vestidos e montados em soberbos cavalos; depois destes, marchava o Embaixador do Rei do Congo magnificamente ornado de seda azul para anunciar ao Senado que a vinda do Rei estava destinada para o dia dezesseis. Em resposta obteve repetidas vivas do povo que concorreu alegre e admirado de tanta grandeza.
-
-Coroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M.
-Festas e utopias no Brasil colonial. In: CATELLI JR, R.
-Um olhar sobre as festas populares brasileiras. São Paulo: Brasiliense, 1994
-(adaptado).
-
-
-
-","
-
-
-
-Originária dos tempos coloniais, as festa da Coroação do Rei do Congo evidencia um processo de
-
-
-
-
-",exclusão social.,imposição religiosa.,acomodação política.,supressão simbólica.,ressignificação cultural.,E
-21,"
+","variações climáticas no território, associadas à interiorização da produção.",grandes distâncias e a busca da redução dos custos de transporte.,"formação geológica do país, que impede o uso de um único modal.",proximidade entre a área de produção agrícola intensiva e os portos.,diminuição dos fluxos materiais em detrimento de fluxos imateriais.,B,
+17,26,"
 
 
 Quando ninguém duvida da existência de um outro mundo, a morte é uma passagem que deve ser celebrada entre parentes e vizinhos. O homem da Idade Média tem a convicção de não desaparecer completamente, esperando a ressurreição. Pois nada se detém e tudo continua na eternidade. A perda contemporânea do sentimento religioso fez da morte uma provação aterrorizante, um trampolim para as trevas e o desconhecido.
@@ -405,8 +328,168 @@ Ao comparar as maneiras com que as sociedades têm lidado com a morte, o autor c
 
 
 
-",mercantilização das crenças religiosas.,transformação das representações sociais.,disseminação do ateísmo nos países de maioria cristã.,diminuição da distância entre saber científico e eclesiástico.,amadurecimento da consciência ligada à civilização moderna.,B
-22,"
+",mercantilização das crenças religiosas.,transformação das representações sociais.,disseminação do ateísmo nos países de maioria cristã.,diminuição da distância entre saber científico e eclesiástico.,amadurecimento da consciência ligada à civilização moderna.,B,
+18,21,"
+
+
+Nasce daqui uma questão: se vale mais ser amado que temido ou temido que amado. Responde-se que ambas as coisas seriam de desejar; mas porque é difícil juntá-las, é muito mais seguro ser temido que amado, quando haja de faltar uma das duas. Porque dos homens se pode dizer, duma maneira geral, que são ingratos, volúveis, simuladores, covardes e ávidos de lucro, e enquanto lhes fazes bem são inteiramente teus, oferecem-te o sangue, os bens, a vida e os filhos, quando, como acima disse, o perigo está longe; mas quando ele chega, revoltam-se.
+
+MAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.
+
+
+
+","
+
+A partir da análise histórica do comportamento humano em suas relações sociais e políticas. Maquiavel define o homem como um ser
+
+
+","  munido de virtude, com disposição nata a praticar o bem a si e aos outros.","possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política.","  guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.","  naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais.","sociável por natureza, mantendo relações pacíficas com seus pares.",C,
+19,7,"
+
+
+
+
+
+
+
+
+
+
+MOREAUX, F.R. Proclamação da Independência. Disponível em: www.tvbrasil.org.br. Acesso em 14 jun. 2010. (Foto: Enem)
+
+
+
+
+
+
+
+
+
+
+
+
+
+FERREZ, M. D. Pedro II. SCHWARCZ, L.M. As barbas do Imperador. D. Pedro II, um monarca nos trópicos. São Paulo: Cia das Letras, 1998.
+
+
+
+","
+
+As imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:
+
+
+",Habilidade militar – riqueza pessoal.,Liderança popular – estabilidade política.,Instabilidade econômica – herança europeia.,Isolamento político – centralização do poder.,Nacionalismo exacerbado – inovação administrativa.,B,"enem-data/enem-2013/7-images/context_img_0.png,enem-data/enem-2013/7-images/context_img_1.png"
+20,10,"
+
+
+
+
+
+
+
+","
+
+No esquema, o problema atmosférico relacionado ao ciclo da água acentuou-se após as revoluções industriais. Uma consequência direta desse problema está na
+
+
+",redução da flora.,elevação das marés.,erosão das encostas.,laterização dos solos.,fragmentação das rochas.,A,enem-data/enem-2013/10-images/context_img_0.png
+21,3,"
+
+
+
+
+
+
+
+","
+
+Na imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:
+
+
+",Origem da matéria-prima.,Qualificação da mão de obra.,Velocidade de processamento.,Necessidade de armazenamento.,Amplitude do mercado consumidor.,D,enem-data/enem-2013/3-images/context_img_0.png
+22,29,"
+
+
+Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses. Em 451 a.C., porém, os plebeus conseguiram eleger uma comissão de dez pessoas – os decênviros – para escrever as leis. Dois deles viajaram a Atenas, na Grécia, para estudar a legislação de Sólon.
+
+COULANGES, F. A cidade antiga. São Paulo. Martins Fontes, 2000.
+
+
+
+","
+
+
+
+A superação da tradição jurídica oral no mundo antigo, descrita no texto, esteve relacionada à
+
+
+
+
+",adoção do sufrágio universal masculino.,extensão da cidadania aos homens livres.,afirmação de instituições democráticas.,implantação de direitos sociais.,tripartição dos poderes políticos.,B,
+23,24,"
+
+
+Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.
+
+Bercito, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado).
+
+
+
+","
+
+
+
+O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o
+
+
+
+
+",surgimento de um país binacional.,fortalecimento de movimentos antissemitas.,esvaziamento de assentamentos judaicos.,reconhecimento de uma autoridade jurídica.,estabelecimento de fronteiras nacionais.,D,
+24,18,"
+
+
+
+
+
+
+
+","
+
+O processo registrado no gráfico gerou a seguinte consequência demográfica:
+
+
+",Decréscimo da população absoluta.,Redução do crescimento vegetativo.,Diminuição da proporção de adultos.,Expansão de políticas de controle da natalidade.,Aumento da renovação da população economicamente ativa.,B,enem-data/enem-2013/18-images/context_img_0.png
+25,25,"
+
+
+Para que não haja abuso, é preciso organizar as coisas de maneira que o poder seja contido pelo poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo dos principais, ou dos nobres, ou do povo, exercesse esses três poderes: o de fazer leis, o de executar as resoluções públicas e o de julgar os crimes ou as divergências dos indivíduos. Assim, criam-se os poderes Legislativo, Executivo e Judiciário, atuando de forma independente para a efetivação da liberdade, sendo que esta não existe se uma mesma pessoa ou grupo exercer os referidos poderes concomitantemente.
+
+MONTESQUIEU, B. Do espírito das leis. São Paulo Abril Cultural, 1979 (adaptado).
+
+
+
+","
+
+A divisão e a independência entre os poderes são condições necessárias para que possa haver liberdade em um Estado. Isso pode ocorrer apenas sob um modelo político em que haja
+
+
+",exercício de tutela sobre atividades jurídicas e políticas.,consagração do poder político pela autoridade religiosa. ,  concentração do poder nas mãos de elites técnico-cientifícas.,  estabelecimento de limites aos atores públicos e às instituições do governo.,"reunião das funções de legislar, julgar e executar nas mãos de um governante eleito.",D,
+26,27,"
+
+
+O edifício é circular. Os apartamentos dos prisioneiros ocupam a circunferência. Você pode chamá-los, se quiser, de celas. O apartamento do inspetor ocupa o centro; você pode chamá-lo, se quiser de alojamento do inspetor. A moral reformada; a saúde preservada; a indústria revigorada; a instrução difundida; os encargos públicos aliviados; a economia assentada, como deve ser, sobre uma rocha; o nó górdio da Lei sobre os Pobres não cortado, mas desfeito – tudo por uma simples ideia de arquitetura!
+
+BENTHAM, J. O panóptico. Belo Horizonte: Autêntica, 2008.
+
+
+
+","
+
+Essa é a proposta de um sistema conhecido como panóptico, um modelo que mostra o poder da disciplina nas sociedades contemporâneas, exercido preferencialmente por mecanismos
+
+
+","religiosos, que se constituem como um olho divino controlador que tudo vê.","ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.","repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.","sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.","consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas.",D,
+27,30,"
 
 
 A felicidade é, portanto, a melhor, a mais nobre e a mais aprazível coisa do mundo, e esses atributos não devem estar separados como na inscrição existente em Delfos “das coisas, a mais nobre é a mais justa, e a melhor é a saúde; porém a mais doce é ter o que amamos”. Todos estes atributos estão presentes nas mais excelentes atividades, e entre essas a melhor, nós a identificamos como felicidade.
@@ -420,8 +503,80 @@ ARISTOTELES. A Política. São Paulo: Cia das Letras, 2010.
 Ao reconhecer na felicidade a reunião dos mais excelentes atributos, Aristoteles a identifica como
 
 
-",busca por bens materiais e títulos de nobreza.,plenitude espiritual e ascese pessoal.,finalidade das ações e condutas humanas.,  conhecimento de verdades imutáveis e perfeitas.,expressão do sucesso individual e reconhecimento público.,C
-23,"
+",busca por bens materiais e títulos de nobreza.,plenitude espiritual e ascese pessoal.,finalidade das ações e condutas humanas.,  conhecimento de verdades imutáveis e perfeitas.,expressão do sucesso individual e reconhecimento público.,C,
+28,33,"
+
+
+TEXTO I
+A nossa luta é pela democratização da propriedade da terra, cada vez mais concentrada em nosso país. Cerca de 1% de todos os proprietários controla 46% das terras. Fazemos pressão por meio da ocupação de latifúndios improdutivos e grandes propriedades, que não cumprem a função social, como determina a Constituição de 1988. Também ocupamos as fazendas que têm origem na grilagem de terras públicas.
+
+Disponível em: www.mst.org.br. Acesso em: 25 ago. 2011 (adaptado).
+
+
+
+
+
+TEXTO II
+O pequeno proprietário rural é igual a um pequeno proprietário de loja: quanto menor o negócio mais difícil de manter, pois tem de ser produtivo e os encargos são difíceis de arcar. Sou a favor de propriedades produtivas e sustentáveis e que gerem empregos. Apoiar uma empresa produtiva que gere emprego é muito mais barato e gera muito mais do que apoiar a reforma agrária.
+
+LESSA, C. Disponível em: www.observadorpolitico.org.br. Acesso em: 25 ago. 2011 (adaptado).
+
+
+
+","
+
+Nos fragmentos dos textos, os posicionamentos em relação à reforma agrária se opõem. Isso acontece porque os autores associam a reforma agrária, respectivamente, à
+
+
+",redução do inchaço urbano e à crítica ao minifúndio camponês.,ampliação da renda nacional e à prioridade ao mercado externo.,contenção da mecanização agrícola e ao combate ao êxodo rural.,privatização de empresas estatais e ao estímulo ao crescimento econômico.,correção de distorções históricas e ao prejuízo ao agronegócio.,E,
+29,32,"
+
+
+Seguiam-se vinte criados custosamente vestidos e montados em soberbos cavalos; depois destes, marchava o Embaixador do Rei do Congo magnificamente ornado de seda azul para anunciar ao Senado que a vinda do Rei estava destinada para o dia dezesseis. Em resposta obteve repetidas vivas do povo que concorreu alegre e admirado de tanta grandeza.
+
+Coroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M.
+Festas e utopias no Brasil colonial. In: CATELLI JR, R.
+Um olhar sobre as festas populares brasileiras. São Paulo: Brasiliense, 1994
+(adaptado).
+
+
+
+","
+
+
+
+Originária dos tempos coloniais, as festa da Coroação do Rei do Congo evidencia um processo de
+
+
+
+
+",exclusão social.,imposição religiosa.,acomodação política.,supressão simbólica.,ressignificação cultural.,E,
+30,23,"
+
+
+
+
+
+
+
+
+
+
+FORTUNA. Correio da Manhã, ano 65, n. 22 264, 2 nov. 1965.
+
+
+
+","
+
+
+
+A imagem foi publicada no jornal Correio da Manhã, no dia de Finados de 1965. Sua relação com os direitos políticos existentes no período revela a
+
+
+
+
+",extinção dos partidos nanicos.,retomada dos partidos estaduais.,adoção do bipartidarismo regulado.,superação do fisiologismo tradicional.,valorização da representação parlamentar.,C,enem-data/enem-2013/23-images/context_img_0.png
+31,36,"
 
 
 Ela acorda tarde depois de ter ido ao teatro e à dança; ela lê romances, além de desperdiçar o tempo a olhar para a rua da sua janela ou da sua varanda; passa horas no toucador a arrumar o seu complicado penteado; um número igual de horas praticando piano e mais outras na sua aula de francês ou de dança.
@@ -447,15 +602,9 @@ MACEDO, J. M. Memórias da Rua do Ouvidor (1878). Disponível em: www.dominiop
 A representação social do feminino comum aos dois textos é o(a)
 
 
-","submissão de gênero, apoiada pela concepção patriarcal de família.","acesso aos produtos de beleza, decorrência da abertura dos portos.","ampliação do espaço de entretenimento, voltado às distintas classes sociais. ","proteção da honra, mediada pela disputa masculina em relação às damas da corte.","valorização do casamento cristão, respaldado pelos interesses vinculados à herança.",A
-24,"
+","submissão de gênero, apoiada pela concepção patriarcal de família.","acesso aos produtos de beleza, decorrência da abertura dos portos.","ampliação do espaço de entretenimento, voltado às distintas classes sociais. ","proteção da honra, mediada pela disputa masculina em relação às damas da corte.","valorização do casamento cristão, respaldado pelos interesses vinculados à herança.",A,
+32,28,"
 
-
-No dia 1º de julho de 2012, a cidade do Rio de Janeiro tornou-se a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural. A candidatura, apresentada pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), foi aprovada durante a 36.ª Sessão do Comitê do Patrimônio Mundial. O presidente do Iphan explicou que “a paisagem carioca é a imagem mais explícita do que podemos chamar de civilização brasileira, com sua originalidade, desafios, contradições e possibilidades”. A partir de agora, os locais da cidade valorizados com o título da Unesco serão alvo de ações integradas visando à preservação da sua paisagem cultural.
-
-
-
-Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
 
 
 
@@ -464,30 +613,87 @@ Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
 
 ","
 
+A charge revela uma crítica aos meios de comunicação, em especial à internet, porque
 
 
-O reconhecimento da paisagem em questão como patrimônio mundial deriva da
+",questiona a integração das pessoas nas redes virtuais de relacionamento.,considera as relações sociais como menos importantes que as virtuais.,enaltece a pretensão do homem de estar em todos os lugares ao mesmo tempo.,descreve com precisão as sociedades humanas no mundo globalizado.,concebe a rede de computadores como o espaço mais eficaz para a construção de relações sociais.,A,enem-data/enem-2013/28-images/context_img_0.png
+33,34,"
 
 
+A recuperação da herança cultural africana deve levar em conta o que é próprio do processo cultural: seu movimento, pluralidade e complexidade. Não se trata, portanto, do resgate ingênuo do passado nem do seu cultivo nostálgico, mas de procurar perceber o próprio rosto cultural brasileiro. O que se quer é captar seu movimento para melhor compreendê-lo historicamente.
 
-
-",presença do corpo artístico local.,imagem internacional da metrópole.,herança de prédios da ex-capital do país.,diversidade de culturas presente na cidade.,relação sociedade-natureza de caráter singular.,E
-25,"
-
-
-Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.
-
-SANTOS, M.; SILVEIRA; M. L. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2004 (adaptado).
+MINAS GERAIS: Cadernos do Arquivo 1: Escravidão em
+Minas Gerais. Belo Horizonte: Arquivo Público Mineiro, 1988.
 
 
 
 ","
 
-A partir da última década, verifica-se a ocorrência no Brasil de alterações significativas no território, ocasionando impactos sociais, culturais e econômicos sobre comunidades locais, e com maior intensidade, na Amazônia Legal, com a
+Com base no texto, a análise de manifestações culturais de origem africana, como a capoeira ou o candomblé, deve considerar que elas
 
 
-",reforma e ampliação de aeroportos nas capitais dos estados.,ampliação de estádios de futebol para a realização de eventos esportivos.,"construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.",instalação de cabos para a formação de uma rede informatizada de comunicação.,formação de uma infraestrutura de torres que permitem a comunicação móvel na região.,C
-26,"
+",permanecem como reprodução dos valores e costumes africanos. ,perderam a relação com o seu passado histórico.,derivam da interação entre valores africanos e a experiência histórica brasileira.,contribuem para o distanciamento cultural entre negros e brancos no Brasil atual., demonstram a maior complexidade cultural dos africanos em relação aos europeus.,C,
+34,37,"
+
+
+Os produtos e seu consumo constituem a meta declarada do empreendimento tecnológico. Essa meta foi proposta pela primeira vez no início da Modernidade, como expectativa de que o homem poderia dominar a natureza. No entanto, essa expectativa, convertida em programa anunciado por pensadores como Descartes e Bacon e impulsionado pelo Iluminismo, não surgiu “de um prazer de poder”, “de um mero imperialismo humano”, mas da aspiração de libertar o homem e de enriquecer sua vida, física e culturalmente.
+
+CUPANI, A. A tecnologia como problema filosófico: três enfoques. Scientiae Studia, São Paulo, v. 2, n. 4, 2004 (adaptado).
+
+
+
+","
+
+Autores da filosofia moderna, notadamente Descartes e Bacon, e o projeto iluminista concebem a ciência como uma forma de saber que almeja libertar o homem das intempéries da natureza. Nesse contexto, a investigação científica consiste em
+
+
+",expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.,oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.,ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso., explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.,explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos.,C,
+35,31,"
+
+
+
+
+
+
+
+","
+
+Na imagem, visualiza-se um método de cultivo e as transformações provocadas no espaço geográfico. O objetivo imediato da técnica agrícola utilizada é
+
+
+",controlar a erosão laminar.,preservar as nascentes fluviais.,diminuir a contaminação química.,incentivar a produção transgênica.,implantar a mecanização intensiva.,A,enem-data/enem-2013/31-images/context_img_0.png
+36,41,"
+
+
+O canto triste dos conquistados: os últimos dias de Tenochtitlán
+Nos caminhos jazem dardos quebrados; os cabelos estão espalhados. Destelhadas estão as casas, Vermelhas estão as águas, os rios, como se alguém as tivesse tingido, Nos escudos esteve nosso resguardo, mas os escudos não detêm a desolação…
+
+PINSKY, J. et al. História da América através de textos. São Paulo. Contexto, 2007 (fragmento).
+
+
+
+","
+
+O texto é um registro asteca, cujo sentido está relacionado ao(à)
+
+
+",tragédia causada pela destruição da cultura desse povo.,tentativa frustada de resistência a um poder considerado superior.,extermínio das populações indígenas pelo Exército espanhol.,dissolução da memória sobre os feitos de seus antepassados.,profetização das consequências da colonização da América.,B,
+37,40,"
+
+
+De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares […]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente.
+
+Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001.
+
+
+
+","
+
+A carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o seguinte objetivo:
+
+
+",Valorizar a catequese a ser realizada sobre os povos nativos.,Descrever a cultura local para enaltecer a prosperidade portuguesa.,Transmitir o conhecimento dos indígenas sobre o potencial econômico existente.,Realçar a pobreza dos habitantes nativos para demarcar a superioridade europeia.,Criticar o modo de vida dos povos autóctones para evidenciar a ausência de trabalho.,A,
+38,39,"
 
 
 Há já algum tempo eu me apercebi de que, desde meus primeiros anos, recebera muitas falsas opiniões como verdadeiras, e de que aquilo que depois eu fundei em princípios tão mal assegurados não podia ser senão mui duvidoso e incerto. Era necessário tentar seriamente, uma vez em minha vida, desfazer-me de todas as opiniões a que até então dera crédito, e começar tudo novamente a fim de estabelecer um saber firme e inabalável.
@@ -513,109 +719,32 @@ SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 
 A exposição e a análise do projeto cartesiano indicam que, para viabilizar a reconstrução radical do conhecimento, deve-se
 
 
-",retomar o método da tradição para edificar a ciência com legitimidade.,questionar de forma ampla e profunda as antigas ideias e concepções.,investigar os conteúdos da consciência dos homens menos esclarecidos., buscar uma via para eliminar da memória saberes antigos e ultrapassados.,encontrar ideias e pensamentos evidentes que dispensam ser questionados.,B
-27,"
+",retomar o método da tradição para edificar a ciência com legitimidade.,questionar de forma ampla e profunda as antigas ideias e concepções.,investigar os conteúdos da consciência dos homens menos esclarecidos., buscar uma via para eliminar da memória saberes antigos e ultrapassados.,encontrar ideias e pensamentos evidentes que dispensam ser questionados.,B,
+39,38,"
 
 
-TEXTO I
-A nossa luta é pela democratização da propriedade da terra, cada vez mais concentrada em nosso país. Cerca de 1% de todos os proprietários controla 46% das terras. Fazemos pressão por meio da ocupação de latifúndios improdutivos e grandes propriedades, que não cumprem a função social, como determina a Constituição de 1988. Também ocupamos as fazendas que têm origem na grilagem de terras públicas.
-
-Disponível em: www.mst.org.br. Acesso em: 25 ago. 2011 (adaptado).
+No dia 1º de julho de 2012, a cidade do Rio de Janeiro tornou-se a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural. A candidatura, apresentada pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), foi aprovada durante a 36.ª Sessão do Comitê do Patrimônio Mundial. O presidente do Iphan explicou que “a paisagem carioca é a imagem mais explícita do que podemos chamar de civilização brasileira, com sua originalidade, desafios, contradições e possibilidades”. A partir de agora, os locais da cidade valorizados com o título da Unesco serão alvo de ações integradas visando à preservação da sua paisagem cultural.
 
 
 
+Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
 
 
-TEXTO II
-O pequeno proprietário rural é igual a um pequeno proprietário de loja: quanto menor o negócio mais difícil de manter, pois tem de ser produtivo e os encargos são difíceis de arcar. Sou a favor de propriedades produtivas e sustentáveis e que gerem empregos. Apoiar uma empresa produtiva que gere emprego é muito mais barato e gera muito mais do que apoiar a reforma agrária.
 
-LESSA, C. Disponível em: www.observadorpolitico.org.br. Acesso em: 25 ago. 2011 (adaptado).
 
 
 
 ","
 
-Nos fragmentos dos textos, os posicionamentos em relação à reforma agrária se opõem. Isso acontece porque os autores associam a reforma agrária, respectivamente, à
 
 
-",redução do inchaço urbano e à crítica ao minifúndio camponês.,ampliação da renda nacional e à prioridade ao mercado externo.,contenção da mecanização agrícola e ao combate ao êxodo rural.,privatização de empresas estatais e ao estímulo ao crescimento econômico.,correção de distorções históricas e ao prejuízo ao agronegócio.,E
-28,"
-
-
-De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares […]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente.
-
-Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001.
+O reconhecimento da paisagem em questão como patrimônio mundial deriva da
 
 
 
-","
 
-A carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o seguinte objetivo:
-
-
-",Valorizar a catequese a ser realizada sobre os povos nativos.,Descrever a cultura local para enaltecer a prosperidade portuguesa.,Transmitir o conhecimento dos indígenas sobre o potencial econômico existente.,Realçar a pobreza dos habitantes nativos para demarcar a superioridade europeia.,Criticar o modo de vida dos povos autóctones para evidenciar a ausência de trabalho.,A
-29,"
-
-
-A recuperação da herança cultural africana deve levar em conta o que é próprio do processo cultural: seu movimento, pluralidade e complexidade. Não se trata, portanto, do resgate ingênuo do passado nem do seu cultivo nostálgico, mas de procurar perceber o próprio rosto cultural brasileiro. O que se quer é captar seu movimento para melhor compreendê-lo historicamente.
-
-MINAS GERAIS: Cadernos do Arquivo 1: Escravidão em
-Minas Gerais. Belo Horizonte: Arquivo Público Mineiro, 1988.
-
-
-
-","
-
-Com base no texto, a análise de manifestações culturais de origem africana, como a capoeira ou o candomblé, deve considerar que elas
-
-
-",permanecem como reprodução dos valores e costumes africanos. ,perderam a relação com o seu passado histórico.,derivam da interação entre valores africanos e a experiência histórica brasileira.,contribuem para o distanciamento cultural entre negros e brancos no Brasil atual., demonstram a maior complexidade cultural dos africanos em relação aos europeus.,C
-30,"
-
-
-Embora haja dados comuns que dão unidade ao fenômeno da urbanização na África, na Ásia e na América Latina, os impactos são distintos em cada continente e mesmo dentro de cada país, ainda que as modernizações se deem com o mesmo conjunto de inovações.
-
-ELIAS, D. Fim do século e urbanização no Brasil. Revista Ciência Geográfica, ano IV, n. 11, set./dez. 1988.
-
-
-
-","
-
-O texto aponta para a complexidade da urbanização nos diferentes contextos socioespaciais. Comparando a organização socioeconômica das regiões citadas, a unidade desse fenômeno é perceptível no aspecto
-
-
-","espacial, em função do sistema integrado que envolve as cidades locais e globais.","cultural, em função da semelhança histórica e da condição de modernização econômica e política.","demográfico, em função da localização das maiores aglomerações urbanas e continuidade do fluxo campo-cidade.","territorial, em função da estrutura de organização e planejamento das cidades que atravessam as fronteiras nacionais.","econômico, em função da revolução agrícola que transformou o campo e a cidade e contribuiu para fixação do homem ao lugar.",C
-31,"
-
-
-No Brasil, cerca de 80% da energia elétrica advém de hidrelétricas, cuja construção implica o represamento de rios. A formação de um reservatório para esse fim, por sua vez, pode modificar a ictiofauna local. Um exemplo é o represamento do Rio Paraná, onde se observou o desaparecimento de peixes cascudos quase que simultaneamente ao aumento do número de peixes de espécies exóticas introduzidas, como o mapará e a corvina, as três espécies com nichos ecológicos semelhantes.
-
-PETESSE, M. L.; PETRERE JR., M. Ciência Hoje, São Paulo, n. 293, v. 49, jun. 2012 (adaptado).
-
-
-
-","
-
-Nessa modificação da ictiofauna, o desaparecimento de cascudos é explicado pelo(a)
-
-
-",redução do fluxo gênico da espécie nativa.,diminuição da competição intraespecífica.,aumento da competição interespecífica.,isolamento geográfico dos peixes.,extinção de nichos ecológicos.,C
-32,"
-
-
-Os produtos e seu consumo constituem a meta declarada do empreendimento tecnológico. Essa meta foi proposta pela primeira vez no início da Modernidade, como expectativa de que o homem poderia dominar a natureza. No entanto, essa expectativa, convertida em programa anunciado por pensadores como Descartes e Bacon e impulsionado pelo Iluminismo, não surgiu “de um prazer de poder”, “de um mero imperialismo humano”, mas da aspiração de libertar o homem e de enriquecer sua vida, física e culturalmente.
-
-CUPANI, A. A tecnologia como problema filosófico: três enfoques. Scientiae Studia, São Paulo, v. 2, n. 4, 2004 (adaptado).
-
-
-
-","
-
-Autores da filosofia moderna, notadamente Descartes e Bacon, e o projeto iluminista concebem a ciência como uma forma de saber que almeja libertar o homem das intempéries da natureza. Nesse contexto, a investigação científica consiste em
-
-
-",expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.,oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.,ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso., explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.,explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos.,C
-33,"
+",presença do corpo artístico local.,imagem internacional da metrópole.,herança de prédios da ex-capital do país.,diversidade de culturas presente na cidade.,relação sociedade-natureza de caráter singular.,E,
+40,43,"
 
 
 Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puertal Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o Slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário”.
@@ -633,50 +762,37 @@ Em 2011, o acampamento dos indignados espanhóis expressou todo o descontamento 
 
 
 
-",Voto universal.,Democracia direta.,Pluralidade partidária.,Autonomia legislativa.,Imunidade parlamentar.,B
-34,"
+",Voto universal.,Democracia direta.,Pluralidade partidária.,Autonomia legislativa.,Imunidade parlamentar.,B,
+41,51,"
 
 
-Até hoje admitia-se que nosso conhecimento se devia regular pelos objetos; porém, todas as tentativas para descobrir, mediante conceitos, algo que ampliasse nosso conhecimento, malogravam-se com esse pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento.
+No Brasil, cerca de 80% da energia elétrica advém de hidrelétricas, cuja construção implica o represamento de rios. A formação de um reservatório para esse fim, por sua vez, pode modificar a ictiofauna local. Um exemplo é o represamento do Rio Paraná, onde se observou o desaparecimento de peixes cascudos quase que simultaneamente ao aumento do número de peixes de espécies exóticas introduzidas, como o mapará e a corvina, as três espécies com nichos ecológicos semelhantes.
 
-KANT, I. Crítica da razão pura. Lisboa: Calouste-Gulbenkian, 1994 (adaptado).
-
-
-
-","
-
-O trecho em questão é uma referência ao que ficou conhecido como revolução copernicana na filosofia. Nele, confrontam-se duas posições filosóficas que
-
-
-",assumem pontos de vista opostos acerca da natureza do conhecimento.,"defendem que o conhecimento é impossível, restando-nos somente o ceticismo.",revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica.,"apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos.",refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant.,A
-35,"
-
-As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.
-
-
-","
-
-A função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)
-
-
-",comprimento do trato gastrointestinal para caber mais alimento.,área de contato com o conteúdo intestinal para absorção dos nutrientes.,liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.,secreção de enzimas digestivas para aumentar a degradação proteica no estômago.,processo de digestão para diminuir o tempo de permanência do alimento no intestino.,B
-36,"
-
-
-O canto triste dos conquistados: os últimos dias de Tenochtitlán
-Nos caminhos jazem dardos quebrados; os cabelos estão espalhados. Destelhadas estão as casas, Vermelhas estão as águas, os rios, como se alguém as tivesse tingido, Nos escudos esteve nosso resguardo, mas os escudos não detêm a desolação…
-
-PINSKY, J. et al. História da América através de textos. São Paulo. Contexto, 2007 (fragmento).
+PETESSE, M. L.; PETRERE JR., M. Ciência Hoje, São Paulo, n. 293, v. 49, jun. 2012 (adaptado).
 
 
 
 ","
 
-O texto é um registro asteca, cujo sentido está relacionado ao(à)
+Nessa modificação da ictiofauna, o desaparecimento de cascudos é explicado pelo(a)
 
 
-",tragédia causada pela destruição da cultura desse povo.,tentativa frustada de resistência a um poder considerado superior.,extermínio das populações indígenas pelo Exército espanhol.,dissolução da memória sobre os feitos de seus antepassados.,profetização das consequências da colonização da América.,B
-37,"
+",redução do fluxo gênico da espécie nativa.,diminuição da competição intraespecífica.,aumento da competição interespecífica.,isolamento geográfico dos peixes.,extinção de nichos ecológicos.,C,
+42,35,"
+
+
+
+
+
+
+
+","
+
+A charge ironiza a política desenvolvimentista do governo Juscelino Kubitschek, ao
+
+
+",evidenciar que o incremento da malha viária diminuiu as desigualdades regionais do país.,destacar que a modernização das indústrias dinamizou a produção de alimentos para o mercado interno.,enfatizar que o crescimento econômico implicou aumento das contradições socioespaciais.,ressaltar que o investimento no setor de bens duráveis incrementou os salários de trabalhadores.,mostrar que a ocupação de regiões interioranas abriu frentes de trabalho para a população local.,C,enem-data/enem-2013/35-images/context_img_0.png
+43,54,"
 
 
 Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativos.
@@ -690,8 +806,38 @@ CORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações.
 À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas
 
 
-",hidrelétricas.,termelétricas.,usinas geotérmicas.,fontes de energia solar.,fontes de energia eólica.,B
-38,"
+",hidrelétricas.,termelétricas.,usinas geotérmicas.,fontes de energia solar.,fontes de energia eólica.,B,
+44,44,"
+
+
+Até hoje admitia-se que nosso conhecimento se devia regular pelos objetos; porém, todas as tentativas para descobrir, mediante conceitos, algo que ampliasse nosso conhecimento, malogravam-se com esse pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento.
+
+KANT, I. Crítica da razão pura. Lisboa: Calouste-Gulbenkian, 1994 (adaptado).
+
+
+
+","
+
+O trecho em questão é uma referência ao que ficou conhecido como revolução copernicana na filosofia. Nele, confrontam-se duas posições filosóficas que
+
+
+",assumem pontos de vista opostos acerca da natureza do conhecimento.,"defendem que o conhecimento é impossível, restando-nos somente o ceticismo.",revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica.,"apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos.",refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant.,A,
+45,45,"
+
+
+Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.
+
+SANTOS, M.; SILVEIRA; M. L. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2004 (adaptado).
+
+
+
+","
+
+A partir da última década, verifica-se a ocorrência no Brasil de alterações significativas no território, ocasionando impactos sociais, culturais e econômicos sobre comunidades locais, e com maior intensidade, na Amazônia Legal, com a
+
+
+",reforma e ampliação de aeroportos nas capitais dos estados.,ampliação de estádios de futebol para a realização de eventos esportivos.,"construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.",instalação de cabos para a formação de uma rede informatizada de comunicação.,formação de uma infraestrutura de torres que permitem a comunicação móvel na região.,C,
+46,85,"
 
 
 Apesar de belos e impressionantes, corais exóticos encontrados na Ilha Grande podem ser uma ameaça ao equilíbrio dos ecossistemas do litoral do Rio de Janeiro. Originários do Oceano Pacífico, esses organismos foram trazidos por plataformas de petróleo e outras embarcações, provavelmente na década de 1980, e disputam com as espécies nativas elementos primordiais para a sobrevivência, como espaço e alimento. Organismos invasores são a segunda maior causa de perda de biodiversidade, superados somente pela destruição direta de hábitats pela ação do homem. As populações de espécies invasoras crescem indefinidamente e ocupam o espaço de organismos nativos.
@@ -705,19 +851,34 @@ LEVY, I. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 5 dez. 2011 (
 As populações de espécies invasoras crescem bastante por terem a vantagem de
 
 
-",não apresentarem genes deletérios no seu pool gênico.,não possuírem parasitas e predadores naturais presentes no ambiente exótico.,apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental.,apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico.,apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas.,B
-39,"
+",não apresentarem genes deletérios no seu pool gênico.,não possuírem parasitas e predadores naturais presentes no ambiente exótico.,apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental.,apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico.,apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas.,B,
+47,42,"
 
-Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.
+
+Embora haja dados comuns que dão unidade ao fenômeno da urbanização na África, na Ásia e na América Latina, os impactos são distintos em cada continente e mesmo dentro de cada país, ainda que as modernizações se deem com o mesmo conjunto de inovações.
+
+ELIAS, D. Fim do século e urbanização no Brasil. Revista Ciência Geográfica, ano IV, n. 11, set./dez. 1988.
+
 
 
 ","
 
-Para identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a)
+O texto aponta para a complexidade da urbanização nos diferentes contextos socioespaciais. Comparando a organização socioeconômica das regiões citadas, a unidade desse fenômeno é perceptível no aspecto
 
 
-",pai.,filho.,filha.,avó materna.,avô materno.,D
-40,"
+","espacial, em função do sistema integrado que envolve as cidades locais e globais.","cultural, em função da semelhança histórica e da condição de modernização econômica e política.","demográfico, em função da localização das maiores aglomerações urbanas e continuidade do fluxo campo-cidade.","territorial, em função da estrutura de organização e planejamento das cidades que atravessam as fronteiras nacionais.","econômico, em função da revolução agrícola que transformou o campo e a cidade e contribuiu para fixação do homem ao lugar.",C,
+48,56,"
+
+As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.
+
+
+","
+
+A função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)
+
+
+",comprimento do trato gastrointestinal para caber mais alimento.,área de contato com o conteúdo intestinal para absorção dos nutrientes.,liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.,secreção de enzimas digestivas para aumentar a degradação proteica no estômago.,processo de digestão para diminuir o tempo de permanência do alimento no intestino.,B,
+49,64,"
 
 
 As fêmeas de algumas espécies de aranhas, escorpiões e de outros invertebrados predam os machos após a cópula e inseminação. Como exemplo, fêmeas canibais do inseto conhecido como louva-a-deus, Tenodera aridofolia, possuem até 63% da sua dieta composta por machos parceiros. Para as fêmeas, o canibalismo sexual pode assegurar a obtenção de nutrientes importantes na reprodução. Com esse incremento na dieta, elas geralmente produzem maior quantidade de ovos.
@@ -731,4 +892,49 @@ BORGES, J. C. Jogo mortal. Disponível em: http://cienciahoje.uol.com.br. Acesso
 Apesar de ser um comportamento aparentemente desvantajoso para os machos, o canibalismo sexual evoluiu nesses táxons animais porque
 
 
-",promove a maior ocupação de diferentes nichos ecológicos pela espécie.,favorece o sucesso reprodutivo individual de ambos os parentais.,impossibilita a transmissão de genes do macho para a prole.,impede a sobrevivência e reprodução futura do macho.,reduz a variabilidade genética da população.,B
+",promove a maior ocupação de diferentes nichos ecológicos pela espécie.,favorece o sucesso reprodutivo individual de ambos os parentais.,impossibilita a transmissão de genes do macho para a prole.,impede a sobrevivência e reprodução futura do macho.,reduz a variabilidade genética da população.,B,
+50,75,"
+
+Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.
+
+
+","
+
+Para identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a)
+
+
+",pai.,filho.,filha.,avó materna.,avô materno.,D,
+51,136,"
+
+
+
+
+
+
+
+
+
+A função real que expressa a parábola, no plano cartesiano da figura, é dada pela lei  onde C é a medida da altura do líquido contido na taça,  em centímetros. Sabe-se que o ponto V, na figura, representa o vértice da parábola, localizado sobre o eixo x.
+
+
+
+","
+
+Nessas condições, a altura do líquido contido na taça, em centímetros, é
+
+
+",1,2,4,5,6,E,"enem-data/enem-2013/136-images/context_img_0.png,enem-data/enem-2013/136-images/context_img_1.png"
+52,173,"
+
+
+
+
+
+
+
+","
+
+A projeção ortogonal da trajetória dos pontos A e B, sobre o plano do chão da gangorra, quando esta se encontra em movimento, é:
+
+
+",enem-data/enem-2013/173-images/alt_img_0.png,enem-data/enem-2013/173-images/alt_img_1.png,enem-data/enem-2013/173-images/alt_img_2.png,enem-data/enem-2013/173-images/alt_img_3.png,enem-data/enem-2013/173-images/alt_img_4.png,B,enem-data/enem-2013/173-images/context_img_0.png

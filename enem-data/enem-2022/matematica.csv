@@ -1,5 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,138,"
 
 
 Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.
@@ -12,8 +12,8 @@ Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda
 No planeta Z, seu ano corresponderia a quantos de seus dias?
 
 
-","2,5 ","10,0 ","730,0 ","13 322,5","53 290,0",A
-1,"
+","2,5 ","10,0 ","730,0 ","13 322,5","53 290,0",A,
+1,137,"
 
 
 Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos.
@@ -25,8 +25,8 @@ Um borrifador de atuação automática libera, a cada acionamento, uma mesma qua
 A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é
 
 
-","0,125.","0,200.","4,800.","6,000.","12,000.",B
-2,"
+","0,125.","0,200.","4,800.","6,000.","12,000.",B,
+2,149,"
 
 
 Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja,
@@ -41,66 +41,8 @@ Disponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).
 De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi
 
 
-",16 514.,86 700.,115 600.,441 343.,448 568.,C
-3,"
-
-
-Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e
-R$ 12 000,00.
-A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.
-
-
-
-","
-
-Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,
-
-
-","14,4.","20,7.","22,0.","30,0.","37,5",D
-4,"
-
-
-Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro.
-A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda
-
-
-
-","
-
-Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?
-
-
-",2,3,6,12,24,E
-5,"
-
-
-Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus
-algarismos.
-
-
-
-","
-
-O número escrito pelo estudante foi
-
-
-","135 000,00. ","1 350 000,00. ","13 500 000,00. "," 135 000 000,00. ","1 350 000 000,00",E
-6,"
-
-
-Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.
-Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a
-pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado
-
-
-
-","
-
-O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi
-
-
-","R$ 2,00 menor. ","R$ 100,00 menor.","R$ 200,00 menor. ","R$ 42,00 maior. ","R$ 80,00 maior.",A
-7,"
+",16 514.,86 700.,115 600.,441 343.,448 568.,C,
+3,142,"
 
 
 Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:
@@ -123,22 +65,207 @@ volumétrica
 O modelo escolhido deve ser o
 
 
-",I.,II.,III.,IV.,V.,E
-8,"
+",I.,II.,III.,IV.,V.,E,
+4,144,"
 
 
-Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.
-Pelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.
+Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus
+algarismos.
 
 
 
 ","
 
-O número mínimo de dias necessários para a realização desse torneio é
+O número escrito pelo estudante foi
 
 
-",22.,25.,28.,48.,64.,B
-9,"
+","135 000,00. ","1 350 000,00. ","13 500 000,00. "," 135 000 000,00. ","1 350 000 000,00",E,
+5,147,"
+
+
+Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro.
+A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda
+
+
+
+","
+
+Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?
+
+
+",2,3,6,12,24,E,
+6,146,"
+
+
+Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.
+Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.
+
+
+
+
+
+
+
+
+
+
+","
+
+Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário
+
+
+",I. ,II. , III.,IV. , V.,A,enem-data/enem-2022/146-images/context_img_0.png
+7,139,"
+
+
+Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.
+O gráfico mostra a variação da distância percorrida por cada
+veículo, em função do tempo, durante toda a competição.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em
+último lugar?
+
+
+",1,2,3,4,,A,enem-data/enem-2022/139-images/context_img_0.png
+8,141,"
+
+
+Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas
+
+
+
+
+
+
+
+
+
+
+
+
+Por causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar
+“vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente.
+
+
+
+","
+
+A sequência de letras que descreve o caminho poligonal destacado é
+
+
+",DDEFDDEEFFD.,DFEFDDDEFFD.,DFEFDDEEFFD.,EFDFEEDDFFE.,EFDFEEEDFFE.,C,enem-data/enem-2022/141-images/context_img_0.png
+9,140,"
+
+
+Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.
+Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a
+pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado
+
+
+
+","
+
+O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi
+
+
+","R$ 2,00 menor. ","R$ 100,00 menor.","R$ 200,00 menor. ","R$ 42,00 maior. ","R$ 80,00 maior.",A,
+10,148,"
+
+
+
+
+
+
+
+
+
+Uma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura.
+Devido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa
+decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm.
+
+
+
+","
+
+Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a
+
+
+","1,52.","3,24.","3,60.","6,48.","7,20.",C,enem-data/enem-2022/148-images/context_img_0.png
+11,151,"
+
+
+Uma máquina em operação tem sua temperatura T monitorada por meio de um registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V varia com a temperatura T da máquina, de acordo com a expressão V=T²−4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.
+
+
+
+
+
+
+
+
+
+
+","
+
+Quantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?
+
+
+",1,2,3,4,5,E,enem-data/enem-2022/151-images/context_img_0.png
+12,136,"
+
+
+Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e
+R$ 12 000,00.
+A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.
+
+
+
+","
+
+Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,
+
+
+","14,4.","20,7.","22,0.","30,0.","37,5",D,
+13,143,"
+
+
+No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no
+mercado imobiliário dessa cidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+A rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.
+
+
+
+","
+
+Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?
+
+
+",2005 ,2007 ,2009 ,2011 ,2013,B,enem-data/enem-2022/143-images/context_img_0.png
+14,154,"
 
 
 O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.
@@ -151,8 +278,23 @@ A empresa que comercializa esse jogo decidiu criar um pacote especial que será 
 A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é
 
 
-",50 000.,100 000.,200 000.,300 000.,400 000.,E
-10,"
+",50 000.,100 000.,200 000.,300 000.,400 000.,E,
+15,145,"
+
+
+
+
+
+
+
+","
+
+Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.
+Dadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?
+
+
+",I,II,III,IV,V,D,enem-data/enem-2022/145-images/context_img_0.png
+16,155,"
 
 
 Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo
@@ -167,21 +309,29 @@ No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo 
 A soma do número de voltas em torno dos dois circuitos, no segundo dia, será
 
 
-",10.,13.,14.,15.,16,E
-11,"
+",10.,13.,14.,15.,16,E,
+17,153,"
 
 
-Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.
+O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no
+decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.
+
+
+
+
+
+
+
 
 
 
 ","
 
-Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é
+Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?
 
 
-",8.,9.,11.,18.,24.,B
-12,"
+","1,5","2,0","2,9","3,0","5,5",D,enem-data/enem-2022/153-images/context_img_0.png
+18,156,"
 
 
 Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado
@@ -206,8 +356,35 @@ O aumento na quantidade de compradores, em consequência dessa segunda divulgaç
 ao que foi registrado com a primeira divulgação, foi classificado como
 
 
-",não satisfatório.,regular.,bom.,muito bom.,excelente.,C
-13,"
+",não satisfatório.,regular.,bom.,muito bom.,excelente.,C,
+19,161,"
+
+
+Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.
+Pelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.
+
+
+
+","
+
+O número mínimo de dias necessários para a realização desse torneio é
+
+
+",22.,25.,28.,48.,64.,B,
+20,157,"
+
+
+Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.
+
+
+
+","
+
+Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é
+
+
+",8.,9.,11.,18.,24.,B,
+21,160,"
 
 
 Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1: 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante.
@@ -219,8 +396,66 @@ Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador no
 Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a
 
 
-","1,80 e 0,60.","1,80 e 0,70.","1,90 e 0,80.","2,00 e 0,90.","2,00 e 1,00.",A
-14,"
+","1,80 e 0,60.","1,80 e 0,70.","1,90 e 0,80.","2,00 e 0,90.","2,00 e 1,00.",A,
+22,164,"
+
+
+A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.
+
+
+
+
+
+
+
+Disponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).
+
+
+
+
+
+
+Pode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.
+
+
+
+","
+
+Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a
+
+
+","74,23.","74,51.","75,07.","75,23.","78,49.",B,enem-data/enem-2022/164-images/context_img_0.png
+23,169,"
+
+
+Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.
+
+
+
+","
+
+Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?
+
+
+",800,1200,2400,4800,6400,D,
+24,150,"
+
+
+Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:
+• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;
+• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;
+• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.
+Uma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.
+
+
+
+","
+
+De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?
+
+
+",enem-data/enem-2022/150-images/alt_img_0.png,enem-data/enem-2022/150-images/alt_img_1.png,enem-data/enem-2022/150-images/alt_img_2.png,enem-data/enem-2022/150-images/alt_img_3.png,enem-data/enem-2022/150-images/alt_img_4.png,B,
+25,167,"
 
 
 Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.
@@ -238,21 +473,8 @@ As dimensões internas de profundidade, largura e comprimento, respectivamente, 
 O projeto que o casal deverá escolher será o
 
 
-",I.,II.,III.,IV.,V.,B
-15,"
-
-
-Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.
-
-
-
-","
-
-Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?
-
-
-",800,1200,2400,4800,6400,D
-16,"
+",I.,II.,III.,IV.,V.,B,
+26,170,"
 
 
 Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação.
@@ -266,4 +488,388 @@ terminar seus exercícios físicos.
 Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou
 
 
-",30 minutos ou menos.,mais de 35 e menos de 45 minutos.,mais de 45 e menos de 55 minutos.,mais de 60 e menos de 70 minutos.,70 minutos ou mais.,C
+",30 minutos ou menos.,mais de 35 e menos de 45 minutos.,mais de 45 e menos de 55 minutos.,mais de 60 e menos de 70 minutos.,70 minutos ou mais.,C,
+27,166,"
+
+
+Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano.
+
+
+
+
+
+
+
+
+
+
+
+
+O quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.
+
+
+
+","
+
+O jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o
+
+
+",I.,II.,III.,IV.,V.,A,enem-data/enem-2022/166-images/context_img_0.png
+28,168,"
+
+
+Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual foi o número total de candidatos inscritos nesse processo seletivo?
+
+
+",200,400,1200,1235,7200,D,enem-data/enem-2022/168-images/context_img_0.png
+29,173,"
+
+
+Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.
+
+
+
+
+
+
+
+
+
+
+","
+
+O número que representa a mediana da quantidade de crianças por família nessa região é
+
+
+","1,0.","1,5.","1,9.","2,1.","2,5.",B,enem-data/enem-2022/173-images/context_img_0.png
+30,152,"
+
+
+A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam
+a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.
+Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 
+
+
+
+","
+
+Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?
+
+
+",enem-data/enem-2022/152-images/alt_img_0.png,enem-data/enem-2022/152-images/alt_img_1.png,enem-data/enem-2022/152-images/alt_img_2.png,enem-data/enem-2022/152-images/alt_img_3.png,enem-data/enem-2022/152-images/alt_img_4.png,C,enem-data/enem-2022/152-images/context_img_0.png
+31,174,"
+
+
+Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola  , em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.
+
+
+
+
+
+
+
+
+
+
+
+
+A equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas
+em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:
+• ginásio I: 17 m;
+• ginásio II: 18 m;
+• ginásio III: 19 m;
+• ginásio IV: 21 m;
+• ginásio V: 40 m.
+
+
+
+","
+
+O saque desse atleta foi invalidado
+
+
+",apenas no ginásio I.,apenas nos ginásios I e II.,"apenas nos ginásios I, II e III.","apenas nos ginásios I, II, III e IV.",em todos os ginásios.,D,"enem-data/enem-2022/174-images/context_img_0.png,enem-data/enem-2022/174-images/context_img_1.png"
+32,171,"
+
+
+Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:
+• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.
+• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.
+Para o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.
+
+Disponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.
+
+
+
+
+
+Disponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+Pretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas,
+ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.
+
+
+
+","
+
+Quantas fileiras de poltronas a sala comportará após essa ampliação?
+
+
+",26,27,28,29,35,C,enem-data/enem-2022/171-images/context_img_0.png
+33,165,"
+
+
+Na figura estão destacadas duas trajetórias sobre a superfície do globo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano α é paralelo ao que contém a Linha do Equador.
+
+
+
+
+
+
+
+
+
+
+","
+
+A vista superior da projeção ortogonal sobre o plano α dessas duas trajetórias é
+
+
+",enem-data/enem-2022/165-images/alt_img_0.png,enem-data/enem-2022/165-images/alt_img_1.png,enem-data/enem-2022/165-images/alt_img_2.png,enem-data/enem-2022/165-images/alt_img_3.png,enem-data/enem-2022/165-images/alt_img_4.png,E,enem-data/enem-2022/165-images/context_img_0.png
+34,179,"
+
+
+Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.
+
+
+
+
+
+
+
+
+
+
+","
+
+A medida real da área da varanda, em metro quadrado, é
+
+
+","33,40","66,80","89,24","133,60","534,40",A,enem-data/enem-2022/179-images/context_img_0.png
+35,158,"
+
+
+Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.
+
+
+
+
+
+
+
+
+
+
+
+
+Em um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.
+
+
+
+
+
+
+
+
+
+
+","
+
+A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é
+
+
+",enem-data/enem-2022/158-images/alt_img_0.png,enem-data/enem-2022/158-images/alt_img_1.png,enem-data/enem-2022/158-images/alt_img_2.png,enem-data/enem-2022/158-images/alt_img_3.png,enem-data/enem-2022/158-images/alt_img_4.png,A,"enem-data/enem-2022/158-images/context_img_0.png,enem-data/enem-2022/158-images/context_img_1.png"
+36,176,"
+
+
+Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por , sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:
+
+A sugestäo dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, sequndo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.
+
+
+
+","
+
+A proposta escolhida foi a
+
+
+",I.,II.,III.,IV.,V.,C,"enem-data/enem-2022/176-images/context_img_0.png,enem-data/enem-2022/176-images/context_img_1.png"
+37,172,"
+
+
+A luminosidade L de uma estrela está relacionada com o raio R e com a temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann:  em que c é uma constante igual para todas as estrelas.
+
+Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado)
+
+
+
+
+
+Considere duas estrelas E e F, sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F.
+
+
+
+","
+
+Indique por LE  e LF suas respectivas luminosidades.
+A relação entre as luminosidades dessas duas estrelas é dada por
+
+
+",enem-data/enem-2022/172-images/alt_img_0.png,enem-data/enem-2022/172-images/alt_img_1.png,enem-data/enem-2022/172-images/alt_img_2.png,enem-data/enem-2022/172-images/alt_img_3.png,enem-data/enem-2022/172-images/alt_img_4.png,D,enem-data/enem-2022/172-images/context_img_0.png
+38,180,"
+
+
+Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.
+
+
+
+
+
+
+
+
+
+
+","
+
+Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?
+
+
+",5 000,7 000,11 000,18 000,29 000,C,enem-data/enem-2022/180-images/context_img_0.png
+39,162,"
+
+
+Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.
+
+
+
+
+
+
+
+
+
+
+
+
+O jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.
+
+
+
+
+
+
+
+
+
+
+","
+
+A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é
+
+
+",enem-data/enem-2022/162-images/alt_img_0.png,enem-data/enem-2022/162-images/alt_img_1.png,enem-data/enem-2022/162-images/alt_img_2.png,enem-data/enem-2022/162-images/alt_img_3.png,enem-data/enem-2022/162-images/alt_img_4.png,E,"enem-data/enem-2022/162-images/context_img_0.png,enem-data/enem-2022/162-images/context_img_1.png"
+40,175,"
+
+
+O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:
+• até a quinquagésima peça vendida, paga-se 5 reais por peça;
+• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.
+Represente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal, em real, nesse mês.
+
+
+
+","
+
+A expressão algébrica que descreve S(q) em função de q é
+
+
+",enem-data/enem-2022/175-images/alt_img_0.png,enem-data/enem-2022/175-images/alt_img_1.png,enem-data/enem-2022/175-images/alt_img_2.png,enem-data/enem-2022/175-images/alt_img_3.png,enem-data/enem-2022/175-images/alt_img_4.png,E,
+41,178,"
+
+
+Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de arestas e centros de faces. Ele inicia seu deslocamento no ponto P, centro da face superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para o centro da face seguinte, converte à direita e continua sua movimentação, sempre alternando entre conversões à esquerda e à direita quando alcança o centro de uma face. O robô só termina sua movimentação quando retorna ao ponto P. A figura apresenta os deslocamentos iniciais desse robô.
+
+
+
+
+
+
+
+
+
+
+","
+
+A projeção ortogonal do trajeto descrito por esse robô sobre o plano da base, após terminada sua movimentação, visualizada da posição em que se está enxergando esse cubo, é
+
+
+",enem-data/enem-2022/178-images/alt_img_0.png,enem-data/enem-2022/178-images/alt_img_1.png,enem-data/enem-2022/178-images/alt_img_2.png,enem-data/enem-2022/178-images/alt_img_3.png,enem-data/enem-2022/178-images/alt_img_4.png,A,enem-data/enem-2022/178-images/context_img_0.png
+42,163,"
+
+
+O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:
+• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.
+
+
+
+
+
+
+
+
+
+
+
+
+• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo  o ponto médio do lado do quadrado original, de modo que , traçar um arco de circunferência de raio medindo  com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.
+
+
+
+
+
+
+
+
+
+
+","
+
+Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será
+
+
+",enem-data/enem-2022/163-images/alt_img_0.png,enem-data/enem-2022/163-images/alt_img_1.png,enem-data/enem-2022/163-images/alt_img_2.png,enem-data/enem-2022/163-images/alt_img_3.png,enem-data/enem-2022/163-images/alt_img_4.png,C,"enem-data/enem-2022/163-images/context_img_0.png,enem-data/enem-2022/163-images/context_img_1.png,enem-data/enem-2022/163-images/context_img_2.png,enem-data/enem-2022/163-images/context_img_3.png"

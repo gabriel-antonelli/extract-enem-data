@@ -1,5 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,118,"
 
 
 O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.
@@ -13,21 +13,21 @@ CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avali
 Entre as duas versões apresentadas, o refrigerante comum possui
 
 
-",maior densidade.,menor viscosidade.,maior volume de gás dissolvido.,menor massa de solutos dissolvidos.,maior temperatura de congelamento.,A
-1,"
+",maior densidade.,menor viscosidade.,maior volume de gás dissolvido.,menor massa de solutos dissolvidos.,maior temperatura de congelamento.,A,
+1,140,"
 
 
-É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.
+A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.
 
 
 
 ","
 
-Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião
+O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo
 
 
-",forem ambas audíveis.,tiverem a mesma potência.,tiverem a mesma frequência.,tiverem a mesma intensidade.,propagarem-se com velocidades diferentes.,C
-2,"
+","(5,0 ; 5,5).","(8,0 ; 8,5).","(11,5 ; 12,5).","(19,5 ; 20,5).","(3,5 ; 4,0).",A,
+2,141,"
 
 
 O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.
@@ -41,21 +41,8 @@ Disponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.
 De acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família?
 
 
-",741,1 040,1 460,2 100,5 200,C
-3,"
-
-
-A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.
-
-
-
-","
-
-O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo
-
-
-","(5,0 ; 5,5).","(8,0 ; 8,5).","(11,5 ; 12,5).","(19,5 ; 20,5).","(3,5 ; 4,0).",A
-4,"
+",741,1 040,1 460,2 100,5 200,C,
+3,117,"
 
 
 Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.
@@ -69,21 +56,244 @@ Cafeteria adota copo reutilizável feito com casca de café. Disponível em: www
 Quais duas vantagens esse copo apresenta em comparação ao copo descartável?
 
 
-",Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.,Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.,Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.,Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.,Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.,D
-5,"
+",Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.,Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.,Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.,Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.,Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.,D,
+4,145,"
 
 
-Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4%dareceita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho.
+Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.
+
+
+
+
+
+
+
 
 
 
 ","
 
-A quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é
+Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se
 
 
-",1,2,3,4,5,D
-6,"
+",mediana = média < moda.,mediana = moda < média.,mediana < média < moda.,moda < média < mediana.,moda < mediana < média.,E,enem-data/enem-2023/145-images/context_img_0.png
+5,115,"
+
+
+É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.
+
+
+
+","
+
+Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião
+
+
+",forem ambas audíveis.,tiverem a mesma potência.,tiverem a mesma frequência.,tiverem a mesma intensidade.,propagarem-se com velocidades diferentes.,C,
+6,142,"
+
+
+Sejam a, b e c as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores a, b e c são, respectivamente, os diâmetros dos círculos C1 , C2 e C3, como apresentados na figura.
+
+
+
+
+
+
+
+
+
+
+
+
+Observe que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).
+Um professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.
+
+
+
+
+
+
+
+
+
+
+
+
+A partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.
+
+
+
+","
+
+A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois
+
+
+",0° < a < 90°,a = 90°,90° < a < 180°,a = 180°,180° < a < 360°,C,"enem-data/enem-2023/142-images/context_img_0.png,enem-data/enem-2023/142-images/context_img_1.png"
+7,144,"
+
+
+O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.
+
+
+
+
+
+
+
+
+
+
+
+
+O gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.
+Suponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.
+
+
+
+","
+
+Em qual mês o produto II parou de ser produzido?
+
+
+",Junho.,Julho.,Agosto.,Setembro.,Outubro.,D,enem-data/enem-2023/144-images/context_img_0.png
+8,139,"
+
+
+Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.
+
+
+
+
+
+
+
+
+
+
+
+
+Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:
+
+
+
+
+
+
+
+
+
+
+","
+
+O dia da semana em que será comemorado o aniversário é
+
+
+",segunda-feira.,terça-feira.,quarta-feira.,quinta-feira.,sexta-feira.,C,"enem-data/enem-2023/139-images/context_img_0.png,enem-data/enem-2023/139-images/context_img_1.png"
+9,148,"
+
+
+
+
+
+
+
+","
+
+Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.
+Nas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?
+
+
+","Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.","Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.","Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.","Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.","Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",E,enem-data/enem-2023/148-images/context_img_0.png
+10,146,"
+
+
+A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.
+
+
+
+
+","
+
+Qual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?
+
+
+","0,3","0,5","0,9","1,8","2,7",C,"enem-data/enem-2023/146-images/context_img_0.png,enem-data/enem-2023/146-images/context_img_1.png"
+11,143,"
+
+
+Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.
+
+Disponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).
+
+
+
+","
+
+Um maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.
+A unidade de medida da grandeza descrita pelo parâmetro EC é
+
+
+",enem-data/enem-2023/143-images/alt_img_0.png,enem-data/enem-2023/143-images/alt_img_1.png,enem-data/enem-2023/143-images/alt_img_2.png,enem-data/enem-2023/143-images/alt_img_3.png,enem-data/enem-2023/143-images/alt_img_4.png,B,
+12,116,"
+
+
+O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula , está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.
+
+ 
+
+VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado).
+
+
+
+
+
+Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.
+
+
+
+","
+
+Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?
+
+
+","Saliva, por consequência da atividade de enzimas.","Sangue, em função das hemácias e leucócitos.","Lágrima, em razão da concentração de sais.","Urina, pela presenca de moléculas de ureia.","Leite, por causa do alto teor de gorduras.",E,"enem-data/enem-2023/116-images/context_img_0.png,enem-data/enem-2023/116-images/context_img_1.png"
+13,152,"
+
+
+Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.
+
+
+
+
+
+
+
+
+
+
+","
+
+O oitavo número pentagonal é
+
+
+",59,83,86,89,92,E,enem-data/enem-2023/152-images/context_img_0.png
+14,151,"
 
 
 Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano.
@@ -95,8 +305,8 @@ Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os 
 O número mínimo de salas que deverão ser construídas é
 
 
-",10,11,12,30,33,B
-7,"
+",10,11,12,30,33,B,
+15,156,"
 
 
 Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez.
@@ -108,8 +318,43 @@ Um agricultor é informado sobre um método de proteção para sua lavoura que c
 Quantos dias após iniciado esse método o agricultor deverá aplicar o produto X?
 
 
-",2,4,6,12,18,D
-8,"
+",2,4,6,12,18,D,
+16,157,"
+
+
+Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:
+• algarismos de 0 a 9;
+• 26 letras minúsculas do alfabeto;
+• 26 letras maiúsculas do alfabeto;
+• 6 caracteres especiais !, @, #, $, *, &.
+Três tipos de estruturas para senha foram apresentadas ao usuário:
+• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;
+• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;
+• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.
+Considere  as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.
+
+
+
+","
+
+Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o
+
+
+","tipo I, pois p1 < p2 < p3.","tipo I, pois tem menor quantidade de caracteres.","tipo II, pois tem maior quantidade de letras.","tipo III, pois p3 < p2 < p1","tipo III, pois tem maior quantidade de caracteres.",A,enem-data/enem-2023/157-images/context_img_0.png
+17,155,"
+
+
+Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4%dareceita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho.
+
+
+
+","
+
+A quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é
+
+
+",1,2,3,4,5,D,
+18,161,"
 
 
 Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.
@@ -123,8 +368,130 @@ Disponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).
 Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por
 
 
-","C = 0,9q","C = 0,1q","C = 1 − 0,1q","C = 1 − 0,9q",C = q − 10,A
-9,"
+","C = 0,9q","C = 0,1q","C = 1 − 0,1q","C = 1 − 0,9q",C = q − 10,A,
+19,154,"
+
+
+Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade
+
+
+
+
+
+
+
+
+
+
+
+
+Após a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.
+
+
+
+","
+
+Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?
+
+
+",10,20,30,50,70,B,enem-data/enem-2023/154-images/context_img_0.png
+20,162,"
+
+
+Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.
+
+
+
+
+
+
+
+
+
+
+
+
+Durante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.
+
+
+
+","
+
+Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?
+
+
+",3,4,6,7,9,B,enem-data/enem-2023/162-images/context_img_0.png
+21,147,"
+
+
+Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6
+também indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual é o jogador que receberá a bola?
+
+
+",enem-data/enem-2023/147-images/alt_img_0.png,enem-data/enem-2023/147-images/alt_img_1.png,enem-data/enem-2023/147-images/alt_img_2.png,enem-data/enem-2023/147-images/alt_img_3.png,enem-data/enem-2023/147-images/alt_img_4.png,B,enem-data/enem-2023/147-images/context_img_0.png
+22,164,"
+
+
+Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.
+
+
+
+
+
+
+
+
+
+
+
+
+Em seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.
+O tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.
+
+
+
+","
+
+
+
+
+
+Qual é a massa, em grama, dessa escultura?
+
+
+
+
+
+
+"," 1.198,8"," 1.296,0"," 1.360,8","4.665,6","4.860,0",B,enem-data/enem-2023/164-images/context_img_0.png
+23,166,"
+
+
+Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna.
+Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas.
+
+
+
+","
+
+Qual é o número mínimo de bolinhas brancas que o gerente deve adicionar à urna B?
+
+
+",20,60,64,68,80,C,
+24,171,"
 
 
 Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço y do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume x de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.
@@ -144,22 +511,99 @@ A expressão que representa o preço y em função do volume x, em metro cúb
 
 
 
-",y = 250x,y = 500x,y = 750x,y = 250x + 500,y = 500x + 250,D
-10,"
+",y = 250x,y = 500x,y = 750x,y = 250x + 500,y = 500x + 250,D,
+25,165,"
 
 
-Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna.
-Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas.
+Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.
+Os funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.
+
+
+
+
+
+
+
 
 
 
 ","
 
-Qual é o número mínimo de bolinhas brancas que o gerente deve adicionar à urna B?
 
 
-",20,60,64,68,80,C
-11,"
+
+
+A média dos salários dos 100 funcionários dessa empresa, em real, é
+
+
+
+
+
+
+"," 2.000,00.","2.500,00.","3.250,00.","4.500,00."," 9.000,00.",C,enem-data/enem-2023/165-images/context_img_0.png
+26,158,"
+
+
+Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.
+
+
+
+","
+
+As probabilidades de os candidatos de inscrição número 50 e 02 serem sorteados são, respectivamente,
+
+
+",enem-data/enem-2023/158-images/alt_img_0.png,enem-data/enem-2023/158-images/alt_img_1.png,enem-data/enem-2023/158-images/alt_img_2.png,enem-data/enem-2023/158-images/alt_img_3.png,enem-data/enem-2023/158-images/alt_img_4.png,A,
+27,160,"
+
+
+Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão  , em que os valores de x representam os dias do mês, variando de 1 a 30.
+Um dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário  arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.
+
+ 
+
+
+
+","
+
+No caso analisado, qual seria a classificação do desempenho da empresa?
+
+
+",Ótimo.,Bom.,Normal.,Ruim.,Péssimo.,D,"enem-data/enem-2023/160-images/context_img_0.png,enem-data/enem-2023/160-images/context_img_1.png,enem-data/enem-2023/160-images/context_img_2.png"
+28,169,"
+
+
+Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados:
+• outubro/2020: ImPC = 250 mm;
+• novembro/2020: ImPC = 150 mm;
+• dezembro/2020: ImPC = 200 mm;
+• janeiro/2021: ImPC = 450 mm;
+• fevereiro/2021: ImPC = 100 mm;
+• março/2021: ImPC = 200 mm.
+Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.
+
+
+
+","
+
+No início de qual desses meses o produtor deverá plantar esse tipo de semente?
+
+
+",Outubro.,Novembro.,Dezembro.,Janeiro.,Fevereiro.,C,
+29,119,"
+
+
+O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era . Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).
+
+
+
+","
+
+Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:
+
+
+",enem-data/enem-2023/119-images/alt_img_0.png,enem-data/enem-2023/119-images/alt_img_1.png,enem-data/enem-2023/119-images/alt_img_2.png,enem-data/enem-2023/119-images/alt_img_3.png,enem-data/enem-2023/119-images/alt_img_4.png,E,"enem-data/enem-2023/119-images/context_img_0.png,enem-data/enem-2023/119-images/context_img_1.png"
+30,170,"
 
 
 Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, em 30 e 60 dias após a compra.
@@ -181,28 +625,181 @@ A taxa mensal de juros compostos praticada nesse financiamento é de
 
 
 
-","6,7%",10%,20%,"21,5%","23,3%",D
-12,"
+","6,7%",10%,20%,"21,5%","23,3%",D,
+31,153,"
 
 
-Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados:
-• outubro/2020: ImPC = 250 mm;
-• novembro/2020: ImPC = 150 mm;
-• dezembro/2020: ImPC = 200 mm;
-• janeiro/2021: ImPC = 450 mm;
-• fevereiro/2021: ImPC = 100 mm;
-• março/2021: ImPC = 200 mm.
-Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.
+A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.
+
+
+
+
+
+
+
+
+
+
+
+
+Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.
 
 
 
 ","
 
-No início de qual desses meses o produtor deverá plantar esse tipo de semente?
+O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é
 
 
-",Outubro.,Novembro.,Dezembro.,Janeiro.,Fevereiro.,C
-13,"
+",enem-data/enem-2023/153-images/alt_img_0.png,enem-data/enem-2023/153-images/alt_img_1.png,enem-data/enem-2023/153-images/alt_img_2.png,enem-data/enem-2023/153-images/alt_img_3.png,enem-data/enem-2023/153-images/alt_img_4.png,A,enem-data/enem-2023/153-images/context_img_0.png
+32,168,"
+
+
+As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.
+
+
+
+
+
+
+
+
+
+
+","
+
+Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,
+
+
+",okosa urapum urapum urapum e okosa okosa urapum urapum urapum.,okosa okosa urapum e okosa okosa okosa okosa urapum.,okosa okosa urapum e okosa okosa okosa urapum.,okosa urapum urapum e okosa urapum okosa urapum urapum.,okosa okosa urapum e okosa okosa okosa okosa.,C,enem-data/enem-2023/168-images/context_img_0.png
+33,167,"
+
+
+Estudantes trabalhando com robótica criaram uma “torneira inteligente” que automatiza sua abertura e seu fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (t), em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.
+
+
+
+","
+
+Um esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo (t), em segundo, é
+
+
+",enem-data/enem-2023/167-images/alt_img_0.png,enem-data/enem-2023/167-images/alt_img_1.png,enem-data/enem-2023/167-images/alt_img_2.png,enem-data/enem-2023/167-images/alt_img_3.png,enem-data/enem-2023/167-images/alt_img_4.png,B,
+34,175,"
+
+
+Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual é a medida da área, em metro quadrado, ocupada pela calçada?
+
+
+",1.000,900,600,500,400,D,enem-data/enem-2023/175-images/context_img_0.png
+35,159,"
+
+
+O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo  a intensidade na sua superfície.
+
+Considere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.
+
+
+
+","
+
+A intensidade luminosa correspondente à profundidade de 6 m é igual a
+
+
+",enem-data/enem-2023/159-images/alt_img_0.png,enem-data/enem-2023/159-images/alt_img_1.png,enem-data/enem-2023/159-images/alt_img_2.png,enem-data/enem-2023/159-images/alt_img_3.png,enem-data/enem-2023/159-images/alt_img_4.png,D,"enem-data/enem-2023/159-images/context_img_0.png,enem-data/enem-2023/159-images/context_img_1.png"
+36,176,"
+
+
+Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?
+
+
+
+
+
+
+",6,8,10,14,24,A,enem-data/enem-2023/176-images/context_img_0.png
+37,163,"
+
+
+A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo , I a intensidade do som e .
+Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).
+Quando o som é considerado baixo, ou seja, N = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando N está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a N no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se N estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com N maior que 115 dB, deve-se utilizar a medida preventiva V.
+Uma nova máquina, com , foi adquirida e será classificada de acordo com o nível de ruído que produz.
+Considere 0,3 como aproximação para .
+
+
+
+","
+
+O funcionário que operará a nova máquina deverá adotar a medida preventiva
+
+
+",I.,II.,III.,IV.,V.,B,"enem-data/enem-2023/163-images/context_img_0.png,enem-data/enem-2023/163-images/context_img_1.png,enem-data/enem-2023/163-images/context_img_2.png,enem-data/enem-2023/163-images/context_img_3.png"
+38,178,"
+
+
+A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.
+
+
+
+
+
+
+
+
+
+
+
+
+Nessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.
+
+
+
+","
+
+
+
+
+
+A área a ser revestida em cerâmica, em metro quadrado, mede
+
+
+
+
+
+
+","1,20.","1,35.","1,65.","1,80.","1,95.",E,enem-data/enem-2023/178-images/context_img_0.png
+39,180,"
 
 
 O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.
@@ -222,4 +819,80 @@ Qual o preço, em real, de uma cartela de tíquetes vermelhos?
 
 
 
-","4,68","6,30","9,30","10,50","10,65",B
+","4,68","6,30","9,30","10,50","10,65",B,
+40,0,"
+
+
+Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.
+
+
+
+
+
+
+
+
+
+
+
+
+Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente.
+
+
+
+","
+
+
+
+
+
+A poltrona dessa pessoa é a identificada por
+
+
+
+
+
+
+",A6.,H1.,H6.,I1.,I6.,E,enem-data/enem-2023/0-images/context_img_0.png
+41,177,"
+
+
+O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.
+
+
+
+
+
+
+
+Época, 26 abr. 2010 (adaptado).
+
+
+
+
+","
+
+De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de
+
+
+",indígenas.,gestantes.,doentes crônicos.,adultos entre 20 e 29 anos.,crianças de 6 meses a 2 anos.,D,enem-data/enem-2023/177-images/context_img_0.png
+42,172,"
+
+
+Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.
+
+
+
+
+
+
+
+
+
+
+","
+
+A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação
+
+
+",enem-data/enem-2023/172-images/alt_img_0.png,enem-data/enem-2023/172-images/alt_img_1.png,enem-data/enem-2023/172-images/alt_img_2.png,enem-data/enem-2023/172-images/alt_img_3.png,enem-data/enem-2023/172-images/alt_img_4.png,A,enem-data/enem-2023/172-images/context_img_0.png

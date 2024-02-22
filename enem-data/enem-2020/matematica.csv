@@ -1,45 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
-
-
-Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino.
-
-
-
-","
-
-A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é
-
-
-",13.,14.,17.,18.,21.,C
-1,"
-
-
-A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa d’água tem dimensões 2 cm x 3,51 cm x 4 cm.
-Dado: 1 dm3 = 1 L
-
-
-
-","
-
-A escala usada pelo arquiteto foi
-
-
-",1 : 10,1 : 100,1 : 1 000,1 : 10 000,1 : 100 000,B
-2,"
-
-
-Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo.
-
-
-
-","
-
-Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?
-
-
-",160,157,130,120,60,A
-3,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,152,"
 
 
 O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir.
@@ -56,8 +16,366 @@ Na instalação do porcelanato, as peças podem ser recortadas e devem ser asse
 A compra que atende às necessidades do proprietário, proporciona a menor sobra de pisos e resulta no menor preço é
 
 
-",5 caixas do tipo A.,1 caixa do tipo A e 4 caixas do tipo B.,3 caixas do tipo A e 1 caixa do tipo B.,5 caixas do tipo A e 1 caixa do tipo B.,6 caixas do tipo B.,C
-4,"
+",5 caixas do tipo A.,1 caixa do tipo A e 4 caixas do tipo B.,3 caixas do tipo A e 1 caixa do tipo B.,5 caixas do tipo A e 1 caixa do tipo B.,6 caixas do tipo B.,C,
+1,144,"
+
+
+Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino.
+
+
+
+","
+
+A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é
+
+
+",13.,14.,17.,18.,21.,C,
+2,150,"
+
+
+A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa d’água tem dimensões 2 cm x 3,51 cm x 4 cm.
+Dado: 1 dm3 = 1 L
+
+
+
+","
+
+A escala usada pelo arquiteto foi
+
+
+",1 : 10,1 : 100,1 : 1 000,1 : 10 000,1 : 100 000,B,
+3,143,"
+
+
+Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.
+
+
+
+
+
+
+
+
+
+
+
+
+A pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção.
+
+
+
+","
+
+Se a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o
+
+
+",A.,B.,C.,D.,E.,C,enem-data/enem-2020/143-images/context_img_0.png
+4,147,"
+
+
+Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.
+
+
+
+
+
+
+
+
+
+
+
+
+A escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro.
+
+
+
+","
+
+Usando notação científica, qual é a representação do comprimento dessa miniatura, em metro?
+
+
+","1,0 x 10-1","1,0 x 10-3","1,0 x 10-4","1,0 x 10-6","1,0 x 10-7",C,enem-data/enem-2020/147-images/context_img_0.png
+5,138,"
+
+
+Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fixadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fica centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base.
+
+
+
+
+
+
+
+
+
+
+
+
+A miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível.
+
+
+
+","
+
+A medida da altura, em centímetro, dessa caixa de vidro deverá ser igual a
+
+
+",12.,14.,16.,18.,20.,B,enem-data/enem-2020/138-images/context_img_0.png
+6,148,"
+
+
+A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. No artigo que se refere às dimensões da Bandeira, observa-se:
+
+
+
+
+
+“Para cálculos das dimensões, será tomada por base a largura, dividindo-a em 14 (quatorze) partes iguais, sendo que cada uma das partes será considerada uma medida ou um módulo (M). Os demais requisitos dimensionais seguem o critério abaixo:
+ 
+
+Comprimento será de vinte módulos (20 M);
+A distância dos vértices do losango amarelo ao quadro externo será de um módulo e sete décimos (1,7 M);
+O raio do círculo azul no meio do losango amarelo será de três módulos e meio (3,5 M).”
+
+
+BRASIL, Lei n. 5.700, de 1° de setembro de 1971. Disponível em: www.planalto.gov.br. Acesso em: 15 set. 2015.
+
+
+
+
+
+A figura indica as cores da bandeira do Brasil e localiza o quadro externo a que se refere a Lei n. 5.700.
+
+
+
+
+
+
+
+
+
+
+
+
+Um torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e
+amarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde.
+
+
+
+","
+
+Qual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para confecção do círculo da bandeira desejada?
+
+
+",27,32,53,63,90,D,enem-data/enem-2020/148-images/context_img_0.png
+7,153,"
+
+
+Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo.
+
+
+
+","
+
+Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?
+
+
+",160,157,130,120,60,A,
+8,142,"
+
+
+Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.
+
+
+
+
+
+
+
+
+
+
+
+
+André deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita (→) ou para cima (↑), segundo o esquema da figura.
+
+
+
+","
+
+O número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é
+
+
+",4,14,17,35,48,C,enem-data/enem-2020/142-images/context_img_0.png
+9,146,"
+
+
+Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:
+
+seguir num ônibus, percorrendo 2,0 km;
+alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.
+
+O quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.
+
+
+
+
+
+
+
+
+
+
+","
+
+A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?
+
+
+","Às segundas, quintas e sextas-feiras.",Às terças e quintas-feiras e aos sábados.,"Às segundas, quartas e sextas-feiras.","Às terças, quartas e sextas-feiras.",Às terças e quartas-feiras e aos sábados.,C,enem-data/enem-2020/146-images/context_img_0.png
+10,139,"
+
+
+Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:
+2h + b — 63,5 ≤ 1,5 e 16 ≤ h ≤ 19,
+nas quais h é a altura do degrau (denominada espelho) e b é a profundidade da pisada, como mostra a figura. Por conveniência, escolheu-se a altura do degrau como sendo h = 16. As unidades de h e b estão em centímetro.
+
+
+
+
+
+
+
+
+
+
+","
+
+Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b) deve pertencer, para que as regras sejam satisfeitas é
+
+
+",30 ≤ b,"30 ≤ b ≤ 31,5",30 ≤ b ≤ 33,"31,5 ≤ b ≤ 33",b ≤ 33,C,enem-data/enem-2020/139-images/context_img_0.png
+11,151,"
+
+
+Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+Em qual dia foi aplicada a metodologia mais eficiente?
+
+
+",1,2,3,4,5,C,"enem-data/enem-2020/151-images/context_img_0.png,enem-data/enem-2020/151-images/context_img_1.png"
+12,154,"
+
+
+O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afluentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdividese o espaço total em trechos, quantificando a densidade, da seguinte forma:
+• 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;
+• 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;
+• 6 pessoas por metro quadrado, se elas estiverem paradas.
+É feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1.000 pessoas para cada carro de som fotografado.
+Com essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afluente da principal: QR.
+
+
+
+
+
+
+
+
+
+
+
+
+Obs.: a figura não está em escala (considere as medidas dadas).
+
+
+
+","
+
+Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a
+
+
+",110.000,104.000,93.000,92.000,87.000,B,enem-data/enem-2020/154-images/context_img_0.png
+13,155,"
+
+
+A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disponível em: http://noticias.uol.com.br. Acesso em 20 ago. 2014.
+
+
+
+","
+
+De acordo com as informações dadas, o número de jovens entrevistados que trabalha é
+
+
+",114 708.,164 076.,213 444.,284 592.,291 582.,C,enem-data/enem-2020/155-images/context_img_0.png
+14,149,"
+
+
+Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.
+Na imagem tem-se a informação dos assentos já vendidos e dos assentos ainda disponíveis em um determinado instante.
+
+
+
+
+
+
+
+
+
+
+","
+
+A razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na image, é
+
+
+",enem-data/enem-2020/149-images/alt_img_0.png,enem-data/enem-2020/149-images/alt_img_1.png,enem-data/enem-2020/149-images/alt_img_2.png,enem-data/enem-2020/149-images/alt_img_3.png,enem-data/enem-2020/149-images/alt_img_4.png,A,enem-data/enem-2020/149-images/context_img_0.png
+15,158,"
+
+
+Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada.
+ 
+
+
+
+","
+
+As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são
+
+
+",2 quadrados e 4 retângulos.,1 retângulo e 4 triângulos isósceles.,2 quadrados e 4 trapézios isósceles.,"1 quadrado, 3 retângulos e 2 trapézios retângulos.","2 retângulos, 2 quadrados e 2 trapézios retângulos.",C,
+16,160,"
 
 
 Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado:
@@ -77,22 +395,229 @@ O coeficiente de rendimento climático (CRC) de um pneu é calculado como a som
 O pneu escolhido foi
 
 
-",I.,II.,III.,IV.,V.,A
-5,"
+",I.,II.,III.,IV.,V.,A,
+17,140,"
 
 
-Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada.
+Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:
+
+Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros
+Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.
+
+Um veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “X/100”.
+
+
+
+","
+
+Caso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação
+
+
+",enem-data/enem-2020/140-images/alt_img_0.png,enem-data/enem-2020/140-images/alt_img_1.png,enem-data/enem-2020/140-images/alt_img_2.png,enem-data/enem-2020/140-images/alt_img_3.png,enem-data/enem-2020/140-images/alt_img_4.png,C,
+18,136,"
+
+
+Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.
+
+
+
+
+
+
+
+
+
+
+
+
+O lucro é determinado pela diferença: Receita – Custo.
+
+
+
+","
+
+O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é
+
+
+",enem-data/enem-2020/136-images/alt_img_0.png,enem-data/enem-2020/136-images/alt_img_1.png,enem-data/enem-2020/136-images/alt_img_2.png,enem-data/enem-2020/136-images/alt_img_3.png,enem-data/enem-2020/136-images/alt_img_4.png,A,enem-data/enem-2020/136-images/context_img_0.png
+19,141,"
+
+
+Amigo secreto é uma brincadeira tradicional nas festas de fim de ano. Um grupo de amigos se reúne e cada um deles sorteia o nome da pessoa que irá presentear. No dia da troca de presentes, uma primeira pessoa presenteia seu amigo secreto. Em seguida, o presenteado revela seu amigo secreto e o presenteia. A brincadeira continua até que todos sejam presenteados, mesmo no caso em que o ciclo se fecha. Dez funcionários de uma empresa, entre eles um casal, participarão de um amigo secreto. A primeira pessoa a revelar será definida por sorteio.
+
+
+
+","
+
+Qual é a probabilidade de que a primeira pessoa a revelar o seu amigo secreto e a última presenteada sejam as duas pessoas do casal?
+
+
+",enem-data/enem-2020/141-images/alt_img_0.png,enem-data/enem-2020/141-images/alt_img_1.png,enem-data/enem-2020/141-images/alt_img_2.png,enem-data/enem-2020/141-images/alt_img_3.png,enem-data/enem-2020/141-images/alt_img_4.png,B,
+20,164,"
+
+
+No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela
+
+
+
+
+
+
+
+
+
+
+
+
+Considere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente.
  
 
 
 
 ","
 
-As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são
+O ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será
 
 
-",2 quadrados e 4 retângulos.,1 retângulo e 4 triângulos isósceles.,2 quadrados e 4 trapézios isósceles.,"1 quadrado, 3 retângulos e 2 trapézios retângulos.","2 retângulos, 2 quadrados e 2 trapézios retângulos.",C
-6,"
+",2018.,2023.,2031.,2035.,2043.,D,enem-data/enem-2020/164-images/context_img_0.png
+21,137,"
+
+
+Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura
+
+
+
+
+
+
+
+
+
+
+
+
+Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.
+ 
+
+
+
+","
+
+A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é
+
+
+",enem-data/enem-2020/137-images/alt_img_0.png,enem-data/enem-2020/137-images/alt_img_1.png,enem-data/enem-2020/137-images/alt_img_2.png,enem-data/enem-2020/137-images/alt_img_3.png,enem-data/enem-2020/137-images/alt_img_4.png,E,enem-data/enem-2020/137-images/context_img_0.png
+22,172,"
+
+
+O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.
+
+
+
+","
+
+Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?
+
+
+","1,96","1,98","2,05","2,06","2,08",D,
+23,162,"
+
+
+Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.
+
+
+
+
+
+
+
+
+
+
+
+
+A agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.
+
+
+
+","
+
+Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa
+
+
+",X.,Y.,Z.,W.,T.,C,enem-data/enem-2020/162-images/context_img_0.png
+24,156,"
+
+
+A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (f) de uma palavra em um dado texto com o seu ranking (r). Ela é dada por
+
+O ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.
+
+Disponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).
+
+
+
+","
+
+Com base nos valores de X = log (r) e Y = log (f), é possível estimar valores para A e B.
+No caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é
+
+
+",enem-data/enem-2020/156-images/alt_img_0.png,enem-data/enem-2020/156-images/alt_img_1.png,enem-data/enem-2020/156-images/alt_img_2.png,enem-data/enem-2020/156-images/alt_img_3.png,enem-data/enem-2020/156-images/alt_img_4.png,A,enem-data/enem-2020/156-images/context_img_0.png
+25,167,"
+
+
+O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro.
+
+
+
+","
+
+Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?
+
+
+",I,II,III,IV,V,D,"enem-data/enem-2020/167-images/context_img_0.png,enem-data/enem-2020/167-images/context_img_1.png"
+26,171,"
+
+
+A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.
+
+
+
+
+
+
+
+
+
+
+","
+
+Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?
+
+
+",5,8,10,11,13,E,enem-data/enem-2020/171-images/context_img_0.png
+27,176,"
 
 
 Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na presença ou ausência de dois antígenos, A e B, na superfície das células vermelhas do sangue. Como dois antígenos estão envolvidos, os quatro tipos sanguíneos distintos são:
@@ -118,17 +643,273 @@ Foram coletadas amostras de sangue de 200 pessoas e, após análise laboratoria
 Dessas pessoas que foram submetidas à coleta de sangue, o número das que possuem o tipo sanguíneo A é igual a
 
 
-",30.,60.,70.,90.,100.,C
-7,"
+",30.,60.,70.,90.,100.,C,
+28,174,"
 
 
-O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.
+O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.
+
+
+
+
+
+
+
+
+
+
+
+
+No início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho.
 
 
 
 ","
 
-Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?
+Qual será a porcentagem da redução da mesada?
 
 
-","1,96","1,98","2,05","2,06","2,08",D
+","15,0","23,5","30,0","70,0","76,5",B,enem-data/enem-2020/174-images/context_img_0.png
+29,178,"
+
+
+Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.
+
+Disponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.
+
+
+
+
+
+Azulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.
+
+
+
+
+
+
+
+
+
+
+
+
+Entre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:
+1 — Triângulo retângulo isósceles;
+2 — Triângulo equilátero;
+3 — Quadrado.
+
+
+
+","
+
+Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato
+
+
+",1.,3.,1 e 2.,1 e 3.,2 e 3.,D,enem-data/enem-2020/178-images/context_img_0.png
+30,166,"
+
+
+O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.
+
+
+
+
+
+
+
+
+
+
+
+
+O quadrado PRST, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente.
+
+
+
+","
+
+Qual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?
+
+
+",enem-data/enem-2020/166-images/alt_img_0.png,enem-data/enem-2020/166-images/alt_img_1.png,enem-data/enem-2020/166-images/alt_img_2.png,enem-data/enem-2020/166-images/alt_img_3.png,enem-data/enem-2020/166-images/alt_img_4.png,B,enem-data/enem-2020/166-images/context_img_0.png
+31,163,"
+
+
+O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio.
+
+
+
+
+
+
+
+
+
+
+","
+
+Nessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a
+
+
+",enem-data/enem-2020/163-images/alt_img_0.png,enem-data/enem-2020/163-images/alt_img_1.png,enem-data/enem-2020/163-images/alt_img_2.png,enem-data/enem-2020/163-images/alt_img_3.png,enem-data/enem-2020/163-images/alt_img_4.png,E,enem-data/enem-2020/163-images/context_img_0.png
+32,179,"
+
+
+No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as figuras 1 e 2.
+
+
+
+
+
+
+
+
+
+
+
+
+A árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C (centro da circunferência) perpendicularmente ao plano do chão.
+Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva.
+
+
+
+","
+
+Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de
+
+
+","4,00.","4,87.","5,00.","5,83.","6,26.",A,enem-data/enem-2020/179-images/context_img_0.png
+33,159,"
+
+
+A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.
+
+
+
+
+
+
+
+
+
+
+","
+
+A figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é
+
+
+",enem-data/enem-2020/159-images/alt_img_0.png,enem-data/enem-2020/159-images/alt_img_1.png,enem-data/enem-2020/159-images/alt_img_2.png,enem-data/enem-2020/159-images/alt_img_3.png,enem-data/enem-2020/159-images/alt_img_4.png,B,enem-data/enem-2020/159-images/context_img_0.png
+34,170,"
+
+
+Nos livros Harry Potter, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”.
+Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras.
+
+
+
+","
+
+Nessas condições, o número de anagramas formados é dado por
+
+
+",enem-data/enem-2020/170-images/alt_img_0.png,enem-data/enem-2020/170-images/alt_img_1.png,enem-data/enem-2020/170-images/alt_img_2.png,enem-data/enem-2020/170-images/alt_img_3.png,enem-data/enem-2020/170-images/alt_img_4.png,E,
+35,169,"
+
+
+A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:
+
+afastamento mínimo de 4 m da rua;
+afastamento mínimo de 1 m da divisa com outro lote;
+área total construída da casa entre 40% e 50% da área total do lote.
+
+Um construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m2.
+A imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.
+
+
+
+
+
+
+
+
+
+
+","
+
+A prefeitura aprovará apenas a planta da casa
+
+
+",1.,2.,3.,4.,5.,E,enem-data/enem-2020/169-images/context_img_0.png
+36,168,"
+
+
+Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A.
+
+
+
+","
+
+Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é
+
+
+",enem-data/enem-2020/168-images/alt_img_0.png,enem-data/enem-2020/168-images/alt_img_1.png,enem-data/enem-2020/168-images/alt_img_2.png,enem-data/enem-2020/168-images/alt_img_3.png,enem-data/enem-2020/168-images/alt_img_4.png,B,
+37,173,"
+
+
+O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento.
+
+
+
+
+
+
+
+
+
+
+","
+
+Qual esboço de gráfico melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?
+
+
+",enem-data/enem-2020/173-images/alt_img_0.png,enem-data/enem-2020/173-images/alt_img_1.png,enem-data/enem-2020/173-images/alt_img_2.png,enem-data/enem-2020/173-images/alt_img_3.png,enem-data/enem-2020/173-images/alt_img_4.png,B,enem-data/enem-2020/173-images/context_img_0.png
+38,180,"
+
+
+Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura.
+
+
+
+
+
+
+
+
+
+
+
+
+Um arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia.
+
+
+
+","
+
+Para atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de
+
+
+",9.,15.,26.,52.,60.,C,enem-data/enem-2020/180-images/context_img_0.png
+39,177,"
+
+
+Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a: 4, 6 e 6, respectivamente. Com a intenção de igualar a participação dos três sócios no capital da empresa, Antônio pretende adquirir uma fração do capital de cada um dos outros dois sócios.
+
+
+
+","
+
+A fração do capital de cada sócio que Antônio deverá adquirir é
+
+
+",enem-data/enem-2020/177-images/alt_img_0.png,enem-data/enem-2020/177-images/alt_img_1.png,enem-data/enem-2020/177-images/alt_img_2.png,enem-data/enem-2020/177-images/alt_img_3.png,enem-data/enem-2020/177-images/alt_img_4.png,C,

@@ -1,20 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
-
-
-Os ecossistemas degradados por intensa atividade agrícola apresentam geralmente, diminuição de sua a estabilidade. Nesse contexto, o uso integrado de árvores aos sistemas agrícolas (sistemas agroflorestais) pode cumprir um papel inovador ao buscar a aceleração do processo sucessional e, ao mesmo tempo, uma produção escalonada e diversificada.
-
-Disponível em: saf.cnpgc.embrapa.br. Acesso em 21 jan. 2012 (adaptado)
-
-
-
-","
-
-Essa é uma estratégia de conciliação entre recuperação ambiental e produção agrícola, pois
-
-
-",substitui gradativamente as espécies cultiváveis por espécies arbóreas.,intensifica a fertilização do solo com o uso de técnicas apropriadas e biocidas.,promove maior diversidade de vida no solo como aumento da matéria orgânica.,favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais.,cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo.,C
-1,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,48,"
 
 
 A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.
@@ -26,8 +11,8 @@ A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbus
 As características descritas referem-se a plantas adaptadas ao bioma:
 
 
-",Cerrado.,Pampas.,Pantanal.,Manguezal.,Mata de Cocais.,D
-2,"
+",Cerrado.,Pampas.,Pantanal.,Manguezal.,Mata de Cocais.,D,
+1,58,"
 
 
 Em sua formulação, o spray de pimenta contém porcentagens variadas de oleorresina de Capsicum, cujo princípio ativo é a capsaicina, e um solvente (um álcool como etanol ou isopropanol). Em contato com os olhos, pele ou vias respiratórias, a capsaicina causa um efeito inflamatório que gera uma sensação de dor e ardor, levando à cegueira temporária. O processo é desencadeado pela liberação de neuropeptídios das terminações nervosas.
@@ -41,8 +26,8 @@ Como funciona o gás de pimenta. Disponível em: http://pessoas.hsw.uol.com.br. 
 Quando uma pessoa é atingida com o spray de pimenta nos olhos ou na pele, a lavagem da região atingida com água é ineficaz porque a
 
 
-","reação entre etanol e água libera calor, intensificando o ardor.","solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção.","permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo.",solubilização do óleo em água causa um maior espalhamento além das áreas atingidas.,"ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente.",B
-3,"
+","reação entre etanol e água libera calor, intensificando o ardor.","solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção.","permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo.",solubilização do óleo em água causa um maior espalhamento além das áreas atingidas.,"ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente.",B,
+2,55,"
 
 
 As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.
@@ -54,8 +39,126 @@ As proteínas de uma célula eucariótica possuem peptídeos sinais, que são se
 Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para qual organela?
 
 
-",Núcleo.,Mitocôndria.,Peroxissomo.,Complexo golgiense.,Retículo endoplasmático.,B
-4,"
+",Núcleo.,Mitocôndria.,Peroxissomo.,Complexo golgiense.,Retículo endoplasmático.,B,
+3,51,"
+
+
+
+
+
+
+
+","
+
+O técnico concluiu que as correntes que apresentam o mesmo valor são
+
+
+",IA = IE e IC = ID.,IA = IB = IE e IC = ID.,"IA = IB, apenas.","IA = IB = IE, apenas.","IC = IB, apenas.",A,enem-data/enem-2016/51-images/context_img_0.png
+4,50,"
+
+
+Os ecossistemas degradados por intensa atividade agrícola apresentam geralmente, diminuição de sua a estabilidade. Nesse contexto, o uso integrado de árvores aos sistemas agrícolas (sistemas agroflorestais) pode cumprir um papel inovador ao buscar a aceleração do processo sucessional e, ao mesmo tempo, uma produção escalonada e diversificada.
+
+Disponível em: saf.cnpgc.embrapa.br. Acesso em 21 jan. 2012 (adaptado)
+
+
+
+","
+
+Essa é uma estratégia de conciliação entre recuperação ambiental e produção agrícola, pois
+
+
+",substitui gradativamente as espécies cultiváveis por espécies arbóreas.,intensifica a fertilização do solo com o uso de técnicas apropriadas e biocidas.,promove maior diversidade de vida no solo como aumento da matéria orgânica.,favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais.,cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo.,C,
+5,59,"
+
+
+A usina de Itaipu é uma das maiores hidrelétricas do mundo em geração de energia. Com 20 unidades geradoras e 14 000 MW de potência total instalada, apresenta uma queda de 118,4 m e vazão nominal de 690 m³/s por unidade geradora. O cálculo da potência teórica leva em conta a altura da massa de água represada pela barragem, a gravidade local (10 m/s²) e a densidade da água (1 000 kg/m³). A diferença entre a potência teórica e a instalada é a potência não aproveitada.
+
+Disponível em: www.itaipu.gov.br. Acesso em: 11 maio 2013 (adaptado).
+
+
+
+","
+
+Qual é a potência, em MW, não aproveitada em cada unidade geradora de Itaipu?
+
+
+","1,18","116,96","816,96","13 183,04",,C,
+6,61,"
+
+Por apresentar significativa resistividade elétrica, o grafite pode ser utilizado para simular resistores elétricos em circuitos desenhados no papel, com o uso de lápis e lapiseiras. Dependendo da espessura e do comprimento das linhas desenhadas, é possível determinar a resistência elétrica de cada traçado produzido. No esquema foram utilizados três tipos de lápis diferentes (2H, HB e 6B) para efetuar três traçados distintos.
+
+
+
+
+
+
+
+
+
+
+Munido dessas informações, um estudante pegou uma folha de papel e fez o desenho de um sorvete de casquinha utilizando-se desses traçados. Os valores encontrados nesse experimento, para as resistências elétricas (R), medidas com o auxílio de um ohmímetro ligado nas extremidades das resistências, são mostrados na figura. Verificou-se que os resistores obedeciam à Lei de Ohm.
+
+
+
+
+
+
+
+
+
+","
+
+Na sequência, conectou o ohmímetro nos terminais A e B do desenho e, em seguida, conectou-o nos terminais B e C, anotando as leituras RAB e RBC, respectivamente. Ao estabelecer a razão RAB / RBC, qual resultado o estudante obteve?
+
+
+",1,4/7,10/27,14/81,4/81,B,"enem-data/enem-2016/61-images/context_img_0.png,enem-data/enem-2016/61-images/context_img_1.png"
+7,49,"
+
+Uma pessoa é responsável pela manutenção de uma sauna úmida. Todos os dias cumpre o mesmo ritual: colhe folhas de capim-cidreira e algumas folhas de eucalipto. Em seguida, coloca as folhas na saída do vapor da sauna, aromatizando-a, conforme mostrado na figura.
+
+
+
+
+
+
+
+
+
+","
+
+Qual processo de separação é responsável pela aromatização promovida?
+
+
+",Filtração simples.,Destilação simples.,Extração por arraste.,Sublimação fracionada.,Decantação sólido-líquido.,C,enem-data/enem-2016/49-images/context_img_0.png
+8,60,"
+
+
+
+
+
+
+
+
+
+A Figura 2 ilustra o Projeto Park Spark, desenvolvido em Cambridge, MA (EUA), em que as fezes dos animais domésticos são recolhidas em sacolas biodegradáveis e jogadas em um biodigestor instalado em parques públicos; e os produtos são utilizados em equipamentos no próprio parque.
+
+
+
+
+
+
+
+
+
+
+","
+
+Uma inovação desse projeto é possibilitar o(a)
+
+
+",queima de gás metano.,armazenamento de gás carbônico.,decomposição aeróbica das fezes.,uso mais eficiente de combustíveis fósseis.,fixação de carbono em moléculas orgânicas.,A,"enem-data/enem-2016/60-images/context_img_0.png,enem-data/enem-2016/60-images/context_img_1.png"
+9,67,"
 
 
 Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para verificar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de HCl e, após filtrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de H2SO4 sobre o filtrado e observa-se por 30 minutos
@@ -69,8 +172,34 @@ TUBINO, M.; SIMONI, J.A. Refletindo sobre o caso celobar® Química Nova, n. 2,
 A presença de íons bário solúveis na amostra é indicada pela
 
 
-",liberação de calor.,alteração da cor para rosa.,precipitação de um sólido branco.,formação de gás hidrogênio.,volatilização de gás cloro.,C
-5,"
+",liberação de calor.,alteração da cor para rosa.,precipitação de um sólido branco.,formação de gás hidrogênio.,volatilização de gás cloro.,C,
+10,57,"
+
+
+
+
+
+
+
+
+em que n corresponde ao número de mols. O metanol pode ser obtido pela reação entre brometo de metila e hidróxido de sódio, conforme a equação química:
+
+
+
+
+
+
+
+
+
+","
+
+As massas molares (em g/mol) desses elementos são: H = 1; C = 12; O = 16; Na = 23; Br = 80.
+O rendimento molar da reação, em que 32 g de metanol foram obtidos a partir de 142,5 g de brometo de metila e 80 g de hidróxido de sódio, é mais próximo de
+
+
+",22%.,40%.,50%.,67%.,75%.,D,"enem-data/enem-2016/57-images/context_img_0.png,enem-data/enem-2016/57-images/context_img_1.png"
+11,73,"
 
 
 O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas.
@@ -85,85 +214,44 @@ O incremento da variabilidade ocorre em razão da permuta genética, a qual prop
 Essa troca de segmentos é determinante na
 
 
-",produção de indivíduos mais férteis.,transmissão de novas características adquiridas.,recombinação genética na formação dos gametas.,ocorrência de mutações somáticas nos descendentes.,variação do número de cromossomos característico da espécie.,C
-6,"
-
-
-Primeiro, em relação àquilo a que chamamos água, quando congela, parece-nos estar a olhar para algo que se tornou pedra ou terra, mas quando derrete e se dispersa, esta torna-se bafo e ar; o ar, quando é queimado, torna-se fogo; e, inversamente, o fogo, quando se contrai e se extingue, regressa à forma do ar; o ar, novamente concentrado e contraído, torna-se nuvem e nevoeiro, mas, a partir destes estados, se for ainda mais comprimido, torna-se água corrente, e de água torna-se novamente terra e pedras; e deste modo, como nos parece, dão geração uns aos outros de forma cíclica.
-
-PLATÃO. Timeu-Crítias. Coimbra: CECH, 2011.
+",produção de indivíduos mais férteis.,transmissão de novas características adquiridas.,recombinação genética na formação dos gametas.,ocorrência de mutações somáticas nos descendentes.,variação do número de cromossomos característico da espécie.,C,
+12,72,"
 
 
 
 
-Do ponto de vista da ciência moderna, os “quatro elementos” descritos por Platão correspondem, na verdade, às fases sólida, líquida, gasosa e plasma da matéria. As transições entre elas são hoje entendidas como consequências macroscópicas de transformações sofridas pela matéria em escala microscópica.
-
-
-","
-
-Excetuando-se a fase de plasma, essas transformações sofridas pela matéria, em nível microscópico, estão associadas a uma
-
-
-",troca de átomos entre as diferentes moléculas do material.,transmutação nuclear dos elementos químicos do material.,redistribuição de prótons entre os diferentes átomos do material.,mudança na estrutura espacial formada pelos diferentes constituintes do material.,alteração nas proporções dos diferentes isótopos de cada elemento presente no material.,D
-7,"
-
-
-Para cada litro de etanol produzido em uma indústria de cana-de-açúcar são gerados cerca de 18 L de vinhaça que é utilizada na irrigação das plantações de cana-de-açúcar, já que contém teores médios de nutrientes N, P e K iguais a 357 mg/L, 60 mg/L e 2 034 mg/L, respectivamente.
-
-SILVA, M. A. S.; GRIEBELER, N. P.; BORGES, L. C. Uso de vinhaça e impactos nas propriedades do solo e lençol freático. Revista Brasileira de Engenharia Agrícola e Ambiental, n. 1, 2007 (adaptado).
 
 
 
 ","
 
-Na produção de 27 000 L de etanol, a quantidade total de fósforo, em kg, disponível na vinhaça será mais próxima de
+O número mínimo de polias móveis usadas, nessa situação, por Arquimedes foi
 
 
-",1.,29.,60.,170.,1000.,B
-8,"
+",3.,6.,7.,8.,10.,B,enem-data/enem-2016/72-images/context_img_0.png
+13,65,"
 
 
-Recentemente um estudo feito em campos de trigo mostrou que níveis elevados do dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.
+O aquecimento de um material por irradiação com micro-ondas ocorre por causa da interação da onda eletromagnética com o dipolo elétrico da molécula. Um importante atributo do aquecimento por micro-ondas é a absorção direta da energia pelo material a ser aquecido. Assim, esse aquecimento é seletivo e dependerá, principalmente, da constante dielétrica e da frequência de relaxação do material. O gráfico mostra a taxa de aquecimento de cinco solventes sob irradiação de micro-ondas.
 
-Bloom, A J et al. Nitrate assimilation is inhibited by elevated CO2 in field grown wheat. Nature Climate Change, n. 4., abr 2014, adaptado.
-
-
-
-","
-
-Nesse contexto, a qualidade nutricional do grão de trigo será modificada primeiramente pela redução de
+BARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de alguns conceitos fundamentais. Química Nova, n. 6, 2001 (adaptado).
 
 
-",amido.,frutose.,lipídeos.,celulose.,proteínas.,E
-9,"
 
 
-Pesquisadores recuperaram DNA de ossos de mamute (Mammuthus primigenius) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos confirmada pela técnica do carbono-14.
 
-FAPESP. DNA de mamute é revelado. Disponível em: http://agencia.fapesp.br. Acesso em: 13 ago. 2012 (adaptado).
+
+
 
 
 
 ","
 
-A técnica de datação apresentada no texto só é possível devido à
+No gráfico, qual solvente apresenta taxa média de aquecimento mais próxima de zero, no intervalo de 0 s a 40 s?
 
 
-",proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.,decomposição de todo o carbono-12 presente no organismo após a morte.,fixação maior do carbono-14 nos tecidos de organismos após a morte.,emissão de carbono-12 pelos tecidos de organismos após a morte.,transformação do carbono-12 em carbono-14 ao longo dos anos.,A
-10,"
-
-
-A formação de coágulos sanguíneos em veias e artérias é um dos fatores responsáveis pela ocorrência de doenças cardiovasculares, como varizes, infarto e acidentes vasculares cerebrais. A prevenção e o tratamento dessas doenças podem ser feitos com drogas anticoagulantes. A indústria farmacêutica estimula a pesquisa de toxinas animais com essa propriedade.
-
-
-
-","
-
-Considerando as adaptações relacionadas aos hábitos alimentares, os animais adequados ao propósito dessas pesquisas são os(as)
-
-
-",moluscos fitófagos.,moscas saprófagas.,pássaros carnívoros.,morcegos frugívoros.,mosquitos hematófagos.,E
-11,"
+",H2O,CH3OH,CH3CH2OH,CH3CH2CH2OH,CH3CH2CH2CH2CH2CH3,E,enem-data/enem-2016/65-images/context_img_0.png
+14,78,"
 
 
 TEXTO I
@@ -189,8 +277,154 @@ SCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and 
 Nessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de 4,4 V?
 
 
-",3,4,6,9,15,B
-12,"
+",3,4,6,9,15,B,
+15,75,"
+
+
+
+
+
+
+
+","
+
+A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que
+
+
+",a glicose seja convertida em sacarose.,as enzimas dessa planta sejam ativadas.,a maceração favoreçа a solubilização em águа.,o amido seja transformado em substratos utilizáveis pela levedura.,os grãos com diferentes composições químicas sejam padronizados.,D,enem-data/enem-2016/75-images/context_img_0.png
+16,70,"
+
+
+
+
+
+
+
+","
+
+Dentre as substâncias listadas no quadro, aquela capaz de remover com maior eficiência os gases poluentes é o(a)
+
+
+",fenol.,piridina.,metilamina.,hidrogenofosfato de potássio.,hidrogenosulfato de potássio.,D,enem-data/enem-2016/70-images/context_img_0.png
+17,71,"
+
+
+
+
+
+
+
+","
+
+Em relação ao coeficiente de partição da testosterona, as lipofilias dos compostos 1 e 2 são, respectivamente,
+ 
+
+
+",menor e menor que a lipofilia da testosterona.,menor e maior que a lipofilia da testosterona.,maior e menor que a lipofilia da testosterona.,maior e maior que a lipofilia da testosterona.,menor e igual que a lipofilia da testosterona.,D,enem-data/enem-2016/71-images/context_img_0.png
+18,68,"
+
+
+
+
+
+
+
+
+O uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.
+
+
+
+
+
+
+
+
+
+","
+
+Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto
+
+
+",Sitophilus spp.,Migdolus fryanus.,Anthonomus rubi.,Grapholita molesta.,Scrobipalpuloides absoluta.,E,"enem-data/enem-2016/68-images/context_img_0.png,enem-data/enem-2016/68-images/context_img_1.png"
+19,79,"
+
+
+A formação de coágulos sanguíneos em veias e artérias é um dos fatores responsáveis pela ocorrência de doenças cardiovasculares, como varizes, infarto e acidentes vasculares cerebrais. A prevenção e o tratamento dessas doenças podem ser feitos com drogas anticoagulantes. A indústria farmacêutica estimula a pesquisa de toxinas animais com essa propriedade.
+
+
+
+","
+
+Considerando as adaptações relacionadas aos hábitos alimentares, os animais adequados ao propósito dessas pesquisas são os(as)
+
+
+",moluscos fitófagos.,moscas saprófagas.,pássaros carnívoros.,morcegos frugívoros.,mosquitos hematófagos.,E,
+20,85,"
+
+
+Recentemente um estudo feito em campos de trigo mostrou que níveis elevados do dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.
+
+Bloom, A J et al. Nitrate assimilation is inhibited by elevated CO2 in field grown wheat. Nature Climate Change, n. 4., abr 2014, adaptado.
+
+
+
+","
+
+Nesse contexto, a qualidade nutricional do grão de trigo será modificada primeiramente pela redução de
+
+
+",amido.,frutose.,lipídeos.,celulose.,proteínas.,E,
+21,86,"
+
+
+Pesquisadores recuperaram DNA de ossos de mamute (Mammuthus primigenius) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos confirmada pela técnica do carbono-14.
+
+FAPESP. DNA de mamute é revelado. Disponível em: http://agencia.fapesp.br. Acesso em: 13 ago. 2012 (adaptado).
+
+
+
+","
+
+A técnica de datação apresentada no texto só é possível devido à
+
+
+",proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.,decomposição de todo o carbono-12 presente no organismo após a morte.,fixação maior do carbono-14 nos tecidos de organismos após a morte.,emissão de carbono-12 pelos tecidos de organismos após a morte.,transformação do carbono-12 em carbono-14 ao longo dos anos.,A,
+22,69,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a
+
+
+","50,0 g","250,0 g","300,0 g","450,0 g","600,0 g",C,"enem-data/enem-2016/69-images/context_img_0.png,enem-data/enem-2016/69-images/context_img_1.png"
+23,46,"
+
+
+
+
+
+
+
+","
+
+Qual esboço gráfico representa a frequência fo (t) detectada pelo observador?
+
+
+",enem-data/enem-2016/46-images/alt_img_0.png,enem-data/enem-2016/46-images/alt_img_1.png,enem-data/enem-2016/46-images/alt_img_2.png,enem-data/enem-2016/46-images/alt_img_3.png,enem-data/enem-2016/46-images/alt_img_4.png,D,enem-data/enem-2016/46-images/context_img_0.png
+24,82,"
 
 
 O Painel Intergovernamental de Mudanças Climáticas (na sigla em inglês, IPCC) prevê que nas próximas décadas o planeta passará por mudanças climáticas e propõe estratégias de mitigação e adaptação a elas. As estratégias de mitigação são direcionadas à causa dessas mudanças, procurando reduzir a concentração de gases de efeito estufa na atmosfera. As estratégias de adaptação, por sua vez, são direcionadas aos efeitos dessas mudanças, procurando preparar os sistemas humanos às mudanças climáticas já em andamento, de modo a reduzir seus efeitos negativos.
@@ -204,4 +438,137 @@ IPCC, 2014. Climate Change 2014: synthesis report. Disponível em: http://w5-sy
 Considerando as informações do texto, qual ação representa uma estratégia de adaptação?
 
 
-",Construção de usinas eólicas.,Tratamento de resíduos sólidos.,Aumento da eficiência dos veículos.,Adoção de agricultura sustentável de baixo carbono.,Criação de diques de contenção em regiões costeiras.,E
+",Construção de usinas eólicas.,Tratamento de resíduos sólidos.,Aumento da eficiência dos veículos.,Adoção de agricultura sustentável de baixo carbono.,Criação de diques de contenção em regiões costeiras.,E,
+25,84,"
+
+
+Para cada litro de etanol produzido em uma indústria de cana-de-açúcar são gerados cerca de 18 L de vinhaça que é utilizada na irrigação das plantações de cana-de-açúcar, já que contém teores médios de nutrientes N, P e K iguais a 357 mg/L, 60 mg/L e 2 034 mg/L, respectivamente.
+
+SILVA, M. A. S.; GRIEBELER, N. P.; BORGES, L. C. Uso de vinhaça e impactos nas propriedades do solo e lençol freático. Revista Brasileira de Engenharia Agrícola e Ambiental, n. 1, 2007 (adaptado).
+
+
+
+","
+
+Na produção de 27 000 L de etanol, a quantidade total de fósforo, em kg, disponível na vinhaça será mais próxima de
+
+
+",1.,29.,60.,170.,1000.,B,
+26,83,"
+
+
+Primeiro, em relação àquilo a que chamamos água, quando congela, parece-nos estar a olhar para algo que se tornou pedra ou terra, mas quando derrete e se dispersa, esta torna-se bafo e ar; o ar, quando é queimado, torna-se fogo; e, inversamente, o fogo, quando se contrai e se extingue, regressa à forma do ar; o ar, novamente concentrado e contraído, torna-se nuvem e nevoeiro, mas, a partir destes estados, se for ainda mais comprimido, torna-se água corrente, e de água torna-se novamente terra e pedras; e deste modo, como nos parece, dão geração uns aos outros de forma cíclica.
+
+PLATÃO. Timeu-Crítias. Coimbra: CECH, 2011.
+
+
+
+
+Do ponto de vista da ciência moderna, os “quatro elementos” descritos por Platão correspondem, na verdade, às fases sólida, líquida, gasosa e plasma da matéria. As transições entre elas são hoje entendidas como consequências macroscópicas de transformações sofridas pela matéria em escala microscópica.
+
+
+","
+
+Excetuando-se a fase de plasma, essas transformações sofridas pela matéria, em nível microscópico, estão associadas a uma
+
+
+",troca de átomos entre as diferentes moléculas do material.,transmutação nuclear dos elementos químicos do material.,redistribuição de prótons entre os diferentes átomos do material.,mudança na estrutura espacial formada pelos diferentes constituintes do material.,alteração nas proporções dos diferentes isótopos de cada elemento presente no material.,D,
+27,77,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?
+
+
+",Aumenta na faixa das frequências médias.,Diminui na faixa das frequências agudas.,Diminui na faixa das frequências graves.,Aumenta na faixa das frequências médias altas.,Aumenta na faixa das frequências médias baixas.,C,"enem-data/enem-2016/77-images/context_img_0.png,enem-data/enem-2016/77-images/context_img_1.png"
+28,80,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+A frequência de giro do ponteiro, em RPM, é
+
+
+",1.,2.,4.,81.,162.,B,"enem-data/enem-2016/80-images/context_img_0.png,enem-data/enem-2016/80-images/context_img_1.png"
+29,90,"
+
+
+
+
+
+
+
+","
+
+De acordo com a figura, que posições correspondem a dois pontos consecutivos da manteiga derretida?
+
+
+",I e III,I e V,II e III,II e IV,II e V,A,enem-data/enem-2016/90-images/context_img_0.png
+30,88,"
+
+
+
+
+
+
+
+","
+
+A reação de SN entre metóxido de sódio (Nu– = CH3O–) e brometo de metila fornece um composto orgânico pertencente à função
+
+
+",éter.,éster.,álcool.,haleto.,hidrocarboneto.,A,enem-data/enem-2016/88-images/context_img_0.png
+31,87,"
+
+
+
+
+
+
+
+","
+
+Mesmo que essa  planta viesse sofrer ação contínua do vento e sua copa crescesse voltada para baixo, essa seiva continuaria naturalmente seu percurso.
+O que garante o transporte dessa seiva é a
+
+
+",gutação.,gravidade.,respiração.,fotossíntese.,transpiração.,E,enem-data/enem-2016/87-images/context_img_0.png
+32,89,"
+
+
+
+
+
+
+
+","
+
+Esse arranjo é representado esquematicamente por:
+
+
+",enem-data/enem-2016/89-images/alt_img_0.png,enem-data/enem-2016/89-images/alt_img_1.png,enem-data/enem-2016/89-images/alt_img_2.png,enem-data/enem-2016/89-images/alt_img_3.png,enem-data/enem-2016/89-images/alt_img_4.png,C,enem-data/enem-2016/89-images/context_img_0.png

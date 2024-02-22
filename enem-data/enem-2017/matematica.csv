@@ -1,5 +1,16 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,150,"
+
+Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.
+
+
+","
+
+A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é
+
+
+","11,25.","27,00.","28,80.","32,25.","49,50.",B,
+1,139,"
 
 Um casal realiza sua mudança de domicílio e necessita colocar numa caixa de papelão um objeto cúbico, de 80 cm de aresta, que não pode ser desmontado. Eles têm à disposição cinco caixas, com diferentes dimensões, conforme descrito:
 
@@ -21,8 +32,317 @@ O casal precisa escolher uma caixa na qual o objeto caiba, de modo que sobre o m
 A caixa escolhida pelo casal deve ser a de número
 
 
-",1.,2.,3.,4.,5.,C
-1,"
+",1.,2.,3.,4.,5.,C,
+2,140,"
+
+
+
+
+
+
+
+
+As letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.
+A empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.
+
+
+","
+
+A opção que mais se adequa às condições da empresa é
+
+
+",I.,II.,III.,IV.,V.,E,enem-data/enem-2017/140-images/context_img_0.png
+3,136,"
+
+Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.
+
+
+
+
+
+
+
+
+
+","
+
+Quantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?
+
+
+",4.,3.,2.,1.,0.,C,enem-data/enem-2017/136-images/context_img_0.png
+4,151,"
+
+Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).
+
+
+
+O instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.
+
+
+
+Os dados sobre as pesquisas são os seguintes:
+
+
+
+
+
+
+
+
+
+
+em que σ é um parâmetro e N é o número de pessoas
+entrevistadas pela pesquisa.
+
+
+","
+
+Qual pesquisa deverá ser utilizada?
+
+
+",P1.,P2.,P3.,P4.,P5.,D,enem-data/enem-2017/151-images/context_img_0.png
+5,137,"
+
+Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 cm e 5 cm, respectivamente.
+
+
+
+
+
+
+
+
+
+","
+
+A bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a
+
+
+",192.,300.,304.,320.,400.,C,enem-data/enem-2017/137-images/context_img_0.png
+6,145,"
+
+
+Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula
+
+
+
+
+
+
+
+
+
+
+
+
+Se necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335.
+
+
+
+","
+
+De acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é
+
+
+",12,14,15,16,17,D,enem-data/enem-2017/145-images/context_img_0.png
+7,146,"
+
+
+Raios de luz solar estão atingindo a superfície de um lago formando um ângulo X com a sua superfície, conforme indica a figura.
+Em determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k . sen(x)
+sendo k uma constante, e supondo-se que X está entre 0° e 90º.
+
+
+
+
+
+
+
+
+
+
+","
+
+Quando x = 30º, a intensidade luminosa se reduz a qual percentual de seu valor máximo?
+
+
+",33%,50%,57%,70%,86%,B,enem-data/enem-2017/146-images/context_img_0.png
+8,147,"
+
+A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.
+
+
+
+Por um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizonte.
+
+
+
+
+
+
+
+
+
+
+Para recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°
+
+
+","
+
+A forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de
+
+
+",90° no sentido horário.,135° no sentido horário.,180° no sentido anti-horário.,270° no sentido anti-horário,315° no sentido horário.,B,enem-data/enem-2017/147-images/context_img_0.png
+9,153,"
+
+Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linhas. Nele, a profundidade h, registrada às 13 horas, não foi anotada e, a partir de h, cada unidade sobre o eixo vertical representa um metro.
+
+
+
+
+
+
+
+
+
+
+Foi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10%.
+
+
+","
+
+Às 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?
+
+
+",18.,20.,24.,36.,40.,A,enem-data/enem-2017/153-images/context_img_0.png
+10,149,"
+
+Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.
+
+
+
+
+
+
+
+
+
+
+No setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.
+
+
+","
+
+Com base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?
+
+
+","C6,4","C9,3","C10,4",64,46,B,enem-data/enem-2017/149-images/context_img_0.png
+11,141,"
+
+
+
+
+
+
+
+","
+
+Se a quantidade de jogadores for 8, quantas partidas serão realizadas?
+
+
+",64,56,49,36,28,E,enem-data/enem-2017/141-images/context_img_0.png
+12,155,"
+
+A figura ilustra uma partida de Campo Minado, o jogo presente em praticamente todo computador pessoal. Quatro quadrados em um tabuleiro 16 x 16 foram abertos, e os números em suas faces indicam quantos dos seus 8 vizinhos contêm minas (a serem evitadas). O número 40 no canto inferior direito é o número total de minas no tabuleiro, cujas posições foram escolhidas ao acaso, de forma uniforme, antes de se abrir qualquer quadrado.
+
+
+
+
+
+
+
+
+
+
+Em sua próxima jogada, o jogador deve escolher dentre os quadrados marcados com as letras P, Q, R, S e T um para abrir, sendo que deve escolher aquele com a menor probabilidade de conter uma mina.
+
+
+","
+
+O jogador deverá abrir o quadrado marcado com a letra
+
+
+",P.,Q.,R.,S.,T.,B,enem-data/enem-2017/155-images/context_img_0.png
+13,148,"
+
+A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:
+
+
+
+
+
+
+
+
+
+
+Quanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.
+
+
+
+Determinado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.
+
+
+
+
+
+
+
+
+
+","
+
+Para que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é
+
+
+","7,00.","7,38.","7,50.","8,25.","9,00.",D,"enem-data/enem-2017/148-images/context_img_0.png,enem-data/enem-2017/148-images/context_img_1.png"
+14,154,"
+
+Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia, conforme Figura 1. A estrutura de sustentação de cada uma dessas cabanas está representada na Figura 2. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza
+
+
+
+
+
+
+
+
+
+","
+
+A forma geométrica da superfície cujas arestas estão representadas na Figura 2 é
+
+
+",tetraedro.,pirâmide retangular.,tronco de pirâmide retangular.,prisma quadrangular reto.,prisma triangular reto.,E,enem-data/enem-2017/154-images/context_img_0.png
+15,158,"
+
+Um menino acaba de se mudar para um novo bairro e deseja ir à padaria. Pediu ajuda a um amigo que lhe forneceu um mapa com pontos numerados, que representam cinco locais de interesse, entre os quais está a padaria. Além disso, o amigo passou as seguintes instruções: a partir do ponto em que você se encontra, representado pela letra X, ande para oeste, vire à direita na primeira rua que encontrar, siga em frente e vire à esquerda na próxima rua. A padaria estará logo a seguir
+
+
+
+
+
+
+
+
+
+","
+
+A padaria está representada pelo ponto numerado com
+
+
+",1.,2.,3.,4.,5.,A,enem-data/enem-2017/158-images/context_img_0.png
+16,160,"
 
 
 O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade V de contração de um músculo ao ser submetido a um peso p é dada pela equação (p + a) (v +b) = K, com a, b e K constantes.
@@ -62,19 +382,37 @@ Disponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14jul2015 (ad
 O gráfico da equação que o fisioterapeuta utilizou para maximizar o efeito dos exercícios é do tipo
 
 
-",Semirreta oblíqua.,semirreta horizontal.,ramo de parábola.,arco de circunferência.,ramo de hipérbole.,E
-2,"
+",Semirreta oblíqua.,semirreta horizontal.,ramo de parábola.,arco de circunferência.,ramo de hipérbole.,E,
+17,159,"
 
-Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.
+Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado nesse curso, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova.
+
+
+
+
+
+
+
 
 
 ","
 
-A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é
+Com base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)
 
 
-","11,25.","27,00.","28,80.","32,25.","49,50.",B
-3,"
+",apenas o aluno Y,apenas o aluno Z,apenas os alunos x e y,apenas os alunos x e z,"os alunos x, y, z",B,enem-data/enem-2017/159-images/context_img_0.png
+18,165,"
+
+Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.
+
+
+","
+
+O volume do monumento original, em metro cúbico, é de
+
+
+",100,400,1600,6250,10000,C,
+19,162,"
 
 
 A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (X e Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista Y para executar a mesma tarefa.
@@ -88,19 +426,45 @@ Disponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).
 A razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é igual a
 
 
-",5/4,1/4,4/3,4/1,3/4,B
-4,"
+",5/4,1/4,4/3,4/1,3/4,B,
+20,161,"
 
-Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.
+
+
+
+
+
+
+
+O acesso aos elevadores tem os seguintes custos:
+• Subir pelo elevador 1: R$ 0,15;
+• Subir pelo elevador 2: R$ 1,80;
+• Descer pelo elevador 1: R$ 0,10;
+• Descer pelo elevador 2: R$ 2,30.
+O custo da passagem do teleférico partindo do topo do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do topo do mirante 2 para o topo do mirante 1 é de R$ 2,50.
 
 
 ","
 
-O volume do monumento original, em metro cúbico, é de
+Qual é o menor custo, em real, para uma pessoa visitar os topos dos dois mirantes e retornar ao solo?
 
 
-",100,400,1600,6250,10000,C
-5,"
+","2,25","3,90","4,35","4,40","4,45",C,enem-data/enem-2017/161-images/context_img_0.png
+21,144,"
+
+
+Um empréstimo foi feito à taxa mensal de i%, usando juros compostos, em oito parcelas fixas e iguais a P.
+O devedor tem a possibilidade de quitar a dívida antecipadamente a qualquer momento, pagando para isso o valor atual das parcelas ainda a pagar. Após pagar a 5ª parcela, resolve quitar a dívida no ato de pagar a 6ª parcela.
+
+
+
+","
+
+A expressão que corresponde ao valor total pago pela quitação do empréstimo é:
+
+
+",enem-data/enem-2017/144-images/alt_img_0.png,enem-data/enem-2017/144-images/alt_img_1.png,enem-data/enem-2017/144-images/alt_img_2.png,enem-data/enem-2017/144-images/alt_img_3.png,enem-data/enem-2017/144-images/alt_img_4.png,A,
+22,169,"
 
 
 Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 kg de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento.
@@ -114,8 +478,127 @@ Disponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).
 A quantidade de gasolina utilizada, em litro, no reabastecimento foi
 
 
-","20/0,075","20/0,75","20/7,5","20 x 0,075","20 x 0,75",B
-6,"
+","20/0,075","20/0,75","20/7,5","20 x 0,075","20 x 0,75",B,
+23,157,"
+
+A manchete demonstra que o transporte de grandes cargas representa cada vez mais preocupação quando feito em vias urbanas.
+
+
+
+Caminhão entala em viaduto no Centro
+
+
+
+Um caminhão de grande porte entalou embaixo do viaduto no cruzamento das avenidas Borges de Medeiros e Loureiro da Silva no sentido Centro-Bairro, próximo à Ponte de Pedra, na capital. Esse veículo vinha de São Paulo para Porto Alegre e transportava três grandes tubos, conforme ilustrado na foto.
+
+
+
+
+
+
+
+
+
+
+Considere que o raio externo de cada cano da imagem seja 0,60 m e que eles estejam em cima de uma carroceria cuja parte superior está a 1,30 m do solo. O desenho representa a vista traseira do empilhamento dos canos.
+
+
+
+
+
+
+
+
+
+
+A margem de segurança recomendada para que um veículo passe sob um viaduto é que a altura total do veículo com a carga seja, no mínimo, 0,50 m menor do que a altura do vão do viaduto.
+
+
+
+Considere 1,7 como aproximação para (3)1/2
+
+
+","
+
+Qual deveria ser a altura mínima do viaduto, em metro, para que esse caminhão pudesse passar com segurança sob seu vão?
+
+
+","2,82.","3,52.","3,70.","4,02.","4,20.",D,"enem-data/enem-2017/157-images/context_img_0.png,enem-data/enem-2017/157-images/context_img_1.png"
+24,167,"
+
+O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o slogan “Juntos num só ritmo”, com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes.
+
+
+
+
+
+
+
+
+
+","
+
+De quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?
+
+
+",15,30,108,360,972,E,enem-data/enem-2017/167-images/context_img_0.png
+25,164,"
+
+Uma pessoa ganhou uma pulseira formada por pérolas esféricas, na qual faltava uma das pérolas. A figura indica a posição em que estaria faltando esta pérola.
+
+
+
+
+
+
+
+
+
+
+Ela levou a jóia a um joalheiro que verificou que a medida do diâmetro dessas pérolas era 4 milímetros. Em seu estoque, as pérolas do mesmo tipo e formato, disponíveis para reposição, tinham diâmetros iguais a: 4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.
+
+
+
+O joalheiro então colocou na pulseira a pérola cujo diâmetro era o mais próximo do diâmetro das pérolas originais.
+
+
+","
+
+ A pérola colocada na pulseira pelo joalheiro tem diâmetro, em milímetro, igual a
+
+
+","3,099.","3,970.","4,025.","4,080.","4,100.",C,enem-data/enem-2017/164-images/context_img_0.png
+26,163,"
+
+Uma desenhista projetista deverá desenhar uma tampa de panela em forma circular. Para realizar esse desenho, ela dispõe, no momento, de apenas um compasso, cujo comprimento das hastes é de 10 cm, um transferidor e uma folha de papel com um plano cartesiano. Para esboçar o desenho dessa tampa, ela afastou as hastes do compasso de forma que o ângulo formado por elas fosse de 120o. A ponta seca está representada pelo ponto C, a ponta do grafite está representada pelo ponto B e a cabeça do compasso está representada pelo ponto A conforme a figura.
+
+
+
+
+
+
+
+
+
+
+Após concluir o desenho, ela o encaminha para o setor de produção. Ao receber o desenho com a indicação do raio da tampa, verificará em qual intervalo este se encontra e decidirá o tipo de material a ser utilizado na sua fabricação, de acordo com os dados.
+
+
+
+
+
+
+
+
+
+","
+
+ 
+O tipo de material a ser utilizado pelo setor de produção será
+
+
+",I,II,III,IV,V,D,"enem-data/enem-2017/163-images/context_img_0.png,enem-data/enem-2017/163-images/context_img_1.png"
+27,172,"
 
 
 A energia solar vai abastecer parte da demanda de energia do campus de uma universidade brasileira. A instalação de painéis solares na área dos estacionamentos e na cobertura do hospital pediátrico será aproveitada nas instalações universitárias e também ligada na rede da companhia elétrica distribuidora de energia.
@@ -131,4 +614,255 @@ Disponível em: http://agenciabrasil.ebc.com.br. Acesso em: 30 out. 2013 (adapta
 Para se obter o dobro da quantidade de energia economizada diariamente, em relação à primeira fase, a área total dos painéis que geram energia térmica, em metro quadrado, deverá ter o valor mais próximo de
 
 
-",231.,431.,472.,523.,672.,C
+",231.,431.,472.,523.,672.,C,
+28,168,"
+
+Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.
+
+
+
+
+
+
+
+
+
+","
+
+Quais devem ser os valores de X e de Y, em metro, para que a área da base do viveiro seja máxima?
+
+
+",1 e 49,1 e 99,10 e 10,25 E 25,50 E 50,D,enem-data/enem-2017/168-images/context_img_0.png
+29,173,"
+
+
+
+
+
+
+
+","
+
+O número de horas em que os dois reservatórios contêm a mesma quantidade de água é
+
+
+",1.,2.,4.,5.,6.,A,enem-data/enem-2017/173-images/context_img_0.png
+30,176,"
+
+
+
+
+
+
+
+","
+
+Qual a medida da altura H, em metro, indicada na Figura 2?
+
+
+",16/3,31/5,25/4,25/3,75/2,D,enem-data/enem-2017/176-images/context_img_0.png
+31,170,"
+
+
+
+
+
+
+
+
+
+
+IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).
+
+
+
+","
+
+A mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de
+
+
+","8,1%","8,0%","7,9%","7,7%","7,6%",B,enem-data/enem-2017/170-images/context_img_0.png
+32,179,"
+
+
+
+
+
+
+
+","
+
+A função P(t) obtida, por este cientista, ao analisar o caso específico foi
+
+
+",P(t) = 99 + 21cos(3πt),P(t) = 78 + 42cos(3πt),P(t) = 99 + 21cos(2πt),P(t) = 99 + 21cos(t),P(t) = 78 + 42cos(t),A,enem-data/enem-2017/179-images/context_img_0.png
+33,174,"
+
+
+Neste modelo de termômetro, os filetes na cor preta registram as temperaturas mínima e máxima do dia anterior e os filetes na cor cinza registram a temperatura ambiente atual, ou seja, no momento da leitura do termômetro.
+
+
+
+
+
+
+
+
+
+
+
+
+Por isso ele tem duas colunas. Na da esquerda, os números estão em ordem crescente, de cima para baixo, de -30 °C até 50 °C. Na coluna da direita, os números estão ordenados de forma crescente, de baixo para cima, de -30 °C até 50 °C.
+A leitura é feita da seguinte maneira:
+• a temperatura mínima é indicada pelo nível inferior do filete preto na coluna da esquerda;
+• a temperatura máxima é indicada pelo nível inferior do filete preto na coluna da direita;
+• a temperatura atual é indicada pelo nível superior dos filetes cinza nas duas colunas.
+
+Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).
+
+
+
+","
+
+Qual é a temperatura máxima mais aproximada registrada nesse termômetro?
+
+
+",5 °C,7 °C,13 °C,15 °C,19 °C,E,enem-data/enem-2017/174-images/context_img_0.png
+34,156,"
+
+A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.
+
+
+
+
+
+
+
+
+
+
+A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.
+
+
+","
+
+Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água no sistema?
+
+
+",enem-data/enem-2017/156-images/alt_img_0.png,enem-data/enem-2017/156-images/alt_img_1.png,enem-data/enem-2017/156-images/alt_img_2.png,enem-data/enem-2017/156-images/alt_img_3.png,enem-data/enem-2017/156-images/alt_img_4.png,D,enem-data/enem-2017/156-images/context_img_0.png
+35,177,"
+
+
+
+
+
+
+
+","
+
+Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, foi no site
+
+
+",X.,Y.,Z.,W.,U.,A,enem-data/enem-2017/177-images/context_img_0.png
+36,166,"
+
+Uma bicicleta do tipo mountain bike tem uma coroa com 3 engrenagens e uma catraca com 6 engrenagens, que, combinadas entre si, determinam 18 marchas (número de engrenagens da coroa vezes o número de engrenagens da catraca).
+
+
+
+
+
+
+
+
+
+
+Os números de dentes das engrenagens das coroas e das catracas dessa bicicleta estão listados no quadro.
+
+
+
+
+
+
+
+
+
+
+Sabe-se que o número de voltas efetuadas pela roda traseira a cada pedalada é calculado dividindo-se a quantidade de dentes da coroa pela quantidade de dentes da catraca.
+Durante um passeio em uma bicicleta desse tipo, deseja-se fazer um percurso o mais devagar possível, escolhendo, para isso, uma das seguintes combinações de engrenagens (coroa x catraca):
+
+
+
+
+
+
+
+
+
+","
+
+A combinação escolhida para realizar esse passeio da forma desejada é
+
+
+",I,II,III,IV,V,D,"enem-data/enem-2017/166-images/context_img_0.png,enem-data/enem-2017/166-images/context_img_1.png,enem-data/enem-2017/166-images/context_img_2.png"
+37,178,"
+
+
+
+
+
+
+
+
+Ao ser divulgado esse resultado em jornal, o Gráfico 1 foi cortado durante a diagramação, como mostra o Gráfico 2.
+
+
+
+
+
+
+
+
+
+
+Apesar de os valores apresentados estarem corretos e a largura das colunas ser a mesma, muitos leitores criticaram o formato do Gráfico 2 impresso no jornal, alegando que houve prejuízo visual para o candidato B.
+
+
+","
+
+A diferença entre as razões da altura da coluna B pela coluna A nos gráficos 1 e 2 é
+
+
+",0.,1/2.,1/5.,2/15.,8/35.,E,"enem-data/enem-2017/178-images/context_img_0.png,enem-data/enem-2017/178-images/context_img_1.png"
+38,180,"
+
+
+
+
+
+
+
+","
+
+Para atingir todos os seus objetivos, o chefe deverá cortar a calota do melão numa altura h, em centímetro, igual a
+
+
+",5 - √91/2,10 - √91,1,4,5,C,enem-data/enem-2017/180-images/context_img_0.png
+39,175,"
+
+
+
+
+
+
+
+
+Um pivô de três torres (T1, T2 e T3) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T1 são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.
+
+
+","
+
+Para atingir seu objetivo, as velocidades das torres T1, T2 e T3 devem ser, em metro por hora, de
+
+
+","12, 24 e 36.","6, 12 e 18.","2, 4 e 6.","300, 1200 e 2700.","600, 2400 e 5400.",A,enem-data/enem-2017/175-images/context_img_0.png

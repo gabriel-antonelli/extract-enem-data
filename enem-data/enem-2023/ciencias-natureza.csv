@@ -1,33 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
-
-
-Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.
-
-
-
-","
-
-O coquetel de inibidores impediu o(a)
-
-
-",formação do pronúcleo masculino.,início da divisão mitótica do zigoto.,término da segunda divisão meiótica do ovócito.,passagem do espermatozoide pela corona radiata e zona pelúcida.,fusão das membranas plasmáticas do ovócito e do espermatozoide.,D
-1,"
-
-
-A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função especifica atuando no mesmo compartimento celular de sempre.
-
-Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).
-
-
-
-","
-
-A imunização produzida por esse tipo de vacina é alcançada por meio da
-
-
-",estimulação de leucócitos induzida pela capa lipídica contendo RNAm.,atuação do RNAm como sequestrador do vírus para o meio extracelular.,"tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.,incorporação do RNAm viral ao genoma do hospedeiro. gerando novo fenótipo.,C
-2,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,110,"
 
 
 O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.
@@ -42,37 +14,8 @@ Disponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).
 Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)
 
 
-",vidro do frasco for translúcido.,concentração de gluconato de cálcio for alta.,frasco de vidro apresentar uma maior espessura.,vidro for previamente esterilizado em altas temperaturas.,reação do alumínio com gluconato de cálcio for endotérmica.,B
-3,"
-
-
-Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.
-
-
-
-","
-
-As estratégias citadas eram utilizadas com o objetivo de
-
-
-",tratar a diarreia.,prevenir a anemia.,evitar as verminoses.,remediar o raquitismo,combater a febre amarela.,B
-4,"
-
-
-O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.
-
-DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br.
-Acesso em: 2 fev. 2015 (adaptado).
-
-
-
-","
-
-Esse método contribui para a preservação das abelhas porque
-
-
-",reduz sua predação,reduz o uso de pesticidas.,reduz a competição por abrigo.,aumenta a oferta de alimento,aumenta os locais de reprodução,D
-5,"
+",vidro do frasco for translúcido.,concentração de gluconato de cálcio for alta.,frasco de vidro apresentar uma maior espessura.,vidro for previamente esterilizado em altas temperaturas.,reação do alumínio com gluconato de cálcio for endotérmica.,B,
+1,111,"
 
 
 Barbatimão é o nome popular de uma árvore cuja casca e utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.
@@ -84,25 +27,149 @@ Barbatimão é o nome popular de uma árvore cuja casca e utilizada para fins me
 A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da
 
 
-",fotossíntese.,transpiração.,troca de gases.,formação de brotos.,nutrição das raízes.,E
-6,"
+",fotossíntese.,transpiração.,troca de gases.,formação de brotos.,nutrição das raízes.,E,
+2,99,"
 
 
-Pais com síndrome de Down
-A síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz uma menina sem a síndrome de Down
+A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função especifica atuando no mesmo compartimento celular de sempre.
 
-MORENO, T. Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado).
+Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).
 
 
 
 ","
 
-Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê.
-O médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão
+A imunização produzida por esse tipo de vacina é alcançada por meio da
 
 
-",todos normais.,todos tetrassômicos.,apenas normais ou tetrassômicos,apenas trissômicos ou tetrassômicos,"normais, trissômicos ou tetrassômicos.",E
-7,"
+",estimulação de leucócitos induzida pela capa lipídica contendo RNAm.,atuação do RNAm como sequestrador do vírus para o meio extracelular.,"tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.,incorporação do RNAm viral ao genoma do hospedeiro. gerando novo fenótipo.,C,
+3,100,"
+
+
+Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.
+
+
+
+","
+
+O coquetel de inibidores impediu o(a)
+
+
+",formação do pronúcleo masculino.,início da divisão mitótica do zigoto.,término da segunda divisão meiótica do ovócito.,passagem do espermatozoide pela corona radiata e zona pelúcida.,fusão das membranas plasmáticas do ovócito e do espermatozoide.,D,
+4,91,"
+
+
+
+
+SOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)
+
+
+
+
+","
+
+Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.
+Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?
+
+
+",Altura.,Período.,Amplitude.,Velocidade.,Comprimento.,C,enem-data/enem-2023/91-images/context_img_0.png
+5,96,"
+
+
+A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.
+
+
+
+
+
+
+
+
+
+
+","
+
+Entre esses compostos, aquele que conferirá maior desempenho como combustível é o
+
+
+",I.,II.,III.,IV.,V.,C,enem-data/enem-2023/96-images/context_img_0.png
+6,106,"
+
+
+Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.
+
+
+
+
+
+
+
+
+
+
+","
+
+Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que corresponde à combinação correta é
+
+
+",v = 0 e a ≠ 0 para cima.,v ≠ 0 para cima e a = 0,v = 0 e a ≠ 0 para baixo.,v ≠ 0 para cima e a ≠ 0 para cima.,v ≠ 0 para baixo e a ≠ 0 para baixo.,C,enem-data/enem-2023/106-images/context_img_0.png
+7,94,"
+
+
+Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.
+Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44
+
+
+
+
+
+
+
+
+
+
+
+
+O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.
+
+
+
+
+
+
+
+MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).
+
+
+
+
+","
+
+O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento
+
+
+",potássio.,cálcio.,magnésio.,zinco.,ferro.,A,"enem-data/enem-2023/94-images/context_img_0.png,enem-data/enem-2023/94-images/context_img_1.png"
+8,98,"
+
+
+O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.
+
+
+
+
+
+
+
+
+
+
+","
+
+Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão
+
+
+",os mesmos.,mais intensos.,menos intensos.,menos intenso para L1 e o mesmo para L3.,mais intenso para L1 e menos intenso para L3.,C,enem-data/enem-2023/98-images/context_img_0.png
+9,113,"
 
 
 Avaliação de substâncias genotóxicas
@@ -118,4 +185,251 @@ para a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).
 Os micronúcleos se originam dos(as)
 
 
-",nucléolos.,lisossomos.,ribossomos,mitocôndrias,cromossomos,E
+",nucléolos.,lisossomos.,ribossomos,mitocôndrias,cromossomos,E,
+10,97,"
+
+
+De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.
+
+ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).
+
+
+
+
+
+Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.
+
+
+
+
+
+
+
+
+
+
+","
+
+A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de
+
+
+",756.,533.,76.,53.,13.,C,enem-data/enem-2023/97-images/context_img_0.png
+11,123,"
+
+
+O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.
+
+DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br.
+Acesso em: 2 fev. 2015 (adaptado).
+
+
+
+","
+
+Esse método contribui para a preservação das abelhas porque
+
+
+",reduz sua predação,reduz o uso de pesticidas.,reduz a competição por abrigo.,aumenta a oferta de alimento,aumenta os locais de reprodução,D,
+12,124,"
+
+
+Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.
+
+
+
+","
+
+As estratégias citadas eram utilizadas com o objetivo de
+
+
+",tratar a diarreia.,prevenir a anemia.,evitar as verminoses.,remediar o raquitismo,combater a febre amarela.,B,
+13,112,"
+
+
+O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.
+
+
+
+
+
+
+
+Tensoativo não biodegradável 
+
+
+
+
+","
+
+Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?
+
+
+",Retirar a parte polar da molécula.,Eliminar as insaturações do anel aromático.,Trocar o grupo aniônico por um grupo neutro.,Alterar o grupo aniônico por um grupo catiônico.,Modificar a cadeia carbônica para cadeia normal.,E,enem-data/enem-2023/112-images/context_img_0.png
+14,121,"
+
+
+Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:
+
+
+
+
+
+
+
+
+
+
+","
+
+O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)
+
+
+",basicidade.,lipofilicidade.,caráter iônico.,cadeia carbônica.,estado de oxidação.,C,enem-data/enem-2023/121-images/context_img_0.png
+15,132,"
+
+
+O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.
+
+
+
+
+
+
+
+
+
+
+","
+
+Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?
+
+
+",1,2,3,4,5,B,enem-data/enem-2023/132-images/context_img_0.png
+16,120,"
+
+
+Pais com síndrome de Down
+A síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz uma menina sem a síndrome de Down
+
+MORENO, T. Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado).
+
+
+
+","
+
+Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê.
+O médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão
+
+
+",todos normais.,todos tetrassômicos.,apenas normais ou tetrassômicos,apenas trissômicos ou tetrassômicos,"normais, trissômicos ou tetrassômicos.",E,
+17,122,"
+
+
+Toxicidade do cianeto
+A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons
+provenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o
+Fe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química
+altamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de
+Fe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.
+
+
+
+
+
+
+
+ALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artmed, 2010 (adaptado).
+
+
+
+
+","
+
+Esse bloqueio aumenta a concentração celular de
+
+
+",ATP.,água.,NADH.,dióxido de carbono.,citocromo c oxidase.,C,enem-data/enem-2023/122-images/context_img_0.png
+18,114,"
+
+
+O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso
+
+
+
+
+
+
+
+
+
+
+","
+
+A velocidade do som na camada líquida, em metro por segundo, é
+
+
+",270.,540.,818.,1 500.,1 800.,D,enem-data/enem-2023/114-images/context_img_0.png
+19,134,"
+
+
+Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:
+
+
+
+
+
+
+
+Além do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:
+
+
+
+
+
+
+
+
+
+
+
+","
+
+O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)
+
+
+",fenacetina.,paracetamol.,dipirona sódica.,diclofenaco sódico.,butilbrometo de escopolamina.,E,"enem-data/enem-2023/134-images/context_img_0.png,enem-data/enem-2023/134-images/context_img_1.png"
+20,129,"
+
+
+Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:
+
+
+
+
+
+
+
+
+
+
+
+
+Na dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.
+
+
+
+
+
+
+
+O produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol-1, a do NaCl é 58 g mol-1 e a do Hg2Cl2 é 472 g mol-1.
+
+
+
+
+","
+
+Qual foi o gráfico obtido pelo assistente de laboratório?
+
+
+",enem-data/enem-2023/129-images/alt_img_0.png,enem-data/enem-2023/129-images/alt_img_1.png,enem-data/enem-2023/129-images/alt_img_2.png,enem-data/enem-2023/129-images/alt_img_3.png,enem-data/enem-2023/129-images/alt_img_4.png,B,"enem-data/enem-2023/129-images/context_img_0.png,enem-data/enem-2023/129-images/context_img_1.png"

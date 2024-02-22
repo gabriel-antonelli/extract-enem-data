@@ -1,5 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,4,"
 
 
 
@@ -18,8 +18,34 @@ Ao final do experimento, os dois grupos de plantas apresentaram
 
 
 
-",os genótipos e os fenótipos idênticos.,os genótipos idênticos e os fenótipos diferentes.,diferenças nos genótipos e fenótipos.,o mesmo fenótipo e apenas dois genótipos diferentes.,o mesmo fenótipo e grande variedade de genótipos.,B
-1,"
+",os genótipos e os fenótipos idênticos.,os genótipos idênticos e os fenótipos diferentes.,diferenças nos genótipos e fenótipos.,o mesmo fenótipo e apenas dois genótipos diferentes.,o mesmo fenótipo e grande variedade de genótipos.,B,
+1,11,"
+
+A fotossíntese é importante para a vida na Terra. Nos cloroplastos dos organismos fotossintetizantes, a energia solar é convertida em energia química que, juntamente com água e gás carbônico (CO2), é utilizada para a síntese de compostos orgânicos (carboidratos). A fotossíntese é o único processo de importância biológica capaz de realizar essa conversão. Todos os organismos, incluindo os produtores, aproveitam a energia armazenada nos carboidratos para impulsionar os processos celulares, liberando CO2 para a atmosfera e água para a célula por meio da respiração celular. Além disso, grande fração dos recursos energéticos do planeta, produzidos tanto no presente (biomassa) como em tempos remotos (combustível fóssil), é resultante da atividade fotossintética.
+
+
+","
+
+As informações sobre obtenção e transformação dos recursos naturais por meio dos processos vitais de fotossíntese e respiração, descritas no texto, permitem concluir que
+
+
+",o CO2 e a água são moléculas de alto teor energético.,os carboidratos convertem energia solar em energia química.,"a vida na Terra depende, em última análise, da energia proveniente do Sol.",o processo respiratório é responsável pela retirada de carbono da atmosfera.,"a produção de biomassa e de combustível fóssil, por si, é responsável pelo aumento de CO2 atmosférico.",C,
+2,6,"
+
+
+Um novo método para produzir insulina artificial que utiliza tecnologia de DNA recombinante foi desenvolvido por pesquisadores do Departamento de Biologia Celular da Universidade de Brasília (UnB) em parceria com a iniciativa privada. Os pesquisadores modificaram geneticamente a bactéria Escherichia coli para torná-la capaz de sintetizar o hormônio. O processo permitiu fabricar insulina em maior quantidade e em apenas 30 dias, um terço do tempo necessário para obtê-la pelo método tradicional, que consiste na extração do hormônio a partir do pâncreas de animais abatidos. 
+
+Ciência Hoje, 24 abr. 2001. Disponível em: http://cienciahoje.uol.com.br (adaptado).
+
+
+
+","
+
+A produção de insulina pela técnica do DNA recombinante tem, como consequência,
+
+
+",o aperfeiçoamento do processo de extração de insulina a partir do pâncreas suíno.,a seleção de microrganismos resistentes a antibióticos.,o progresso na técnica da síntese química de hormônios.,impacto favorável na saúde de indivíduos diabéticos.,a criação de animais transgênicos. ,D,
+3,7,"
 
 
 
@@ -38,8 +64,8 @@ A utilização de combustíveis fósseis interfere no ciclo do carbono, pois pr
 
 
 
-",aumento da porcentagem de carbono contido na Terra.,redução na taxa de fotossíntese dos vegetais superiores.,aumento da produção de carboidratos de origem vegetal.,aumento na quantidade de carbono presente na atmosfera.,redução da quantidade global de carbono armazenado nos oceanos.,D
-2,"
+",aumento da porcentagem de carbono contido na Terra.,redução na taxa de fotossíntese dos vegetais superiores.,aumento da produção de carboidratos de origem vegetal.,aumento na quantidade de carbono presente na atmosfera.,redução da quantidade global de carbono armazenado nos oceanos.,D,
+4,2,"
 
 
 Estima-se que haja atualmente no mundo 40 milhões de pessoas infectadas pelo HIV (o vírus que causa a AIDS), sendo que as taxas de novas infecções continuam crescendo, principalmente na África, Ásia e Rússia. Nesse cenário de pandemia, uma vacina contra o HIV teria imenso impacto, pois salvaria milhões de vidas. Certamente seria um marco na história planetária e também uma esperança para as populações carentes de tratamento antiviral e de acompanhamento médico. 
@@ -53,19 +79,8 @@ TANURI, A.; FERREIRA JUNIOR, O. C. Vacina contra Aids: desafios e esperanças. C
 Uma vacina eficiente contra o HIV deveria
 
 
-","induzir a imunidade, para proteger o organismo da contaminação viral.","ser capaz de alterar o genoma do organismo portador, induzindo a síntese de enzimas protetoras.","produzir antígenos capazes de se ligarem ao vírus, impedindo que este entre nas células do organismo humano.","ser amplamente aplicada em animais, visto que esses são os principais transmissores do vírus para os seres humanos.","estimular a imunidade, minimizando a transmissão do vírus por gotículas de saliva.",A
-3,"
-
-Para que todos os órgãos do corpo humano funcionem em boas condições, é necessário que a temperatura do corpo fique sempre entre 36ºC e 37ºC. Para manter-se dentro dessa faixa, em dias de muito calor ou durante intensos exercícios físicos, uma série de mecanismos fisiológicos é acionada.
-
-
-","
-
-Pode-se citar como o principal responsável pela manutenção da temperatura corporal humana o sistema
-
-
-","digestório, pois produz enzimas que atuam na quebra de alimentos calóricos.","imunológico, pois suas células agem no sangue, diminuindo a condução do calor.","nervoso, pois promove a sudorese, que permite perda de calor por meio da evaporação da água.","reprodutor, pois secreta hormônios que alteram a temperatura, principalmente durante a menopausa.","endócrino, pois fabrica anticorpos que, por sua vez, atuam na variação do diâmetro dos vasos periféricos.",C
-4,"
+","induzir a imunidade, para proteger o organismo da contaminação viral.","ser capaz de alterar o genoma do organismo portador, induzindo a síntese de enzimas protetoras.","produzir antígenos capazes de se ligarem ao vírus, impedindo que este entre nas células do organismo humano.","ser amplamente aplicada em animais, visto que esses são os principais transmissores do vírus para os seres humanos.","estimular a imunidade, minimizando a transmissão do vírus por gotículas de saliva.",A,
+5,18,"
 
 
 O Brasil pode se transformar no primeiro país das Américas a entrar no seleto grupo das nações que dispõem de trens-bala. O Ministério dos Transportes prevê o lançamento do edital de licitação internacional para a construção da ferrovia de alta velocidade Rio-São Paulo. A viagem ligará os 403 quilômetros entre a Central do Brasil, no Rio, e a Estação da Luz, no centro da capital paulista, em uma hora e 25 minutos. 
@@ -79,34 +94,8 @@ Disponível em: http://oglobo.globo.com. Acesso em: 14 jul. 2009
 Devido à alta velocidade, um dos problemas a ser enfrentado na escolha do trajeto que será percorrido pelo trem é o dimensionamento das curvas. Considerando-se que uma aceleração lateral confortável para os passageiros e segura para o trem seja de 0,1 g, em que g é a aceleração da gravidade (considerada igual a 10 m/s²), e que a velocidade do trem se mantenha constante em todo o percurso, seria correto prever que as curvas existentes no trajeto deveriam ter raio de curvatura mínimo de, aproximadamente, 
 
 
-",80 m.,430 m.,800 m.,1.600 m.,6.400 m.,E
-5,"
-
-A fotossíntese é importante para a vida na Terra. Nos cloroplastos dos organismos fotossintetizantes, a energia solar é convertida em energia química que, juntamente com água e gás carbônico (CO2), é utilizada para a síntese de compostos orgânicos (carboidratos). A fotossíntese é o único processo de importância biológica capaz de realizar essa conversão. Todos os organismos, incluindo os produtores, aproveitam a energia armazenada nos carboidratos para impulsionar os processos celulares, liberando CO2 para a atmosfera e água para a célula por meio da respiração celular. Além disso, grande fração dos recursos energéticos do planeta, produzidos tanto no presente (biomassa) como em tempos remotos (combustível fóssil), é resultante da atividade fotossintética.
-
-
-","
-
-As informações sobre obtenção e transformação dos recursos naturais por meio dos processos vitais de fotossíntese e respiração, descritas no texto, permitem concluir que
-
-
-",o CO2 e a água são moléculas de alto teor energético.,os carboidratos convertem energia solar em energia química.,"a vida na Terra depende, em última análise, da energia proveniente do Sol.",o processo respiratório é responsável pela retirada de carbono da atmosfera.,"a produção de biomassa e de combustível fóssil, por si, é responsável pelo aumento de CO2 atmosférico.",C
-6,"
-
-
-Um novo método para produzir insulina artificial que utiliza tecnologia de DNA recombinante foi desenvolvido por pesquisadores do Departamento de Biologia Celular da Universidade de Brasília (UnB) em parceria com a iniciativa privada. Os pesquisadores modificaram geneticamente a bactéria Escherichia coli para torná-la capaz de sintetizar o hormônio. O processo permitiu fabricar insulina em maior quantidade e em apenas 30 dias, um terço do tempo necessário para obtê-la pelo método tradicional, que consiste na extração do hormônio a partir do pâncreas de animais abatidos. 
-
-Ciência Hoje, 24 abr. 2001. Disponível em: http://cienciahoje.uol.com.br (adaptado).
-
-
-
-","
-
-A produção de insulina pela técnica do DNA recombinante tem, como consequência,
-
-
-",o aperfeiçoamento do processo de extração de insulina a partir do pâncreas suíno.,a seleção de microrganismos resistentes a antibióticos.,o progresso na técnica da síntese química de hormônios.,impacto favorável na saúde de indivíduos diabéticos.,a criação de animais transgênicos. ,D
-7,"
+",80 m.,430 m.,800 m.,1.600 m.,6.400 m.,E,
+6,5,"
 
 Na linha de uma tradição antiga, o astrônomo grego Ptolomeu (100-170 d.C.) afirmou a tese do geocentrismo, segundo a qual a Terra seria o centro do universo, sendo que o Sol, a Lua e os planetas girariam em seu redor em órbitas circulares. A teoria de Ptolomeu resolvia de modo razoável os problemas astronômicos da sua época. Vários séculos mais tarde, o clérigo e astrônomo polonês Nicolau Copérnico (1473-1543), ao encontrar inexatidões na teoria de Ptolomeu, formulou a teoria do heliocentrismo, segundo a qual o Sol deveria ser considerado o centro do universo, com a Terra, a Lua e os planetas girando circularmente em torno dele. Por fim, o astrônomo e matemático alemão Johannes Kepler (1571- 1630), depois de estudar o planeta Marte por cerca de trinta anos, verificou que a sua órbita é elíptica. Esse resultado generalizou-se para os demais planetas. 
 
@@ -116,8 +105,90 @@ Na linha de uma tradição antiga, o astrônomo grego Ptolomeu (100-170 d.C.) af
 A respeito dos estudiosos citados no texto, é correto afirmar que
 
 
-","Ptolomeu apresentou as ideias mais valiosas, por serem mais antigas e tradicionais.",Copérnico desenvolveu a teoria do heliocentrismo inspirado no contexto político do Rei Sol.,Copérnico viveu em uma época em que a pesquisa científica era livre e amplamente incentivada pelas autoridades.,Kepler estudou o planeta Marte para atender às necessidades de expansão econômica e científica da Alemanha.,"Kepler apresentou uma teoria científica que, graças aos métodos aplicados, pôde ser testada e generalizada.",E
-8,"
+","Ptolomeu apresentou as ideias mais valiosas, por serem mais antigas e tradicionais.",Copérnico desenvolveu a teoria do heliocentrismo inspirado no contexto político do Rei Sol.,Copérnico viveu em uma época em que a pesquisa científica era livre e amplamente incentivada pelas autoridades.,Kepler estudou o planeta Marte para atender às necessidades de expansão econômica e científica da Alemanha.,"Kepler apresentou uma teoria científica que, graças aos métodos aplicados, pôde ser testada e generalizada.",E,
+7,14,"
+
+
+
+
+
+
+
+","
+
+Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustíveis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo?
+
+
+",Aumentar a quantidade de combustível para queima na usina de força.,"Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.",Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.,Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.,Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias.,E,enem-data/enem-2009/14-images/context_img_0.png
+8,10,"
+
+Para que todos os órgãos do corpo humano funcionem em boas condições, é necessário que a temperatura do corpo fique sempre entre 36ºC e 37ºC. Para manter-se dentro dessa faixa, em dias de muito calor ou durante intensos exercícios físicos, uma série de mecanismos fisiológicos é acionada.
+
+
+","
+
+Pode-se citar como o principal responsável pela manutenção da temperatura corporal humana o sistema
+
+
+","digestório, pois produz enzimas que atuam na quebra de alimentos calóricos.","imunológico, pois suas células agem no sangue, diminuindo a condução do calor.","nervoso, pois promove a sudorese, que permite perda de calor por meio da evaporação da água.","reprodutor, pois secreta hormônios que alteram a temperatura, principalmente durante a menopausa.","endócrino, pois fabrica anticorpos que, por sua vez, atuam na variação do diâmetro dos vasos periféricos.",C,
+9,19,"
+
+
+
+
+
+
+
+
+A escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m²) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência. 
+
+
+
+
+
+
+
+
+
+","
+
+Considerando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em watts, será de 
+
+
+",4.070.,4.270.,4.320.,4.390.,4.470.,D,"enem-data/enem-2009/19-images/context_img_0.png,enem-data/enem-2009/19-images/context_img_1.png"
+10,16,"
+
+A figura seguinte representa um modelo de transmissão da informação genética nos sistemas biológicos. No fim do processo, que inclui a replicação, a transcrição e a tradução, há três formas proteicas diferentes denominadas a, b e c.
+
+
+
+
+
+
+
+
+
+","
+
+Depreende-se do modelo que
+
+
+",a única molécula que participa da produção de proteínas é o DNA.,"o fluxo de informação genética, nos sistemas biológicos, é unidirecional.",as fontes de informação ativas durante o processo de transcrição são as proteínas.,é possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição.,a molécula de DNA possui forma circular e as demais moléculas possuem forma de fita simples linearizadas.,D,enem-data/enem-2009/16-images/context_img_0.png
+11,20,"
+
+
+
+
+
+
+
+","
+
+Se fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capacidade de geração da usina? 
+
+
+",Reduzir a quantidade de combustível fornecido à usina para ser queimado.,Reduzir o volume de água do lago que circula no condensador de vapor.,Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira.,Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.,Usar o calor liberado com os gases pela chaminé para mover um outro gerador.,E,enem-data/enem-2009/20-images/context_img_0.png
+12,27,"
 
 
 O processo de industrialização tem gerado sérios problemas de ordem ambiental, econômica e social, entre os quais se pode citar a chuva ácida. Os ácidos usualmente presentes em maiores proporções na água da chuva são o H2CO3, formado pela reação do CO2 atmosférico com a água, o HNO3 , o HNO2 , o H2SO4 e o H2SO3 . Esses quatro últimos são formados principalmente a partir da reação da água com os óxidos de nitrogênio e de enxofre gerados pela queima de combustíveis fósseis.
@@ -129,8 +200,8 @@ O processo de industrialização tem gerado sérios problemas de ordem ambien
 A formação de chuva mais ou menos ácida depende não só da concentração do ácido formado, como também do tipo de ácido. Essa pode ser uma informação útil na elaboração de estratégias para minimizar esse problema ambiental. Se consideradas concentrações idênticas, quais dos ácidos citados no texto conferem maior acidez às águas das chuvas?
 
 
-",HNO3 e HNO2.,H2SO4 e H2SO3.,H2SO3 e HNO2.,H2SO4 e HNO3.,H2CO3 e H2SO3.,D
-9,"
+",HNO3 e HNO2.,H2SO4 e H2SO3.,H2SO3 e HNO2.,H2SO4 e HNO3.,H2CO3 e H2SO3.,D,
+13,31,"
 
 É possível, com 1 litro de gasolina, usando todo o calor produzido por sua combustão direta, aquecer 200 litros de água de 20 °C a 55 °C. Pode-se efetuar esse mesmo aquecimento por um gerador de eletricidade, que consome 1 litro de gasolina por hora e fornece 110 V a um resistor de 11 Ω, imerso na água, durante um certo intervalo de tempo. Todo o calor liberado pelo resistor é transferido à água.
 
@@ -140,82 +211,106 @@ A formação de chuva mais ou menos ácida depende não só da concentraç�
 Considerando que o calor específico da água é igual a 4,19 J g-1 °C-1, aproximadamente qual a quantidade de gasolina consumida para o aquecimento de água obtido pelo gerador, quando comparado ao obtido a partir da combustão? 
 
 
-",A quantidade de gasolina consumida é igual para os dois casos.,A quantidade de gasolina consumida pelo gerador é duas vezes maior que a consumida na combustão.,A quantidade de gasolina consumida pelo gerador é duas vezes menor que a consumida na combustão.,A quantidade de gasolina consumida pelo gerador é sete vezes maior que a consumida na combustão.,A quantidade de gasolina consumida pelo gerador é sete vezes menor que a consumida na combustão.,D
-10,"
-
-O progresso da tecnologia introduziu diversos artefatos geradores de campos eletromagnéticos. Uma das mais empregadas invenções nessa área são os telefones celulares e smartphones. As tecnologias de transmissão de celular atualmente em uso no Brasil contemplam dois sistemas. O primeiro deles é operado entre as frequências de 800 MHz e 900 MHz e constitui os chamados sistemas TDMA/CDMA. Já a tecnologia GSM, ocupa a frequência de 1.800 MHz.
+",A quantidade de gasolina consumida é igual para os dois casos.,A quantidade de gasolina consumida pelo gerador é duas vezes maior que a consumida na combustão.,A quantidade de gasolina consumida pelo gerador é duas vezes menor que a consumida na combustão.,A quantidade de gasolina consumida pelo gerador é sete vezes maior que a consumida na combustão.,A quantidade de gasolina consumida pelo gerador é sete vezes menor que a consumida na combustão.,D,
+14,15,"
 
 
-","
-
-Considerando que a intensidade de transmissão e o nível de recepção “celular” sejam os mesmos para as tecnologias de transmissão TDMA/CDMA ou GSM, se um engenheiro tiver de escolher entre as duas tecnologias para obter a mesma cobertura, levando em consideração apenas o número de antenas em uma região, ele deverá escolher:
 
 
-","a tecnologia GSM, pois é a que opera com ondas de maior comprimento de onda.","a tecnologia TDMA/CDMA, pois é a que apresenta Efeito Doppler mais pronunciado.","a tecnologia GSM, pois é a que utiliza ondas que se propagam com maior velocidade.","qualquer uma das duas, pois as diferenças nas frequências são compensadas pelas diferenças nos comprimentos de onda.","qualquer uma das duas, pois nesse caso as intensidades decaem igualmente da mesma forma, independentemente da frequência.",E
-11,"
-
-Sabe-se que o olho humano não consegue diferenciar componentes de cores e vê apenas a cor resultante, diferentemente do ouvido, que consegue distinguir, por exemplo, dois instrumentos diferentes tocados simultaneamente. Os raios luminosos do espectro visível, que têm comprimento de onda entre 380 nm e 780 nm, incidem na córnea, passam pelo cristalino e são projetados na retina. Na retina, encontram-se dois tipos de fotorreceptores, os cones e os bastonetes, que convertem a cor e a intensidade da luz recebida em impulsos nervosos. Os cones distinguem as cores primárias: vermelho, verde e azul, e os bastonetes diferenciam apenas níveis de intensidade, sem separar comprimentos de onda. Os impulsos nervosos produzidos são enviados ao cérebro por meio do nervo óptico, para que se dê a percepção da imagem.
-
-
-","
-
-Um indivíduo que, por alguma deficiência, não consegue captar as informações transmitidas pelos cones, perceberá um objeto branco, iluminado apenas por luz vermelha, como
-
-
-","um objeto indefinido, pois as células que captam a luz estão inativas.","um objeto rosa, pois haverá mistura da luz vermelha com o branco do objeto.","um objeto verde, pois o olho não consegue diferenciar componentes de cores.","um objeto cinza, pois os bastonetes captam luminosidade, porém não diferenciam cor.","um objeto vermelho, pois a retina capta a luz refletida pelo objeto, transformando-a em vermelho.",D
-12,"
-
-Durante uma ação de fiscalização em postos de combustíveis, foi encontrado um mecanismo inusitado para enganar o consumidor. Durante o inverno, o responsável por um posto de combustível compra álcool por R$ 0,50/litro, a uma temperatura de 5 °C. Para revender o líquido aos motoristas, instalou um mecanismo na bomba de combustível para aquecê-lo, para que atinja a temperatura de 35 °C, sendo o litro de álcool revendido a R$ 1,60. Diariamente o posto compra 20 mil litros de álcool a 5 ºC e os revende.
-
-
-","
-
-Com relação à situação hipotética descrita no texto e dado que o coeficiente de dilatação volumétrica do álcool é de 1×10-3 ºC-1, desprezando-se o custo da energia gasta no aquecimento do combustível, o ganho financeiro que o dono do posto teria obtido devido ao aquecimento do álcool após uma semana de vendas estaria entre
-
-
-","R$ 500,00 e R$ 1.000,00.","R$ 1.050,00 e R$ 1.250,00.","R$ 4.000,00 e R$ 5.000,00.","R$ 6.000,00 e R$ 6.900,00.","R$ 7.000,00 e R$ 7.950,00.",D
-13,"
-
-Uma vítima de acidente de carro foi encontrada carbonizada devido a uma explosão. Indícios, como certos adereços de metal usados pela vítima, sugerem que a mesma seja filha de um determinado casal. Uma equipe policial de perícia teve acesso ao material biológico carbonizado da vítima, reduzido, praticamente, a fragmentos de ossos. Sabe-se que é possível obter DNA em condições para análise genética de parte do tecido interno de ossos. Os peritos necessitam escolher, entre cromossomos autossômicos, cromossomos sexuais (X e Y) ou DNAmt (DNA mitocondrial), a melhor opção para identificação do parentesco da vítima com o referido casal. Sabe-se que, entre outros aspectos, o número de cópias de um mesmo cromossomo por célula maximiza a chance de se obter moléculas não degradadas pelo calor da explosão.
-
-
-","
-
-Com base nessas informações e tendo em vista os diferentes padrões de herança de cada fonte de DNA citada, a melhor opção para a perícia seria a utilização
-
-
-","do DNAmt, transmitido ao longo da linhagem materna, pois, em cada célula humana, há várias cópias dessa molécula.","do cromossomo X, pois a vítima herdou duas cópias desse cromossomo, estando assim em número superior aos demais.","do cromossomo autossômico, pois esse cromossomo apresenta maior quantidade de material genético quando comparado aos nucleares, como, por exemplo, o DNAmt.","do cromossomo Y, pois, em condições normais, este é transmitido integralmente do pai para toda a prole e está presente em duas cópias em células de indivíduos do sexo feminino.","de marcadores genéticos em cromossomos autossômicos, pois estes, além de serem transmitidos pelo pai e pela mãe, estão presentes em 44 cópias por célula, e os demais, em apenas uma.",A
-14,"
-
-
-Na manipulação em escala nanométrica, os átomos revelam características peculiares, podendo apresentar tolerância à temperatura, reatividade química, condutividade elétrica, ou mesmo exibir força de intensidade extraordinária. Essas características explicam o interesse industrial pelos nanomateriais que estão sendo muito pesquisados em diversas áreas, desde o desenvolvimento de cosméticos, tintas e tecidos, até o de terapias contra o câncer.
-
-LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: http://www.comciencia.br (adaptado).
 
 
 
 ","
 
-A utilização de nanopartículas na indústria e na medicina requer estudos mais detalhados, pois
+Entre as impurezas metálicas que constam na série apresentada, as que se sedimentam abaixo do ânodo de cobre são
 
 
-","as partículas, quanto menores, mais potentes e radiativas se tornam.","as partículas podem ser manipuladas, mas não caracterizadas com a atual tecnologia.",as propriedades biológicas das partículas somente podem ser testadas em microrganismos.,"as partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.","o organismo humano apresenta imunidade contra partículas tão pequenas, já que apresentam a mesma dimensão das bactérias (um bilionésimo de metro).",D
-15,"
+","Au, Pt, Ag, Zn, Ni e Pb.","Au, Pt e Ag.","Zn, Ni e Pb.",Au e Zn.,Ag e Pb.,B,enem-data/enem-2009/15-images/context_img_0.png
+15,17,"
 
 
-O cultivo de camarões de água salgada vem se desenvolvendo muito nos últimos anos na região Nordeste do Brasil e, em algumas localidades, passou a ser a principal atividade econômica. Uma das grandes preocupações dos impactos negativos dessa atividade está relacionada à descarga, sem nenhum tipo de tratamento, dos efluentes dos viveiros diretamente no ambiente marinho, em estuários ou em manguezais. Esses efluentes possuem matéria orgânica particulada e dissolvida, amônia, nitrito, nitrato, fosfatos, partículas de sólidos em suspensão e outras substâncias que podem ser consideradas contaminantes potenciais.
 
-CASTRO, C. B.; ARAGÃO, J. S.; COSTA-LOTUFO, L. V. Monitoramento da toxicidade de efluentes de uma fazenda de cultivo de camarão marinho. Anais do IX Congresso Brasileiro de Ecotoxicologia, 2006 (adaptado).
+
 
 
 
 ","
 
-Suponha que tenha sido construída uma fazenda de carcinicultura próximo a um manguezal. Entre as perturbações ambientais causadas pela fazenda, espera-se que
+Considere-se que um auditório possua capacidade para 40 pessoas, cada uma produzindo uma quantidade média
+de calor, e que praticamente todo o calor que flui para fora do auditório o faz por meio dos aparelhos de ar condicionado. Nessa situação, entre as informações listadas, aquelas essenciais para se determinar quantos e/ou quais aparelhos de ar-condicionado são precisos para manter, com lotação máxima, a temperatura interna do auditório agradável e constante, bem como determinar a espessura da fiação do circuito elétrico para a ligação desses aparelhos, são 
 
 
-",a atividade microbiana se torne responsável pela reciclagem do fósforo orgânico excedente no ambiente marinho.,a relativa instabilidade das condições marinhas torne as alterações de fatores físico-químicos pouco críticas à vida no mar.,"a amônia excedente seja convertida em nitrito, por meio do processo de nitrificação, e em nitrato, formado como produto intermediário desse processo.",os efluentes promovam o crescimento excessivo de plantas aquáticas devido à alta diversidade de espécies vegetais permanentes no manguezal.,"o impedimento da penetração da luz pelas partículas em suspensão venha a comprometer a produtividade primária do ambiente marinho, que resulta da atividade metabólica do fitoplâncton.",E
-16,"
+",vazão de ar e potência.,vazão de ar e corrente elétrica - ciclo frio.,eficiência energética e potência.,capacidade de refrigeração e frequência.,capacidade de refrigeração e corrente elétrica - ciclo frio.,E,enem-data/enem-2009/17-images/context_img_0.png
+16,3,"
+
+Analise a figura.
+
+
+
+
+
+
+
+
+
+","
+
+Supondo que seja necessário dar um título para essa figura, a alternativa que melhor traduziria o processo representado seria:
+
+
+",Concentração média de álcool no sangue ao longo do dia.,Variação da frequência da ingestão de álcool ao longo das horas.,Concentração mínima de álcool no sangue a partir de diferentes dosagens.,Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool.,Representação gráfica da distribuição de frequência de álcool em determinada hora do dia.,D,enem-data/enem-2009/3-images/context_img_0.png
+17,21,"
+
+Um medicamento, após ser ingerido, atinge a corrente sanguínea e espalha-se pelo organismo, mas, como suas moléculas “não sabem” onde é que está o problema, podem atuar em locais diferentes do local “alvo” e desencadear efeitos além daqueles desejados. Não seria perfeito se as moléculas dos medicamentos soubessem exatamente onde está o problema e fossem apenas até aquele local exercer sua ação? A técnica conhecida como iontoforese, indolor e não invasiva, promete isso. Como mostram as figuras, essa nova técnica baseia-se na aplicação de uma corrente elétrica de baixa intensidade sobre a pele do paciente, permitindo que fármacos permeiem membranas biológicas e alcancem a corrente sanguínea, sem passar pelo estômago. Muitos pacientes relatam apenas um formigamento no local de aplicação. O objetivo da corrente elétrica é formar poros que permitam a passagem do fármaco de interesse. A corrente elétrica é distribuída por eletrodos, positivo e negativo, por meio de uma solução aplicada sobre a pele. Se a molécula do medicamento tiver carga elétrica positiva ou negativa, ao entrar em contato com o eletrodo de carga de mesmo sinal, ela será repelida e forçada a entrar na pele (eletrorrepulsão – A). Se for neutra, a molécula será forçada a entrar na pele juntamente com o fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose – B).
+
+
+
+
+
+
+
+
+
+","
+
+De acordo com as informações contidas no texto e nas figuras, o uso da iontoforese
+
+
+","provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio.","aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica.","inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio da pele.","diminui o efeito colateral dos medicamentos, se comparados com aqueles em que a ingestão se faz por via oral.","deve ser eficaz para medicamentos constituídos de moléculas polares e ineficaz, se essas forem apolares.",D,enem-data/enem-2009/21-images/context_img_0.png
+18,12,"
+
+
+
+
+
+
+
+
+
+Em solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico correspondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio:
+
+
+
+
+
+
+
+
+
+
+
+
+Uma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado para a direita.
+
+
+
+","
+
+Com base nas informações do texto, é correto concluir que os sabões atuam de maneira:
+
+
+",mais eficiente em pH básico.,mais eficiente em pH ácido.,mais eficiente em pH neutro.,eficiente em qualquer faixa de pH.,mais eficiente em pH ácido ou neutro.,A,"enem-data/enem-2009/12-images/context_img_0.png,enem-data/enem-2009/12-images/context_img_1.png"
+19,34,"
 
 
 O lixo orgânico de casa – constituído de restos de verduras, frutas, legumes, cascas de ovo, aparas de grama, entre outros –, se for depositado nos lixões, pode contribuir para o aparecimento de animais e de odores indesejáveis. Entretanto, sua reciclagem gera um excelente adubo orgânico, que pode ser usado no cultivo de hortaliças, frutíferas e plantas ornamentais. A produção do adubo ou composto orgânico se dá por meio da compostagem, um processo simples que requer alguns cuidados especiais. O material que é acumulado diariamente em recipientes próprios deve ser revirado com auxílio de ferramentas adequadas, semanalmente, de forma a homogeneizá-lo. É preciso também umedecê-lo periodicamente. O material de restos de capina pode ser intercalado entre uma camada e outra de lixo da cozinha. Por meio desse método, o adubo orgânico estará pronto em aproximadamente dois a três meses.
@@ -229,8 +324,239 @@ Como usar o lixo orgânico em casa? Ciência Hoje, v. 42, jun. 2008 (adaptado)
 Suponha que uma pessoa, desejosa de fazer seu próprio adubo orgânico, tenha seguido o procedimento descrito no texto exceto no que se refere ao umedecimento periódico do composto. Nessa situação,
 
 
-",o processo de compostagem iria produzir intenso mau cheiro.,o adubo formado seria pobre em matéria orgânica que não foi transformada em composto.,a falta de água no composto vai impedir que microrganismos decomponham a matéria orgânica.,"a falta de água no composto iria elevar a temperatura da mistura, o que resultaria na perda de nutrientes essenciais.",apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em adubo.,C
-17,"
+",o processo de compostagem iria produzir intenso mau cheiro.,o adubo formado seria pobre em matéria orgânica que não foi transformada em composto.,a falta de água no composto vai impedir que microrganismos decomponham a matéria orgânica.,"a falta de água no composto iria elevar a temperatura da mistura, o que resultaria na perda de nutrientes essenciais.",apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em adubo.,C,
+20,25,"
+
+
+
+
+
+
+
+","
+
+Considerando o texto e as leis de Kepler, pode-se afirmar que a frase dita pelo astronauta 
+
+
+","se justifica porque o tamanho do telescópio determina a sua massa, enquanto seu pequeno peso decorre da falta de ação da aceleração da gravidade.","se justifica ao verificar que a inércia do telescópio é grande comparada à dele próprio, e que o peso do telescópio é pequeno porque a atração gravitacional criada por sua massa era pequena.","não se justifica, porque a avaliação da massa e do peso de objetos em órbita tem por base as leis de Kepler, que não se aplicam a satélites artificiais.","não se justifica, porque a força-peso é a força exercida pela gravidade terrestre, neste caso, sobre o telescópio e é a responsável por manter o próprio telescópio em órbita.","não se justifica, pois a ação da força-peso implica a ação de uma força de reação contrária, que não existe naquele ambiente. A massa do telescópio poderia ser avaliada simplesmente pelo seu volume.",D,enem-data/enem-2009/25-images/context_img_0.png
+21,32,"
+
+O progresso da tecnologia introduziu diversos artefatos geradores de campos eletromagnéticos. Uma das mais empregadas invenções nessa área são os telefones celulares e smartphones. As tecnologias de transmissão de celular atualmente em uso no Brasil contemplam dois sistemas. O primeiro deles é operado entre as frequências de 800 MHz e 900 MHz e constitui os chamados sistemas TDMA/CDMA. Já a tecnologia GSM, ocupa a frequência de 1.800 MHz.
+
+
+","
+
+Considerando que a intensidade de transmissão e o nível de recepção “celular” sejam os mesmos para as tecnologias de transmissão TDMA/CDMA ou GSM, se um engenheiro tiver de escolher entre as duas tecnologias para obter a mesma cobertura, levando em consideração apenas o número de antenas em uma região, ele deverá escolher:
+
+
+","a tecnologia GSM, pois é a que opera com ondas de maior comprimento de onda.","a tecnologia TDMA/CDMA, pois é a que apresenta Efeito Doppler mais pronunciado.","a tecnologia GSM, pois é a que utiliza ondas que se propagam com maior velocidade.","qualquer uma das duas, pois as diferenças nas frequências são compensadas pelas diferenças nos comprimentos de onda.","qualquer uma das duas, pois nesse caso as intensidades decaem igualmente da mesma forma, independentemente da frequência.",E,
+22,26,"
+
+Os planos de controle e erradicação de doenças em animais envolvem ações de profilaxia e dependem em grande medida da correta utilização e interpretação de testes diagnósticos. O quadro mostra um exemplo hipotético de aplicação de um teste diagnóstico.
+
+
+
+
+
+
+
+
+
+","
+
+Considerando que, no teste diagnóstico, a sensibilidade é a probabilidade de um animal infectado ser classificado como positivo e a especificidade é a probabilidade de um animal não infectado ter resultado negativo, a interpretação do quadro permite inferir que
+
+
+",a especificidade aponta um número de 5 falsos positivos.,"o teste, a cada 100 indivíduos infectados, classificaria 90 como positivos.",o teste classificaria 96 como positivos em cada 100 indivíduos não infectados.,ações de profilaxia são medidas adotadas para o tratamento de falsos positivos.,testes de alta sensibilidade resultam em maior número de animais falsos negativos comparado a um teste de baixa sensibilidade.,B,enem-data/enem-2009/26-images/context_img_0.png
+23,28,"
+
+Uma pesquisadora deseja reflorestar uma área de mata ciliar quase que totalmente desmatada. Essa formação vegetal é um tipo de floresta muito comum nas margens de rios dos cerrados no Brasil central e, em seu clímax, possui vegetação arbórea perene e apresenta dossel fechado, com pouca incidência luminosa no solo e nas plântulas. Sabe-se que a incidência de luz, a disponibilidade de nutrientes e a umidade do solo são os principais fatores do meio ambiente físico que influenciam no desenvolvimento da planta. Para testar unicamente os efeitos da variação de luz, a pesquisadora analisou, em casas de vegetação com condições controladas, o desenvolvimento de plantas de 10 espécies nativas da região desmatada sob quatro condições de luminosidade: uma sob sol pleno e as demais em diferentes níveis de sombreamento. Para cada tratamento experimental, a pesquisadora relatou se o desenvolvimento da planta foi bom, razoável ou ruim, de acordo com critérios específicos. Os resultados obtidos foram os seguintes:
+
+
+
+
+
+
+
+
+
+","
+
+Para o reflorestamento da região desmatada,
+
+
+","a espécie 8 é mais indicada que a 1, uma vez que aquela possui melhor adaptação a regiões com maior incidência de luz.","recomenda-se a utilização de espécies pioneiras, isto é, aquelas que suportam alta incidência de luz, como as espécies 2, 3 e 5.","sugere-se o uso de espécies exóticas, pois somente essas podem suportar a alta incidência luminosa característica de regiões desmatadas.","espécies de comunidade clímax, como as 4 e 7, são as mais indicadas, uma vez que possuem boa capacidade de aclimatação a diferentes ambientes.","é recomendado o uso de espécies com melhor desenvolvimento à sombra, como as plantas das espécies 4, 6, 7, 9 e 10, pois essa floresta, mesmo no estágio de degradação referido, possui dossel fechado, o que impede a entrada de luz.",B,enem-data/enem-2009/28-images/context_img_0.png
+24,37,"
+
+Sabe-se que o olho humano não consegue diferenciar componentes de cores e vê apenas a cor resultante, diferentemente do ouvido, que consegue distinguir, por exemplo, dois instrumentos diferentes tocados simultaneamente. Os raios luminosos do espectro visível, que têm comprimento de onda entre 380 nm e 780 nm, incidem na córnea, passam pelo cristalino e são projetados na retina. Na retina, encontram-se dois tipos de fotorreceptores, os cones e os bastonetes, que convertem a cor e a intensidade da luz recebida em impulsos nervosos. Os cones distinguem as cores primárias: vermelho, verde e azul, e os bastonetes diferenciam apenas níveis de intensidade, sem separar comprimentos de onda. Os impulsos nervosos produzidos são enviados ao cérebro por meio do nervo óptico, para que se dê a percepção da imagem.
+
+
+","
+
+Um indivíduo que, por alguma deficiência, não consegue captar as informações transmitidas pelos cones, perceberá um objeto branco, iluminado apenas por luz vermelha, como
+
+
+","um objeto indefinido, pois as células que captam a luz estão inativas.","um objeto rosa, pois haverá mistura da luz vermelha com o branco do objeto.","um objeto verde, pois o olho não consegue diferenciar componentes de cores.","um objeto cinza, pois os bastonetes captam luminosidade, porém não diferenciam cor.","um objeto vermelho, pois a retina capta a luz refletida pelo objeto, transformando-a em vermelho.",D,
+25,38,"
+
+Durante uma ação de fiscalização em postos de combustíveis, foi encontrado um mecanismo inusitado para enganar o consumidor. Durante o inverno, o responsável por um posto de combustível compra álcool por R$ 0,50/litro, a uma temperatura de 5 °C. Para revender o líquido aos motoristas, instalou um mecanismo na bomba de combustível para aquecê-lo, para que atinja a temperatura de 35 °C, sendo o litro de álcool revendido a R$ 1,60. Diariamente o posto compra 20 mil litros de álcool a 5 ºC e os revende.
+
+
+","
+
+Com relação à situação hipotética descrita no texto e dado que o coeficiente de dilatação volumétrica do álcool é de 1×10-3 ºC-1, desprezando-se o custo da energia gasta no aquecimento do combustível, o ganho financeiro que o dono do posto teria obtido devido ao aquecimento do álcool após uma semana de vendas estaria entre
+
+
+","R$ 500,00 e R$ 1.000,00.","R$ 1.050,00 e R$ 1.250,00.","R$ 4.000,00 e R$ 5.000,00.","R$ 6.000,00 e R$ 6.900,00.","R$ 7.000,00 e R$ 7.950,00.",D,
+26,41,"
+
+
+Na manipulação em escala nanométrica, os átomos revelam características peculiares, podendo apresentar tolerância à temperatura, reatividade química, condutividade elétrica, ou mesmo exibir força de intensidade extraordinária. Essas características explicam o interesse industrial pelos nanomateriais que estão sendo muito pesquisados em diversas áreas, desde o desenvolvimento de cosméticos, tintas e tecidos, até o de terapias contra o câncer.
+
+LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: http://www.comciencia.br (adaptado).
+
+
+
+","
+
+A utilização de nanopartículas na indústria e na medicina requer estudos mais detalhados, pois
+
+
+","as partículas, quanto menores, mais potentes e radiativas se tornam.","as partículas podem ser manipuladas, mas não caracterizadas com a atual tecnologia.",as propriedades biológicas das partículas somente podem ser testadas em microrganismos.,"as partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.","o organismo humano apresenta imunidade contra partículas tão pequenas, já que apresentam a mesma dimensão das bactérias (um bilionésimo de metro).",D,
+27,39,"
+
+
+A invenção da geladeira proporcionou uma revolução no aproveitamento dos alimentos, ao permitir que fossem armazenados e transportados por longos períodos. A figura apresentada ilustra o processo cíclico de funcionamento de uma geladeira, em que um gás no interior de uma tubulação é forçado a circular entre o congelador e a parte externa da geladeira. É por meio dos processos de compressão, que ocorre na parte externa, e de expansão, que ocorre na parte interna, que o gás proporciona a troca de calor entre o interior e o exterior da geladeira.
+
+Disponível em: http://home.howstuffworks.com. Acesso em: 19 out. 2008 (adaptado).
+
+
+
+
+
+
+
+
+
+
+","
+
+Nos processos de transformação de energia envolvidos no funcionamento da geladeira,
+
+
+",a expansão do gás é um processo que cede a energia necessária ao resfriamento da parte interna da geladeira.,"o calor flui de forma não-espontânea da parte mais fria, no interior, para a mais quente, no exterior da geladeira.",a quantidade de calor cedida ao meio externo é igual ao calor retirado da geladeira.,a eficiência é tanto maior quanto menos isolado termicamente do ambiente externo for o seu compartimento interno.,"a energia retirada do interior pode ser devolvida à geladeira abrindo-se a sua porta, o que reduz seu consumo de energia.",B,enem-data/enem-2009/39-images/context_img_0.png
+28,33,"
+
+Os ratos Peromyscus polionotus encontram-se distribuídos em ampla região na América do Norte. A pelagem de ratos dessa espécie varia do marrom claro até o escuro, sendo que os ratos de uma mesma população têm coloração muito semelhante. Em geral, a coloração da pelagem também é muito parecida à cor do solo da região em que se encontram, que também apresenta a mesma variação de cor, distribuída ao longo de um gradiente sul-norte. Na figura, encontram-se representadas sete diferentes populações de P. polionotus. Cada população é representada pela pelagem do rato, por uma amostra de solo e por sua posição geográfica no mapa.
+
+
+
+
+
+
+
+
+
+","
+
+O mecanismo evolutivo envolvido na associação entre cores de pelagem e de substrato é
+
+
+","a alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.","o fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.","a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.","a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.","a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes.",C,enem-data/enem-2009/33-images/context_img_0.png
+29,35,"
+
+
+
+
+
+
+
+","
+
+Considerando que a distância entre a borda inferior e a borda superior da superfície refletora tenha 6 m de largura e que focaliza no receptor os 800 watts/m² de radiação provenientes do Sol, e que o calor específico da água é 1 cal g-1 ºC-1 = 4.200 J kg-1 ºC-1, então o comprimento linear do refletor parabólico necessário para elevar a temperatura de 1 m³ (equivalente a 1 t) de água de 20 °C para 100 °C, em uma hora, estará entre
+
+
+",15 m e 21 m.,22 m e 30 m.,105 m e 125 m.,680 m e 710 m.,6.700 m e 7.150 m.,A,enem-data/enem-2009/35-images/context_img_0.png
+30,30,"
+
+
+
+
+
+
+
+","
+
+Dentre os fenômenos decorrentes da interação entre a radiação e os átomos do indivíduo que permitem a obtenção desta imagem inclui-se a
+
+
+","absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.",maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.,maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.,maior refração ao atravessar os átomos de carbono que os átomos de cálcio.,maior ionização de moléculas de água que de átomos de carbono.,B,enem-data/enem-2009/30-images/context_img_0.png
+31,40,"
+
+Uma vítima de acidente de carro foi encontrada carbonizada devido a uma explosão. Indícios, como certos adereços de metal usados pela vítima, sugerem que a mesma seja filha de um determinado casal. Uma equipe policial de perícia teve acesso ao material biológico carbonizado da vítima, reduzido, praticamente, a fragmentos de ossos. Sabe-se que é possível obter DNA em condições para análise genética de parte do tecido interno de ossos. Os peritos necessitam escolher, entre cromossomos autossômicos, cromossomos sexuais (X e Y) ou DNAmt (DNA mitocondrial), a melhor opção para identificação do parentesco da vítima com o referido casal. Sabe-se que, entre outros aspectos, o número de cópias de um mesmo cromossomo por célula maximiza a chance de se obter moléculas não degradadas pelo calor da explosão.
+
+
+","
+
+Com base nessas informações e tendo em vista os diferentes padrões de herança de cada fonte de DNA citada, a melhor opção para a perícia seria a utilização
+
+
+","do DNAmt, transmitido ao longo da linhagem materna, pois, em cada célula humana, há várias cópias dessa molécula.","do cromossomo X, pois a vítima herdou duas cópias desse cromossomo, estando assim em número superior aos demais.","do cromossomo autossômico, pois esse cromossomo apresenta maior quantidade de material genético quando comparado aos nucleares, como, por exemplo, o DNAmt.","do cromossomo Y, pois, em condições normais, este é transmitido integralmente do pai para toda a prole e está presente em duas cópias em células de indivíduos do sexo feminino.","de marcadores genéticos em cromossomos autossômicos, pois estes, além de serem transmitidos pelo pai e pela mãe, estão presentes em 44 cópias por célula, e os demais, em apenas uma.",A,
+32,42,"
+
+
+O cultivo de camarões de água salgada vem se desenvolvendo muito nos últimos anos na região Nordeste do Brasil e, em algumas localidades, passou a ser a principal atividade econômica. Uma das grandes preocupações dos impactos negativos dessa atividade está relacionada à descarga, sem nenhum tipo de tratamento, dos efluentes dos viveiros diretamente no ambiente marinho, em estuários ou em manguezais. Esses efluentes possuem matéria orgânica particulada e dissolvida, amônia, nitrito, nitrato, fosfatos, partículas de sólidos em suspensão e outras substâncias que podem ser consideradas contaminantes potenciais.
+
+CASTRO, C. B.; ARAGÃO, J. S.; COSTA-LOTUFO, L. V. Monitoramento da toxicidade de efluentes de uma fazenda de cultivo de camarão marinho. Anais do IX Congresso Brasileiro de Ecotoxicologia, 2006 (adaptado).
+
+
+
+","
+
+Suponha que tenha sido construída uma fazenda de carcinicultura próximo a um manguezal. Entre as perturbações ambientais causadas pela fazenda, espera-se que
+
+
+",a atividade microbiana se torne responsável pela reciclagem do fósforo orgânico excedente no ambiente marinho.,a relativa instabilidade das condições marinhas torne as alterações de fatores físico-químicos pouco críticas à vida no mar.,"a amônia excedente seja convertida em nitrito, por meio do processo de nitrificação, e em nitrato, formado como produto intermediário desse processo.",os efluentes promovam o crescimento excessivo de plantas aquáticas devido à alta diversidade de espécies vegetais permanentes no manguezal.,"o impedimento da penetração da luz pelas partículas em suspensão venha a comprometer a produtividade primária do ambiente marinho, que resulta da atividade metabólica do fitoplâncton.",E,
+33,44,"
+
+
+
+
+
+
+
+","
+
+Nessa situação, quais são as três lâmpadas que acendem com o mesmo brilho por apresentarem igual valor de corrente fluindo nelas, sob as quais devem se posicionar os três atores? 
+
+
+","L1, L2 e L3.","L2, L3 e L4.","L2, L5 e L7.","L4, L5 e L6.","L4, L7 e L8.",B,enem-data/enem-2009/44-images/context_img_0.png
+34,43,"
+
+
+
+
+
+
+
+","
+
+À medida que aumenta a consciência sobre os impactos ambientais relacionados ao uso da energia, cresce a importância de se criar políticas de incentivo ao uso de combustíveis mais eficientes. Nesse sentido, considerando-se que o metano, o butano e o octano sejam representativos do gás natural, do gás liquefeito de petróleo (GLP) e da gasolina, respectivamente, então, a partir dos dados fornecidos, é possível concluir que, do ponto de vista da quantidade de calor obtido por mol de CO2 gerado, a ordem crescente desses três combustíveis é
+
+
+","gasolina, GLP e gás natural.","gás natural, gasolina e GLP.","gasolina, gás natural e GLP.","gás natural, GLP e gasolina.","GLP, gás natural e gasolina.",A,enem-data/enem-2009/43-images/context_img_0.png
+35,22,"
+
+Os seres vivos apresentam diferentes ciclos de vida, caracterizados pelas fases nas quais gametas são produzidos e pelos processos reprodutivos que resultam na geração de novos indivíduos.
+
+
+","
+
+Considerando-se um modelo simplificado padrão para geração de indivíduos viáveis, a alternativa que corresponde ao observado em seres humanos é:
+
+
+",enem-data/enem-2009/22-images/alt_img_0.png,enem-data/enem-2009/22-images/alt_img_1.png,enem-data/enem-2009/22-images/alt_img_2.png,enem-data/enem-2009/22-images/alt_img_3.png,enem-data/enem-2009/22-images/alt_img_4.png,C,
+36,45,"
 
 
 O álcool hidratado utilizado como combustível veicular é obtido por meio da destilação fracionada de soluções aquosas geradas a partir da fermentação de biomassa. Durante a destilação, o teor de etanol da mistura é aumentado, até o limite de 96% em massa.
@@ -242,4 +568,17 @@ O álcool hidratado utilizado como combustível veicular é obtido por meio d
 Considere que, em uma usina de produção de etanol, 800 kg de uma mistura etanol/água com concentração 20% em massa de etanol foram destilados, sendo obtidos 100 kg de álcool hidratado 96% em massa de etanol. A partir desses dados, é correto concluir que a destilação em questão gerou um resíduo com uma concentração de etanol em massa
 
 
-",de 0%.,"de 8,0%.","entre 8,4% e 8,6%.","entre 9,0% e 9,2%.",entre 13% e 14%.,D
+",de 0%.,"de 8,0%.","entre 8,4% e 8,6%.","entre 9,0% e 9,2%.",entre 13% e 14%.,D,
+37,36,"
+
+
+O uso de protetores solares em situações de grande exposição aos raios solares como, por exemplo, nas praias, é de grande importância para a saúde. As moléculas ativas de um protetor apresentam, usualmente, anéis aromáticos conjugados com grupos carbonila, pois esses sistemas são capazes de absorver a radiação ultravioleta mais nociva aos seres humanos. A conjugação é definida como a ocorrência de alternância entre ligações simples e duplas em uma molécula. Outra propriedade das moléculas em questão é apresentar, em uma de suas extremidades, uma parte apolar responsável por reduzir a solubilidade do composto em água, o que impede sua rápida remoção quando do contato com a água.
+
+
+
+","
+
+De acordo com as considerações do texto, qual das moléculas apresentadas a seguir é a mais adequada para funcionar como molécula ativa de protetores solares?
+
+
+",enem-data/enem-2009/36-images/alt_img_0.png,enem-data/enem-2009/36-images/alt_img_1.png,enem-data/enem-2009/36-images/alt_img_2.png,enem-data/enem-2009/36-images/alt_img_3.png,enem-data/enem-2009/36-images/alt_img_4.png,E,

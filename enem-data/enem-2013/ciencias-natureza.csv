@@ -1,5 +1,5 @@
-,context,question,A,B,C,D,E,answer
-0,"
+,number,context,question,A,B,C,D,E,answer,context-images
+0,55,"
 
 Em viagens de avião, é solicitado aos passageiros o desligamento de todos o aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.
 
@@ -9,8 +9,33 @@ Em viagens de avião, é solicitado aos passageiros o desligamento de todos o ap
 A propriedade das ondas emitidas que justifica o procedimento adotado é o fato de
 
 
-",terem fases opostas.,serem ambas audíveis.,terem intensidades inversas.,serem de mesma amplitude.,terem frequências próximas,E
-1,"
+",terem fases opostas.,serem ambas audíveis.,terem intensidades inversas.,serem de mesma amplitude.,terem frequências próximas,E,
+1,52,"
+
+Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a ser desinfectada. As equações das reações químicas envolvidas são:
+Cl2(g) + 2 H2O (l) ⇌ HClO (aq) + H3O+ (aq) + Cl− (aq)
+HClO (aq) + H2O (l) ⇌  H3O+(aq) + ClO−(aq)      pKa= − log Ka= 7,53
+A ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão com que o ácido hipocloroso se ioniza.
+
+
+","
+
+Para que a desinfecção seja mais efetiva, o pH da água a ser tratada deve estar mais próximo de
+
+
+",5,7,9,14,,B,
+2,63,"
+
+Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O2 pela respiração tende a igualar sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O2 e de CO2 próximo à superfície do solo onde elas caíram.
+
+
+","
+
+A concentração de O2 próximo ao solo, no local da queda, será
+
+
+","menor, pois haverá consumo de O2 durante a decomposição dessas árvores.","maior, pois haverá economia de O2 pela ausência das árvores mortas.","maior, pois haverá liberação de O2 durante a fotossíntese das árvores jovens.","igual, pois haverá consumo e produção de O2 pelas árvores maduras restantes.","menor, pois haverá redução de O2 pela falta da fotossíntese realizada pelas árvores mortas.",A,
+3,62,"
 
 
 Milhares de pessoas estavam morrendo de varíola humana no final do século XVIII. Em 1796, o médico Edward Jenner (1749-1823) inoculou em um menino de 8 anos o pus extraído de feridas de vacas contaminadas com o vírus da varíola bovina, que causa uma doença branda em humanos. O garoto contraiu uma infecção benigna e, dez dias depois, estava recuperado. Meses depois, Jenner inoculou, no mesmo menino, o pus varioloso humano, que causava muitas mortes. O menino não adoeceu.
@@ -24,8 +49,8 @@ Disponível em: www.bbc.co.uk. Acesso em: 5 dez. 2012 (adaptado).
 Considerando o resultado do experimento, qual a contribuição desse médico para a saúde humana?
 
 
-",A prevenção de diversas doenças infectocontagiosas em todo o mundo.,A compreensão de que vírus podem se multiplicar em matéria orgânica.,O tratamento para muitas enfermidades que acometem milhões de pessoas.,O estabelecimento da ética na utilização de crianças em modelos experimentais.,A explicação de que alguns vírus de animais podem ser transmitidos para os humanos.,A
-2,"
+",A prevenção de diversas doenças infectocontagiosas em todo o mundo.,A compreensão de que vírus podem se multiplicar em matéria orgânica.,O tratamento para muitas enfermidades que acometem milhões de pessoas.,O estabelecimento da ética na utilização de crianças em modelos experimentais.,A explicação de que alguns vírus de animais podem ser transmitidos para os humanos.,A,
+4,59,"
 
 
 O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas.
@@ -39,30 +64,8 @@ Disponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).
 Considerando-se o valor de 6 × 1023 mol–1 para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades?
 
 
-","7,5 × 1021","1,5 × 1022","7,5 × 1023","1,5 × 1025","4,8 × 1025",B
-3,"
-
-A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores.
-
-
-","
-
-Considerando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?
-
-
-",Lisossomo.,Mitocôndria.,Peroxissomo.,Complexo golgiense.,Retículo endoplasmático.,B
-4,"
-
-Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O2 pela respiração tende a igualar sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O2 e de CO2 próximo à superfície do solo onde elas caíram.
-
-
-","
-
-A concentração de O2 próximo ao solo, no local da queda, será
-
-
-","menor, pois haverá consumo de O2 durante a decomposição dessas árvores.","maior, pois haverá economia de O2 pela ausência das árvores mortas.","maior, pois haverá liberação de O2 durante a fotossíntese das árvores jovens.","igual, pois haverá consumo e produção de O2 pelas árvores maduras restantes.","menor, pois haverá redução de O2 pela falta da fotossíntese realizada pelas árvores mortas.",A
-5,"
+","7,5 × 1021","1,5 × 1022","7,5 × 1023","1,5 × 1025","4,8 × 1025",B,
+5,65,"
 
 Para oferecer acessibilidade aos portadores de dificuldades de locomoção, é utilizado, em ônibus e automóveis, o elevador hidráulico. Nesse dispositivo é usada uma bomba elétrica, para forçar um fluido a passar de uma tubulação estreita para outra mais larga, e dessa forma acionar um pistão que movimenta a plataforma. Considere um elevador hidráulico cuja área da cabeça do pistão seja cinco vezes maior do que a área da tubulação que sai da bomba. Desprezando o atrito e considerando uma aceleração gravitacional de 10 m/s², deseja-se elevar uma pessoa de 65 kg em uma cadeira de rodas de 15 kg sobre a plataforma de 20 kg
 
@@ -72,8 +75,105 @@ Para oferecer acessibilidade aos portadores de dificuldades de locomoção, é u
 Qual deve ser a força exercida pelo motor da bomba sobre o fluido, para que o cadeirante seja elevado com velocidade constante?
 
 
-",20 N.,100 N.,200 N.,1 000 N.,5 000 N.,C
-6,"
+",20 N.,100 N.,200 N.,1 000 N.,5 000 N.,C,
+6,48,"
+
+
+
+
+
+
+
+","
+
+Como a pressão atmosférica interfere no escoamento da água, nas situações com a garrafa tampada e destampada, respectivamente?
+
+
+","Impede a saída de água, por ser maior que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.","Impede a saída de água, por ser maior que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.","Impede a entrada de ar, por ser menor que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.","Impede a saída de água, por ser maior que a pressão interna; regula a velocidade de escoamento, que só depende da pressão atmosférica.","Impede a entrada de ar, por ser menor que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.",A,enem-data/enem-2013/48-images/context_img_0.png
+7,61,"
+
+Glicose marcada com nuclídeos de carbono-11 é utilizada na medicina para se obter imagens tridimensionais do cérebro, por meio de tomografia de emissão de pósitrons. A desintegração do carbono-11 gera um pósitron, com tempo de meia-vida de 20,4 min, de acordo com a equação da reação nuclear
+
+
+
+
+
+
+
+
+
+
+A partir da injeção de glicose marcada com esse nuclídeo, o tempo de aquisição de uma imagem de tomografia é de cinco meias-vidas.
+
+
+","
+
+Considerando que o medicamento contém 1,00 g do carbono-11, a massa, em miligramas, do nuclídeo restante, após a aquisição da imagem, é mais próxima de
+
+
+","0,200.","0,969.","9,80.","31,3.",200.,D,enem-data/enem-2013/61-images/context_img_0.png
+8,53,"
+
+
+
+
+
+
+
+
+
+Calcula-se que a velocidade de propagação dessa “onda humana” é 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm.
+
+Disponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).
+
+
+
+","
+
+Nessa ola mexicana, a frequência da onda, em hertz, é um valor mais próximo de
+
+
+","0,3.","0,5.","1,0.","1,9.","3,7.",C,enem-data/enem-2013/53-images/context_img_0.png
+9,50,"
+
+A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores.
+
+
+","
+
+Considerando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?
+
+
+",Lisossomo.,Mitocôndria.,Peroxissomo.,Complexo golgiense.,Retículo endoplasmático.,B,
+10,57,"
+
+
+
+
+
+
+
+","
+
+Com base nas informações do texto, uma alternativa para a obtenção de etilenoglicol a partir do PET é a
+
+
+",solubilização dos objetos.,combustão dos objetos.,trituração dos objetos.,hidrólise dos objetos.,fusão dos objetos.,D,enem-data/enem-2013/57-images/context_img_0.png
+11,60,"
+
+
+
+
+
+
+
+","
+
+A taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi
+
+
+",igual no aquecimento e igual no resfriamento.,maior no aquecimento e igual no resfriamento.,menor no aquecimento e igual no resfriamento.,maior no aquecimento e menor no resfriamento.,maior no aquecimento e maior no resfriamento.,E,enem-data/enem-2013/60-images/context_img_0.png
+12,72,"
 
 
 A formação frequente de grandes volumes de pirita (FeS2) em uma variedade de depósitos minerais favorece a formação de soluções ácidas ferruginosas, conhecidas como “drenagem ácida de minas”. Esse fenômeno tem sido bastante pesquisado pelos cientistas e representa uma grande preocupação entre os impactos da mineração no ambiente. Em contato com oxigênio, a 25 °C, a pirita sofre reação, de acordo com a equação química:
@@ -88,8 +188,37 @@ FIGUEIREDO, B. R. Minérios e ambiente. Campinas: Unicamp, 2000.
 Para corrigir os problemas ambientais causados por essa drenagem, a substância mais recomendada a ser adicionada ao meio é o
 
 
-",sulfeto de sódio.,cloreto de amônio.,dióxido de enxofre.,dióxido de carbono.,carbonato de cálcio.,E
-7,"
+",sulfeto de sódio.,cloreto de amônio.,dióxido de enxofre.,dióxido de carbono.,carbonato de cálcio.,E,
+13,47,"
+
+A imagem representa uma ilustração retirada do livro De Motu Cordis, de autoria do médico inglês Willian Harvey, que fez importantes contribuições para o entendimento do processo de circulação do sangue no corpo humano. No experimento ilustrado, Harvey, após aplicar um torniquete (A) no braço de um voluntário e esperar alguns vasos incharem, pressionava-os em um ponto (H). Mantendo o ponto pressionado, deslocava o conteúdo de sangue em direção ao cotovelo, percebendo que um trecho do vaso sanguíneo permanecia vazio após esse processo (H-O).
+
+
+
+
+
+
+
+
+
+","
+
+A demonstração de Harvey permite estabelecer a relação entre circulação sanguínea e
+
+
+",pressão arterial.,válvulas venosas.,circulação linfática.,contração cardíaca.,transporte de gases.,B,enem-data/enem-2013/47-images/context_img_0.png
+14,76,"
+
+Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70 °C. No entanto, a temperatura ideal da água para um banho é de 30 °C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25 °C.
+
+
+","
+
+Qual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?
+
+
+","0,111.","0,125.","0,357.","0,428.","0,833.",B,
+15,70,"
 
 
 Sabe-se que o aumento da concentração de gases como CO2, CH4 e N2O na atmosfera é um dos fatores responsáveis pelo agravamento do efeito estufa. A agricultura é uma das atividades humanas que pode contribuir tanto para a emissão quanto para o sequestro desses gases, dependendo do manejo da matéria orgânica do solo.
@@ -103,30 +232,62 @@ ROSA, A. H.; COELHO, J. C. R. Cadernos Temáticos de Química Nova na Escola, S�
 De que maneira as práticas agrícolas podem ajudar a minimizar o agravamento do efeito estufa?
 
 
-",Evitando a rotação de culturas.,Liberando o CO2 presente no solo.,Aumentando a quantidade de matéria orgânica do solo.,Queimando a matéria orgânica que se deposita no solo.,Atenuando a concentração de resíduos vegetais do solo.,C
-8,"
+",Evitando a rotação de culturas.,Liberando o CO2 presente no solo.,Aumentando a quantidade de matéria orgânica do solo.,Queimando a matéria orgânica que se deposita no solo.,Atenuando a concentração de resíduos vegetais do solo.,C,
+16,58,"
 
-Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70 °C. No entanto, a temperatura ideal da água para um banho é de 30 °C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25 °C.
+
+Músculos artificiais são dispositivos feitos com plásticos inteligentes que respondem a uma corrente elétrica com um movimento mecânico. A oxidação e redução de um polímero condutor criam cargas positivas e/ou negativas no material, que são compensadas com a inserção ou expulsão de cátions ou ânions. Por exemplo, na figura os filmes escuros são de polipirrol e o filme branco é de um eletrólito polimérico contendo um sal inorgânico. Quando o polipirrol sofre oxidação, há a inserção de ânions para compensar a carga positiva no polímero e o filme se expande. Na outra face do dispositivo o filme de polipirrol sofre redução, expulsando ânions, e o filme se contrai. Pela montagem, em sanduíche, o sistema todo se movimenta de forma harmônica, conforme mostrado na figura.
+
+DE PAOLI, M. A. Cadernos Temáticos de Química Nova na Escola, São Paulo, maio 2001 (adaptado).
+
+
+
+
+
+
+
+
 
 
 ","
 
-Qual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?
+A camada central de eletrólito polimérico é importante porque
 
 
-","0,111.","0,125.","0,357.","0,428.","0,833.",B
-9,"
+","absorve a irradiação de partículas carregadas, emitidas pelo aquecimento elétrico dos filmes de polipirrol.","permite a difusão dos íons promovida pela aplicação de diferença de potencial, fechando o circuito elétrico.",mantém um gradiente térmico no material para promover a dilatação/contração térmica de cada filme de polipirrol.,"permite a condução de elétrons livres, promovida pela aplicação de diferença de potencial, gerando corrente elétrica.","promove a polarização das moléculas poliméricas, o que resulta no movimento gerado pela aplicação de diferença de potencial.",B,enem-data/enem-2013/58-images/context_img_0.png
+17,73,"
 
-Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés.
+Cinco casais alegavam ser os pais de um bebê. A confirmação da paternidade foi obtida pelo exame de DNA. O resultado do teste está esquematizado na figura, em que cada casal apresenta um padrão com duas bandas de DNA (faixas, uma para o suposto pai e outra para a suposta mãe), comparadas à do bebê.
+
+
+
+
+
+
+
 
 
 ","
 
-Em relação ao movimento dessa pessoa, quais são a direção e o sentido da força de atrito mencionada no texto?
+Que casal pode ser considerado como pais biológicos do bebê?
 
 
-",Perpendicular ao plano e no mesmo sentido do movimento.,Paralelo ao plano e no sentido contrário ao movimento.,Paralelo ao plano e no mesmo sentido do movimento,Horizontal e no mesmo sentido do movimento.,Vertical e sentido para cima.,C
-10,"
+",1.,2.,3.,4.,5.,C,enem-data/enem-2013/73-images/context_img_0.png
+18,69,"
+
+
+
+
+
+
+
+","
+
+Por qual montagem o açougueiro deve optar e qual a justificativa desta opção?
+
+
+","Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência.","Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico.","P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico.","P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência.","Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência.",A,enem-data/enem-2013/69-images/context_img_0.png
+19,80,"
 
 
 Eu também podia decompor a água, se fosse salgada ou acidulada, usando a pilha de Daniell como fonte de força. Lembro o prazer extraordinário que sentia ao decompor um pouco de água em uma taça para ovos quentes, vendo-a separar-se em seus elementos, o oxigênio em um eletrodo, o hidrogênio no outro. A eletricidade de uma pilha de 1 volt parecia tão fraca, e no entanto podia ser suficiente para desfazer um composto químico, a água…
@@ -140,8 +301,47 @@ SACKS, O. Tio Tungstênio: memórias de uma infância química. São Paulo: Cia.
 O fragmento do romance de Oliver Sacks relata a separação dos elementos que compõem a água. O princípio do método apresentado é utilizado industrialmente na
 
 
-",obtenção de ouro a partir de pepitas.,obtenção de calcário a partir de rochas.,obtenção de alumínio a partir da bauxita.,obtenção de ferro a partir de seus óxidos.,obtenção de amônia a partir de hidrogênio e nitrogênio.,C
-11,"
+",obtenção de ouro a partir de pepitas.,obtenção de calcário a partir de rochas.,obtenção de alumínio a partir da bauxita.,obtenção de ferro a partir de seus óxidos.,obtenção de amônia a partir de hidrogênio e nitrogênio.,C,
+20,67,"
+
+
+
+
+
+
+
+","
+
+A intensidade do campo magnético, para que o dispositivo funcione corretamente, é de
+
+
+",5 × 10–1 T.,5 × 10–2 T.,5 × 101  T.,2 × 10–2 T.,2 × 100  T.,A,enem-data/enem-2013/67-images/context_img_0.png
+21,68,"
+
+
+
+
+
+
+
+","
+
+A maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às
+
+
+","interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.","interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.","ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água.","ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água.","interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",E,enem-data/enem-2013/68-images/context_img_0.png
+22,49,"
+
+O citral, substância de odor fortemente cítrico, é obtido a partir de algumas plantas como o capim-limão, cujo óleo essencial possui aproximadamente 80%, em massa, da substância. Uma de suas aplicações é na fabricação de produtos que atraem abelhas, especialmente do gênero Apis, pois seu cheiro é semelhante a um dos feromônios liberados por elas. Sua fórmula molecular é C10H16O, com uma cadeia alifática de oito carbonos, duas insaturações, nos carbonos 2 e 6; e dois grupos substituintes metila, nos carbonos 3 e 7. O citral possui dois isômeros geométricos, sendo o trans o que mais contribui para o forte odor.
+
+
+","
+
+Para que se consiga atrair um maior número de abelhas para uma determinada região, a molécula que deve estar presente em alta concentração no produto a ser utilizado é:
+
+
+",enem-data/enem-2013/49-images/alt_img_0.png,enem-data/enem-2013/49-images/alt_img_1.png,enem-data/enem-2013/49-images/alt_img_2.png,enem-data/enem-2013/49-images/alt_img_3.png,enem-data/enem-2013/49-images/alt_img_4.png,A,
+23,81,"
 
 O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em energia térmica, o que possibilita a elevação da temperatura da água. Um chuveiro projetado para funcionar em 110 V pode ser adaptado para funcionar em 220 V, de modo a manter inalterada sua potência.
 
@@ -151,19 +351,8 @@ O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em
 Uma das maneiras de fazer essa adaptação é trocar a resistência do chuveiro por outra, de mesmo material e com o(a)
 
 
-",dobro do comprimento do fio.,metade do comprimento do fio.,metade da área da seção reta do fio.,quádruplo da área da seção reta do fio.,quarta parte da área da seção reta do fio.,E
-12,"
-
-Um circuito em série é formado por uma pilha, uma lâmpada incandescente e uma chave interruptora. Ao se ligar a chave, a lâmpada acende quase instantaneamente, irradiando calor e luz. Popularmente, associa-se o fenômeno da irradiação de energia a um desgaste da corrente elétrica, ao atravessar o filamento da lâmpada, e à rapidez com que a lâmpada começa a brilhar. Essa explicação está em desacordo com o modelo clássico de corrente.
-
-
-","
-
-De acordo com o modelo mencionado, o fato de a lâmpada acender quase instantaneamente está relacionado à rapidez com que
-
-
-",o fluido elétrico se desloca no circuito.,as cargas negativas móveis atravessam o circuito.,a bateria libera cargas móveis para o filamento da lâmpada.,o campo elétrico se estabelece em todos os pontos do circuito.,as cargas positivas e negativas se chocam no filamento da lâmpada.,D
-13,"
+",dobro do comprimento do fio.,metade do comprimento do fio.,metade da área da seção reta do fio.,quádruplo da área da seção reta do fio.,quarta parte da área da seção reta do fio.,E,
+24,83,"
 
 
 A produção de aço envolve o aquecimento do minério de ferro, junto com carvão (carbono) e ar atmosférico em uma série de reações de oxirredução. O produto é chamado de ferro-gusa e contém cerca de 3,3% de carbono. Uma forma de eliminar o excesso de carbono é a oxidação a partir do aquecimento do ferro-gusa com gás oxigênio puro. Os dois principais produtos formados são aço doce (liga de ferro com teor de 0,3% de carbono restante) e gás carbônico. As massas molares aproximadas dos elementos carbono e oxigênio são, respectivamente, 12 g/mol e 16 g/mol.
@@ -177,8 +366,51 @@ LEE, J. D. Química Inorgânica não tão concisa. São Paulo: Edgard Blucher, 1
 Considerando que um forno foi alimentado com 2,5 toneladas de ferro-gusa, a massa de gás carbônico formada, em quilogramas, na produção de aço doce, é mais próxima de
 
 
-",28.,75.,175.,275.,303.,D
-14,"
+",28.,75.,175.,275.,303.,D,
+25,82,"
+
+Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés.
+
+
+","
+
+Em relação ao movimento dessa pessoa, quais são a direção e o sentido da força de atrito mencionada no texto?
+
+
+",Perpendicular ao plano e no mesmo sentido do movimento.,Paralelo ao plano e no sentido contrário ao movimento.,Paralelo ao plano e no mesmo sentido do movimento,Horizontal e no mesmo sentido do movimento.,Vertical e sentido para cima.,C,
+26,78,"
+
+Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem.
+
+
+
+
+
+
+
+
+
+","
+
+Qual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?
+
+
+",I.,II.,III.,IV.,V.,A,enem-data/enem-2013/78-images/context_img_0.png
+27,77,"
+
+
+
+
+
+
+
+","
+
+Em que parte do corpo do NanoKid existe carbono quaternário?
+
+
+",Mãos.,Cabeça.,Tórax.,Abdômen.,Pés.,A,enem-data/enem-2013/77-images/context_img_0.png
+28,86,"
 
 
 A contaminação pelo vírus da rubéola é especialmente preocupante em grávidas, devido à síndrome da rubéola congênita (SRC), que pode levar ao risco de aborto e malformações congênitas. Devido a campanhas de vacinação específicas, nas últimas décadas houve uma grande diminuição de casos de rubéola entre as mulheres, e, a partir de 2008, as campanhas se intensificaram e têm dado maior enfoque à vacinação de homens jovens.
@@ -192,19 +424,44 @@ BRASIL. Brasil livre da rubéola: campanha nacional de vacinação para elimina�
 Considerando a preocupação com a ocorrência da SRC, as campanhas passaram a dar enfoque à vacinação dos homens, porque eles
 
 
-",ficam mais expostos a esse vírus.,transmitem o vírus a mulheres gestantes.,passam a infecção diretamente para o feto.,transferem imunidade às parceiras grávidas.,são mais suscetíveis a esse vírus que as mulheres.,B
-15,"
+",ficam mais expostos a esse vírus.,transmitem o vírus a mulheres gestantes.,passam a infecção diretamente para o feto.,transferem imunidade às parceiras grávidas.,são mais suscetíveis a esse vírus que as mulheres.,B,
+29,87,"
 
-Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.
+Um circuito em série é formado por uma pilha, uma lâmpada incandescente e uma chave interruptora. Ao se ligar a chave, a lâmpada acende quase instantaneamente, irradiando calor e luz. Popularmente, associa-se o fenômeno da irradiação de energia a um desgaste da corrente elétrica, ao atravessar o filamento da lâmpada, e à rapidez com que a lâmpada começa a brilhar. Essa explicação está em desacordo com o modelo clássico de corrente.
 
 
 ","
 
-O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a
+De acordo com o modelo mencionado, o fato de a lâmpada acender quase instantaneamente está relacionado à rapidez com que
 
 
-",flotação.,levigação.,ventilação.,peneiração.,centrifugação.,A
-16,"
+",o fluido elétrico se desloca no circuito.,as cargas negativas móveis atravessam o circuito.,a bateria libera cargas móveis para o filamento da lâmpada.,o campo elétrico se estabelece em todos os pontos do circuito.,as cargas positivas e negativas se chocam no filamento da lâmpada.,D,
+30,84,"
+
+
+
+
+
+
+
+","
+
+Para um valor de temperatura em que Rs = 100 Ω, a leitura apresentada pelo voltímetro será de
+
+
+","+ 6,2 V.","+ 1,7 V.","+ 0,3 V.","– 0,3 V.","– 6,2 V.",D,enem-data/enem-2013/84-images/context_img_0.png
+31,46,"
+
+A pílula anticoncepcional é um dos métodos contraceptivos de maior segurança, sendo constituída basicamente de dois hormônios sintéticos semelhantes aos hormônios produzidos pelo organismo feminino, o estrogênio (E) e a progesterona (P). Em um experimento médico, foi analisado o sangue de uma mulher que ingeriu ininterruptamente um comprimido desse medicamento por dia durante seis meses.
+
+
+","
+
+Qual gráfico representa a concentração sanguínea desses hormônios durante o período do experimento?
+
+
+",enem-data/enem-2013/46-images/alt_img_0.png,enem-data/enem-2013/46-images/alt_img_1.png,enem-data/enem-2013/46-images/alt_img_2.png,enem-data/enem-2013/46-images/alt_img_3.png,enem-data/enem-2013/46-images/alt_img_4.png,A,
+32,88,"
 
 Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas.
 
@@ -214,4 +471,68 @@ Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade 
 Dos grupos de seres vivos citados, os que contribuem diretamente para a manutenção dessa produtividade no referido ecossistema são
 
 
-",aves.,algas.,peixes.,insetos.,caranguejos.,B
+",aves.,algas.,peixes.,insetos.,caranguejos.,B,
+33,89,"
+
+Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.
+
+
+","
+
+O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a
+
+
+",flotação.,levigação.,ventilação.,peneiração.,centrifugação.,A,
+34,90,"
+
+
+
+
+
+
+
+","
+
+A razão entre as frequências do Dó central e do Dó maior é de:
+
+
+",1/2.,2.,1.,1/4.,4.,A,enem-data/enem-2013/90-images/context_img_0.png
+35,66,"
+
+
+
+
+
+
+
+","
+
+Para realizar essas medidas, o esquema da ligação desses instrumentos está representado em:
+
+
+",enem-data/enem-2013/66-images/alt_img_0.png,enem-data/enem-2013/66-images/alt_img_1.png,enem-data/enem-2013/66-images/alt_img_2.png,enem-data/enem-2013/66-images/alt_img_3.png,enem-data/enem-2013/66-images/alt_img_4.png,E,enem-data/enem-2013/66-images/context_img_0.png
+36,79,"
+
+Em um dia sem vento, ao saltar de um avião, um paraquedista cai verticalmente até atingir a velocidade limite. No instante em que o paraquedas é aberto (instante TA), ocorre a diminuição de sua velocidade de queda. Algum tempo após a abertura do paraquedas, ele passa a ter velocidade de queda constante, que possibilita sua aterrissagem em segurança
+
+
+","
+
+Que gráfico representa a força resultante sobre o paraquedista, durante o seu movimento de queda?
+
+
+",enem-data/enem-2013/79-images/alt_img_0.png,enem-data/enem-2013/79-images/alt_img_1.png,enem-data/enem-2013/79-images/alt_img_2.png,enem-data/enem-2013/79-images/alt_img_3.png,enem-data/enem-2013/79-images/alt_img_4.png,B,
+37,71,"
+
+
+
+
+
+
+
+","
+
+A partir do texto e dos produtos de degradação apresentados, a estrutura química que representa o glifosato é:
+
+
+",enem-data/enem-2013/71-images/alt_img_0.png,enem-data/enem-2013/71-images/alt_img_1.png,enem-data/enem-2013/71-images/alt_img_2.png,enem-data/enem-2013/71-images/alt_img_3.png,enem-data/enem-2013/71-images/alt_img_4.png,B,enem-data/enem-2013/71-images/context_img_0.png
