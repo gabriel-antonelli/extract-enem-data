@@ -1,120 +1,5 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,138,"
-
-
-No monte de Cerro Armazones, no deserto de Atacama, no Chile, ficará o maior telescópio da superfície terrestre, o Telescópio Europeu Extremamente Grande (E-ELT). O E-ELT terá um espelho primário de 42 m de diâmetro, “o maior olho do mundo voltado para o céu”.
-
-Disponível em: http://www.estadao.com.br. Acesso em: 27 abr. 2010 (adaptado).
-
-
-
-
-Ao ler esse texto em uma sala de aula, uma professora fez uma suposição de que o diâmetro do olho humano mede aproximadamente 2,1 cm.
-
-
-","
-
-Qual a razão entre o diâmetro aproximado do olho humano, suposto pela professora, e o diâmetro do espelho primário do telescópio citado?
-
-
-",1 : 20,1 : 100,1 : 200,1 : 1 000,1 : 2 000,E,
-1,139,"
-
-Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura.
-
-
-","
-
-Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a
-
-
-",5 cm.,6 cm.,12 cm.,24 cm.,25 cm.,A,
-2,150,"
-
-A loja Telas & Molduras cobra 20 reais por metro quadrado de tela, 15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais. Uma artista plástica precisa encomendar telas e molduras a essa loja, suficientes para 8 quadros retangulares (25 cm × 50 cm). Em seguida, fez uma segunda encomenda, mas agora para 8 quadros retangulares (50 cm × 100 cm).
-
-
-","
-
-O valor da segunda encomenda será
-
-
-","o dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.","maior do que o valor da primeira encomenda, mas não o dobro.","a metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.","menor do que o valor da primeira encomenda, mas não a metade.","igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo.",B,
-3,146,"
-
-
-
-
-
-
-
-","
-
-
-
-O produto das três dimensões indicadas na peça resultaria na medida da grandeza
-
-
-
-
-",massa.,volume.,superfície.,capacidade.,comprimento.,B,enem-data/enem-2010/146-images/context_img_0.png
-4,141,"
-
-
-
-
-
-
-
-","
-
-Supondo-se que, no Sudeste, 14 900 estudantes foram entrevistados nessa pesquisa, quantos deles possuíam telefone móvel celular?
-
-
-",5 513,6 556,7 450,8 344,9 536,D,enem-data/enem-2010/141-images/context_img_0.png
-5,140,"
-
-
-
-
-
-
-
-","
-
-Considerando-se que até 2009 o desmatamento cresceu 10,5% em relação aos dados de 2004, o desmatamento médio por estado em 2009 está entre
-
-
-",100 km² e 900 km².,1 000 km² e 2 700 km².,2 800 km² e 3 200 km².,3 300 km² e 4 000 km².,4 100 km² e 5 800 km².,C,enem-data/enem-2010/140-images/context_img_0.png
-6,144,"
-
-
-
-
-
-
-
-","
-
-As figuras mostram que as proporcionalidades existentes entre resistência (R) e comprimento (ℓ), resistência (R) e área da secção transversal (A), e entre comprimento (ℓ) e área da secção transversal (A) são, respectivamente,
-
-
-","direta, direta e direta.","direta, direta e inversa.","direta, inversa e direta.","inversa, direta e direta.","inversa, direta e inversa.",C,enem-data/enem-2010/144-images/context_img_0.png
-7,143,"
-
-
-
-
-
-
-
-","
-
-Se o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?
-
-
-",13º,12º,11º,10º,9º,B,enem-data/enem-2010/143-images/context_img_0.png
-8,147,"
+0,147,"
 
 
 
@@ -132,10 +17,130 @@ Ao final, desce verticalmente até pousar no solo.
 
 ","
 
+
 De acordo com as orientações, o helicóptero pousou em um local cuja altitude é
 
 
-",menor ou igual a 200 m.,maior que 200 m e menor ou igual a 400 m.,maior que 400 m e menor ou igual a 600 m,maior que 600 m e menor ou igual a 800 m.,maior que 800 m.,A,enem-data/enem-2010/147-images/context_img_0.png
+",        menor ou igual a 200 m.      ,        maior que 200 m e menor ou igual a 400 m.      ,        maior que 400 m e menor ou igual a 600 m      ,        maior que 600 m e menor ou igual a 800 m.      ,        maior que 800 m.      , ,enem-data/enem-2010/147-images/context_img_0.png
+1,139,"
+
+Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura.
+
+
+","
+
+
+Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a
+
+
+",        5 cm.      ,        6 cm.      ,        12 cm.      ,        24 cm.      ,        25 cm.      , ,
+2,145,"
+
+
+
+
+
+
+
+","
+
+
+Supondo que o total de pessoas pesquisadas na região metropolitana de Porto Alegre equivale a 250 000, o número de desempregados em março de 2010, nessa região, foi de
+
+
+",        24500      ,        25000      ,        220500      ,        223000      ,        227500      , ,enem-data/enem-2010/145-images/context_img_0.png
+3,144,"
+
+
+
+
+
+
+
+","
+
+
+As figuras mostram que as proporcionalidades existentes entre resistência (R) e comprimento (ℓ), resistência (R) e área da secção transversal (A), e entre comprimento (ℓ) e área da secção transversal (A) são, respectivamente,
+
+
+","        direta, direta e direta.      ","        direta, direta e inversa.      ","        direta, inversa e direta.      ","        inversa, direta e direta.      ","        inversa, direta e inversa.      ", ,enem-data/enem-2010/144-images/context_img_0.png
+4,143,"
+
+
+
+
+
+
+
+","
+
+
+Se o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?
+
+
+",        13º      ,        12º      ,        11º      ,        10º      ,        9º      , ,enem-data/enem-2010/143-images/context_img_0.png
+5,140,"
+
+
+
+
+
+
+
+","
+
+
+Considerando-se que até 2009 o desmatamento cresceu 10,5% em relação aos dados de 2004, o desmatamento médio por estado em 2009 está entre
+
+
+",        100 km² e 900 km².      ,        1 000 km² e 2 700 km².      ,        2 800 km² e 3 200 km².      ,        3 300 km² e 4 000 km².      ,        4 100 km² e 5 800 km².      , ,enem-data/enem-2010/140-images/context_img_0.png
+6,138,"
+
+
+No monte de Cerro Armazones, no deserto de Atacama, no Chile, ficará o maior telescópio da superfície terrestre, o Telescópio Europeu Extremamente Grande (E-ELT). O E-ELT terá um espelho primário de 42 m de diâmetro, “o maior olho do mundo voltado para o céu”.
+
+Disponível em: http://www.estadao.com.br. Acesso em: 27 abr. 2010 (adaptado).
+
+
+
+
+Ao ler esse texto em uma sala de aula, uma professora fez uma suposição de que o diâmetro do olho humano mede aproximadamente 2,1 cm.
+
+
+","
+
+
+Qual a razão entre o diâmetro aproximado do olho humano, suposto pela professora, e o diâmetro do espelho primário do telescópio citado?
+
+
+",        1 : 20      ,        1 : 100      ,        1 : 200      ,        1 : 1 000      ,        1 : 2 000      , ,
+7,150,"
+
+A loja Telas & Molduras cobra 20 reais por metro quadrado de tela, 15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais. Uma artista plástica precisa encomendar telas e molduras a essa loja, suficientes para 8 quadros retangulares (25 cm × 50 cm). Em seguida, fez uma segunda encomenda, mas agora para 8 quadros retangulares (50 cm × 100 cm).
+
+
+","
+
+
+O valor da segunda encomenda será
+
+
+","        o dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.      ","        maior do que o valor da primeira encomenda, mas não o dobro.      ","        a metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.      ","        menor do que o valor da primeira encomenda, mas não a metade.      ","        igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo.      ", ,
+8,141,"
+
+
+
+
+
+
+
+","
+
+
+Supondo-se que, no Sudeste, 14 900 estudantes foram entrevistados nessa pesquisa, quantos deles possuíam telefone móvel celular?
+
+
+",        5 513      ,        6 556      ,        7 450      ,        8 344      ,        9 536      , ,enem-data/enem-2010/141-images/context_img_0.png
 9,149,"
 
 
@@ -146,11 +151,12 @@ De acordo com as orientações, o helicóptero pousou em um local cuja altitude 
 
 ","
 
+
 Que expressão fornece a quantidade de quadrados de cada figura?
 
 
-",C = 4Q,C = 3Q + 1,C = 4Q + 1,C = Q + 3,C = 4Q – 2,B,enem-data/enem-2010/149-images/context_img_0.png
-10,148,"
+",        C = 4Q      ,        C = 3Q + 1      ,        C = 4Q + 1      ,        C = Q + 3      ,        C = 4Q – 2      , ,enem-data/enem-2010/149-images/context_img_0.png
+10,146,"
 
 
 
@@ -160,25 +166,16 @@ Que expressão fornece a quantidade de quadrados de cada figura?
 
 ","
 
-Com base no gráfico, o gasto militar no ínicio da guerra no Iraque foi de
 
 
-","U$ 4.174.000,00.","U$ 41.740.000,00.","U$ 417.400.000,00.","U$ 41.740.000.000,00.","U$ 417.400.000.000,00.",E,enem-data/enem-2010/148-images/context_img_0.png
-11,145,"
 
-
+O produto das três dimensões indicadas na peça resultaria na medida da grandeza
 
 
 
 
-
-","
-
-Supondo que o total de pessoas pesquisadas na região metropolitana de Porto Alegre equivale a 250 000, o número de desempregados em março de 2010, nessa região, foi de
-
-
-",24500,25000,220500,223000,227500,A,enem-data/enem-2010/145-images/context_img_0.png
-12,151,"
+",        massa.      ,        volume.      ,        superfície.      ,        capacidade.      ,        comprimento.      , ,enem-data/enem-2010/146-images/context_img_0.png
+11,151,"
 
 
 
@@ -192,46 +189,39 @@ Com o objetivo de não desperdiçar café, a diarista deseja colocar a quantidad
 
 ","
 
+
 Para que isso ocorra, Dona Maria deverá
 
 
-","encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.","encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.","encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.","encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.","encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",A,enem-data/enem-2010/151-images/context_img_0.png
-13,155,"
+","        encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.      ","        encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.      ","        encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.      ","        encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.      ","        encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.      ", ,enem-data/enem-2010/151-images/context_img_0.png
+12,155,"
 
 Uma escola recebeu do governo uma verba de R$ 1000,00 para enviar dois tipos de folhetos pelo correio. O diretor da escola pesquisou que tipos de selos deveriam ser utilizados. Concluiu que, para o primeiro tipo de folheto, bastava um selo de R$ 0,65 enquanto para folhetos do segundo tipo seriam necessários três selos, um de R$ 0,65, um de R$ 0,60 e um de R$ 0,20. O diretor solicitou que se comprassem selos de modo que fossem postados exatamente 500 folhetos do segundo tipo e uma quantidade restante de selos que permitisse o envio do máximo possível de folhetos do primeiro tipo.
 
 
 ","
 
+
 Quantos selos de R$ 0,65 foram comprados?
 
 
-",476,675,923,965,1538,C,
-14,157,"
-
-
-Para construir uma manilha de esgoto, um cilindro com 2 m de diâmetro e 4 m de altura (de espessura desprezível), foi envolvido homogeneamente por uma camada de concreto, contendo 20 cm de espessura.
+",        476      ,        675      ,        923      ,        965      ,        1538      , ,
+13,148,"
 
 
 
-","
-
-Supondo que cada metro cúbico de concreto custe R$ 10,00 e tomando 3,1 como valor aproximado de π, então o preço dessa manilha é igual a
 
 
-","R$ 230,40.","R$ 124,00.","R$ 104,16.","R$ 54,56.","R$ 49,60.",D,
-15,154,"
-
-Uma empresa possui um sistema de controle de qualidade que classifica o seu desempenho financeiro anual, tendo como base o do ano anterior. Os conceitos são: insuficiente, quando o crescimento é menor que 1%; regular, quando o crescimento é maior ou igual a 1% e menor que 5%; bom, quando o crescimento é maior ou igual a 5% e menor que 10%; ótimo, quando é maior ou igual a 10% e menor que 20%; e excelente, quando é maior ou igual a 20%. Essa empresa apresentou lucro de R$132000,00 em 2008 e de R$145000,00 em 2009.
 
 
 ","
 
-De acordo com esse sistema de controle de qualidade, o desempenho financeiro dessa empresa no ano de 2009 deve ser considerado
+
+Com base no gráfico, o gasto militar no ínicio da guerra no Iraque foi de
 
 
-",insuficiente.,regular.,bom.,ótimo.,excelente.,C,
-16,153,"
+","        U$ 4.174.000,00.      ","        U$ 41.740.000,00.      ","        U$ 417.400.000,00.      ","        U$ 41.740.000.000,00.      ","        U$ 417.400.000.000,00.      ", ,enem-data/enem-2010/148-images/context_img_0.png
+14,153,"
 
 
 O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados
@@ -247,11 +237,12 @@ O jornal de certa cidade publicou em uma página inteira a seguinte divulgação
 
 ","
 
+
 Para que a propaganda seja fidedigna à porcentagem da área que aparece na divulgação, a medida do lado do retângulo que representa os 4%, deve ser de aproximadamente
 
 
-",1 mm.,10 mm.,17 mm.,160 mm.,167 mm.,D,enem-data/enem-2010/153-images/context_img_0.png
-17,152,"
+",        1 mm.      ,        10 mm.      ,        17 mm.      ,        160 mm.      ,        167 mm.      , ,enem-data/enem-2010/153-images/context_img_0.png
+15,152,"
 
 
 Em canteiros de obras de construção civil é comum perceber trabalhadores realizando medidas de comprimento e de ângulos e fazendo demarcações por onde a obra deve começar ou se erguer. Em um desses canteiros foram feitas algumas marcas no chão plano. Foi possível perceber que, das seis estacas colocadas, três eram vértices de um triângulo retângulo e as outras três eram os pontos médios dos lados desse triângulo, foram indicadas por letras.
@@ -273,11 +264,70 @@ A região demarcada pelas estacas A, B, M e N deveria ser calçada com concret
 
 ","
 
+
 Nessas condições, a área a ser calçada corresponde
 
 
-",à mesma área do triângulo AMC.,à mesma área do triângulo BNC.,à metade da área formada pelo triângulo ABC.,ao dobro da área do triângulo MNC.,ao triplo da área do triângulo MNC.,E,enem-data/enem-2010/152-images/context_img_0.png
-18,158,"
+",        à mesma área do triângulo AMC.      ,        à mesma área do triângulo BNC.      ,        à metade da área formada pelo triângulo ABC.      ,        ao dobro da área do triângulo MNC.      ,        ao triplo da área do triângulo MNC.      , ,enem-data/enem-2010/152-images/context_img_0.png
+16,154,"
+
+Uma empresa possui um sistema de controle de qualidade que classifica o seu desempenho financeiro anual, tendo como base o do ano anterior. Os conceitos são: insuficiente, quando o crescimento é menor que 1%; regular, quando o crescimento é maior ou igual a 1% e menor que 5%; bom, quando o crescimento é maior ou igual a 5% e menor que 10%; ótimo, quando é maior ou igual a 10% e menor que 20%; e excelente, quando é maior ou igual a 20%. Essa empresa apresentou lucro de R$132000,00 em 2008 e de R$145000,00 em 2009.
+
+
+","
+
+
+De acordo com esse sistema de controle de qualidade, o desempenho financeiro dessa empresa no ano de 2009 deve ser considerado
+
+
+",        insuficiente.      ,        regular.      ,        bom.      ,        ótimo.      ,        excelente.      , ,
+17,136,"
+
+
+
+
+
+
+
+
+Algum tempo depois, o professor apagou a lousa por completo e, adotando um procedimento semelhante ao anterior, voltou a preenchê-la, mas, dessa vez, utilizando 40% do espaço dela.
+
+
+","
+
+
+Uma representação possível para essa segunda situação é
+
+
+",enem-data/enem-2010/136-images/alt_img_0.png,enem-data/enem-2010/136-images/alt_img_1.png,enem-data/enem-2010/136-images/alt_img_2.png,enem-data/enem-2010/136-images/alt_img_3.png,enem-data/enem-2010/136-images/alt_img_4.png, ,enem-data/enem-2010/136-images/context_img_0.png
+18,142,"
+
+Acompanhando o crescimento do filho, um casal constatou que, de 0 a 10 anos, a variação da sua altura se dava de forma mais rápida do que dos 10 aos 17 anos e, a partir de 17 anos, essa variação passava a ser cada vez menor, até se tornar imperceptível. Para ilustrar essa situação, esse casal fez um gráfico relacionando as alturas do filho nas idades consideradas.
+
+
+","
+
+
+Qual gráfico melhor representa a altura do filho desse casal em função da idade?
+
+
+",enem-data/enem-2010/142-images/alt_img_0.png,enem-data/enem-2010/142-images/alt_img_1.png,enem-data/enem-2010/142-images/alt_img_2.png,enem-data/enem-2010/142-images/alt_img_3.png,enem-data/enem-2010/142-images/alt_img_4.png, ,
+19,137,"
+
+
+
+
+
+
+
+","
+
+
+Considerando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3?
+
+
+",enem-data/enem-2010/137-images/alt_img_0.png,enem-data/enem-2010/137-images/alt_img_1.png,enem-data/enem-2010/137-images/alt_img_2.png,enem-data/enem-2010/137-images/alt_img_3.png,enem-data/enem-2010/137-images/alt_img_4.png, ,enem-data/enem-2010/137-images/context_img_0.png
+20,158,"
 
 
 
@@ -296,11 +346,12 @@ duas espécies diferentes, sendo
 
 ","
 
+
 Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,
 
 
-","29,9 toneladas.","31,1 toneladas.","32,4 toneladas.","35,3 toneladas.","41,8 toneladas.",A,enem-data/enem-2010/158-images/context_img_0.png
-19,156,"
+","        29,9 toneladas.      ","        31,1 toneladas.      ","        32,4 toneladas.      ","        35,3 toneladas.      ","        41,8 toneladas.      ", ,enem-data/enem-2010/158-images/context_img_0.png
+21,159,"
 
 
 
@@ -310,67 +361,12 @@ Após realizar seus cálculos, o técnico solicitou que enviassem caminhões par
 
 ","
 
-Paula deseja se deslocar da cidade A para a cidade B usando exatamente duas das vias indicadas, percorrendo um trajeto com a menor probabilidade de engarrafamento possível. O melhor trajeto para Paula é
-
-
-",E1E3.,E1E4.,E2E4.,E2E5.,E2E6,D,enem-data/enem-2010/156-images/context_img_0.png
-20,163,"
-
-
-Nos processos industriais, como na indústria de cerâmica, é necessário o uso de fornos capazes de produzir elevadas temperaturas e, em muitas situações, o tempo de elevação dessa temperatura deve ser controlado, para garantir a qualidade do produto final e a economia no processo. Em uma indústria de cerâmica, o forno é programado para elevar a temperatura ao longo do tempo de acordo com a função
-
-
-
-
-
-
-
-
-
-
-
-
-em que T é o valor da temperatura atingida pelo forno, em graus Celsius, e t é o tempo, em minutos, decorrido desde o instante em que o forno é ligado.
-Uma peça deve ser colocada nesse forno quando a temperatura for 48°C e retirada quando a temperatura for
-200°C.
-
-
-
-","
-
-O tempo de permanência dessa peça no forno é, em minutos, igual a
-
-
-",100.,108.,128.,130.,150.,D,enem-data/enem-2010/163-images/context_img_0.png
-21,162,"
-
-
-
-
-
-
-
-","
-
-Qual dos tanques deverá ser escolhido pelo dono do posto? (Considere p π ≅ 3)
-
-
-","I, pela relação área/capacidade de armazenamento de 1/3","I, pela relação área/capacidade de armazenamento de 4/3","II, pela relação área/capacidade de armazenamento de 3/4","III, pela relação área/capacidade de armazenamento de 2/3","III, pela relação área/capacidade de armazenamento de 7/12",D,enem-data/enem-2010/162-images/context_img_0.png
-22,159,"
-
-
-
-
-
-
-
-","
 
 Se uma menina, com 64 kg de massa, apresenta IMC igual a 25 kg/m2, então ela possui RIP igual a
 
 
-","0,4 cm/kg1/3.","2,5 cm/kg1/3.",8 cm/kg1/3.,20 cm/kg1/3.,40 cm/kg1/3.,E,enem-data/enem-2010/159-images/context_img_0.png
-23,160,"
+","        0,4 cm/kg1/3.      ","        2,5 cm/kg1/3.      ",        8 cm/kg1/3.      ,        20 cm/kg1/3.      ,        40 cm/kg1/3.      , ,enem-data/enem-2010/159-images/context_img_0.png
+22,160,"
 
 
 Um balão atmosférico, lançado em Bauru (343 quilômetros a Noroeste de São Paulo), na noite do último domingo, caiu nesta segunda-feira em Cuiabá Paulista, na região de Presidente Prudente, assustando agricultores da região. O artefato faz parte do programa Projeto Hibiscus, desenvolvido por Brasil, França, Argentina, Inglaterra e Itália, para a medição do comportamento da camada de ozônio, e sua descida se deu após o cumprimento do tempo previsto de medição.
@@ -394,10 +390,25 @@ Na data do acontecido, duas pessoas avistaram o balão. Uma estava a 1,8 km da p
 
 ","
 
+
 Qual a altura aproximada em que se encontrava o balão?
 
 
-","1,8 km","1,9 km","3,1 km","3,7 km","5,5 km",C,enem-data/enem-2010/160-images/context_img_0.png
+","        1,8 km      ","        1,9 km      ","        3,1 km      ","        3,7 km      ","        5,5 km      ", ,enem-data/enem-2010/160-images/context_img_0.png
+23,170,"
+
+
+Um grupo de pacientes com Hepatite C foi submetido a um tratamento tradicional em que 40% desses pacientes foram completamente curados. Os pacientes que não obtiveram cura foram distribuídos em dois grupos de mesma quantidade e submetidos a dois tratamentos inovadores. No primeiro tratamento inovador, 35% dos pacientes foram curados e, no segundo, 45%.
+
+
+
+","
+
+
+Em relação aos pacientes submetidos inicialmente, os tratamentos inovadores proporcionaram cura de
+
+
+",        16%      ,        24%      ,        32%      ,        48%      ,        64%      , ,
 24,167,"
 
 
@@ -414,10 +425,11 @@ O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas d
 
 ","
 
+
 A partir dos dados apresentados, qual a mediana das quantidades de gols marcados pelos artilheiros das Copas do Mundo?
 
 
-",6 gols,"6,5 gols",7 gols,"7,3 gols","8,5 gols",B,enem-data/enem-2010/167-images/context_img_0.png
+",        6 gols      ,"        6,5 gols      ",        7 gols      ,"        7,3 gols      ","        8,5 gols      ", ,enem-data/enem-2010/167-images/context_img_0.png
 25,161,"
 
 
@@ -432,11 +444,108 @@ Um cientista monitora o movimento desse satélite para controlar o seu afastame
 
 ","
 
+
 O cientista deveria concluir que, periodicamente, S atinge o valor de
 
 
-",12 765 km.,12 000 km,11 730 km,10 965 km.,5 865 km,B,enem-data/enem-2010/161-images/context_img_0.png
-26,164,"
+",        12 765 km.      ,        12 000 km      ,        11 730 km      ,        10 965 km.      ,        5 865 km      , ,enem-data/enem-2010/161-images/context_img_0.png
+26,169,"
+
+
+O Salto Triplo é uma modalidade do atletismo em que o atleta dá um salto em um só pé, uma passada e um salto, nessa ordem. Sendo que o salto com impulsão em um só pé será feito de modo que o atleta caia primeiro sobre o mesmo pé que deu a implusão; na passada ele cairá com o outro pé, do qual o salto é realizado.
+
+Disponível em: www.cbat.org.br (adaptado).
+
+
+
+","
+
+
+Um atleta da modalidade Salto Triplo, depois de estudar seus movimentos, percebeu que, do segundo para o primeiro salto, o alcance diminuía em 1,2 m, e, do terceiro para o segundo salto, o alcance diminuía 1,5 m.
+Querendo atingir a meta de 17,4 m nessa prova e considerando os seus estudos, a distância alcançada no primeiro salto teria de estar entre
+
+
+","        4,0 m e 5,0 m.      ","        5,0 m e 6,0 m.      ","        6,0 m e 7,0 m.      ","        7,0 m e 8,0 m.      ","        8,0 m e 9,0 m.      ", ,
+27,156,"
+
+
+
+
+
+
+
+","
+
+
+Paula deseja se deslocar da cidade A para a cidade B usando exatamente duas das vias indicadas, percorrendo um trajeto com a menor probabilidade de engarrafamento possível. O melhor trajeto para Paula é
+
+
+",        E1E3.      ,        E1E4.      ,        E2E4.      ,        E2E5.      ,        E2E6      , ,enem-data/enem-2010/156-images/context_img_0.png
+28,157,"
+
+
+Para construir uma manilha de esgoto, um cilindro com 2 m de diâmetro e 4 m de altura (de espessura desprezível), foi envolvido homogeneamente por uma camada de concreto, contendo 20 cm de espessura.
+
+
+
+","
+
+
+Supondo que cada metro cúbico de concreto custe R$ 10,00 e tomando 3,1 como valor aproximado de π, então o preço dessa manilha é igual a
+
+
+","        R$ 230,40.      ","        R$ 124,00.      ","        R$ 104,16.      ","        R$ 54,56.      ","        R$ 49,60.      ", ,
+29,163,"
+
+
+Nos processos industriais, como na indústria de cerâmica, é necessário o uso de fornos capazes de produzir elevadas temperaturas e, em muitas situações, o tempo de elevação dessa temperatura deve ser controlado, para garantir a qualidade do produto final e a economia no processo. Em uma indústria de cerâmica, o forno é programado para elevar a temperatura ao longo do tempo de acordo com a função
+
+
+
+
+
+
+
+
+
+
+
+
+em que T é o valor da temperatura atingida pelo forno, em graus Celsius, e t é o tempo, em minutos, decorrido desde o instante em que o forno é ligado.
+Uma peça deve ser colocada nesse forno quando a temperatura for 48°C e retirada quando a temperatura for
+200°C.
+
+
+
+","
+
+
+O tempo de permanência dessa peça no forno é, em minutos, igual a
+
+
+",        100.      ,        108.      ,        128.      ,        130.      ,        150.      , ,enem-data/enem-2010/163-images/context_img_0.png
+30,166,"
+
+
+O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será
+
+
+",        menor que 1 150.      ,        218 unidades maior que em 2004.      ,        maior que 1 150 e menor que 1 200.      ,        177 unidades maior que em 2010.      ,        maior que 1 200.      , ,enem-data/enem-2010/166-images/context_img_0.png
+31,164,"
 
 
 Uma metalúrgica recebeu uma encomenda para fabricar, em grande quantidade, uma peça com o formato de um prisma reto com base triangular, cujas dimensões da base são 6 cm, 8 cm e 10 cm e cuja altura é 10 cm. Tal peça deve ser vazada de tal maneira que a perfuração na forma de um cilindro circular reto seja tangente às suas faces laterais, conforme mostra a figura.
@@ -452,74 +561,12 @@ Uma metalúrgica recebeu uma encomenda para fabricar, em grande quantidade, uma 
 
 ","
 
+
 O raio da perfuração da peça é igual a
 
 
-",1 cm.,2 cm.,3 cm.,4 cm.,5 cm.,B,enem-data/enem-2010/164-images/context_img_0.png
-27,169,"
-
-
-O Salto Triplo é uma modalidade do atletismo em que o atleta dá um salto em um só pé, uma passada e um salto, nessa ordem. Sendo que o salto com impulsão em um só pé será feito de modo que o atleta caia primeiro sobre o mesmo pé que deu a implusão; na passada ele cairá com o outro pé, do qual o salto é realizado.
-
-Disponível em: www.cbat.org.br (adaptado).
-
-
-
-","
-
-Um atleta da modalidade Salto Triplo, depois de estudar seus movimentos, percebeu que, do segundo para o primeiro salto, o alcance diminuía em 1,2 m, e, do terceiro para o segundo salto, o alcance diminuía 1,5 m.
-Querendo atingir a meta de 17,4 m nessa prova e considerando os seus estudos, a distância alcançada no primeiro salto teria de estar entre
-
-
-","4,0 m e 5,0 m.","5,0 m e 6,0 m.","6,0 m e 7,0 m.","7,0 m e 8,0 m.","8,0 m e 9,0 m.",D,
-28,165,"
-
-
-A ideia de usar rolos circulares para deslocar objetos pesados provavelmente surgiu com os antigos egípcios ao construírem as pirâmides.
-
-
-
-
-
-
-
-
-
-
-","
-
-Representando por R o raio da base dos rolos cilíndricos, em metros, a expressão do deslocamento horizontal y do bloco de pedra em função de R, após o rolo ter dado uma volta completa sem deslizar, é
-
-
-",y = R.,y = 2R.,y = πR.,y = 2πR.,y = 4πR.,E,enem-data/enem-2010/165-images/context_img_0.png
-29,170,"
-
-
-Um grupo de pacientes com Hepatite C foi submetido a um tratamento tradicional em que 40% desses pacientes foram completamente curados. Os pacientes que não obtiveram cura foram distribuídos em dois grupos de mesma quantidade e submetidos a dois tratamentos inovadores. No primeiro tratamento inovador, 35% dos pacientes foram curados e, no segundo, 45%.
-
-
-
-","
-
-Em relação aos pacientes submetidos inicialmente, os tratamentos inovadores proporcionaram cura de
-
-
-",16%,24%,32%,48%,64%,B,
-30,137,"
-
-
-
-
-
-
-
-","
-
-Considerando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3?
-
-
-",enem-data/enem-2010/137-images/alt_img_0.png,enem-data/enem-2010/137-images/alt_img_1.png,enem-data/enem-2010/137-images/alt_img_2.png,enem-data/enem-2010/137-images/alt_img_3.png,enem-data/enem-2010/137-images/alt_img_4.png,E,enem-data/enem-2010/137-images/context_img_0.png
-31,172,"
+",        1 cm.      ,        2 cm.      ,        3 cm.      ,        4 cm.      ,        5 cm.      , ,enem-data/enem-2010/164-images/context_img_0.png
+32,172,"
 
 
 
@@ -540,14 +587,30 @@ Disponível em: planetasustentavel.abril.com.br.Acesso em: 02 maio 2009.
 
 ","
 
+
 Considerando que, em 2009, a produção mundial de etanol seja a mesma de 2006 e que os Estados Unidos produzirão somente a metade de sua produção de 2006, para que o total produzido pelo Brasil e pelos Estados Unidos continue correspondendo a 88% da produção mundial, o Brasil deve aumentar sua produção em, aproximadamente,
 
 
-","22,5%.","50,0%.","52,3%.","65,5%.","77,5%.",C,
-32,166,"
+","        22,5%.      ","        50,0%.      ","        52,3%.      ","        65,5%.      ","        77,5%.      ", ,
+33,162,"
 
 
-O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear.
+
+
+
+
+
+","
+
+
+Qual dos tanques deverá ser escolhido pelo dono do posto? (Considere p π ≅ 3)
+
+
+","        I, pela relação área/capacidade de armazenamento de 1/3      ","        I, pela relação área/capacidade de armazenamento de 4/3      ","        II, pela relação área/capacidade de armazenamento de 3/4      ","        III, pela relação área/capacidade de armazenamento de 2/3      ","        III, pela relação área/capacidade de armazenamento de 7/12      ", ,enem-data/enem-2010/162-images/context_img_0.png
+34,165,"
+
+
+A ideia de usar rolos circulares para deslocar objetos pesados provavelmente surgiu com os antigos egípcios ao construírem as pirâmides.
 
 
 
@@ -560,11 +623,15 @@ O gráfico mostra o número de favelas no município do Rio de Janeiro entre 198
 
 ","
 
-Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será
+
+Representando por R o raio da base dos rolos cilíndricos, em metros, a expressão do deslocamento horizontal y do bloco de pedra em função de R, após o rolo ter dado uma volta completa sem deslizar, é
 
 
-",menor que 1 150.,218 unidades maior que em 2004.,maior que 1 150 e menor que 1 200.,177 unidades maior que em 2010.,maior que 1 200.,C,enem-data/enem-2010/166-images/context_img_0.png
-33,136,"
+",        y = R.      ,        y = 2R.      ,        y = πR.      ,        y = 2πR.      ,        y = 4πR.      , ,enem-data/enem-2010/165-images/context_img_0.png
+35,173,"
+
+
+O diretor de um colégio leu numa revista que os pés das mulheres estavam aumentando. Há alguns anos, a média do tamanho dos calçados das mulheres era de 35,5 e, hoje, é de 37,0. Embora não fosse uma informação científica, ele ficou curioso e fez uma pesquisa com as funcionárias do seu colégio, obtendo o quadro a seguir:
 
 
 
@@ -573,16 +640,109 @@ Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 ano
 
 
 
-Algum tempo depois, o professor apagou a lousa por completo e, adotando um procedimento semelhante ao anterior, voltou a preenchê-la, mas, dessa vez, utilizando 40% do espaço dela.
 
 
 ","
 
-Uma representação possível para essa segunda situação é
+
+Escolhendo uma funcionária ao acaso e sabendo que ela tem calçado maior que 36,0 a probabilidade de ela calçar 38,0 é
 
 
-",enem-data/enem-2010/136-images/alt_img_0.png,enem-data/enem-2010/136-images/alt_img_1.png,enem-data/enem-2010/136-images/alt_img_2.png,enem-data/enem-2010/136-images/alt_img_3.png,enem-data/enem-2010/136-images/alt_img_4.png,C,enem-data/enem-2010/136-images/context_img_0.png
-34,177,"
+",        1/3      ,        1/5      ,        2/5      ,        5/7      ,        5/14      , ,enem-data/enem-2010/173-images/context_img_0.png
+36,174,"
+
+
+João mora na cidade A e precisa visitar cinco clientes, localizados em cidades diferentes da sua. Cada trajeto possível pode ser representado por uma sequência de 7 letras. Por exemplo, o trajeto ABCDEFA, informa que ele sairá da cidade A, visitando as cidades B, C, D, E e F nesta ordem, voltando para a cidade A. Além disso, o número indicado entre as letras informa o custo do deslocamento entre as cidades. A figura mostra o custo de deslocamento entre cada uma das cidades.
+
+
+
+
+
+
+
+
+
+
+
+
+Como João quer economizar, ele precisa determinar qual o trajeto de menor custo para visitar os cinco clientes. somente parte das sequências, pois os trajetos ABCDEFA e AFEDCBA têm o mesmo custo. Ele gasta 1min30s para examinar uma sequência e descartar sua simétrica, conforme apresentado.
+
+
+
+","
+
+
+O tempo mínimo necessário para João verificar todas as sequências possíveis no problema é de
+
+
+",        60 min.      ,        90 min.      ,        120 min.      ,        180 min.      ,        360 min.      , ,enem-data/enem-2010/174-images/context_img_0.png
+37,168,"
+
+
+Em um casamento, os donos da festa serviam champanhe aos seus convidados em taças com formato de um hemisfério (Figura 1), porém um acidente na cozinha culminou na quebra de grande parte desses recipientes. Para substituir as taças quebradas, utilizou-se um outro tipo com formato de cone (Figura 2). No entanto, os noivos solicitaram que o volume de champanhe nos dois tipos de taças fosse igual.
+
+
+
+
+
+
+
+
+
+
+
+
+Considere:
+
+
+
+
+","
+
+
+Sabendo que a taça com o formato de hemisfério é servida completamente cheia, a altura do volume de champanhe que deve ser colocado na outra taça, em centímetros, é de
+
+
+","        1,33      ","        6,00      ","        12,00      ","        56,52      ","        113,04      ", ,"enem-data/enem-2010/168-images/context_img_0.png,enem-data/enem-2010/168-images/context_img_1.png"
+38,171,"
+
+
+Marco e Paulo foram classificados em um concurso. Para classificação no concurso o candidato deveria obter média aritmética na pontuação igual ou superior a 14. Em caso de empate na média, o desempate seria em favor da pontuação mais regular. No quadro a seguir são apresentados os pontos obtidos nas provas de Matemática, Português e Conhecimentos Gerais, a média, a mediana e o desvio padrão dos dois candidatos.
+Dados dos candidatos no concurso
+
+
+
+
+
+
+
+
+
+
+","
+
+
+O candidato com pontuação mais regular, portanto mais bem classificado no concurso, é
+
+
+","        Marco, pois a média e a mediana são iguais.      ","        Marco, pois obteve menor desvio padrão.      ","        Paulo, pois obteve a maior pontuação da tabela, 19 em Português.      ","        Paulo, pois obteve maior mediana.      ","        Paulo, pois obteve maior desvio padrão.      ", ,enem-data/enem-2010/171-images/context_img_0.png
+39,176,"
+
+
+A disparidade de volume entre os planetas é tão grande que seria possível colocá-los uns dentro dos outros. O planeta Mercúrio é o menor de todos. Marte é o segundo menor: dentro dele cabem três Mercúrios. Terra é o único com vida: dentro dela cabem sete Martes. Netuno é o quarto maior: dentro dele cabem 58 Terras. Júpiter é o maior dos planetas: dentro dele cabem 23 Netunos.
+
+Revista Veja. Ano 41, no 25, 25 jun. 2008 (adaptado).
+
+
+
+","
+
+
+Seguindo o raciocínio proposto, quantas Terras cabem dentro de Júpiter?
+
+
+",        406      ,        1 334      ,        4 002      ,        9 338      ,        28 014      , ,
+40,177,"
 
 
 
@@ -611,58 +771,12 @@ Suponha que todas as famílias de uma cidade descartem os óleos de frituras a
 
 ","
 
+
 Qual seria, em litros, a quantidade de água potável contaminada por semana nessa cidade?
 
 
-",10 -²,10³,10^4,10^6,10^9,E,
-35,171,"
-
-
-Marco e Paulo foram classificados em um concurso. Para classificação no concurso o candidato deveria obter média aritmética na pontuação igual ou superior a 14. Em caso de empate na média, o desempate seria em favor da pontuação mais regular. No quadro a seguir são apresentados os pontos obtidos nas provas de Matemática, Português e Conhecimentos Gerais, a média, a mediana e o desvio padrão dos dois candidatos.
-Dados dos candidatos no concurso
-
-
-
-
-
-
-
-
-
-
-","
-
-O candidato com pontuação mais regular, portanto mais bem classificado no concurso, é
-
-
-","Marco, pois a média e a mediana são iguais.","Marco, pois obteve menor desvio padrão.","Paulo, pois obteve a maior pontuação da tabela, 19 em Português.","Paulo, pois obteve maior mediana.","Paulo, pois obteve maior desvio padrão.",B,enem-data/enem-2010/171-images/context_img_0.png
-36,142,"
-
-Acompanhando o crescimento do filho, um casal constatou que, de 0 a 10 anos, a variação da sua altura se dava de forma mais rápida do que dos 10 aos 17 anos e, a partir de 17 anos, essa variação passava a ser cada vez menor, até se tornar imperceptível. Para ilustrar essa situação, esse casal fez um gráfico relacionando as alturas do filho nas idades consideradas.
-
-
-","
-
-Qual gráfico melhor representa a altura do filho desse casal em função da idade?
-
-
-",enem-data/enem-2010/142-images/alt_img_0.png,enem-data/enem-2010/142-images/alt_img_1.png,enem-data/enem-2010/142-images/alt_img_2.png,enem-data/enem-2010/142-images/alt_img_3.png,enem-data/enem-2010/142-images/alt_img_4.png,A,
-37,176,"
-
-
-A disparidade de volume entre os planetas é tão grande que seria possível colocá-los uns dentro dos outros. O planeta Mercúrio é o menor de todos. Marte é o segundo menor: dentro dele cabem três Mercúrios. Terra é o único com vida: dentro dela cabem sete Martes. Netuno é o quarto maior: dentro dele cabem 58 Terras. Júpiter é o maior dos planetas: dentro dele cabem 23 Netunos.
-
-Revista Veja. Ano 41, no 25, 25 jun. 2008 (adaptado).
-
-
-
-","
-
-Seguindo o raciocínio proposto, quantas Terras cabem dentro de Júpiter?
-
-
-",406,1 334,4 002,9 338,28 014,B,
-38,175,"
+",        10 -²      ,        10³      ,        10^4      ,        10^6      ,        10^9      , ,
+41,175,"
 
 
 O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols.
@@ -678,57 +792,12 @@ O quadro seguinte mostra o desempenho de um time de futebol no último campeona
 
 ","
 
+
 Se X, Y e Z são, respectivamente, a média, a mediana e a moda desta distribuição, então
 
 
-",X = Y < Z.,Z < X = Y.,Y < Z < X.,Z < X < Y.,Z < Y < X.,E,enem-data/enem-2010/175-images/context_img_0.png
-39,174,"
-
-
-João mora na cidade A e precisa visitar cinco clientes, localizados em cidades diferentes da sua. Cada trajeto possível pode ser representado por uma sequência de 7 letras. Por exemplo, o trajeto ABCDEFA, informa que ele sairá da cidade A, visitando as cidades B, C, D, E e F nesta ordem, voltando para a cidade A. Além disso, o número indicado entre as letras informa o custo do deslocamento entre as cidades. A figura mostra o custo de deslocamento entre cada uma das cidades.
-
-
-
-
-
-
-
-
-
-
-
-
-Como João quer economizar, ele precisa determinar qual o trajeto de menor custo para visitar os cinco clientes. somente parte das sequências, pois os trajetos ABCDEFA e AFEDCBA têm o mesmo custo. Ele gasta 1min30s para examinar uma sequência e descartar sua simétrica, conforme apresentado.
-
-
-
-","
-
-O tempo mínimo necessário para João verificar todas as sequências possíveis no problema é de
-
-
-",60 min.,90 min.,120 min.,180 min.,360 min.,B,enem-data/enem-2010/174-images/context_img_0.png
-40,173,"
-
-
-O diretor de um colégio leu numa revista que os pés das mulheres estavam aumentando. Há alguns anos, a média do tamanho dos calçados das mulheres era de 35,5 e, hoje, é de 37,0. Embora não fosse uma informação científica, ele ficou curioso e fez uma pesquisa com as funcionárias do seu colégio, obtendo o quadro a seguir:
-
-
-
-
-
-
-
-
-
-
-","
-
-Escolhendo uma funcionária ao acaso e sabendo que ela tem calçado maior que 36,0 a probabilidade de ela calçar 38,0 é
-
-
-",1/3,1/5,2/5,5/7,5/14,D,enem-data/enem-2010/173-images/context_img_0.png
-41,178,"
+",        X = Y < Z.      ,        Z < X = Y.      ,        Y < Z < X.      ,        Z < X < Y.      ,        Z < Y < X.      , ,enem-data/enem-2010/175-images/context_img_0.png
+42,178,"
 
 
 Ronaldo é um garoto que adora brincar com números. Numa dessas brincadeiras, empilhou caixas numeradas de acordo com a sequência conforme mostrada no esquema a seguir.
@@ -752,37 +821,11 @@ Ele percebeu que a soma dos números em cada linha tinha uma propriedade e que,
 
 ","
 
+
 A partir dessa propriedade, qual será a soma da 9a linha da sequência de caixas empilhadas por Ronaldo?
 
 
-",9,45,64,81,285,D,enem-data/enem-2010/178-images/context_img_0.png
-42,168,"
-
-
-Em um casamento, os donos da festa serviam champanhe aos seus convidados em taças com formato de um hemisfério (Figura 1), porém um acidente na cozinha culminou na quebra de grande parte desses recipientes. Para substituir as taças quebradas, utilizou-se um outro tipo com formato de cone (Figura 2). No entanto, os noivos solicitaram que o volume de champanhe nos dois tipos de taças fosse igual.
-
-
-
-
-
-
-
-
-
-
-
-
-Considere:
-
-
-
-
-","
-
-Sabendo que a taça com o formato de hemisfério é servida completamente cheia, a altura do volume de champanhe que deve ser colocado na outra taça, em centímetros, é de
-
-
-","1,33","6,00","12,00","56,52","113,04",B,"enem-data/enem-2010/168-images/context_img_0.png,enem-data/enem-2010/168-images/context_img_1.png"
+",        9      ,        45      ,        64      ,        81      ,        285      , ,enem-data/enem-2010/178-images/context_img_0.png
 43,179,"
 
 
@@ -799,10 +842,11 @@ Um porta-lápis de madeira foi construído no formato cúbico, seguindo o modelo
 
 ","
 
+
 O volume de madeira utilizado na confecção desse objeto foi de
 
 
-",12 cm³,64 cm³,96 cm³,1216 cm³,1728 cm³,D,enem-data/enem-2010/179-images/context_img_0.png
+",        12 cm³      ,        64 cm³      ,        96 cm³      ,        1216 cm³      ,        1728 cm³      , ,enem-data/enem-2010/179-images/context_img_0.png
 44,180,"
 
 
@@ -819,7 +863,8 @@ Para conseguir chegar a um número recorde de produção de ovos de Páscoa,
 
 ","
 
+
 De acordo com o gráfico, o biênio que apresentou maior produção acumulada foi
 
 
-",2004-2005,2005-2006,2006-2007,2007-2008,2008-2009,E,enem-data/enem-2010/180-images/context_img_0.png
+",        2004-2005      ,        2005-2006      ,        2006-2007      ,        2007-2008      ,        2008-2009      , ,enem-data/enem-2010/180-images/context_img_0.png

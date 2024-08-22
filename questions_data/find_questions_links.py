@@ -15,7 +15,7 @@ class FindQuestionsLinks:
             try:
                 year_area_dict[year] = {}
                 url = (
-                    "https://REDACTED.com.br/gabarito-enem/questoes/"
+                    "https://descomplica.com.br/gabarito-enem/questoes/"
                     + str(year)
                     + "/?cor=amarelo&idioma=ingles"
                 )

@@ -1,27 +1,42 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,54,"
-
-O controle biológico, técnica empregada no combate a espécies que causam danos e prejuízos aos seres humanos, é utilizado no combate à lagarta que se alimenta de folhas de algodoeiro. Algumas espécies de borboleta depositam seus ovos nessa cultura. A microvespa Trichogramma sp. introduz seus ovos nos ovos de outros insetos, incluindo os das borboletas em questão. Os embriões da vespa se alimentam do conteúdo desses ovos e impedem que as larvas de borboleta se desenvolvam. Assim, é possível reduzir a densidade populacional das borboletas até níveis que não prejudiquem a cultura.
-
-
-","
-
-A técnica de controle biológico realizado pela microvespa Trichogramma sp. consiste na
-
-
-",introdução de um parasita no ambiente da espécie que se deseja combater.,"introdução de um gene letal nas borboletas, a fim de diminuir o número de indivíduos.",competição entre a borboleta e a microvespa para a obtenção de recursos.,modificação do ambiente para selecionar indivíduos melhor adaptados.,aplicação de inseticidas a fim de diminuir o número de indivíduos que se deseja combater.,A,
-1,51,"
+0,51,"
 
 Para evitar o desmatamento da Mata Atlântica nos arredores da cidade de Amargosa, no Recôncavo da Bahia, o Ibama tem atuado no sentido de fiscalizar, entre outras, as pequenas propriedades rurais que dependem da lenha proveniente das matas para a produção da farinha de mandioca, produto típico da região. Com isso, pequenos produtores procuram alternativas como o gás de cozinha, o que encarece a farinha.
 
 
 ","
 
+
 Uma alternativa viável, em curto prazo, para os produtores de farinha em Amargosa, que não cause danos à Mata Atlântica nem encareça o produto é a
 
 
-","construção, nas pequenas propriedades, de grandes fornos elétricos para torrar a mandioca.","plantação, em suas propriedades, de árvores para serem utilizadas na produção de lenha.","permissão, por parte do Ibama, da exploração da Mata Atlântica apenas pelos pequenos produtores.","construção de biodigestores, para a produção de gás combustível a partir de resíduos orgânicos da região.","coleta de carvão de regiões mais distantes, onde existe menor intensidade de fiscalização do Ibama.",D,
-2,58,"
+","        construção, nas pequenas propriedades, de grandes fornos elétricos para torrar a mandioca.      ","        plantação, em suas propriedades, de árvores para serem utilizadas na produção de lenha.      ","        permissão, por parte do Ibama, da exploração da Mata Atlântica apenas pelos pequenos produtores.      ","        construção de biodigestores, para a produção de gás combustível a partir de resíduos orgânicos da região.      ","        coleta de carvão de regiões mais distantes, onde existe menor intensidade de fiscalização do Ibama.      ", ,
+1,54,"
+
+O controle biológico, técnica empregada no combate a espécies que causam danos e prejuízos aos seres humanos, é utilizado no combate à lagarta que se alimenta de folhas de algodoeiro. Algumas espécies de borboleta depositam seus ovos nessa cultura. A microvespa Trichogramma sp. introduz seus ovos nos ovos de outros insetos, incluindo os das borboletas em questão. Os embriões da vespa se alimentam do conteúdo desses ovos e impedem que as larvas de borboleta se desenvolvam. Assim, é possível reduzir a densidade populacional das borboletas até níveis que não prejudiquem a cultura.
+
+
+","
+
+
+A técnica de controle biológico realizado pela microvespa Trichogramma sp. consiste na
+
+
+",        introdução de um parasita no ambiente da espécie que se deseja combater.      ,"        introdução de um gene letal nas borboletas, a fim de diminuir o número de indivíduos.      ",        competição entre a borboleta e a microvespa para a obtenção de recursos.      ,        modificação do ambiente para selecionar indivíduos melhor adaptados.      ,        aplicação de inseticidas a fim de diminuir o número de indivíduos que se deseja combater.      , ,
+2,57,"
+
+O manual de funcionamento de um captador de guitarra elétrica apresenta o seguinte texto:
+Esse captador comum consiste de uma bobina, fios condutores enrolados em torno de um ímã permanente. O campo magnético do ímã induz o ordenamento dos polos magnéticos na corda da guitarra, que está próxima a ele. Assim, quando a corda é tocada, as oscilações produzem variações, com o mesmo padrão, no fluxo magnético que atravessa a bobina. Isso induz uma corrente elétrica na bobina, que é transmitida até o amplificador e, dai, para o alto-falante.
+
+
+","
+
+
+Um guitarrista trocou as cordas originais de sua guitarra, que eram feitas de aço, por outras feitas de náilon. Com o uso dessas cordas, o amplificador ligado ao instrumento não emitia mais som, porque a corda de náilon
+
+
+",        isola a passagem de corrente elétrica da bobina para o alto-falante.      ,        varia seu comprimento mais intensamente do que ocorre com o aço.      ,        apresenta uma magnetização desprezível sob a ação do ímã permanente.      ,        induz correntes elétricas na bobina mais intensas que a capacidade do captador.      ,        oscila com uma frequência menor do que a que pode ser percebida pelo captador.      , ,
+3,58,"
 
 
 O vírus do papiloma humano (HPV, na sigla em inglês) causa o aparecimento de verrugas e infecção persistente, sendo o principal fator ambiental do câncer de colo de útero nas mulheres. O vírus pode entrar pela pele ou por mucosas do corpo, o qual desenvolve anticorpos contra a ameaça, embora em alguns casos a defesa natural do organismo não seja suficiente. Foi desenvolvida uma vacina contra o HPV, que reduz em até 90% as verrugas e 85,6% dos casos de infecção persistente em comparação com pessoas não vacinadas.
@@ -32,11 +47,31 @@ Disponível em: http://g1.globo.com. Acesso em: 12 jun. 2011.
 
 ","
 
+
 O benefício da utilização dessa vacina é que pessoas vacinadas, em comparação com as não vacinadas, apresentam diferentes respostas ao vírus HPV em decorrência da
 
 
-",alta concentração de macrófagos.,elevada taxa de anticorpos específicos anti-HPV circulantes.,aumento na produção de hemácias após a infecção por vírus HPV.,rapidez na produção de altas concentrações de linfócitos matadores.,presença de células de memória que atuam na resposta secundária.,E,
-3,49,"
+",        alta concentração de macrófagos.      ,        elevada taxa de anticorpos específicos anti-HPV circulantes.      ,        aumento na produção de hemácias após a infecção por vírus HPV.      ,        rapidez na produção de altas concentrações de linfócitos matadores.      ,        presença de células de memória que atuam na resposta secundária.      , ,
+4,48,"
+
+Os personagens da figura estão representando uma situação hipotética de cadeia alimentar.
+
+
+
+
+
+
+
+
+
+","
+
+
+Suponha que, em cena anterior à apresentada, o homem tenha se alimentado de frutas e grãos que conseguiu coletar. Na hipótese de, nas próximas cenas, o tigre ser bem-sucedido e, posteriormente, servir de alimento aos abutres, tigre e abutres ocuparão, respectivamente, os níveis tróficos de
+
+
+",        produtor e consumidor primário.      ,        consumidor primário e consumidor secundário.      ,        consumidor secundário e consumidor terciário.      ,        consumidor terciário e produtor.      ,        consumidor secundário e consumidor primário.      , ,enem-data/enem-2011/48-images/context_img_0.png
+5,49,"
 
 
 A produção de soro antiofídico é feita por meio da extração da peçonha de serpentes que, após tratamento é introduzida em um cavalo. Em seguida são feitas sangrias para avaliar a concentração de anticorpos produzidos pelo cavalo. Quando essa concentração atinge o valor desejado, é realizada a sangria final para obtenção do soro. As hemácias são devolvidas ao animal, por meio de uma técnica denominada plasmaferese, a fim de reduzir os efeitos colaterais provocados pela sangria.
@@ -47,23 +82,62 @@ Disponível em: http://www.infobibos.com. Acesso em: 28 abr. 2010 (adaptado).
 
 ","
 
+
 A plasmaferese é importante, pois, se o animal ficar com uma baixa quantidade de hemácias, poderá apresentar
 
 
-",febre alta e constante.,redução de imunidade.,aumento da pressão arterial.,quadro de leucemia profunda.,problemas no transporte de oxigênio.,E,
-4,57,"
+",        febre alta e constante.      ,        redução de imunidade.      ,        aumento da pressão arterial.      ,        quadro de leucemia profunda.      ,        problemas no transporte de oxigênio.      , ,
+6,60,"
 
-O manual de funcionamento de um captador de guitarra elétrica apresenta o seguinte texto:
-Esse captador comum consiste de uma bobina, fios condutores enrolados em torno de um ímã permanente. O campo magnético do ímã induz o ordenamento dos polos magnéticos na corda da guitarra, que está próxima a ele. Assim, quando a corda é tocada, as oscilações produzem variações, com o mesmo padrão, no fluxo magnético que atravessa a bobina. Isso induz uma corrente elétrica na bobina, que é transmitida até o amplificador e, dai, para o alto-falante.
+
+A cal (óxido de cálcio, CaO), cuja suspensão em água é muito usada como uma tinta de baixo custo, dá uma tonalidade branca aos troncos de árvores. Essa é uma prática muito comum em praças públicas e locais privados, geralmente usada para combater a proliferação de parasitas. Essa aplicação, também chamada de caiação, gera um problema: elimina microrganismos benéficos para a árvore.
+
+Disponível em: http://super.abril.com.br. Acesso em: 1 abr. 2010 (adaptado).
+
 
 
 ","
 
-Um guitarrista trocou as cordas originais de sua guitarra, que eram feitas de aço, por outras feitas de náilon. Com o uso dessas cordas, o amplificador ligado ao instrumento não emitia mais som, porque a corda de náilon
+
+A destruição do microambiente, no tronco de árvores pintadas com cal, é devida ao processo de
 
 
-",isola a passagem de corrente elétrica da bobina para o alto-falante.,varia seu comprimento mais intensamente do que ocorre com o aço.,apresenta uma magnetização desprezível sob a ação do ímã permanente.,induz correntes elétricas na bobina mais intensas que a capacidade do captador.,oscila com uma frequência menor do que a que pode ser percebida pelo captador.,C,
-5,55,"
+","        difusão, pois a cal se difunde nos corpos dos seres do microambiente e os intoxica.      ","        osmose, pois a cal retira água do microambiente, tornando-o inviável ao desenvolvimento de microrganismos.      ","        oxidação, pois a luz solar que incide sobre o tronco ativa fotoquimicamente a cal, que elimina os seres vivos do microambiente.      ","        aquecimento, pois a luz do Sol incide sobre o tronco e aquece a cal, que mata os seres vivos do microambiente.      ","        vaporização, pois a cal facilita a volatilização da água para a atmosfera, eliminando os seres vivos do microambiente.      ", ,
+7,59,"
+
+
+
+
+
+
+
+
+Uma pessoa adquiriu um chuveiro do modelo A e, ao ler o manual, verificou que precisava ligá-lo a um disjuntor de 50 amperes. No entanto, intrigou-se com o fato de que o disjuntor a ser utilizado para uma correte instalação de um chuveiro do modelo B devia possuir amperagem 40% menor.
+
+
+","
+
+
+Considerando-se os chuveiros de modelos A e B, funcionando à mesma potência de 4 400 W, a razão entre as suas respectivas resistências elétricas, RA e RB, que justifica a diferença de dimensionamento dos disjuntores, é mais próxima de:
+
+
+","        0,3.      ","        0,6.      ","        0,8.      ","        1,7.      ","        3,0.      ", ,enem-data/enem-2011/59-images/context_img_0.png
+8,52,"
+
+
+
+
+
+
+
+","
+
+
+A retenção de água na superfície da pele promovida pelos hidratantes é consequência da interação dos grupos hidroxila dos agentes umectantes com a umidade contida no ambiente por meio de
+
+
+",        ligações iônicas.      ,        forças de London.      ,        ligações covalentes.      ,        forças dipolo-dipolo.      ,        ligações de hidrogênio.      , ,enem-data/enem-2011/52-images/context_img_0.png
+9,55,"
 
 
 No processo de industrialização da mamona, além do óleo que contém vários ácidos graxos, é obtida uma massa orgânica, conhecida como torta de mamona. Esta massa tem potencial para ser utilizada como fertilizante para o solo e como complemento em rações animais devido a seu elevado valor proteico. No entanto, a torta apresenta compostos tóxicos e alergênicos diferentemente do óleo da mamona. Para que a torta possa ser utilizada na alimentação animal, é necessário um processo de descontaminação.
@@ -73,11 +147,90 @@ Revista Química Nova na Escola. V. 32, no1, 2010 (adaptado)
 
 ","
 
+
 A característica presente nas substâncias tóxicas e alergênicas, que inviabiliza sua solubilização no óleo de mamona, é a
 
 
-",lipofilia.,hidrofilia.,hipocromia.,cromatofilia.,hiperpolarização.,B,
-6,56,"
+",        lipofilia.      ,        hidrofilia.      ,        hipocromia.      ,        cromatofilia.      ,        hiperpolarização.      , ,
+10,53,"
+
+
+Belém é cercada por 39 ilhas, e suas populações convivem com ameaças de doenças. O motivo, apontado por especialistas, é a poluição da água do rio, principal fonte de sobrevivência dos ribeirinhos. A diarreia é frequente nas crianças e ocorre como consequência da falta de saneamento básico, já que a população não tem acesso à água de boa qualidade. Como não há água potável, a alternativa é consumir a do rio.
+
+
+
+","
+
+
+O procedimento adequado para tratar a água dos rios, afim de atenuar os problemas de saúde causados por microrganismos a essas populações ribeirinhas é a
+
+
+",        filtração.      ,        cloração.      ,        coagulação.      ,        fluoretação.      ,        decantação.      , ,
+11,47,"
+
+
+
+
+
+
+
+","
+
+
+A explicação para a necessidade do uso da engrenagem com trava é:
+
+
+","        O travamento do motor, para que ele não se solte aleatoriamente.      ","        A seleção da velocidade, controlada pela pressão nos dentes da engrenagem.      ","        O controle do sentido da velocidade tangencial, permitindo, inclusive, uma fácil leitura do seu valor.      ","        A determinação do movimento, devido ao caráter aleatório, cuja tendência é o equilíbrio.      ","        A escolha do ângulo a ser girado, sendo possível, inclusive, medi-lo pelo número de dentes da engrenagem.      ", ,enem-data/enem-2011/47-images/context_img_0.png
+12,61,"
+
+
+
+
+
+
+
+","
+
+
+A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o
+
+
+",        C.      ,        N.      ,        P.      ,        CO2.      ,        PO43-.      , ,enem-data/enem-2011/61-images/context_img_0.png
+13,46,"
+
+Um paciente deu entrada em um pronto-socorro apresentando os seguintes sintomas: cansaço, dificuldade em respirar e sangramento nasal. O médico solicitou um hemograma ao paciente para definir um diagnóstico. Os resultados estão dispostos na tabela:
+
+
+
+
+
+
+
+
+
+","
+
+
+Relacionando os sintomas apresentados pelo paciente com os resultados de seu hemograma, constata-se que
+
+
+","        o sangramento nasal é devido à baixa quantidade de plaquetas, que são responsáveis pela coagulação sanguínea.      ","        o cansaço ocorreu em função da quantidade de glóbulos brancos, que são responsáveis pela coagulação sanguínea.      ","        a dificuldade respiratória decorreu da baixa quantidade de glóbulos vermelhos, que são responsáveis pela defesa imunológica.      ","        o sangramento nasal é decorrente da baixa quantidade de glóbulos brancos, que são responsáveis pelo transporte de gases no sangue.      ","        a dificuldade respiratória ocorreu pela quantidade de plaquetas, que são responsáveis pelo transporte de oxigênio no sangue.      ", ,enem-data/enem-2011/46-images/context_img_0.png
+14,50,"
+
+
+
+
+
+
+
+","
+
+
+Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?
+
+
+",        Benzeno.      ,        Metano.      ,        Glicose.      ,        Octano.      ,        Etanol.      , ,enem-data/enem-2011/50-images/context_img_0.png
+15,56,"
 
 
 Certas ligas estanho-chumbo com composição específica formam um estético simples, o que significa que uma liga com essas características se comporta como uma substância pura, com um ponto de fusão definido, no caso 183 ºC. Essa é uma temperatura inferior mesmo ao ponto de fusão dos metais que compõem esta liga (o estanho puro funde a 232 ºC e o chumbo puro a 320 ºC), o que justifica sua ampla utilização na soldagem de componentes eletrônicos, em que o excesso de aquecimento deve sempre ser evitado. De acordo com as normas internacionais, os valores mínimo e máximo das densidades para essas ligas são de 8,74 g/mL e 8,82 g/mL, respectivamente. As densidades do estanho e do chumbo são 7,3 g/mL e 11,3 g/mL, respectivamente.
@@ -94,118 +247,12 @@ Um lote contendo 5 amostras de solda estanho-chumbo foi analisado por um técnic
 
 ","
 
+
 Com base no texto e na análise realizada pelo técnico, as amostras que atendem às normas internacionais são
 
 
-",I e II.,I e III.,II e IV.,III e V.,IV e V.,C,enem-data/enem-2011/56-images/context_img_0.png
-7,60,"
-
-
-A cal (óxido de cálcio, CaO), cuja suspensão em água é muito usada como uma tinta de baixo custo, dá uma tonalidade branca aos troncos de árvores. Essa é uma prática muito comum em praças públicas e locais privados, geralmente usada para combater a proliferação de parasitas. Essa aplicação, também chamada de caiação, gera um problema: elimina microrganismos benéficos para a árvore.
-
-Disponível em: http://super.abril.com.br. Acesso em: 1 abr. 2010 (adaptado).
-
-
-
-","
-
-A destruição do microambiente, no tronco de árvores pintadas com cal, é devida ao processo de
-
-
-","difusão, pois a cal se difunde nos corpos dos seres do microambiente e os intoxica.","osmose, pois a cal retira água do microambiente, tornando-o inviável ao desenvolvimento de microrganismos.","oxidação, pois a luz solar que incide sobre o tronco ativa fotoquimicamente a cal, que elimina os seres vivos do microambiente.","aquecimento, pois a luz do Sol incide sobre o tronco e aquece a cal, que mata os seres vivos do microambiente.","vaporização, pois a cal facilita a volatilização da água para a atmosfera, eliminando os seres vivos do microambiente.",B,
-8,47,"
-
-
-
-
-
-
-
-","
-
-A explicação para a necessidade do uso da engrenagem com trava é:
-
-
-","O travamento do motor, para que ele não se solte aleatoriamente.","A seleção da velocidade, controlada pela pressão nos dentes da engrenagem.","O controle do sentido da velocidade tangencial, permitindo, inclusive, uma fácil leitura do seu valor.","A determinação do movimento, devido ao caráter aleatório, cuja tendência é o equilíbrio.","A escolha do ângulo a ser girado, sendo possível, inclusive, medi-lo pelo número de dentes da engrenagem.",D,enem-data/enem-2011/47-images/context_img_0.png
-9,46,"
-
-Um paciente deu entrada em um pronto-socorro apresentando os seguintes sintomas: cansaço, dificuldade em respirar e sangramento nasal. O médico solicitou um hemograma ao paciente para definir um diagnóstico. Os resultados estão dispostos na tabela:
-
-
-
-
-
-
-
-
-
-","
-
-Relacionando os sintomas apresentados pelo paciente com os resultados de seu hemograma, constata-se que
-
-
-","o sangramento nasal é devido à baixa quantidade de plaquetas, que são responsáveis pela coagulação sanguínea.","o cansaço ocorreu em função da quantidade de glóbulos brancos, que são responsáveis pela coagulação sanguínea.","a dificuldade respiratória decorreu da baixa quantidade de glóbulos vermelhos, que são responsáveis pela defesa imunológica.","o sangramento nasal é decorrente da baixa quantidade de glóbulos brancos, que são responsáveis pelo transporte de gases no sangue.","a dificuldade respiratória ocorreu pela quantidade de plaquetas, que são responsáveis pelo transporte de oxigênio no sangue.",A,enem-data/enem-2011/46-images/context_img_0.png
-10,53,"
-
-
-Belém é cercada por 39 ilhas, e suas populações convivem com ameaças de doenças. O motivo, apontado por especialistas, é a poluição da água do rio, principal fonte de sobrevivência dos ribeirinhos. A diarreia é frequente nas crianças e ocorre como consequência da falta de saneamento básico, já que a população não tem acesso à água de boa qualidade. Como não há água potável, a alternativa é consumir a do rio.
-
-
-
-","
-
-O procedimento adequado para tratar a água dos rios, afim de atenuar os problemas de saúde causados por microrganismos a essas populações ribeirinhas é a
-
-
-",filtração.,cloração.,coagulação.,fluoretação.,decantação.,B,
-11,52,"
-
-
-
-
-
-
-
-","
-
-A retenção de água na superfície da pele promovida pelos hidratantes é consequência da interação dos grupos hidroxila dos agentes umectantes com a umidade contida no ambiente por meio de
-
-
-",ligações iônicas.,forças de London.,ligações covalentes.,forças dipolo-dipolo.,ligações de hidrogênio.,E,enem-data/enem-2011/52-images/context_img_0.png
-12,48,"
-
-Os personagens da figura estão representando uma situação hipotética de cadeia alimentar.
-
-
-
-
-
-
-
-
-
-","
-
-Suponha que, em cena anterior à apresentada, o homem tenha se alimentado de frutas e grãos que conseguiu coletar. Na hipótese de, nas próximas cenas, o tigre ser bem-sucedido e, posteriormente, servir de alimento aos abutres, tigre e abutres ocuparão, respectivamente, os níveis tróficos de
-
-
-",produtor e consumidor primário.,consumidor primário e consumidor secundário.,consumidor secundário e consumidor terciário.,consumidor terciário e produtor.,consumidor secundário e consumidor primário.,C,enem-data/enem-2011/48-images/context_img_0.png
-13,64,"
-
-
-Um motor só poderá realizar trabalho se receber uma quantidade de energia de outro sistema. No caso, a energia armazenada no combustível é, em parte, liberada durante a combustão para que o aparelho possa funcionar. Quando o motor funciona, parte da energia convertida ou transformada na combustão não pode ser utilizado para a realização de trabalho. Isso significa dizer que há vazamento da energia em outra forma.
-
-CARVALHO, A. X. Z. Física Térmica. Belo Horizonte: Pax, 2009 (adaptado).
-
-
-
-","
-
-De acordo com o texto, as transformações de energia que ocorrem durante o funcionamento do motor são decorrentes de a
-
-
-",liberação de calor dentro do motor ser impossível.,realização de trabalho pelo motor ser incontrolável.,conversão integral de calor em trabalho ser impossível.,transformação de energia térmica em cinética ser impossível.,utilização de energia potencial do combustível ser incontrolável.,C,
-14,62,"
+",        I e II.      ,        I e III.      ,        II e IV.      ,        III e V.      ,        IV e V.      , ,enem-data/enem-2011/56-images/context_img_0.png
+16,62,"
 
 
 Nos dias de hoje, podemos dizer que praticamente todos os seres humanos já ouviram em algum momento falar sobre o DNA e seu papel na hereditariedade da maioria dos organismos. Porém, foi apenas em 1952, um ano antes da descrição do modelo do DNA em dupla hélice por Watson e Crick, que foi confirmado sem sombra de dúvidas que o DNA é material genético. No artigo em que Watson e Crick descreveram a molécula de DNA, eles sugeriram um modelo de como essa molécula deveria se replicar. Em 1958, Meselson e Stahl realizaram experimentos utilizando isótopos pesados de nitrogênio que foram incorporados às bases nitrogenadas para avaliar como se daria a replicação da molécula. A partir dos resultados, confirmaram o modelo sugerido por Watson e Crick, que tinha como premissa básica o rompimento das pontes de hidrogênio entre as bases nitrogenadas.
@@ -216,11 +263,28 @@ GRIFFITHS, A. J. F. et al. Introdução à Genética. Rio de Janeiro: Guanabara 
 
 ","
 
+
 Considerando a estrutura da molécula de DNA e a posição das pontes de hidrogênio na mesma, os experimentos realizados por Meselson e Stahl a respeito da replicação dessa molécula levaram à conclusão de que
 
 
-","a replicação do DNA é conservativa, isto é, a fita dupla filha é recém sintetizada e o filamento parental é conservado.","a replicação de DNA é dispersiva, isto é, as fitas filhas contêm DNA recém-sintetizado e parentais em cada uma das fitas.","a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita parental e uma recém-sintetizada.","a replicação do DNA é conservativa, isto é, as fitas filhas consistem de moléculas de DNA parental.","a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita molde e uma fita codificadora.",C,
-15,61,"
+","        a replicação do DNA é conservativa, isto é, a fita dupla filha é recém sintetizada e o filamento parental é conservado.      ","        a replicação de DNA é dispersiva, isto é, as fitas filhas contêm DNA recém-sintetizado e parentais em cada uma das fitas.      ","        a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita parental e uma recém-sintetizada.      ","        a replicação do DNA é conservativa, isto é, as fitas filhas consistem de moléculas de DNA parental.      ","        a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita molde e uma fita codificadora.      ", ,
+17,64,"
+
+
+Um motor só poderá realizar trabalho se receber uma quantidade de energia de outro sistema. No caso, a energia armazenada no combustível é, em parte, liberada durante a combustão para que o aparelho possa funcionar. Quando o motor funciona, parte da energia convertida ou transformada na combustão não pode ser utilizado para a realização de trabalho. Isso significa dizer que há vazamento da energia em outra forma.
+
+CARVALHO, A. X. Z. Física Térmica. Belo Horizonte: Pax, 2009 (adaptado).
+
+
+
+","
+
+
+De acordo com o texto, as transformações de energia que ocorrem durante o funcionamento do motor são decorrentes de a
+
+
+",        liberação de calor dentro do motor ser impossível.      ,        realização de trabalho pelo motor ser incontrolável.      ,        conversão integral de calor em trabalho ser impossível.      ,        transformação de energia térmica em cinética ser impossível.      ,        utilização de energia potencial do combustível ser incontrolável.      , ,
+18,63,"
 
 
 
@@ -230,29 +294,12 @@ Considerando a estrutura da molécula de DNA e a posição das pontes de hidrog�
 
 ","
 
-A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o
+
+De acordo com as curvas de assinatura espectral apresenta na figura, para que se obtenha a melhor discriminação dos alvos mostrados, convém selecionar a banda correspondente a que comprimento de onda em micrômetros (µm)?
 
 
-",C.,N.,P.,CO2.,PO43-.,B,enem-data/enem-2011/61-images/context_img_0.png
-16,59,"
-
-
-
-
-
-
-
-
-Uma pessoa adquiriu um chuveiro do modelo A e, ao ler o manual, verificou que precisava ligá-lo a um disjuntor de 50 amperes. No entanto, intrigou-se com o fato de que o disjuntor a ser utilizado para uma correte instalação de um chuveiro do modelo B devia possuir amperagem 40% menor.
-
-
-","
-
-Considerando-se os chuveiros de modelos A e B, funcionando à mesma potência de 4 400 W, a razão entre as suas respectivas resistências elétricas, RA e RB, que justifica a diferença de dimensionamento dos disjuntores, é mais próxima de:
-
-
-","0,3.","0,6.","0,8.","1,7.","3,0.",A,enem-data/enem-2011/59-images/context_img_0.png
-17,50,"
+","        0,4 a 0,5.      ","        0,5 a 0,6.      ","        0,6 a 0,7.      ","        0,7 a 0,8.      ","        0,8 a 0,9.      ", ,enem-data/enem-2011/63-images/context_img_0.png
+19,65,"
 
 
 
@@ -262,11 +309,12 @@ Considerando-se os chuveiros de modelos A e B, funcionando à mesma potência de
 
 ","
 
-Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?
+
+O mapa mostra a área de ocorrência da malária no mundo. Considerando-se sua distribuição na América do Sul, a malária pode ser classificada como
 
 
-",Benzeno.,Metano.,Glicose.,Octano.,Etanol.,C,enem-data/enem-2011/50-images/context_img_0.png
-18,66,"
+","        endemia, pois se concentra em uma área geográfica restrita desse continente.      ","        peste, já que ocorre nas regiões mais quentes do continente.      ","        epidemia, já que ocorre na maior parte do continente.      ","        surto, pois apresenta ocorrência em áreas pequenas.      ","        pandemia, pois ocorre em todo o continente.      ", ,enem-data/enem-2011/65-images/context_img_0.png
+20,66,"
 
 
 Em 1999, a geneticista Emma Whitelaw desenvolveu um experimento no qual ratas prenhes foram submetidas a uma dieta rica em vitamina B12, ácido fólico e soja. Os filhotes dessas ratas, apesar de possuírem o gene para obesidade, não expressaram essa doença na fase adulta. A autora concluiu que a alimentação da mãe, durante a gestação, silenciou o gene da obesidade. Dez anos depois, as geneticistas Eva Jablonka e Gal Raz listaram 100 casos comprovados de traços adquiridos e transmitidos entre gerações de organismos, sustentando, assim, epigenética, que estuda as mudanças na atividade dos genes que não envolvem alterações na sequência do DNA.
@@ -277,80 +325,12 @@ A reabilitação do herege. Época. no 610, 2010 (adaptado).
 
 ","
 
+
 Alguns cânceres esporádicos representam exemplos de alteração epigenética, pois são ocasionados por
 
 
-",aneuploidia do cromossomo sexual X.,polipoidia dos cromossomos autossômicos.,mutação em genes autossômicos com expressão dominante.,substituição no gene da cadeia beta da hemoglobina.,inativação de genes por meio de modificações nas bases nitrogenadas.,E,
-19,71,"
-
-
-Uma equipe de cientistas lançará uma expedição ao Titanic para criar um detalhado mapa 3D que “vai tirar, virtualmente, o Titanic do fundo do mar para o público”. A expedição ao local, a 4 quilômetros de profundidade no Oceano Atlântico, está sendo apresentada como a mais sofisticada expedição científica ao Titanic. Ela utilizará tecnologias de imagem e sonar que nunca tinham sido aplicadas ao navio, para obter o mais completo inventário de seu conteúdo. Esta complementação é necessária em razão das condições do navio, naufragado há um século.
-
-O Estado de São Paulo. Disponível em: http://www.estadao.com.br. Acesso em: 27 jul. 2010 (adaptado)
-
-
-
-","
-
-No problema apresentado para gerar imagens através de camadas de sedimentos depositados no navio, o sonar é mais adequado, pois a
-
-
-",propagação da luz na água ocorre a uma velocidade maior que a do som neste meio.,absorção da luz ao longo de uma camada de água é facilitada enquanto a absorção do som não.,refração da luz a uma grande profundidade acontece com uma intensidade menor que a do som.,atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.,reflexão da luz nas camadas de sedimento é menos intensa do que a reflexão do som neste material.,D,
-20,73,"
-
-Os sintomas mais sérios da Gripe A, causada pelo vírus H1N1, foram apresentados por pessoas mais idosas e por gestantes. O motivo aparente é a menor imunidade desses grupos contra o vírus. Para aumentar a imunidade populacional relativa ao vírus da gripe A, o governo brasileiro distribuiu vacinas para os grupos mais suscetíveis.
-
-
-","
-
-A vacina contra o H1N1, assim como qualquer outra vacina contra agentes causadores de doenças infecto-contagiosas aumenta a imunidade das pessoas porque
-
-
-",possui anticorpos contra o agente causador da doença.,possui proteínas que eliminam o agente causador da doença.,estimula a produção de glóbulos vermelhos pela medula óssea.,possui linfócitos B e T que neutralizam o agente causador da doença.,estimula a produção de anticorpos contra o agente causador da doença.,E,
-21,63,"
-
-
-
-
-
-
-
-","
-
-De acordo com as curvas de assinatura espectral apresenta na figura, para que se obtenha a melhor discriminação dos alvos mostrados, convém selecionar a banda correspondente a que comprimento de onda em micrômetros (µm)?
-
-
-","0,4 a 0,5.","0,5 a 0,6.","0,6 a 0,7.","0,7 a 0,8.","0,8 a 0,9.",E,enem-data/enem-2011/63-images/context_img_0.png
-22,70,"
-
-
-
-
-
-
-
-","
-
-Considerando que a aceleração da gravidade local é de 10 m/s², a densidade da água do lago, em g/cm³, é 
-
-
-","0,6.","1,2.","1,5.","2,4.","4,8.",B,enem-data/enem-2011/70-images/context_img_0.png
-23,75,"
-
-
-Moradores sobreviventes da tragédia que destruiu aproximadamente 60 casas no Morro do Bumba, na Zona Norte de Niterói (RJ), ainda defendem a hipótese de o deslizamento ter sido causado por uma explosão provocada por gás metano, visto que esse local foi um lixão entre os anos 1960 e 1980.
-
-Jornal Web. Disponível em: http://www.ojornalweb.com. Acesso em: 12 abr. 2010 (adaptado).
-
-
-
-","
-
-O gás mencionado no texto é produzido
-
-
-",como subproduto da respiração aeróbia bacteriana.,pela degradação anaeróbia de matéria orgânica por bactérias.,como produto da fotossíntese de organismos pluricelulares autotróficos.,pela transformação química do gás carbônico em condições anaeróbias.,"pela conversão, por oxidação química, do gás carbônico sob condições aeróbias.",B,
-24,72,"
+",        aneuploidia do cromossomo sexual X.      ,        polipoidia dos cromossomos autossômicos.      ,        mutação em genes autossômicos com expressão dominante.      ,        substituição no gene da cadeia beta da hemoglobina.      ,        inativação de genes por meio de modificações nas bases nitrogenadas.      , ,
+21,72,"
 
 
 Os biocombustíveis de primeira geração são derivados da soja, milho e cana-de-açúcar e sua produção ocorre através da fermentação. Biocombustíveis derivados de material celulósico ou biocombustíveis de segunda geração — coloquialmente chamados de “gasolina de capim” — são aqueles produzidos a partir de resíduos de madeira (serragem, por exemplo), talos de milho, palha de trigo ou capim de crescimento rápido e se apresentam como uma alternativa para os problemas enfrentados pelos de primeira geração, já que as matérias-primas são baratas e abundantes.
@@ -361,11 +341,19 @@ DALE, B. E.; HUBER, G. W. Gasolina de capim e outros vegetais. Ago. 2009, nº 87
 
 ","
 
+
 O texto mostra um dos pontos de vista a respeito do uso dos biocombustíveis na atualidade, os quais
 
 
-","são matrizes energéticas com menor carga de poluição para o ambiente e podem propiciar a geração de novos empregos, entretanto, para serem oferecidos com baixo custo, a tecnologia da degradação da celulose nos biocombustíveis de segunda geração deve ser extremamente eficiente.","oferecem múltiplas dificuldades, pois a produção é de alto custo, sua implantação não gera empregos, e deve-se ter cuidado com o risco ambiental, pois eles oferecem os mesmos riscos que o uso de combustíveis fósseis.","sendo de segunda geração, são produzidos por uma tecnologia que acarreta problemas sociais, sobretudo decorrente do fato de a matéria-prima ser abundante e facilmente encontrada, o que impede a geração de novos empregos.","sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.","sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.",A,
-25,65,"
+","        são matrizes energéticas com menor carga de poluição para o ambiente e podem propiciar a geração de novos empregos, entretanto, para serem oferecidos com baixo custo, a tecnologia da degradação da celulose nos biocombustíveis de segunda geração deve ser extremamente eficiente.      ","        oferecem múltiplas dificuldades, pois a produção é de alto custo, sua implantação não gera empregos, e deve-se ter cuidado com o risco ambiental, pois eles oferecem os mesmos riscos que o uso de combustíveis fósseis.      ","        sendo de segunda geração, são produzidos por uma tecnologia que acarreta problemas sociais, sobretudo decorrente do fato de a matéria-prima ser abundante e facilmente encontrada, o que impede a geração de novos empregos.      ","        sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.      ","        sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.      ", ,
+22,68,"
+
+
+
+
+
+
+
 
 
 
@@ -375,11 +363,113 @@ O texto mostra um dos pontos de vista a respeito do uso dos biocombustíveis na 
 
 ","
 
-O mapa mostra a área de ocorrência da malária no mundo. Considerando-se sua distribuição na América do Sul, a malária pode ser classificada como
+
+Qual a cor da substância que deu origem ao espectro da Figura 1?
 
 
-","endemia, pois se concentra em uma área geográfica restrita desse continente.","peste, já que ocorre nas regiões mais quentes do continente.","epidemia, já que ocorre na maior parte do continente.","surto, pois apresenta ocorrência em áreas pequenas.","pandemia, pois ocorre em todo o continente.",A,enem-data/enem-2011/65-images/context_img_0.png
-26,78,"
+",        Azul.      ,        Verde.      ,        Violeta.      ,        Laranja.      ,        Vermelho.      , ,"enem-data/enem-2011/68-images/context_img_0.png,enem-data/enem-2011/68-images/context_img_1.png"
+23,82,"
+
+
+O etanol é considerado um biocombustível promissor, pois, sob o ponto de vista do balanço de carbono, possui uma taxa de emissão praticamente igual a zero. Entretanto, esse não é o único ciclo biogeoquímico associado à produção de etanol. O plantio da cana-de-açúcar, matéria-prima para a produção de etanol, envolve a adição de macronutrientes como enxofre, nitrogênio, fósforo e potássio, principais elementos envolvidos no crescimento de um vegetal.
+Revista Química Nova na Escola. no 28, 2008.
+
+
+
+","
+
+
+O nitrogênio incorporado ao solo, como consequência da atividade descrita anteriormente, é transformado em nitrogênio ativo e afetará o meio ambiente, causando
+
+
+","        o acúmulo de sais insolúveis, desencadeando um processo de salinificação do solo.      ",        a eliminação de microorganismos existentes no solo responsáveis pelo processo de desnitrificação.      ,        a contaminação de rios e lagos devido à alta solubilidade de íons como NO3− e NH4+ em água.      ,"        a diminuição do pH do solo pela presença de NH3, que reage com a água, formando o NH4OH(aq).      ","        a diminuição da oxigenação do solo, uma vez que o nitrogênio ativo forma espécies químicas do tipo NO2, NO− , N2O.      ", ,
+24,71,"
+
+
+Uma equipe de cientistas lançará uma expedição ao Titanic para criar um detalhado mapa 3D que “vai tirar, virtualmente, o Titanic do fundo do mar para o público”. A expedição ao local, a 4 quilômetros de profundidade no Oceano Atlântico, está sendo apresentada como a mais sofisticada expedição científica ao Titanic. Ela utilizará tecnologias de imagem e sonar que nunca tinham sido aplicadas ao navio, para obter o mais completo inventário de seu conteúdo. Esta complementação é necessária em razão das condições do navio, naufragado há um século.
+
+O Estado de São Paulo. Disponível em: http://www.estadao.com.br. Acesso em: 27 jul. 2010 (adaptado)
+
+
+
+","
+
+
+No problema apresentado para gerar imagens através de camadas de sedimentos depositados no navio, o sonar é mais adequado, pois a
+
+
+",        propagação da luz na água ocorre a uma velocidade maior que a do som neste meio.      ,        absorção da luz ao longo de uma camada de água é facilitada enquanto a absorção do som não.      ,        refração da luz a uma grande profundidade acontece com uma intensidade menor que a do som.      ,        atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.      ,        reflexão da luz nas camadas de sedimento é menos intensa do que a reflexão do som neste material.      , ,
+25,69,"
+
+
+
+
+
+
+
+","
+
+
+A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo
+
+
+",        carboxila do ácido cólico.      ,        aldeído do ácido cólico.      ,        hidroxila do ácido cólico.      ,        cetona do ácido cólico.      ,        éster do ácido cólico.      , ,enem-data/enem-2011/69-images/context_img_0.png
+26,73,"
+
+Os sintomas mais sérios da Gripe A, causada pelo vírus H1N1, foram apresentados por pessoas mais idosas e por gestantes. O motivo aparente é a menor imunidade desses grupos contra o vírus. Para aumentar a imunidade populacional relativa ao vírus da gripe A, o governo brasileiro distribuiu vacinas para os grupos mais suscetíveis.
+
+
+","
+
+
+A vacina contra o H1N1, assim como qualquer outra vacina contra agentes causadores de doenças infecto-contagiosas aumenta a imunidade das pessoas porque
+
+
+",        possui anticorpos contra o agente causador da doença.      ,        possui proteínas que eliminam o agente causador da doença.      ,        estimula a produção de glóbulos vermelhos pela medula óssea.      ,        possui linfócitos B e T que neutralizam o agente causador da doença.      ,        estimula a produção de anticorpos contra o agente causador da doença.      , ,
+27,77,"
+
+
+
+
+
+
+
+","
+
+
+De acordo com a estequiometria da reação descrita, a quantidade de permanganato de potássio necessária para reagir completamente com 20,0 mL de uma solução 0,1 mol/L de peróxido de hidrogênio é igual a
+
+
+","        2,0×100  mol.       ","        2,0×10-3 mol.      ","        8,0×10-1 mol.      ","        8,0×10-4 mol.      ","        5,0×10-3 mol.      ", ,enem-data/enem-2011/77-images/context_img_0.png
+28,75,"
+
+
+Moradores sobreviventes da tragédia que destruiu aproximadamente 60 casas no Morro do Bumba, na Zona Norte de Niterói (RJ), ainda defendem a hipótese de o deslizamento ter sido causado por uma explosão provocada por gás metano, visto que esse local foi um lixão entre os anos 1960 e 1980.
+
+Jornal Web. Disponível em: http://www.ojornalweb.com. Acesso em: 12 abr. 2010 (adaptado).
+
+
+
+","
+
+
+O gás mencionado no texto é produzido
+
+
+",        como subproduto da respiração aeróbia bacteriana.      ,        pela degradação anaeróbia de matéria orgânica por bactérias.      ,        como produto da fotossíntese de organismos pluricelulares autotróficos.      ,        pela transformação química do gás carbônico em condições anaeróbias.      ,"        pela conversão, por oxidação química, do gás carbônico sob condições aeróbias.      ", ,
+29,80,"
+
+Diferente do que o senso comum acredita, as lagartas de borboletas não possuem voracidade generalizada. Um estudo mostrou que as borboletas de asas transparentes da família Ithomiinae, comuns na Floresta Amazônica e na Mata Atlântica, consomem, sobretudo, plantas da família Solanaceae, a mesma do tomate. Contudo, os ancestrais dessas borboletas consumiam espécies vegetais da família Apocinaceae, mas a quantidade dessas plantas parece não ter sido suficiente para garantir o suprimento alimentar dessas borboletas. Dessa forma, as solanáceas tornaram-se uma opção de alimento, pois são abundantes na Mata Atlântica e na Floresta Amazônica.
+
+
+","
+
+
+Nesse texto, a ideia do senso comum é confrontada com os conhecimentos científicos, ao se entender que as larvas das borboletas Ithomiinae encontradas atualmente na Mata Atlântica e na Floresta Amazônica, apresentam
+
+
+",        facilidade em digerir todas as plantas desses locais.      ,        interação com as plantas hospedeiras da família Apocinaceae.      ,        adaptação para se alimentar de todas as plantas desses locais.      ,        voracidade indiscriminada por todas as plantas existentes nesses locais.      ,        especificidade pelas plantas da família Solanaceae existentes nesses locais.      , ,
+30,78,"
 
 
 Segundo dados do Balanço Energético Nacional de 2008, do Ministério das Minas e Energia, a matriz energética brasileira é composta por hidrelétrica (80%), termelétrica (19,9%) e eólica (0,1%). Nas termelétricas, esse percentual é dividido conforme o combustível usado, sendo: gás natural (6,6%), biomassa (5,3%), derivados de petróleo (3,3%), energia nuclear (3,1%) e carvão mineral (1,6%). Com a geração de eletricidade da biomassa, pode-se considerar que ocorre uma compensação do carbono liberado na queima do material vegetal pela absorção desse elemento no crescimento das plantas. Entretanto, estudos indicam que as emissões de metano (CH4) das hidrelétricas podem ser comparáveis às emissões de CO2 das termelétricas.
@@ -390,11 +480,12 @@ MORET, A. S.; FERREIRA, I. A. As hidrelétricas do Rio Madeira e os impactos soc
 
 ","
 
+
 No Brasil, em termos do impacto das fontes de energia no crescimento do efeito estufa, quanto à emissão de gases, as hidrelétricas seriam consideradas como uma fonte
 
 
-","limpa de energia, contribuindo para minimizar os efeitos deste fenômeno.","eficaz de energia, tomando-se o percentual de oferta e os benefícios verificados.","limpa de energia, não afetando ou alterando os níveis dos gases do efeito estufa.","poluidora, colaborando com níveis altos de gases de efeito estufa em função de seu potencial de oferta.","alternativa, tomando-se por referência a grande emissão de gases de efeito estufa das demais fontes geradoras.",D,
-27,76,"
+","        limpa de energia, contribuindo para minimizar os efeitos deste fenômeno.      ","        eficaz de energia, tomando-se o percentual de oferta e os benefícios verificados.      ","        limpa de energia, não afetando ou alterando os níveis dos gases do efeito estufa.      ","        poluidora, colaborando com níveis altos de gases de efeito estufa em função de seu potencial de oferta.      ","        alternativa, tomando-se por referência a grande emissão de gases de efeito estufa das demais fontes geradoras.      ", ,
+31,76,"
 
 
 
@@ -403,47 +494,13 @@ No Brasil, em termos do impacto das fontes de energia no crescimento do efeito e
 
 
 ","
+
 
 A característica de funcionamento que garante essa economia é devida
 
 
-",à altura do sifão de água.,ao volume do tanque de água.,à altura do nível de água no vaso.,ao diâmetro do distribuidor de água.,à eficiência da válvula de enchimento do tanque.,B,enem-data/enem-2011/76-images/context_img_0.png
-28,68,"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-","
-
-Qual a cor da substância que deu origem ao espectro da Figura 1?
-
-
-",Azul.,Verde.,Violeta.,Laranja.,Vermelho.,E,"enem-data/enem-2011/68-images/context_img_0.png,enem-data/enem-2011/68-images/context_img_1.png"
-29,82,"
-
-
-O etanol é considerado um biocombustível promissor, pois, sob o ponto de vista do balanço de carbono, possui uma taxa de emissão praticamente igual a zero. Entretanto, esse não é o único ciclo biogeoquímico associado à produção de etanol. O plantio da cana-de-açúcar, matéria-prima para a produção de etanol, envolve a adição de macronutrientes como enxofre, nitrogênio, fósforo e potássio, principais elementos envolvidos no crescimento de um vegetal.
-Revista Química Nova na Escola. no 28, 2008.
-
-
-
-","
-
-O nitrogênio incorporado ao solo, como consequência da atividade descrita anteriormente, é transformado em nitrogênio ativo e afetará o meio ambiente, causando
-
-
-","o acúmulo de sais insolúveis, desencadeando um processo de salinificação do solo.",a eliminação de microorganismos existentes no solo responsáveis pelo processo de desnitrificação.,a contaminação de rios e lagos devido à alta solubilidade de íons como NO3− e NH4+ em água.,"a diminuição do pH do solo pela presença de NH3, que reage com a água, formando o NH4OH(aq).","a diminuição da oxigenação do solo, uma vez que o nitrogênio ativo forma espécies químicas do tipo NO2, NO− , N2O.",C,
-30,77,"
+",        à altura do sifão de água.      ,        ao volume do tanque de água.      ,        à altura do nível de água no vaso.      ,        ao diâmetro do distribuidor de água.      ,        à eficiência da válvula de enchimento do tanque.      , ,enem-data/enem-2011/76-images/context_img_0.png
+32,74,"
 
 
 
@@ -453,22 +510,27 @@ O nitrogênio incorporado ao solo, como consequência da atividade descrita ante
 
 ","
 
-De acordo com a estequiometria da reação descrita, a quantidade de permanganato de potássio necessária para reagir completamente com 20,0 mL de uma solução 0,1 mol/L de peróxido de hidrogênio é igual a
+
+Tendo por base os esquemas mostrados, em quais casos a lâmpada acendeu?
 
 
-","2,0×100  mol. ","2,0×10-3 mol.","8,0×10-1 mol.","8,0×10-4 mol.","5,0×10-3 mol.",B,enem-data/enem-2011/77-images/context_img_0.png
-31,80,"
+","        (1), (3), (6).      ","        (3), (4), (5).      ","        (1), (3), (5).      ","        (1), (3), (7).      ","        (1), (2), (5).      ", ,enem-data/enem-2011/74-images/context_img_0.png
+33,79,"
 
-Diferente do que o senso comum acredita, as lagartas de borboletas não possuem voracidade generalizada. Um estudo mostrou que as borboletas de asas transparentes da família Ithomiinae, comuns na Floresta Amazônica e na Mata Atlântica, consomem, sobretudo, plantas da família Solanaceae, a mesma do tomate. Contudo, os ancestrais dessas borboletas consumiam espécies vegetais da família Apocinaceae, mas a quantidade dessas plantas parece não ter sido suficiente para garantir o suprimento alimentar dessas borboletas. Dessa forma, as solanáceas tornaram-se uma opção de alimento, pois são abundantes na Mata Atlântica e na Floresta Amazônica.
+
+
+
+
 
 
 ","
 
-Nesse texto, a ideia do senso comum é confrontada com os conhecimentos científicos, ao se entender que as larvas das borboletas Ithomiinae encontradas atualmente na Mata Atlântica e na Floresta Amazônica, apresentam
+
+Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de desmineralização dentária, devido ao aumento da concentração de
 
 
-",facilidade em digerir todas as plantas desses locais.,interação com as plantas hospedeiras da família Apocinaceae.,adaptação para se alimentar de todas as plantas desses locais.,voracidade indiscriminada por todas as plantas existentes nesses locais.,especificidade pelas plantas da família Solanaceae existentes nesses locais.,E,
-32,83,"
+","        OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a direita.      ","        H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a direita.      ","        OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a esquerda.      ","        H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.      ","        Ca2+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.      ", ,enem-data/enem-2011/79-images/context_img_0.png
+34,83,"
 
 
 Os vaga-lumes machos e fêmeas emitem sinais luminosos para se atraírem para o acasalamento. O macho reconhece a fêmea de sua espécie e, atraído por ela, vai ao seu encontro. Porém, existe um tipo de vaga-lume, o Photuris, cuja fêmea engana e atrai os machos de outro tipo, o Photinus, fingindo ser deste gênero. Quando o macho Photinus se aproxima da fêmea Photuris, muito maior que ele, é atacado e devorado por ela.
@@ -480,11 +542,12 @@ a aventura da tecnologia. São Paulo: Scipione, 2000 (adaptado).
 
 ","
 
+
 A relação descrita no texto, entre a fêmea do gênero Photuris e o macho do gênero Photinus, é um exemplo de
 
 
-",comensalismo.,inquilinismo.,cooperação.,predatismo.,mutualismo.,D,
-33,74,"
+",        comensalismo.      ,        inquilinismo.      ,        cooperação.      ,        predatismo.      ,        mutualismo.      , ,
+35,70,"
 
 
 
@@ -494,36 +557,11 @@ A relação descrita no texto, entre a fêmea do gênero Photuris e o macho do g
 
 ","
 
-Tendo por base os esquemas mostrados, em quais casos a lâmpada acendeu?
+
+Considerando que a aceleração da gravidade local é de 10 m/s², a densidade da água do lago, em g/cm³, é 
 
 
-","(1), (3), (6).","(3), (4), (5).","(1), (3), (5).","(1), (3), (7).","(1), (2), (5).",D,enem-data/enem-2011/74-images/context_img_0.png
-34,69,"
-
-
-
-
-
-
-
-","
-
-A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo
-
-
-",carboxila do ácido cólico.,aldeído do ácido cólico.,hidroxila do ácido cólico.,cetona do ácido cólico.,éster do ácido cólico.,A,enem-data/enem-2011/69-images/context_img_0.png
-35,86,"
-
-Um dos processos usados no tratamento do lixo é a incineração, que apresenta vantagens e desvantagens. Em São Paulo, por exemplo, o lixo é queimado a altas temperaturas e parte da energia liberada é transformada em energia elétrica. No entanto, a incineração provoca a
-emissão de poluentes na atmosfera.
-
-
-","
-
-Uma forma de minimizar a desvantagem da incineração, destacada no texto, é
-
-
-",aumentar o volume do lixo incinerado para aumentar a produção de energia elétrica.,fomentar o uso de filtros nas chaminés dos incineradores para diminuir a poluição do ar.,aumentar o volume do lixo para baratear os custos operacionais relacionados ao processo.,fomentar a coleta seletiva de lixo nas cidades para aumentar o volume de lixo incinerado.,diminuir a temperatura de incineração do lixo para produzir maior quantidade de energia elétrica.,B,
+","        0,6.      ","        1,2.      ","        1,5.      ","        2,4.      ","        4,8.      ", ,enem-data/enem-2011/70-images/context_img_0.png
 36,84,"
 
 
@@ -534,11 +572,12 @@ Uma forma de minimizar a desvantagem da incineração, destacada no texto, é
 
 ","
 
+
 Em qual das situações a seguir está representado o fenômeno descrito no texto?
 
 
-","Ao se esconder atrás de um muro, um menino ouve a conversa de seus colegas.","Ao gritar diante de um desfiladero, uma pessoa ouve a repetição do seu próprio grito.","Ao encostar o ouvido no chão, um homem percebe o som de uma locomotiva antes de ouvi-lo pelo ar.","Ao ouvir uma ambulância se aproximando, uma pessoa percebe o som mais agudo do que quando aquela se afasta.","Ao emitir uma nota musical muito aguda, uma cantora de ópera faz com que uma taça de cristal se despedace.",A,enem-data/enem-2011/84-images/context_img_0.png
-37,85,"
+","        Ao se esconder atrás de um muro, um menino ouve a conversa de seus colegas.      ","        Ao gritar diante de um desfiladero, uma pessoa ouve a repetição do seu próprio grito.      ","        Ao encostar o ouvido no chão, um homem percebe o som de uma locomotiva antes de ouvi-lo pelo ar.      ","        Ao ouvir uma ambulância se aproximando, uma pessoa percebe o som mais agudo do que quando aquela se afasta.      ","        Ao emitir uma nota musical muito aguda, uma cantora de ópera faz com que uma taça de cristal se despedace.      ", ,enem-data/enem-2011/84-images/context_img_0.png
+37,81,"
 
 
 
@@ -548,39 +587,35 @@ Em qual das situações a seguir está representado o fenômeno descrito no text
 
 ","
 
-Desprezando-se as forças dissipativas (resistência do ar e atrito), para que o salto atinja a maior altura possível, ou seja, o máximo de energia seja conservada, é necessário que
-
-
-","a energia cinética, representada na etapa I, seja totalmente convertida em energia potencial elástica representada na etapa IV.","a energia cinética, representada na etapa II, seja totalmente convertida em energia potencial gravitacional, representada na etapa IV.","a energia cinética, representada na etapa I, seja totalmente convertida em energia potencial gravitacional, representada na etapa III.","a energia potencial gravitacional, representada na etapa II, seja totalmente convertida em energia potencial elástica, representada na etapa IV.","a energia potencial gravitacional, representada na etapa I, seja totalmente convertida em energia potencial elástica, representada na etapa III.",C,enem-data/enem-2011/85-images/context_img_0.png
-38,79,"
-
-
-
-
-
-
-
-","
-
-Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de desmineralização dentária, devido ao aumento da concentração de
-
-
-","OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a direita.","H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a direita.","OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a esquerda.","H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.","Ca2+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.",B,enem-data/enem-2011/79-images/context_img_0.png
-39,81,"
-
-
-
-
-
-
-
-","
 
 A distância percorrida pela régua aumenta mais rapidamente que o tempo de reação porque a
 
 
-","energia mecânica da régua aumenta, o que a faz cair mais rápido.","resistência do ar aumenta, o que faz a régua cair com menor velocidade.","aceleração de queda da régua varia, o que provoca um movimento acelerado.","força peso da régua tem valor constante, o que gera um movimento acelerado.","velocidade da régua é constante, o que provoca uma passagem linear de tempo.",D,enem-data/enem-2011/81-images/context_img_0.png
-40,87,"
+","        energia mecânica da régua aumenta, o que a faz cair mais rápido.      ","        resistência do ar aumenta, o que faz a régua cair com menor velocidade.      ","        aceleração de queda da régua varia, o que provoca um movimento acelerado.      ","        força peso da régua tem valor constante, o que gera um movimento acelerado.      ","        velocidade da régua é constante, o que provoca uma passagem linear de tempo.      ", ,enem-data/enem-2011/81-images/context_img_0.png
+38,89,"
+
+
+
+
+
+
+
+
+
+De acordo com o relatório “A grande sombra da pecuária” (Livestock’s Long Shadow), feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.
+
+Disponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010. (Foto: Reprodução/Enem)
+
+
+
+","
+
+
+A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de
+
+
+",        metano durante o processo de digestão.      ,        óxido nitroso durante o processo de ruminação.      ,        clorofluorcarbono durante o transporte de carne.      ,        óxido nitroso durante o processo respiratório.      ,        dióxido de enxofre durante o consumo de pastagens.      , ,enem-data/enem-2011/89-images/context_img_0.png
+39,87,"
 
 
 Os Bichinhos e O Homem
@@ -607,11 +642,12 @@ MORAES, V. A arca de Noé: poemas infantis. São Paulo: Companhia das Letrinhas,
 
 ","
 
+
 O poema acima sugere a existência de relações de afinidade entre os animais citados e nós, seres humanos. Respeitando a liberdade poética dos autores, a unidade taxonômica que expressa a afinidade existente entre nós e estes animais é
 
 
-",o filo.,o reino.,a classe.,a família.,a espécie.,B,
-41,90,"
+",        o filo.      ,        o reino.      ,        a classe.      ,        a família.      ,        a espécie.      , ,
+40,90,"
 
 
 Certas espécies de algas são capazes de absorver rapidamente compostos inorgânicos presentes na água, acumulando-os durante seu crescimento. Essa capacidade fez com que se pensasse em usá-las como biofiltros para a limpeza de ambientes aquáticos contaminados, removendo, por exemplo, nitrogênio e fósforo de resíduos orgânicos e metais pesados provenientes de rejeitos industriais lançados nas águas. Na técnica do cultivo integrado, animais e algas crescem de forma associada, promovendo um maior equilíbrio ecológico.
@@ -622,40 +658,48 @@ SORIANO, E. M. Filtros vivos para limpar a água. Revista Ciência Hoje. V. 37, 
 
 ","
 
+
 A utilização da técnica do cultivo integrado de animais e algas representa uma proposta favorável a um ecossistema mais equilibrado porque
 
 
-","os animais eliminam metais pesados, que são usados pelas algas para a síntese de biomassa.","os animais fornecem excretas orgânicos nitrogenados, que são transformados em gás carbônico pelas algas.","as algas usam os resíduos nitrogenados liberados pelos animais e eliminam gás carbônico na fotossíntese, usado na respiração aeróbica.","as algas usam os resíduos nitrogenados provenientes do metabolismo dos animais e, durante a síntese de compostos orgânicos, liberam oxigênio para o ambiente.","as algas aproveitam os resíduos do metabolismo dos animais e, durante a quimiossíntese de compostos orgânicos, liberam oxigênio para o ambiente.",D,
-42,88,"
+","        os animais eliminam metais pesados, que são usados pelas algas para a síntese de biomassa.      ","        os animais fornecem excretas orgânicos nitrogenados, que são transformados em gás carbônico pelas algas.      ","        as algas usam os resíduos nitrogenados liberados pelos animais e eliminam gás carbônico na fotossíntese, usado na respiração aeróbica.      ","        as algas usam os resíduos nitrogenados provenientes do metabolismo dos animais e, durante a síntese de compostos orgânicos, liberam oxigênio para o ambiente.      ","        as algas aproveitam os resíduos do metabolismo dos animais e, durante a quimiossíntese de compostos orgânicos, liberam oxigênio para o ambiente.      ", ,
+41,88,"
 
 Durante as estações chuvosas, aumentam no Brasil as campanhas de prevenção à dengue, que têm como objetivo a redução da proliferação do mosquito Aedes aegypti, transmissor do vírus da dengue.
 
 
 ","
 
+
 Que proposta preventiva poderia ser efetivada para diminuir a reprodução desse mosquito?
 
 
-","Colocação de telas nas portas e janelas, pois o mosquito necessita de ambientes cobertos e fechados para a sua reprodução.","Substituição das casas de barro por casas de alvenaria, haja vista que o mosquito se reproduz na parede das casas de barro.","Remoção dos recipientes que possam acumular água, porque as larvas do mosquito se desenvolvem nesse meio.","Higienização adequada de alimentos, visto que as larvas do mosquito se desenvolvem nesse tipo de substrato.","Colocação de filtros de água nas casas, visto que a reprodução do mosquito acontece em águas contaminadas.",C,
-43,89,"
+","        Colocação de telas nas portas e janelas, pois o mosquito necessita de ambientes cobertos e fechados para a sua reprodução.      ","        Substituição das casas de barro por casas de alvenaria, haja vista que o mosquito se reproduz na parede das casas de barro.      ","        Remoção dos recipientes que possam acumular água, porque as larvas do mosquito se desenvolvem nesse meio.      ","        Higienização adequada de alimentos, visto que as larvas do mosquito se desenvolvem nesse tipo de substrato.      ","        Colocação de filtros de água nas casas, visto que a reprodução do mosquito acontece em águas contaminadas.      ", ,
+42,86,"
+
+Um dos processos usados no tratamento do lixo é a incineração, que apresenta vantagens e desvantagens. Em São Paulo, por exemplo, o lixo é queimado a altas temperaturas e parte da energia liberada é transformada em energia elétrica. No entanto, a incineração provoca a
+emissão de poluentes na atmosfera.
+
+
+","
+
+
+Uma forma de minimizar a desvantagem da incineração, destacada no texto, é
+
+
+",        aumentar o volume do lixo incinerado para aumentar a produção de energia elétrica.      ,        fomentar o uso de filtros nas chaminés dos incineradores para diminuir a poluição do ar.      ,        aumentar o volume do lixo para baratear os custos operacionais relacionados ao processo.      ,        fomentar a coleta seletiva de lixo nas cidades para aumentar o volume de lixo incinerado.      ,        diminuir a temperatura de incineração do lixo para produzir maior quantidade de energia elétrica.      , ,
+43,85,"
 
 
 
 
-
-
-
-
-
-De acordo com o relatório “A grande sombra da pecuária” (Livestock’s Long Shadow), feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.
-
-Disponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010. (Foto: Reprodução/Enem)
 
 
 
 ","
 
-A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de
+
+Desprezando-se as forças dissipativas (resistência do ar e atrito), para que o salto atinja a maior altura possível, ou seja, o máximo de energia seja conservada, é necessário que
 
 
-",metano durante o processo de digestão.,óxido nitroso durante o processo de ruminação.,clorofluorcarbono durante o transporte de carne.,óxido nitroso durante o processo respiratório.,dióxido de enxofre durante o consumo de pastagens.,A,enem-data/enem-2011/89-images/context_img_0.png
+","        a energia cinética, representada na etapa I, seja totalmente convertida em energia potencial elástica representada na etapa IV.      ","        a energia cinética, representada na etapa II, seja totalmente convertida em energia potencial gravitacional, representada na etapa IV.      ","        a energia cinética, representada na etapa I, seja totalmente convertida em energia potencial gravitacional, representada na etapa III.      ","        a energia potencial gravitacional, representada na etapa II, seja totalmente convertida em energia potencial elástica, representada na etapa IV.      ","        a energia potencial gravitacional, representada na etapa I, seja totalmente convertida em energia potencial elástica, representada na etapa III.      ", ,enem-data/enem-2011/85-images/context_img_0.png

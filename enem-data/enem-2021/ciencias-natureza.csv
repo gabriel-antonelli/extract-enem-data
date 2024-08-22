@@ -1,5 +1,38 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,93,"
+0,91,"
+
+
+A deficiência de lipase ácida lisossômica é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores dos genes da doença até o nascimento do primeiro filho afetado. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença.
+
+ANDERSON, R. A. et. al. In: Situ Localization of the Genetic Locus Encoding the Lysosomal Acid Lipase/Cholesteryl Esterase (LIPA) Deficient in Wolman Disease to Chromosome 10q23.2-q23.3. Genomics, n. 1, jan, 1993 (adaptado).
+
+
+
+","
+
+
+Essa é uma doença hereditária de caráter
+
+
+",        recessivo.      ,        dominante.      ,        codominante.      ,        poligênico.      ,        polialélico.      , ,
+1,100,"
+
+
+Entre 2014 e 2016, as regiões central e oeste da África sofreram um grave epidemia de febre hemorrágica causada pelo vírus ebola, que se manifesta em até 21 dias após a infecção e cuja taxa de letalidade (enfermos que vão a óbito) pode chegar a 90%. Em regiões de clima tropical e subtropical, um outro vírus também pode causar febre hemorrágica: o vírus da dengue, que, embora tenha período de incubação menor (até 10 dias), apresenta taxa de letalidade abaixo de 1%.
+
+Disponível em: www.who.int. Acesso em: 1 fev. 2017 (adaptado).
+ 
+
+
+
+","
+
+
+Segundo as informações do texto e aplicando princípios de evolução biológica às relações do tipo patógeno-hospedeiro, qual dos dois vírus infecta seres humanos há mais tempo?
+
+
+","        Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.      ","        Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.      ","        Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.      ","        Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.      ","        Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro.      ", ,
+2,93,"
 
 
 O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0º GL a 100ºGL, com divisões de 0,1ºGL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20ºC, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.
@@ -22,11 +55,28 @@ Manual alcoolômetro Gay Lussac. Disponível em: www.incoterm.com.br. Acesso em:
 
 ","
 
+
 É necessário a correção da medida do instrumento, pois um aumento na temperatura promove o(a)
 
 
-",aumento da dissociação da água.,aumento da densidade da água e do álcool.,mudança do volume dos materiais por dilatação.,aumento da concentração de álcool durante a medida.,alteração das propriedades químicas da mistura álcool e água.,C,enem-data/enem-2021/93-images/context_img_0.png
-1,97,"
+",        aumento da dissociação da água.      ,        aumento da densidade da água e do álcool.      ,        mudança do volume dos materiais por dilatação.      ,        aumento da concentração de álcool durante a medida.      ,        alteração das propriedades químicas da mistura álcool e água.      , ,enem-data/enem-2021/93-images/context_img_0.png
+3,95,"
+
+
+Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.
+
+BICUDO, F. Jardineiro da pesada. Ecologia. Pesquisa Fapesp, ed. 231, maio 2015 (adaptado).
+
+
+
+","
+
+
+O evento descrito com a flora ocorreu em razão da redução
+
+
+",        da produção de flores.      ,        do tamanho das plantas.      ,        de fatores de disseminação das sementes.      ,        da quantidade de semente por fruto.      ,        dos hábitats disponíveis para as plantas.      , ,
+4,97,"
 
 
 Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.
@@ -35,11 +85,33 @@ Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertili
 
 ","
 
+
 Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de
 
 
-",nutrição para o fruto.,reserva para o embrião.,revestimento para a semente.,proteção para o megagametófito.,vascularização para a planta jovem.,B,
-2,98,"
+",        nutrição para o fruto.      ,        reserva para o embrião.      ,        revestimento para a semente.      ,        proteção para o megagametófito.      ,        vascularização para a planta jovem.      , ,
+5,99,"
+
+
+O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?
+
+
+",        30      ,        60      ,        100      ,        120      ,        180      , ,enem-data/enem-2021/99-images/context_img_0.png
+6,98,"
 
 
 Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as apresentadas no quadro.
@@ -55,40 +127,12 @@ Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria 
 
 ","
 
+
 O aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica saturada é de
 
 
-",kiwi.,banana.,pêssego.,rum.,uva.,B,enem-data/enem-2021/98-images/context_img_0.png
-3,102,"
-
-
-O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar o caule das roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.
-
-
-
-","
-
-A utilização de auxinas no método de estaquia das roseiras contribui para
-
-
-",floração da planta.,produção de gemas laterais.,formação de folhas maiores.,formação de raízes adventícias.,produção de compostos energéticos.,D,
-4,100,"
-
-
-Entre 2014 e 2016, as regiões central e oeste da África sofreram um grave epidemia de febre hemorrágica causada pelo vírus ebola, que se manifesta em até 21 dias após a infecção e cuja taxa de letalidade (enfermos que vão a óbito) pode chegar a 90%. Em regiões de clima tropical e subtropical, um outro vírus também pode causar febre hemorrágica: o vírus da dengue, que, embora tenha período de incubação menor (até 10 dias), apresenta taxa de letalidade abaixo de 1%.
-
-Disponível em: www.who.int. Acesso em: 1 fev. 2017 (adaptado).
- 
-
-
-
-","
-
-Segundo as informações do texto e aplicando princípios de evolução biológica às relações do tipo patógeno-hospedeiro, qual dos dois vírus infecta seres humanos há mais tempo?
-
-
-","Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.","Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.","Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.","Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.","Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro.",E,
-5,96,"
+",        kiwi.      ,        banana.      ,        pêssego.      ,        rum.      ,        uva.      , ,enem-data/enem-2021/98-images/context_img_0.png
+7,96,"
 
 
 Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais  lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas.
@@ -98,11 +142,72 @@ Após realizar um percurso de 110km, um motorista pretende recarregar as bateria
 
 ","
 
+
 Quantas horas são necessárias para recarregar a energia utilizadas nesse percurso?
 
 
-","0,005 ","0,125 ","2,5 ","5,0","8,0 ",D,
-6,104,"
+","        0,005       ","        0,125       ","        2,5       ","        5,0      ","        8,0       ", ,
+8,102,"
+
+
+O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar o caule das roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.
+
+
+
+","
+
+
+A utilização de auxinas no método de estaquia das roseiras contribui para
+
+
+",        floração da planta.      ,        produção de gemas laterais.      ,        formação de folhas maiores.      ,        formação de raízes adventícias.      ,        produção de compostos energéticos.      , ,
+9,106,"
+
+
+O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.
+
+
+
+
+
+
+
+
+
+
+
+
+Testes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.
+
+THOMAS, S; ZALBOWITZ, M. Full cells: green power. Losalamos National Laboratory. Los Alamos, NM, 1999 (adaptado).
+
+
+
+","
+
+
+A tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível
+
+
+",        AFC.      ,        MSFC.      ,        PEM.      ,        PAFC.      ,        SOFC.      , ,enem-data/enem-2021/106-images/context_img_0.png
+10,109,"
+
+
+Com o aumento da população de suínos no Brasil, torna-se necessária a adoção de métodos para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são 200 vezes mais poluentes. Sendo assim, a utilização desses resíduos como matéria-prima na obtenção de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que parte dos recursos hídricos do país são preservados.
+ 
+
+BECK, A. M. Resíduos suínos como alternativa energética sustentável. XXVII Encontro Nacional de Engenharia de Produção. Anais ENEGEP, Foz do Iguaçu, 2007 (adaptado).
+
+
+
+","
+
+
+O biocombustível a que se refere o texto é o
+
+
+",        etanol       ,        biogás       ,        butano       ,        metanol       ,        biodiesel      , ,
+11,104,"
 
 
 Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.
@@ -111,11 +216,82 @@ Analisando a ficha técnica de um automóvel popular, verificam-se algumas carac
 
 ","
 
+
 Considerando desprezível a resistência do ar, qual versão apresenta a maior potência?
 
 
-","Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.","Como a versão a gasolina atinge a maior valor de energia cinética, esta é a que desenvolve a maior potência.","Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.","Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.","Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência.",C,
-7,92,"
+","        Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.      ","        Como a versão a gasolina atinge a maior valor de energia cinética, esta é a que desenvolve a maior potência.      ","        Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.      ","        Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.      ","        Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência.      ", ,
+12,101,"
+
+
+A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+TAVARES, K. Estações de tratamento de esgoto individuais permitem a reutilização da água. Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).
+
+
+
+","
+
+
+Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?
+
+
+",        1      ,        2      ,        3      ,        5      ,        6      , ,enem-data/enem-2021/101-images/context_img_0.png
+13,107,"
+
+
+Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias úmidos,
+
+
+",        a temperatura do vapor-d'água presente no ar é alta.      ,        o suor apresenta maior dificuldade para evaporar do corpo.      ,        a taxa de absorção de radiação pelo corpo torna-se maior.      ,        o ar torna-se mau condutor e dificulta o processo de liberação de calor.      ,        o vapor-d'água presente no ar condensa-se ao entrar em contato com a pele.      , ,enem-data/enem-2021/107-images/context_img_0.png
+14,108,"
+
+
+As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricultura. Entre as várias substâncias usualmente encontradas, algumas são apresentadas na figura. A distinção dessas substâncias pode ser feita por meio de uma análise química qualitativa, ou seja, determinando sua presença mediante a adição de um reagente específico. O hidróxido de sódio é capaz de identificar a presença de um desses pesticidas pela reação ácido-base de Brönsted-Lowry.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+O teste positivo será observado com o pesticida
+
+
+",        I       ,        II      ,        III      ,        IV       ,        V      , ,enem-data/enem-2021/108-images/context_img_0.png
+15,92,"
 
 
 O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.
@@ -145,132 +321,12 @@ Considere que uma bateria é construída pela associação em série de três pi
 
 ","
 
+
 Essa bateria é adequada para o funcionamento de qual dispositivo eletrônico?
 
 
-",I,II,III,IV,V,D,"enem-data/enem-2021/92-images/context_img_0.png,enem-data/enem-2021/92-images/context_img_1.png"
-8,95,"
-
-
-Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.
-
-BICUDO, F. Jardineiro da pesada. Ecologia. Pesquisa Fapesp, ed. 231, maio 2015 (adaptado).
-
-
-
-","
-
-O evento descrito com a flora ocorreu em razão da redução
-
-
-",da produção de flores.,do tamanho das plantas.,de fatores de disseminação das sementes.,da quantidade de semente por fruto.,dos hábitats disponíveis para as plantas.,C,
-9,109,"
-
-
-Com o aumento da população de suínos no Brasil, torna-se necessária a adoção de métodos para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são 200 vezes mais poluentes. Sendo assim, a utilização desses resíduos como matéria-prima na obtenção de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que parte dos recursos hídricos do país são preservados.
- 
-
-BECK, A. M. Resíduos suínos como alternativa energética sustentável. XXVII Encontro Nacional de Engenharia de Produção. Anais ENEGEP, Foz do Iguaçu, 2007 (adaptado).
-
-
-
-","
-
-O biocombustível a que se refere o texto é o
-
-
-",etanol ,biogás ,butano ,metanol ,biodiesel,B,
-10,101,"
-
-
-A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.
-
-
-
-
-
-
-
-
-
-
-
-
-
-TAVARES, K. Estações de tratamento de esgoto individuais permitem a reutilização da água. Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).
-
-
-
-","
-
-Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?
-
-
-",1,2,3,5,6,C,enem-data/enem-2021/101-images/context_img_0.png
-11,91,"
-
-
-A deficiência de lipase ácida lisossômica é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores dos genes da doença até o nascimento do primeiro filho afetado. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença.
-
-ANDERSON, R. A. et. al. In: Situ Localization of the Genetic Locus Encoding the Lysosomal Acid Lipase/Cholesteryl Esterase (LIPA) Deficient in Wolman Disease to Chromosome 10q23.2-q23.3. Genomics, n. 1, jan, 1993 (adaptado).
-
-
-
-","
-
-Essa é uma doença hereditária de caráter
-
-
-",recessivo.,dominante.,codominante.,poligênico.,polialélico.,A,
-12,99,"
-
-
-O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.
-
-
-
-
-
-
-
-
-
-
-","
-
-De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?
-
-
-",30,60,100,120,180,B,enem-data/enem-2021/99-images/context_img_0.png
-13,106,"
-
-
-O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.
-
-
-
-
-
-
-
-
-
-
-
-
-Testes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.
-
-THOMAS, S; ZALBOWITZ, M. Full cells: green power. Losalamos National Laboratory. Los Alamos, NM, 1999 (adaptado).
-
-
-
-","
-
-A tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível
-
-
-",AFC.,MSFC.,PEM.,PAFC.,SOFC.,C,enem-data/enem-2021/106-images/context_img_0.png
-14,110,"
+",        I      ,        II      ,        III      ,        IV      ,        V      , ,"enem-data/enem-2021/92-images/context_img_0.png,enem-data/enem-2021/92-images/context_img_1.png"
+16,110,"
 
 
 A curcumina, uma das substâncias que confere a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto após ser ingerida com a água do criadouro e, quando ativada pela luz, induz a produção de espécies reativas de oxigênio que danificam de forma fatal o tecido do tubo digestório.
@@ -282,14 +338,31 @@ TOLEDO, K. Corante do açafrão pode ser útil no combate à dengue. Disponível
 
 ","
 
+
 A forma de combate relatada tem como atividade o(a)
 
 
-",morte do indivíduo adulto.,redução da eclosão dos ovos.,comprometimento da metamorfose.,impedimento do desenvolvimento da larva.,repelência da forma transmissora da doença.,D,
-15,108,"
+",        morte do indivíduo adulto.      ,        redução da eclosão dos ovos.      ,        comprometimento da metamorfose.      ,        impedimento do desenvolvimento da larva.      ,        repelência da forma transmissora da doença.      , ,
+17,94,"
 
 
-As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricultura. Entre as várias substâncias usualmente encontradas, algumas são apresentadas na figura. A distinção dessas substâncias pode ser feita por meio de uma análise química qualitativa, ou seja, determinando sua presença mediante a adição de um reagente específico. O hidróxido de sódio é capaz de identificar a presença de um desses pesticidas pela reação ácido-base de Brönsted-Lowry.
+O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.
+
+ROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. Química Nova na Escola. n. 12, 2000 (adaptado).
+
+
+
+","
+
+
+Um exemplo desse polímero é representado pela estrutura
+
+
+",enem-data/enem-2021/94-images/alt_img_0.png,enem-data/enem-2021/94-images/alt_img_1.png,enem-data/enem-2021/94-images/alt_img_2.png,enem-data/enem-2021/94-images/alt_img_3.png,enem-data/enem-2021/94-images/alt_img_4.png, ,
+18,105,"
+
+
+Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.
 
 
 
@@ -302,14 +375,37 @@ As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricul
 
 ","
 
-O teste positivo será observado com o pesticida
+
+O garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por
 
 
-",I ,II,III,IV ,V,C,enem-data/enem-2021/108-images/context_img_0.png
-16,107,"
+",enem-data/enem-2021/105-images/alt_img_0.png,enem-data/enem-2021/105-images/alt_img_1.png,enem-data/enem-2021/105-images/alt_img_2.png,enem-data/enem-2021/105-images/alt_img_3.png,enem-data/enem-2021/105-images/alt_img_4.png, ,enem-data/enem-2021/105-images/context_img_0.png
+19,120,"
 
 
-Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.
+O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.
+
+FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Fransciscana calls for help: […]. International Whaling Commission, Conference Paper, jun. 2016 (adaptado)
+
+
+
+","
+
+
+Concentrações mais elevadas dos compostos citados são encontradas em
+
+
+",        esponjas.      ,        golfinhos.      ,        fitoplâncton.      ,        peixes herbívoros.      ,        algas macroscópicas.      , ,
+20,119,"
+
+
+Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulosa (componentes inertes). O técnico realizou os seguintes testes:
+1) obtenção da massa do comprimido;
+2) medição da densidade do comprimido;
+3) verificação do pH com papel indicador;
+4) determinação da temperatura de fusão do comprimido;
+5) titulação com solução aquosa de NaOH.
+Após a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.
 
 
 
@@ -322,45 +418,15 @@ Considere a tirinha, na situação em que a temperatura do ambiente é inferior 
 
 ","
 
-O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias úmidos,
+
+O teste permitiu reprovar o lote de analgésicos foi o de número
 
 
-",a temperatura do vapor-d'água presente no ar é alta.,o suor apresenta maior dificuldade para evaporar do corpo.,a taxa de absorção de radiação pelo corpo torna-se maior.,o ar torna-se mau condutor e dificulta o processo de liberação de calor.,o vapor-d'água presente no ar condensa-se ao entrar em contato com a pele.,B,enem-data/enem-2021/107-images/context_img_0.png
-17,113,"
+",        1      ,        2      ,        3      ,        4      ,        5      , ,enem-data/enem-2021/119-images/context_img_0.png
+21,114,"
 
 
-A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.
-
-
-
-
-
-
-
-
-
-
-
-
-Em uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL. O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.
-
-
-
-","
-
-O volume de etanol, em litro, obtido nesse processo é mais próximo de
-
-
-",16.,20.,25.,64.,100.,C,enem-data/enem-2021/113-images/context_img_0.png
-18,111,"
-
-
-Na cidade de São Paulo, as ilhas de calor são responsáveis pela alteração da direção do fluxo da brisa marítima que deveria atingir a região de mananciais. Mas, ao cruzar a ilha de calor, a brisa marítima agora encontra um fluxo de ar vertical, que transfere para ela energia térmica absorvidas das superfícies quentes da cidade, deslocando-a para altas altitudes. Dessa maneira, há condensação e chuvas fortes no centro da cidade, em vez de na região de mananciais. A imagem apresenta os três subsistemas que trocam energia nesse fenômeno.
-
-No processo de fortes chuvas no centro da cidade de São Paulo,  há dois mecanismos dominantes de transferência de calor: entre o Sol e ilha de calor, e entre a ilha de calor e a brisa marítima.
- 
-VIVEIROS, M. Ilhas de calor afastam chuvas de represas.
-Disponível em: www2.feis.unesp.br. Acesso em: 3 de dez. 2019 (adaptado).
+Com o objetivo de identificar a melhor espécie produtora de madeira para construção 9com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.
 
 
 
@@ -373,11 +439,26 @@ Disponível em: www2.feis.unesp.br. Acesso em: 3 de dez. 2019 (adaptado).
 
 ","
 
-Esses mecanismos são, respectivamente,
+
+Qual espécie corresponde ao objetivo proposto?
 
 
-",irradiação e convecção.,irradiação e irradiação.,condução e irradiação.,convecção e irradiação.,convecção e convecção.,A,enem-data/enem-2021/111-images/context_img_0.png
-19,116,"
+",        1      ,        2      ,        3      ,        4      ,        5      , ,enem-data/enem-2021/114-images/context_img_0.png
+22,118,"
+
+
+Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.
+
+
+
+","
+
+
+O processo metabólico associado à expressão combustíveis ambientais é a
+
+
+",        fotossíntese.      ,        fermentação.      ,        quimiossíntese.      ,        respiração aeróbica.      ,        fosforilação oxidativa.      , ,
+23,116,"
 
 
 TEXTO I
@@ -411,39 +492,108 @@ Acesso em: 8 de nov. 2019 (adaptado)
 
 ","
 
+
 Considerando os versos de sextilha e as informações da tabela, a qual planeta o cordel faz referência?
 
 
-",Mercúrio,Júpiter,Urano,Saturno,Netuno,D,
-20,118,"
+",        Mercúrio      ,        Júpiter      ,        Urano      ,        Saturno      ,        Netuno      , ,
+24,113,"
 
 
-Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.
+A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.
 
 
 
-","
-
-O processo metabólico associado à expressão combustíveis ambientais é a
 
 
-",fotossíntese.,fermentação.,quimiossíntese.,respiração aeróbica.,fosforilação oxidativa.,B,
-21,120,"
 
 
-O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.
 
-FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Fransciscana calls for help: […]. International Whaling Commission, Conference Paper, jun. 2016 (adaptado)
+
+
+
+
+Em uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL. O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.
 
 
 
 ","
 
-Concentrações mais elevadas dos compostos citados são encontradas em
+
+O volume de etanol, em litro, obtido nesse processo é mais próximo de
 
 
-",esponjas.,golfinhos.,fitoplâncton.,peixes herbívoros.,algas macroscópicas.,B,
-22,117,"
+",        16.      ,        20.      ,        25.      ,        64.      ,        100.      , ,enem-data/enem-2021/113-images/context_img_0.png
+25,123,"
+
+
+Os búfalos são animais considerados rústicos pelos criadores e, por isso, são deixados no campo sem controle reprodutivo. Por causa desse tipo de criação, a consanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas.
+ 
+
+DAME,M. C. F. RIET-CORREA, F: SCHILF, A. L; Pesq. Vet. Bras., n. 7. 2013 (adaptado).
+
+
+
+","
+
+
+Qual procedimento biotecnológico prévio é recomendado nessa situação?
+
+
+",        Transgenia.      ,        Terapia gênica.      ,        Vacina de DNA.      ,        Clonagem terapêutica.      ,        Mapeamento genético.      , ,
+26,122,"
+
+
+Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:
+1) Sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;
+2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e
+3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.
+
+
+
+","
+
+
+Para completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?
+
+
+",        Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.      ,        Filmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.      ,        Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.      ,"        Divulgar na rádio local, no local impresso e nas redes sociais que a escola está realizando a coleta seletiva.      ",        Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população.      , ,
+27,125,"
+
+
+Um dos exames clínicos mais tradicionais para medir a capacidade reflexa dos indivíduos é o exame do reflexo patelar. Esse exame consiste na estimulação da patela, um pequeno osso localizado na parte anterior da articulação do joelho, com um pequeno martelo. A resposta reflexa ao estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado.
+
+
+
+","
+
+
+Qual região específica do sistema nervoso coordena essa resposta?
+
+
+",        Ponte.      ,        Medula.      ,        Cerebelo.      ,        Hipotálamo.      ,        Neuro-hipófise.      , ,
+28,124,"
+
+
+O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao seu estado inicial ao final do ciclo.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+A reação de redução do cobre ocorre na etapa
+
+
+",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      , ,enem-data/enem-2021/124-images/context_img_0.png
+29,117,"
 
 
 Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo).
@@ -467,118 +617,13 @@ Science, n. 335, jan. 2012 (adaptado)
 
 ","
 
+
 As resistências elétricas dos fios, em ordem crescente, são
  
 
 
-",R1 < R2 < R3< R4,R2 < R1 < R3< R4,R2 < R3 < R1< R4,R4 < R1 < R3< R2,R4 < R3 < R2< R1,C,enem-data/enem-2021/117-images/context_img_0.png
-23,122,"
-
-
-Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:
-1) Sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;
-2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e
-3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.
-
-
-
-","
-
-Para completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?
-
-
-",Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.,Filmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.,Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.,"Divulgar na rádio local, no local impresso e nas redes sociais que a escola está realizando a coleta seletiva.",Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população.,B,
-24,125,"
-
-
-Um dos exames clínicos mais tradicionais para medir a capacidade reflexa dos indivíduos é o exame do reflexo patelar. Esse exame consiste na estimulação da patela, um pequeno osso localizado na parte anterior da articulação do joelho, com um pequeno martelo. A resposta reflexa ao estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado.
-
-
-
-","
-
-Qual região específica do sistema nervoso coordena essa resposta?
-
-
-",Ponte.,Medula.,Cerebelo.,Hipotálamo.,Neuro-hipófise.,B,
-25,123,"
-
-
-Os búfalos são animais considerados rústicos pelos criadores e, por isso, são deixados no campo sem controle reprodutivo. Por causa desse tipo de criação, a consanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas.
- 
-
-DAME,M. C. F. RIET-CORREA, F: SCHILF, A. L; Pesq. Vet. Bras., n. 7. 2013 (adaptado).
-
-
-
-","
-
-Qual procedimento biotecnológico prévio é recomendado nessa situação?
-
-
-",Transgenia.,Terapia gênica.,Vacina de DNA.,Clonagem terapêutica.,Mapeamento genético.,E,
-26,119,"
-
-
-Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulosa (componentes inertes). O técnico realizou os seguintes testes:
-1) obtenção da massa do comprimido;
-2) medição da densidade do comprimido;
-3) verificação do pH com papel indicador;
-4) determinação da temperatura de fusão do comprimido;
-5) titulação com solução aquosa de NaOH.
-Após a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.
-
-
-
-
-
-
-
-
-
-
-","
-
-O teste permitiu reprovar o lote de analgésicos foi o de número
-
-
-",1,2,3,4,5,E,enem-data/enem-2021/119-images/context_img_0.png
-27,114,"
-
-
-Com o objetivo de identificar a melhor espécie produtora de madeira para construção 9com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.
-
-
-
-
-
-
-
-
-
-
-","
-
-Qual espécie corresponde ao objetivo proposto?
-
-
-",1,2,3,4,5,A,enem-data/enem-2021/114-images/context_img_0.png
-28,94,"
-
-
-O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.
-
-ROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. Química Nova na Escola. n. 12, 2000 (adaptado).
-
-
-
-","
-
-Um exemplo desse polímero é representado pela estrutura
-
-
-",enem-data/enem-2021/94-images/alt_img_0.png,enem-data/enem-2021/94-images/alt_img_1.png,enem-data/enem-2021/94-images/alt_img_2.png,enem-data/enem-2021/94-images/alt_img_3.png,enem-data/enem-2021/94-images/alt_img_4.png,D,
-29,129,"
+",        R1 < R2 < R3< R4      ,        R2 < R1 < R3< R4      ,        R2 < R3 < R1< R4      ,        R4 < R1 < R3< R2      ,        R4 < R3 < R2< R1      , ,enem-data/enem-2021/117-images/context_img_0.png
+30,129,"
 
 
 Os pesticidas organoclorados foram amplamente empregados na agricultura, contudo, em razão das suas elevadas toxicidades e persistências no meio ambiente, eles foram banidos. Considere a aplicação de 500 g de um pesticida organoclorado em uma cultura e que, em certas condições, o tempo de meia-vida do pesticida no solo seja de 5 anos.
@@ -587,14 +632,20 @@ Os pesticidas organoclorados foram amplamente empregados na agricultura, contudo
 
 ","
 
+
 A massa do pesticida no decorrer de 35 anos será mais próxima de
 
 
-","3,9 g.","31, 2 g.","62,5 g.","125,0 g.","250,0 g.",A,
-30,124,"
+","        3,9 g.      ","        31, 2 g.      ","        62,5 g.      ","        125,0 g.      ","        250,0 g.      ", ,
+31,111,"
 
 
-O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao seu estado inicial ao final do ciclo.
+Na cidade de São Paulo, as ilhas de calor são responsáveis pela alteração da direção do fluxo da brisa marítima que deveria atingir a região de mananciais. Mas, ao cruzar a ilha de calor, a brisa marítima agora encontra um fluxo de ar vertical, que transfere para ela energia térmica absorvidas das superfícies quentes da cidade, deslocando-a para altas altitudes. Dessa maneira, há condensação e chuvas fortes no centro da cidade, em vez de na região de mananciais. A imagem apresenta os três subsistemas que trocam energia nesse fenômeno.
+
+No processo de fortes chuvas no centro da cidade de São Paulo,  há dois mecanismos dominantes de transferência de calor: entre o Sol e ilha de calor, e entre a ilha de calor e a brisa marítima.
+ 
+VIVEIROS, M. Ilhas de calor afastam chuvas de represas.
+Disponível em: www2.feis.unesp.br. Acesso em: 3 de dez. 2019 (adaptado).
 
 
 
@@ -607,11 +658,12 @@ O ciclo do cobre é um experimento didático em que o cobre metálico é utiliza
 
 ","
 
-A reação de redução do cobre ocorre na etapa
+
+Esses mecanismos são, respectivamente,
 
 
-",I.,II.,III.,IV.,V.,E,enem-data/enem-2021/124-images/context_img_0.png
-31,131,"
+",        irradiação e convecção.      ,        irradiação e irradiação.      ,        condução e irradiação.      ,        convecção e irradiação.      ,        convecção e convecção.      , ,enem-data/enem-2021/111-images/context_img_0.png
+32,131,"
 
 
 A simples atitude de não jogar direto no lixo ou no ralo da pia o óleo de cozinha usado pode contribuir para a redução da poluição ambiental. Mas o que fazer com o óleo vegetal que não será mais usado? Não existe um modelo ideal de descarte, mas uma alternativa simples tem sido reaproveitá-lo para fazer sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica.
@@ -622,23 +674,11 @@ LOBO, I. Sabão feito com óleo de cozinha. Disponível em: http://pga.pgr.mpf.g
 
 ","
 
+
 Com base no texto, a reação química que permite o reaproveitamento do óleo vegetal é denominada
 
 
-",redução.,epoxidação.,substituição.,esterificação. ,saponificação. ,E,
-32,132,"
-
-
-Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os átrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação não causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o nascimento.
-
-
-
-","
-
-Os prejuízos no período embrionário são evitados porque a circulação fetal se assemelha à dos (as)
-
-
-","aves, porque a pequena circulação e a grande circulação estão presentes.","répteis, porque a mistura de sangue é minimizada por um metabolismo lento.","crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.","peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.","anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.",D,
+",        redução.      ,        epoxidação.      ,        substituição.      ,        esterificação.       ,        saponificação.       , ,
 33,130,"
 
 
@@ -662,31 +702,53 @@ Pesquisadores submeteram a sequência a mutações independentes. Sabe-se que os
 
 ","
 
+
 Qual mutação produzirá a menor proteína?
 
 
-",Deleção de G no códon 3.,Substituição de C por U no códon 4.,Substituição de G por C no códon 6.,Substituição de A por G no códon 7.,Deleção dos dois primeiros nucleotídeos no códon 5.,B,enem-data/enem-2021/130-images/context_img_0.png
-34,105,"
+",        Deleção de G no códon 3.      ,        Substituição de C por U no códon 4.      ,        Substituição de G por C no códon 6.      ,        Substituição de A por G no códon 7.      ,        Deleção dos dois primeiros nucleotídeos no códon 5.      , ,enem-data/enem-2021/130-images/context_img_0.png
+34,132,"
 
 
-Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.
-
-
-
-
-
-
-
+Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os átrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação não causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o nascimento.
 
 
 
 ","
 
-O garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por
+
+Os prejuízos no período embrionário são evitados porque a circulação fetal se assemelha à dos (as)
 
 
-",enem-data/enem-2021/105-images/alt_img_0.png,enem-data/enem-2021/105-images/alt_img_1.png,enem-data/enem-2021/105-images/alt_img_2.png,enem-data/enem-2021/105-images/alt_img_3.png,enem-data/enem-2021/105-images/alt_img_4.png,D,enem-data/enem-2021/105-images/context_img_0.png
-35,135,"
+","        aves, porque a pequena circulação e a grande circulação estão presentes.      ","        répteis, porque a mistura de sangue é minimizada por um metabolismo lento.      ","        crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.      ","        peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.      ","        anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.      ", ,
+35,134,"
+
+
+O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.
+
+
+
+
+
+
+
+
+
+
+
+
+Considere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.
+
+
+
+","
+
+
+As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,
+
+
+",        f1< f2 e v1 < v2.      ,        f1 < f2 e v1 = v2.      ,        f1< f2 e v1 > v2.      ,        f1 > f2 e v1 = v2.      ,        f1 > f2 e v1 > v2.      , ,enem-data/enem-2021/134-images/context_img_0.png
+36,135,"
 
 
 O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos. Frequentemente, muda a orientação de seus tentáculos, assemelhando-se a alguns animais. As imagens 1, 3, e 5 apresentam polvos mimetizando, respectivamente, um peixe-linguado (2), um peixe-leão (4) e uma serpente-marinha (6).
@@ -710,57 +772,12 @@ Disponível em: www.researchgate.net. Acesso em: 15 mar. 2014 (adaptado).
 
 ","
 
+
 Do ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos
 
 
-",originaram-se do mesmo ancestral que esses animais.,passaram por mutações similares a esses organismos.,observaram esses animais em seus nichos ecológicos.,resultaram de convergência adaptativa com essas espécies.,sobrevivem às pressões seletivas com esses comportamentos,E,enem-data/enem-2021/135-images/context_img_0.png
-36,134,"
-
-
-O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.
-
-
-
-
-
-
-
-
-
-
-
-
-Considere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.
-
-
-
-","
-
-As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,
-
-
-",f1< f2 e v1 < v2.,f1 < f2 e v1 = v2.,f1< f2 e v1 > v2.,f1 > f2 e v1 = v2.,f1 > f2 e v1 > v2.,D,enem-data/enem-2021/134-images/context_img_0.png
-37,121,"
-
-
-Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme  , da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade  que atua na região.
-
-
-
-
-
-
-
-
-
-
-","
-
-Visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as cargas penetram na região de campo magnético, está representado em
-
-
-",enem-data/enem-2021/121-images/alt_img_0.png,enem-data/enem-2021/121-images/alt_img_1.png,enem-data/enem-2021/121-images/alt_img_2.png,enem-data/enem-2021/121-images/alt_img_3.png,,A,"enem-data/enem-2021/121-images/context_img_0.png,enem-data/enem-2021/121-images/context_img_1.png,enem-data/enem-2021/121-images/context_img_2.png"
-38,127,"
+",        originaram-se do mesmo ancestral que esses animais.      ,        passaram por mutações similares a esses organismos.      ,        observaram esses animais em seus nichos ecológicos.      ,        resultaram de convergência adaptativa com essas espécies.      ,        sobrevivem às pressões seletivas com esses comportamentos      , ,enem-data/enem-2021/135-images/context_img_0.png
+37,127,"
 
 
 É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.
@@ -776,10 +793,32 @@ Visto de cima, o diagrama esquemático das forças magnéticas que atuam no sist
 
 ","
 
+
 Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é
 
 
-",enem-data/enem-2021/127-images/alt_img_0.png,enem-data/enem-2021/127-images/alt_img_1.png,enem-data/enem-2021/127-images/alt_img_2.png,enem-data/enem-2021/127-images/alt_img_3.png,enem-data/enem-2021/127-images/alt_img_4.png,B,enem-data/enem-2021/127-images/context_img_0.png
+",enem-data/enem-2021/127-images/alt_img_0.png,enem-data/enem-2021/127-images/alt_img_1.png,enem-data/enem-2021/127-images/alt_img_2.png,enem-data/enem-2021/127-images/alt_img_3.png,enem-data/enem-2021/127-images/alt_img_4.png, ,enem-data/enem-2021/127-images/context_img_0.png
+38,121,"
+
+
+Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme  , da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade  que atua na região.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+Visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as cargas penetram na região de campo magnético, está representado em
+
+
+",enem-data/enem-2021/121-images/alt_img_0.png,enem-data/enem-2021/121-images/alt_img_1.png,enem-data/enem-2021/121-images/alt_img_2.png,enem-data/enem-2021/121-images/alt_img_3.png,, ,"enem-data/enem-2021/121-images/context_img_0.png,enem-data/enem-2021/121-images/context_img_1.png,enem-data/enem-2021/121-images/context_img_2.png"
 39,133,"
 
 
@@ -803,10 +842,11 @@ LENZI, E; FAVERO, L. O. B; LUCHESE, E. B. Introdução à química da água: ci�
 
 ","
 
+
 Para correção do pH da solução nutritiva preparada, esse produtor pode empregar uma solução de
 
 
-",enem-data/enem-2021/133-images/alt_img_0.png,enem-data/enem-2021/133-images/alt_img_1.png,enem-data/enem-2021/133-images/alt_img_2.png,enem-data/enem-2021/133-images/alt_img_3.png,enem-data/enem-2021/133-images/alt_img_4.png,E,enem-data/enem-2021/133-images/context_img_0.png
+",enem-data/enem-2021/133-images/alt_img_0.png,enem-data/enem-2021/133-images/alt_img_1.png,enem-data/enem-2021/133-images/alt_img_2.png,enem-data/enem-2021/133-images/alt_img_3.png,enem-data/enem-2021/133-images/alt_img_4.png, ,enem-data/enem-2021/133-images/context_img_0.png
 40,126,"
 
 
@@ -817,7 +857,8 @@ Compara-se uma panela de ferro, uma de alumínio e uma composta de  da espessu
 
 ","
 
+
 A ordem crescente da mais econômica para a menos econômica é
 
 
-","cobre-aço, alumínio e ferro.","alumínio, cobre-aço e ferro","cobre-aço, ferro e alumínio","alumínio, ferro e cobre-aço","ferro, alumínio e cobre-aço",B,"enem-data/enem-2021/126-images/context_img_0.png,enem-data/enem-2021/126-images/context_img_1.png,enem-data/enem-2021/126-images/context_img_2.png,enem-data/enem-2021/126-images/context_img_3.png,enem-data/enem-2021/126-images/context_img_4.png,enem-data/enem-2021/126-images/context_img_5.png,enem-data/enem-2021/126-images/context_img_6.png,enem-data/enem-2021/126-images/context_img_7.png,enem-data/enem-2021/126-images/context_img_8.png"
+","        cobre-aço, alumínio e ferro.      ","        alumínio, cobre-aço e ferro      ","        cobre-aço, ferro e alumínio      ","        alumínio, ferro e cobre-aço      ","        ferro, alumínio e cobre-aço      ", ,"enem-data/enem-2021/126-images/context_img_0.png,enem-data/enem-2021/126-images/context_img_1.png,enem-data/enem-2021/126-images/context_img_2.png,enem-data/enem-2021/126-images/context_img_3.png,enem-data/enem-2021/126-images/context_img_4.png,enem-data/enem-2021/126-images/context_img_5.png,enem-data/enem-2021/126-images/context_img_6.png,enem-data/enem-2021/126-images/context_img_7.png,enem-data/enem-2021/126-images/context_img_8.png"

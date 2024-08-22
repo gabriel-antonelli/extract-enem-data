@@ -1,40 +1,34 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,1,"
+0,53,"
 
 
-A atmosfera terrestre é composta pelos gases nitrogênio (N2) e oxigênio (O2), que somam cerca de 99%, e por gases traços, entre eles o gás carbônico (CO2), vapor de água (H2O), metano (CH4), ozônio (O3) e o óxido nitroso (N2O), que compõem o restante 1% do ar que respiramos. Os gases traços, por serem constituídos por pelo menos três átomos, conseguem absorver o calor irradiado pela Terra, aquecendo o planeta. Esse fenômeno, que acontece
-há bilhões de anos, é chamado de efeito estufa. A partir da Revolução Industrial (século XIX), a concentração de gases traços na atmosfera, em particular o CO2, tem aumentado significativamente, o que resultou no aumento da temperatura em escala global. Mais recentemente, outro fator tornou-se diretamente envolvido no aumento da concentração de CO2 na atmosfera: o desmatamento.
-
-BROWN, I. F.; ALECHANDRE, A. S. Conceitos básicos sobre clima,carbono, florestas e comunidades. A.G. Moreira & S. Schwartzman. As mudanças climáticas globais e os ecossistemas brasileiros. Brasília: Instituto de Pesquisa Ambiental da Amazônia, 2000 (adaptado).
-
-
-
-","
-
-Considerando o texto, uma alternativa viável para combater o efeito estufa é
-
-
-",reduzir o calor irradiado pela Terra mediante a substituição da produção primária pela industrialização refrigerada.,"promover a queima da biomassa vegetal, responsável pelo aumento do efeito estufa devido à produção de CH4.","reduzir o desmatamento, mantendo-se, assim, o potencial da vegetação em absorver o CO2 da atmosfera.","aumentar a concentração atmosférica de H2O, molécula capaz de absorver grande quantidade de calor.","remover moléculas orgânicas polares da atmosfera, diminuindo a capacidade delas de reter calor.",C,
-1,49,"
-
-
-
-Hoje em dia, nas grandes cidades, enterrar os mortos é uma prática quase íntima, que diz respeito apenas à família. A menos, é claro, que se trate de uma personalidade conhecida. Entretanto, isso nem sempre foi assim. Para um historiador, os sepultamentos são uma fonte de informações importantes para que se compreenda, por exemplo, a vida política das sociedades.
-
-
+Do ponto de vista geopolítico, a Guerra Fria dividiu a Europa em dois blocos. Essa divisão propiciou a formação de alianças antagônicas de caráter militar, como a OTAN, que aglutinava os países do bloco ocidental, e o Pacto de Varsóvia, que concentrava os do bloco oriental. É importante destacar que, na formação da OTAN, estão presentes, além dos países do oeste europeu, os EUA e o Canadá. Essa divisão histórica atingiu igualmente os âmbitos político e econômico que se refletia pela opção entre os modelos capitalista e socialista.
 
 
 
 ","
 
 
-
-No que se refere às práticas sociais ligadas aos sepultamentos,
-
+Essa divisão europeia ficou conhecida como
 
 
+",        Cortina de Ferro.      ,        Muro de Berlim.      ,        União Europeia.      ,        Convenção de Ramsar.      ,        Conferência de Estocolmo.      , ,
+1,13,"
 
-","na Grécia Antiga, as cerimônias fúnebres eram desvalorizadas, porque o mais importante era a democracia experimentada pelos vivos.","na Idade Média, a Igreja tinha pouca influência sobre os rituais fúnebres, preocupando-se mais com a salvação da alma.","no Brasil colônia, o sepultamento dos mortos nas igrejas era regido pela observância da hierarquia social.","na época da Reforma, o catolicismo condenou os excessos de gastos que a burguesia fazia para sepultar seus mortos.","no período posterior à Revolução Francesa, devido as grandes perturbações sociais, abandona-se a prática do luto.",C,
+
+A abertura e a pavimentação de rodovias em zonas rurais e regiões afastadas dos centros urbanos, por um lado, possibilita melhor acesso e maior integração entre as comunidades, contribuindo com o desenvolvimento social e urbano de populações isoladas. Por outro lado, a construção de rodovias pode trazer impactos indesejáveis ao meio ambiente, visto que a abertura de estradas pode resultar na fragmentação de habitats, comprometendo o fluxo gênico e as interações entre espécies silvestres, além de prejudicar o fluxo natural de rios e riachos, possibilitar o ingresso de espécies exóticas em ambientes naturais e aumentar a pressão antrópica sobre os ecossistemas nativos.
+
+BARBOSA, N. P. U.; FERNANDES, G. W. A destruição do jardim. Scientific American Brasil. Ano 7, número 80, dez. 2008 (adaptado).
+
+
+
+","
+
+
+Nesse contexto, para conciliar os interesses aparentemente contraditórios entre o progresso social e urbano e a conservação do meio ambiente, seria razoável
+
+
+","        impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, pois a qualidade de vida e as tecnologias encontradas nos centros urbanos são prescindíveis às populações rurais.      ","        impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, promovendo a migração das populações rurais para os centros urbanos, onde a qualidade de vida é melhor.      ","        permitir a abertura e a pavimentação de rodovias apenas em áreas rurais produtivas, haja vista que nas demais áreas o retorno financeiro necessário para produzir uma melhoria na qualidade de vida da região não é garantido.      ","        permitir a abertura e a pavimentação de rodovias, desde que comprovada a sua real necessidade e após a realização de estudos que demonstrem ser possível contornar ou compensar seus impactos ambientais.      ","        permitir a abertura e a pavimentação de rodovias, haja vista que os impactos ao meio ambiente são temporários e podem ser facilmente revertidos com as tecnologias existentes para recuperação de áreas degradadas.      ", ,
 2,51,"
 
 
@@ -49,28 +43,67 @@ Os regimes totalitários da primeira metade do século XX apoiaram-se fortemente
 
 
 
+
 A atuação desses movimentos juvenis caracterizava-se:
 
 
 
 
-",pelo sectarismo e pela forma violenta e radical com que enfrentavam os opositores ao regime.,pelas propostas de conscientização da população acerca dos seus direitos como cidadãos.,"pela promoção de um modo de vida saudável, que mostrava os jovens como exemplos a seguir.","pelo diálogo, ao organizar debates que opunham jovens idealistas e velhas lideranças conservadoras.",pelos métodos políticos populistas e pela organização de comícios multitudinários.,A,
-3,9,"
+",        pelo sectarismo e pela forma violenta e radical com que enfrentavam os opositores ao regime.      ,        pelas propostas de conscientização da população acerca dos seus direitos como cidadãos.      ,"        pela promoção de um modo de vida saudável, que mostrava os jovens como exemplos a seguir.      ","        pelo diálogo, ao organizar debates que opunham jovens idealistas e velhas lideranças conservadoras.      ",        pelos métodos políticos populistas e pela organização de comícios multitudinários.      , ,
+3,48,"
 
 
-As mudanças climáticas e da vegetação ocorridas nos trópicos da América do Sul têm sido bem documentadas por diversos autores, existindo um grande acúmulo de evidências geológicas ou paleoclimatológicas que evidenciam essas mudanças ocorridas durante o Quaternário nessa região. Essas mudanças resultaram em restrição da distribuição das florestas pluviais, com expansões concomitantes de habitats não-florestais durante períodos áridos (glaciais), seguido da expansão das florestas pluviais e restrição das áreas não-florestais durante períodos úmidos (interglaciais).
 
-Disponível em: http://zoo.bio.ufpr.br. Acesso em: 1 maio 2009.
+A Idade Média é um extenso período da História do Ocidente cuja memória é construída e reconstruída segundo as circunstâncias das épocas posteriores. Assim, desde o Renascimento, esse período vem sendo alvo de diversas interpretações que dizem mais sobre o contexto histórico em que são produzidas do que propriamente sobre o Medievo.
+
+
 
 
 
 ","
 
-Durante os períodos glaciais,
 
 
-",as áreas não-florestais ficam restritas a refúgios ecológicos devido à baixa adaptabilidade de espécies não-florestais a ambientes áridos.,"grande parte da diversidade de espécies vegetais é reduzida, uma vez que necessitam de condições semelhantes a dos períodos interglaciais.","a vegetação comum ao cerrado deve ter se limitado a uma pequena região do centro do Brasil, da qual se expandiu até atingir a atual distribuição.","plantas com adaptações ao clima árido, como o desenvolvimento de estruturas que reduzem a perda de água, devem apresentar maior área de distribuição.","florestas tropicais como a amazônica apresentam distribuição geográfica mais ampla, uma vez que são densas e diminuem a ação da radiação solar sobre o solo e reduzem os efeitos da aridez.",D,
-4,50,"
+
+Um exemplo acerca do que está exposto no texto acima é
+
+
+
+
+",        a associação que Hitler estabeleceu entre o III Reich e o Sacro Império Romano Germânico.       ,"        o retorno dos valores cristãos medievais, presentes nos documentos do Concílio Vaticano II.       ",        a luta dos negros sul-africanos contra o apartheid inspirada por valores dos primeiros cristãos.       ,"        o fortalecimento político de Napoleão Bonaparte, que se justificava na amplitude de poderes que tivera Carlos Magno.       ","        a tradição heroica da cavalaria medieval, que foi afetada negativamente pelas produções cinematográficas de Hollywood.      ", ,
+4,52,"
+
+
+O ano de 1968 ficou conhecido pela efervescência social, tal como se pode comprovar pelo seguinte trecho, retirado de texto sobre propostas preliminares para uma revolução cultural: “É preciso discutir em todos os lugares e com todos. O dever de ser responsável e pensar politicamente diz respeito a todos, não é privilégio de uma minoria de iniciados. Não devemos nos surpreender com o caos das ideias, pois essa é a condição para a emergência de novas ideias. Os pais do regime devem compreender que autonomia não é uma palavra vã; ela supõe a partilha do poder, ou seja, a mudança de sua natureza. Que ninguém tente rotular o movimento atual; ele não tem etiquetas e não precisa delas”.
+
+Journal de la comune étudiante. Textes et documents. Paris: Seuil, 1969 (adaptado)
+
+
+
+","
+
+
+Os movimentos sociais, que marcaram o ano de 1968,
+
+
+","        foram manifestações desprovidas de conotação política, que tinham o objetivo de questionar a rigidez dos padrões de comportamento social fundados em valores tradicionais da moral religiosa.       ","        restringiram-se às sociedades de países desenvolvidos, onde a industrialização avançada, a penetração dos meios de comunicação de massa e a alienação cultural que deles resultava eram mais evidentes.       ","        resultaram no fortalecimento do conservadorismo político, social e religioso que prevaleceu nos países ocidentais durante as décadas de 70 e 80.       ","        tiveram baixa repercussão no plano político, apesar de seus fortes desdobramentos nos planos social e cultural, expressos na mudança de costumes e na contracultura.       ","        inspiraram futuras mobilizações, como o pacifismo, o ambientalismo, a promoção da equidade de gêneros e a defesa dos direitos das minorias.      ", ,
+5,8,"
+
+
+A economia moderna depende da disponibilidade de muita energia em diferentes formas, para funcionar e crescer. No Brasil, o consumo total de energia pelas indústrias cresceu mais de quatro vezes no período entre 1970 e 2005. Enquanto os investimentos em energias limpas e renováveis, como solar e eólica, ainda são incipientes, ao se avaliar a possibilidade de instalação de usinas geradoras de energia elétrica, diversos fatores devem ser levados em consideração, tais como os impactos causados ao ambiente e às populações locais.
+
+RICARDO, B.; CAMPANILI, M. Almanaque Brasil Socioambiental. São Paulo: Instituto Socioambiental, 2007 (adaptado).
+
+
+
+","
+
+
+Em uma situação hipotética, optou-se por construir uma usina hidrelétrica em região que abrange diversas quedas d’água em rios cercados por mata, alegando-se que causaria impacto ambiental muito menor que uma usina termelétrica. Entre os possíveis impactos da instalação de uma usina hidrelétrica nessa região, inclui-se
+
+
+",        a poluição da água por metais da usina.      ,        a destruição do habitat de animais terrestres.      ,        o aumento expressivo na liberação de CO2 para a atmosfera.      ,        o consumo não renovável de toda água que passa pelas turbinas.      ,"        o aprofundamento no leito do rio, com a menor deposição de resíduos no trecho de rio anterior à represa.      ", ,
+6,50,"
 
 
 
@@ -84,13 +117,85 @@ A primeira metade do século XX foi marcada por conflitos e processos que a ins
 
 
 
+
 Entre os principais fatores que estiveram na origem dos conflitos ocorridos durante a primeira metade do século XX estão
 
 
 
 
-","a crise do colonialismo, a ascensão do nacionalismo e do totalitarismo. ","o enfraquecimento do império britânico, a Grande Depressão e a corrida nuclear.","o declínio britânico, o fracasso da Liga das Nações e a Revolução Cubana.","a corrida armamentista, o terceiro-mundismo e o expansionismo soviético.","a Revolução Bolchevique, o imperialismo e a unificação da Alemanha.",A,
-5,46,"
+","        a crise do colonialismo, a ascensão do nacionalismo e do totalitarismo.       ","        o enfraquecimento do império britânico, a Grande Depressão e a corrida nuclear.      ","        o declínio britânico, o fracasso da Liga das Nações e a Revolução Cubana.      ","        a corrida armamentista, o terceiro-mundismo e o expansionismo soviético.      ","        a Revolução Bolchevique, o imperialismo e a unificação da Alemanha.      ", ,
+7,1,"
+
+
+A atmosfera terrestre é composta pelos gases nitrogênio (N2) e oxigênio (O2), que somam cerca de 99%, e por gases traços, entre eles o gás carbônico (CO2), vapor de água (H2O), metano (CH4), ozônio (O3) e o óxido nitroso (N2O), que compõem o restante 1% do ar que respiramos. Os gases traços, por serem constituídos por pelo menos três átomos, conseguem absorver o calor irradiado pela Terra, aquecendo o planeta. Esse fenômeno, que acontece
+há bilhões de anos, é chamado de efeito estufa. A partir da Revolução Industrial (século XIX), a concentração de gases traços na atmosfera, em particular o CO2, tem aumentado significativamente, o que resultou no aumento da temperatura em escala global. Mais recentemente, outro fator tornou-se diretamente envolvido no aumento da concentração de CO2 na atmosfera: o desmatamento.
+
+BROWN, I. F.; ALECHANDRE, A. S. Conceitos básicos sobre clima,carbono, florestas e comunidades. A.G. Moreira & S. Schwartzman. As mudanças climáticas globais e os ecossistemas brasileiros. Brasília: Instituto de Pesquisa Ambiental da Amazônia, 2000 (adaptado).
+
+
+
+","
+
+
+Considerando o texto, uma alternativa viável para combater o efeito estufa é
+
+
+",        reduzir o calor irradiado pela Terra mediante a substituição da produção primária pela industrialização refrigerada.      ,"        promover a queima da biomassa vegetal, responsável pelo aumento do efeito estufa devido à produção de CH4.      ","        reduzir o desmatamento, mantendo-se, assim, o potencial da vegetação em absorver o CO2 da atmosfera.      ","        aumentar a concentração atmosférica de H2O, molécula capaz de absorver grande quantidade de calor.      ","        remover moléculas orgânicas polares da atmosfera, diminuindo a capacidade delas de reter calor.      ", ,
+8,54,"
+
+
+Os Yanomami constituem uma sociedade indígena do norte da Amazônia e formam um amplo conjunto linguístico e cultural. Para os Yanomami, urihi, a “terrafloresta”, não é um mero cenário inerte, objeto de exploração econômica, e sim uma entidade viva, animada por uma dinâmica de trocas entre os diversos seres que a povoam. A floresta possui um sopro vital, wixia, que é muito longo. Se não a desmatarmos, ela não morrerá. Ela não se decompõe, isto é, não se desfaz. É graças ao seu sopro úmido que as plantas crescem. A floresta não está morta pois, se fosse assim, as florestas não teriam folhas. Tampouco se veria água. Segundo os Yanomami, se os brancos os fizerem desaparecer para desmatá-la e morar no seu lugar, ficarão pobres e acabarão tendo fome e sede.
+
+ALBERT, B. Yanomami, o espírito da floresta. Almanaque Brasil Socioambiental. São Paulo: ISA, 2007 (adaptado).
+
+
+
+","
+
+
+De acordo com o texto, os Yanomami acreditam que
+
+
+",        a floresta não possui organismos decompositores.      ,        o potencial econômico da floresta deve ser explorado.      ,        o homem branco convive harmonicamente com urihi.      ,        as folhas e a água são menos importantes para a floresta que seu sopro vital.      ,        Wixia é a capacidade que tem a floresta de se sustentar por meio de processos vitais.      , ,
+9,23,"
+
+
+Cerca de 1% do lixo urbano é constituído por resíduos sólidos contendo elementos tóxicos. Entre esses elementos estão metais pesados como o cádmio, o chumbo e o mercúrio, componentes de pilhas e baterias, que são perigosos à saúde humana e ao meio ambiente. Quando descartadas em lixos comuns, pilhas e baterias vão para aterros sanitários ou lixões a céu aberto, e o vazamento de seus componentes contamina o solo, os rios e o lençol freático, atingindo a flora e a fauna. Por serem bioacumulativos e não biodegradáveis, esses metais chegam de forma acumulada aos seres humanos, por meio da cadeia alimentar. A legislação vigente (Resolução CONAMA no 257/1999) regulamenta o destino de pilhas e baterias após seu esgotamento energético e determina aos fabricantes e/ou importadores a quantidade máxima permitida desses metais em cada tipo de pilha/bateria, porém o problema ainda persiste.
+
+Disponível em: http://www.mma.gov.br.
+Acesso em: 11 jul. 2009 (adaptado).
+
+
+
+","
+
+
+Uma medida que poderia contribuir para acabar definitivamente com o problema da poluição ambiental por metais pesados relatado no texto seria
+
+
+",        deixar de consumir aparelhos elétricos que utilizem pilha ou bateria como fonte de energia.      ,"        usar apenas pilhas ou baterias recarregáveis e de vida útil longa e evitar ingerir alimentos contaminados, especialmente peixes.      ","        devolver pilhas e baterias, após o esgotamento da energia armazenada, à rede de assistência técnica especializada para repasse a fabricantes e/ou importadores.      ","        criar nas cidades, especialmente naquelas com mais de 100 mil habitantes, pontos estratégicos de coleta de baterias e pilhas, para posterior repasse a fabricantes e/ou importadores.      ","        exigir que fabricantes invistam em pesquisa para a substituição desses metais tóxicos por substâncias menos nocivas ao homem e ao ambiente, e que não sejam bioacumulativas.      ", ,
+10,49,"
+
+
+
+Hoje em dia, nas grandes cidades, enterrar os mortos é uma prática quase íntima, que diz respeito apenas à família. A menos, é claro, que se trate de uma personalidade conhecida. Entretanto, isso nem sempre foi assim. Para um historiador, os sepultamentos são uma fonte de informações importantes para que se compreenda, por exemplo, a vida política das sociedades.
+
+
+
+
+
+","
+
+
+
+
+No que se refere às práticas sociais ligadas aos sepultamentos,
+
+
+
+
+","        na Grécia Antiga, as cerimônias fúnebres eram desvalorizadas, porque o mais importante era a democracia experimentada pelos vivos.      ","        na Idade Média, a Igreja tinha pouca influência sobre os rituais fúnebres, preocupando-se mais com a salvação da alma.      ","        no Brasil colônia, o sepultamento dos mortos nas igrejas era regido pela observância da hierarquia social.      ","        na época da Reforma, o catolicismo condenou os excessos de gastos que a burguesia fazia para sepultar seus mortos.      ","        no período posterior à Revolução Francesa, devido as grandes perturbações sociais, abandona-se a prática do luto.      ", ,
+11,46,"
 
 
 
@@ -104,56 +209,14 @@ O Egito é visitado anualmente por milhões de turistas de todos os quadrantes
 
 
 
+
 O que hoje se transformou em atração turística era, no passado, interpretado de forma muito diferente, pois
 
 
 
 
-","significava, entre outros aspectos, o poder que os faraós tinham para escravizar grandes contingentes populacionais que trabalhavam nesses monumentos.",representava para as populações do alto Egito a possibilidade de migrar para o sul e encontrar trabalho nos canteiros faraônicos.,"significava a solução para os problemas econômicos, uma vez que os faraós sacrificavam aos deuses suas riquezas, construindo templos.","representava a possibilidade de o faraó ordenar a sociedade, obrigando os desocupados a trabalharem em obras públicas, que engrandeceram o próprio Egito.","significava um peso para a população egípcia, que condenava o luxo faraônico e a religião baseada em crenças e superstições.",A,
-6,13,"
-
-
-A abertura e a pavimentação de rodovias em zonas rurais e regiões afastadas dos centros urbanos, por um lado, possibilita melhor acesso e maior integração entre as comunidades, contribuindo com o desenvolvimento social e urbano de populações isoladas. Por outro lado, a construção de rodovias pode trazer impactos indesejáveis ao meio ambiente, visto que a abertura de estradas pode resultar na fragmentação de habitats, comprometendo o fluxo gênico e as interações entre espécies silvestres, além de prejudicar o fluxo natural de rios e riachos, possibilitar o ingresso de espécies exóticas em ambientes naturais e aumentar a pressão antrópica sobre os ecossistemas nativos.
-
-BARBOSA, N. P. U.; FERNANDES, G. W. A destruição do jardim. Scientific American Brasil. Ano 7, número 80, dez. 2008 (adaptado).
-
-
-
-","
-
-Nesse contexto, para conciliar os interesses aparentemente contraditórios entre o progresso social e urbano e a conservação do meio ambiente, seria razoável
-
-
-","impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, pois a qualidade de vida e as tecnologias encontradas nos centros urbanos são prescindíveis às populações rurais.","impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, promovendo a migração das populações rurais para os centros urbanos, onde a qualidade de vida é melhor.","permitir a abertura e a pavimentação de rodovias apenas em áreas rurais produtivas, haja vista que nas demais áreas o retorno financeiro necessário para produzir uma melhoria na qualidade de vida da região não é garantido.","permitir a abertura e a pavimentação de rodovias, desde que comprovada a sua real necessidade e após a realização de estudos que demonstrem ser possível contornar ou compensar seus impactos ambientais.","permitir a abertura e a pavimentação de rodovias, haja vista que os impactos ao meio ambiente são temporários e podem ser facilmente revertidos com as tecnologias existentes para recuperação de áreas degradadas.",D,
-7,8,"
-
-
-A economia moderna depende da disponibilidade de muita energia em diferentes formas, para funcionar e crescer. No Brasil, o consumo total de energia pelas indústrias cresceu mais de quatro vezes no período entre 1970 e 2005. Enquanto os investimentos em energias limpas e renováveis, como solar e eólica, ainda são incipientes, ao se avaliar a possibilidade de instalação de usinas geradoras de energia elétrica, diversos fatores devem ser levados em consideração, tais como os impactos causados ao ambiente e às populações locais.
-
-RICARDO, B.; CAMPANILI, M. Almanaque Brasil Socioambiental. São Paulo: Instituto Socioambiental, 2007 (adaptado).
-
-
-
-","
-
-Em uma situação hipotética, optou-se por construir uma usina hidrelétrica em região que abrange diversas quedas d’água em rios cercados por mata, alegando-se que causaria impacto ambiental muito menor que uma usina termelétrica. Entre os possíveis impactos da instalação de uma usina hidrelétrica nessa região, inclui-se
-
-
-",a poluição da água por metais da usina.,a destruição do habitat de animais terrestres.,o aumento expressivo na liberação de CO2 para a atmosfera.,o consumo não renovável de toda água que passa pelas turbinas.,"o aprofundamento no leito do rio, com a menor deposição de resíduos no trecho de rio anterior à represa.",B,
-8,53,"
-
-
-Do ponto de vista geopolítico, a Guerra Fria dividiu a Europa em dois blocos. Essa divisão propiciou a formação de alianças antagônicas de caráter militar, como a OTAN, que aglutinava os países do bloco ocidental, e o Pacto de Varsóvia, que concentrava os do bloco oriental. É importante destacar que, na formação da OTAN, estão presentes, além dos países do oeste europeu, os EUA e o Canadá. Essa divisão histórica atingiu igualmente os âmbitos político e econômico que se refletia pela opção entre os modelos capitalista e socialista.
-
-
-
-","
-
-Essa divisão europeia ficou conhecida como
-
-
-",Cortina de Ferro.,Muro de Berlim.,União Europeia.,Convenção de Ramsar.,Conferência de Estocolmo.,A,
-9,47,"
+","        significava, entre outros aspectos, o poder que os faraós tinham para escravizar grandes contingentes populacionais que trabalhavam nesses monumentos.      ",        representava para as populações do alto Egito a possibilidade de migrar para o sul e encontrar trabalho nos canteiros faraônicos.      ,"        significava a solução para os problemas econômicos, uma vez que os faraós sacrificavam aos deuses suas riquezas, construindo templos.      ","        representava a possibilidade de o faraó ordenar a sociedade, obrigando os desocupados a trabalharem em obras públicas, que engrandeceram o próprio Egito.      ","        significava um peso para a população egípcia, que condenava o luxo faraônico e a religião baseada em crenças e superstições.      ", ,
+12,47,"
 
 
 O que se entende por Corte do antigo regime é, em primeiro lugar, a casa de habitação dos reis de França, de suas famílias, de todas as pessoas que, de perto ou de longe, dela fazem parte. As despesas da Corte, da imensa casa dos reis, são consignadas no registro das despesas do reino da França sob a rubrica significativa de Casas Reais.
@@ -171,59 +234,45 @@ ELIAS, N. A sociedade de corte. Lisboa: Estampa, 1987
 
 
 
+
 Algumas casas de habitação dos reis tiveram grande efetividade política e terminaram por se transformar em patrimônio artístico e cultural, cujo exemplo é
 
 
 
 
-",o palácio de Versalhes. ,o Museu Britânico.,a catedral de Colônia. ,a Casa Branca. ,a pirâmide do faraó Quéops. ,A,
-10,23,"
+",        o palácio de Versalhes.       ,        o Museu Britânico.      ,        a catedral de Colônia.       ,        a Casa Branca.       ,        a pirâmide do faraó Quéops.       , ,
+13,29,"
 
 
-Cerca de 1% do lixo urbano é constituído por resíduos sólidos contendo elementos tóxicos. Entre esses elementos estão metais pesados como o cádmio, o chumbo e o mercúrio, componentes de pilhas e baterias, que são perigosos à saúde humana e ao meio ambiente. Quando descartadas em lixos comuns, pilhas e baterias vão para aterros sanitários ou lixões a céu aberto, e o vazamento de seus componentes contamina o solo, os rios e o lençol freático, atingindo a flora e a fauna. Por serem bioacumulativos e não biodegradáveis, esses metais chegam de forma acumulada aos seres humanos, por meio da cadeia alimentar. A legislação vigente (Resolução CONAMA no 257/1999) regulamenta o destino de pilhas e baterias após seu esgotamento energético e determina aos fabricantes e/ou importadores a quantidade máxima permitida desses metais em cada tipo de pilha/bateria, porém o problema ainda persiste.
 
-Disponível em: http://www.mma.gov.br.
-Acesso em: 11 jul. 2009 (adaptado).
+
 
 
 
 ","
 
-Uma medida que poderia contribuir para acabar definitivamente com o problema da poluição ambiental por metais pesados relatado no texto seria
+
+O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem
 
 
-",deixar de consumir aparelhos elétricos que utilizem pilha ou bateria como fonte de energia.,"usar apenas pilhas ou baterias recarregáveis e de vida útil longa e evitar ingerir alimentos contaminados, especialmente peixes.","devolver pilhas e baterias, após o esgotamento da energia armazenada, à rede de assistência técnica especializada para repasse a fabricantes e/ou importadores.","criar nas cidades, especialmente naquelas com mais de 100 mil habitantes, pontos estratégicos de coleta de baterias e pilhas, para posterior repasse a fabricantes e/ou importadores.","exigir que fabricantes invistam em pesquisa para a substituição desses metais tóxicos por substâncias menos nocivas ao homem e ao ambiente, e que não sejam bioacumulativas.",E,
-11,52,"
+",        entre 12 e 24 nêutrons a menos que o número de prótons.      ,        exatamente o mesmo número de prótons e nêutrons.      ,        entre 0 e 12 nêutrons a mais que o número de prótons.      ,        entre 12 e 24 nêutrons a mais que o número de prótons.      ,        entre 0 e 12 nêutrons a menos que o número de prótons.      , ,enem-data/enem-2009/29-images/context_img_0.png
+14,9,"
 
 
-O ano de 1968 ficou conhecido pela efervescência social, tal como se pode comprovar pelo seguinte trecho, retirado de texto sobre propostas preliminares para uma revolução cultural: “É preciso discutir em todos os lugares e com todos. O dever de ser responsável e pensar politicamente diz respeito a todos, não é privilégio de uma minoria de iniciados. Não devemos nos surpreender com o caos das ideias, pois essa é a condição para a emergência de novas ideias. Os pais do regime devem compreender que autonomia não é uma palavra vã; ela supõe a partilha do poder, ou seja, a mudança de sua natureza. Que ninguém tente rotular o movimento atual; ele não tem etiquetas e não precisa delas”.
+As mudanças climáticas e da vegetação ocorridas nos trópicos da América do Sul têm sido bem documentadas por diversos autores, existindo um grande acúmulo de evidências geológicas ou paleoclimatológicas que evidenciam essas mudanças ocorridas durante o Quaternário nessa região. Essas mudanças resultaram em restrição da distribuição das florestas pluviais, com expansões concomitantes de habitats não-florestais durante períodos áridos (glaciais), seguido da expansão das florestas pluviais e restrição das áreas não-florestais durante períodos úmidos (interglaciais).
 
-Journal de la comune étudiante. Textes et documents. Paris: Seuil, 1969 (adaptado)
-
-
-
-","
-
-Os movimentos sociais, que marcaram o ano de 1968,
-
-
-","foram manifestações desprovidas de conotação política, que tinham o objetivo de questionar a rigidez dos padrões de comportamento social fundados em valores tradicionais da moral religiosa. ","restringiram-se às sociedades de países desenvolvidos, onde a industrialização avançada, a penetração dos meios de comunicação de massa e a alienação cultural que deles resultava eram mais evidentes. ","resultaram no fortalecimento do conservadorismo político, social e religioso que prevaleceu nos países ocidentais durante as décadas de 70 e 80. ","tiveram baixa repercussão no plano político, apesar de seus fortes desdobramentos nos planos social e cultural, expressos na mudança de costumes e na contracultura. ","inspiraram futuras mobilizações, como o pacifismo, o ambientalismo, a promoção da equidade de gêneros e a defesa dos direitos das minorias.",E,
-12,54,"
-
-
-Os Yanomami constituem uma sociedade indígena do norte da Amazônia e formam um amplo conjunto linguístico e cultural. Para os Yanomami, urihi, a “terrafloresta”, não é um mero cenário inerte, objeto de exploração econômica, e sim uma entidade viva, animada por uma dinâmica de trocas entre os diversos seres que a povoam. A floresta possui um sopro vital, wixia, que é muito longo. Se não a desmatarmos, ela não morrerá. Ela não se decompõe, isto é, não se desfaz. É graças ao seu sopro úmido que as plantas crescem. A floresta não está morta pois, se fosse assim, as florestas não teriam folhas. Tampouco se veria água. Segundo os Yanomami, se os brancos os fizerem desaparecer para desmatá-la e morar no seu lugar, ficarão pobres e acabarão tendo fome e sede.
-
-ALBERT, B. Yanomami, o espírito da floresta. Almanaque Brasil Socioambiental. São Paulo: ISA, 2007 (adaptado).
+Disponível em: http://zoo.bio.ufpr.br. Acesso em: 1 maio 2009.
 
 
 
 ","
 
-De acordo com o texto, os Yanomami acreditam que
+
+Durante os períodos glaciais,
 
 
-",a floresta não possui organismos decompositores.,o potencial econômico da floresta deve ser explorado.,o homem branco convive harmonicamente com urihi.,as folhas e a água são menos importantes para a floresta que seu sopro vital.,Wixia é a capacidade que tem a floresta de se sustentar por meio de processos vitais.,E,
-13,24,"
+",        as áreas não-florestais ficam restritas a refúgios ecológicos devido à baixa adaptabilidade de espécies não-florestais a ambientes áridos.      ,"        grande parte da diversidade de espécies vegetais é reduzida, uma vez que necessitam de condições semelhantes a dos períodos interglaciais.      ","        a vegetação comum ao cerrado deve ter se limitado a uma pequena região do centro do Brasil, da qual se expandiu até atingir a atual distribuição.      ","        plantas com adaptações ao clima árido, como o desenvolvimento de estruturas que reduzem a perda de água, devem apresentar maior área de distribuição.      ","        florestas tropicais como a amazônica apresentam distribuição geográfica mais ampla, uma vez que são densas e diminuem a ação da radiação solar sobre o solo e reduzem os efeitos da aridez.      ", ,
+15,24,"
 
 
 Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na atmosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantidade de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local.
@@ -239,31 +288,12 @@ Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de 
 
 ","
 
+
 Considerando-se as informações do texto e do gráfico, conclui-se que
 
 
-",a insolação é um fator que provoca variação da umidade relativa do ar.,o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.,a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.,"a umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.","a variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas.",A,enem-data/enem-2009/24-images/context_img_0.png
-14,48,"
-
-
-
-A Idade Média é um extenso período da História do Ocidente cuja memória é construída e reconstruída segundo as circunstâncias das épocas posteriores. Assim, desde o Renascimento, esse período vem sendo alvo de diversas interpretações que dizem mais sobre o contexto histórico em que são produzidas do que propriamente sobre o Medievo.
-
-
-
-
-
-","
-
-
-
-Um exemplo acerca do que está exposto no texto acima é
-
-
-
-
-",a associação que Hitler estabeleceu entre o III Reich e o Sacro Império Romano Germânico. ,"o retorno dos valores cristãos medievais, presentes nos documentos do Concílio Vaticano II. ",a luta dos negros sul-africanos contra o apartheid inspirada por valores dos primeiros cristãos. ,"o fortalecimento político de Napoleão Bonaparte, que se justificava na amplitude de poderes que tivera Carlos Magno. ","a tradição heroica da cavalaria medieval, que foi afetada negativamente pelas produções cinematográficas de Hollywood.",A,
-15,56,"
+",        a insolação é um fator que provoca variação da umidade relativa do ar.      ,        o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.      ,        a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.      ,"        a umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.      ","        a variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas.      ", ,enem-data/enem-2009/24-images/context_img_0.png
+16,56,"
 
 
 Na década de 30 do século XIX, Tocqueville escreveu as seguintes linhas a respeito da moralidade nos EUA: “A opinião pública norte-americana é particularmente dura com a falta de moral, pois esta desvia a atenção frente à busca do bem-estar e prejudica a harmonia doméstica, que é tão essencial ao sucesso dos negócios. Nesse sentido, pode-se dizer que ser casto é uma questão de honra”.
@@ -274,26 +304,26 @@ TOCQUEVILLE, A. Democracy in America. Chicago: Encyclopædia Britannica, Inc., G
 
 ","
 
+
 Do trecho, infere-se que, para Tocqueville, os norte- americanos do seu tempo
 
 
-","buscavam o êxito, descurando as virtudes cívicas.",tinham na vida moral uma garantia de enriquecimento rápido.,valorizavam um conceito de honra dissociado do comportamento ético.,relacionavam a conduta moral dos indivíduos com o progresso econômico.,acreditavam que o comportamento casto perturbava a harmonia doméstica. ,D,
-16,58,"
+","        buscavam o êxito, descurando as virtudes cívicas.      ",        tinham na vida moral uma garantia de enriquecimento rápido.      ,        valorizavam um conceito de honra dissociado do comportamento ético.      ,        relacionavam a conduta moral dos indivíduos com o progresso econômico.      ,        acreditavam que o comportamento casto perturbava a harmonia doméstica.       , ,
+17,57,"
 
 
-Segundo Aristóteles, “na cidade com o melhor conjunto de normas e naquela dotada de homens absolutamente justos, os cidadãos não devem viver uma vida de trabalho trivial ou de negócios — esses tipos de vida são desprezíveis e incompatíveis com as qualidades morais —, tampouco devem ser agricultores os aspirantes à cidadania, pois o lazer é indispensável ao desenvolvimento das qualidades morais e à prática das atividades políticas”.
-
-VAN ACKER, T. Grécia. A vida cotidiana na cidade-Estado. São Paulo: Atual, 1994.
+Na democracia estado-unidense, os cidadãos são incluídos na sociedade pelo exercício pleno dos direitos políticos e também pela ideia geral de direito de propriedade. Compete ao governo garantir que esse direito não seja violado. Como consequência, mesmo aqueles que possuem uma pequena propriedade sentem-se cidadãos de pleno direito.
 
 
 
 ","
 
-O trecho, retirado da obra Política, de Aristóteles, permite compreender que a cidadania:
+
+Na tradição política dos EUA, uma forma de incluir socialmente os cidadãos é
 
 
-","possui uma dimensão histórica que deve ser criticada, pois é condenável que os políticos de qualquer época fiquem entregues à ociosidade, enquanto o resto dos cidadãos tem de trabalhar.","era entendida como uma dignidade própria dos grupos sociais superiores, fruto de uma concepção política profundamente hierarquizada da sociedade. ","estava vinculada, na Grécia Antiga, a uma percepção política democrática, que levava todos os habitantes da pólis a participarem da vida cívica.","tinha profundas conexões com a justiça, razão pela qual o tempo livre dos cidadãos deveria ser dedicado às atividades vinculadas aos tribunais.","vivida pelos atenienses era, de fato, restrita àqueles que se dedicavam à política e que tinham tempo para resolver os problemas da cidade.",B,
-17,59,"
+",        submeter o indivíduo à proteção do governo.      ,        hierarquizar os indivíduos segundo suas posses.      ,        estimular a formação de propriedades comunais.      ,        vincular democracia e possibilidades econômicas individuais.      ,        defender a obrigação de que todos os indivíduos tenham propriedades.      , ,
+18,59,"
 
 
 Para Caio Prado Jr., a formação brasileira se completaria no momento em que fosse superada a nossa herança de inorganicidade social ― o oposto da interligação com objetivos internos ― trazida da colônia. Este momento alto estaria, ou esteve, no futuro. Se passarmos a Sérgio Buarque de Holanda, encontraremos algo análogo. O país será moderno e estará formado quando superar a sua herança portuguesa, rural e autoritária, quando então teríamos um país democrático. Também aqui o ponto de chegada está mais adiante, na dependência das decisões do presente. Celso Furtado, por seu turno, dirá que a nação não se completa enquanto as alavancas do comando, principalmente do econômico, não passarem para dentro do país. Como para os outros dois, a conclusão do processo encontra-se no futuro, que agora parece remoto.
@@ -304,80 +334,44 @@ SCHWARZ, R. Os sete fôlegos de um livro. Sequências brasileiras. São Paulo
 
 ","
 
+
 Acerca das expectativas quanto à formação do Brasil, a sentença que sintetiza os pontos de vista apresentados no texto é:
 
 
-","Brasil, um país que vai pra frente.","Brasil, a eterna esperança.","Brasil, glória no passado, grandeza no presente. ","Brasil, terra bela, pátria grande.","Brasil, gigante pela própria natureza.",B,
-18,61,"
-
-A definição de eleitor foi tema de artigos nas Constituições brasileiras de 1891 e de 1934. Diz a Constituição da República dos Estados Unidos do Brasil de 1891:
-Art. 70. São eleitores os cidadãos maiores de 21 anos que se alistarem na forma da lei.
-A Constituição da República dos Estados Unidos do Brasil de 1934, por sua vez, estabelece que:
-Art. 180. São eleitores os brasileiros de um e de outro sexo, maiores de 18 anos, que se alistarem na forma da lei.
+","        Brasil, um país que vai pra frente.      ","        Brasil, a eterna esperança.      ","        Brasil, glória no passado, grandeza no presente.       ","        Brasil, terra bela, pátria grande.      ","        Brasil, gigante pela própria natureza.      ", ,
+19,58,"
 
 
-","
+Segundo Aristóteles, “na cidade com o melhor conjunto de normas e naquela dotada de homens absolutamente justos, os cidadãos não devem viver uma vida de trabalho trivial ou de negócios — esses tipos de vida são desprezíveis e incompatíveis com as qualidades morais —, tampouco devem ser agricultores os aspirantes à cidadania, pois o lazer é indispensável ao desenvolvimento das qualidades morais e à prática das atividades políticas”.
 
-
-
-Ao se comparar os dois artigos, no que diz respeito ao gênero dos eleitores, depreende-se que
-
-
-
-
-",a Constituição de 1934 avançou ao reduzir a idade mínima para votar.,"a Constituição de 1891, ao se referir a cidadãos, referia-se também às mulheres. ",os textos de ambas as Cartas permitiam que qualquer cidadão fosse eleitor. ,o texto da carta de 1891 já permitia o voto feminino.,a Constituição de 1891 considerava eleitores apenas indivíduos do sexo masculino. ,E,
-19,29,"
-
-
-
-
-
-
-
-","
-
-O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem
-
-
-",entre 12 e 24 nêutrons a menos que o número de prótons.,exatamente o mesmo número de prótons e nêutrons.,entre 0 e 12 nêutrons a mais que o número de prótons.,entre 12 e 24 nêutrons a mais que o número de prótons.,entre 0 e 12 nêutrons a menos que o número de prótons.,D,enem-data/enem-2009/29-images/context_img_0.png
-20,62,"
-
-
-A partir de 1942 e estendendo-se até o final do Estado Novo, o Ministro do Trabalho, Indústria e Comércio de Getúlio Vargas falou aos ouvintes da Rádio Nacional semanalmente, por dez minutos, no programa “Hora do Brasil”. O objetivo declarado do governo era esclarecer os trabalhadores acerca das inovações na legislação de proteção ao trabalho.
-
-
-
-GOMES, A. C. A invenção do trabalhismo. Rio de Janeiro: IUPERJ / Vértice. São Paulo: Revista dos Tribunais, 1988 (adaptado).
-
-
-
+VAN ACKER, T. Grécia. A vida cotidiana na cidade-Estado. São Paulo: Atual, 1994.
 
 
 
 ","
 
 
-
-Os programas “Hora do Brasil” contribuíram para
-
+O trecho, retirado da obra Política, de Aristóteles, permite compreender que a cidadania:
 
 
+","        possui uma dimensão histórica que deve ser criticada, pois é condenável que os políticos de qualquer época fiquem entregues à ociosidade, enquanto o resto dos cidadãos tem de trabalhar.      ","        era entendida como uma dignidade própria dos grupos sociais superiores, fruto de uma concepção política profundamente hierarquizada da sociedade.       ","        estava vinculada, na Grécia Antiga, a uma percepção política democrática, que levava todos os habitantes da pólis a participarem da vida cívica.      ","        tinha profundas conexões com a justiça, razão pela qual o tempo livre dos cidadãos deveria ser dedicado às atividades vinculadas aos tribunais.      ","        vivida pelos atenienses era, de fato, restrita àqueles que se dedicavam à política e que tinham tempo para resolver os problemas da cidade.      ", ,
+20,70,"
 
-","conscientizar os trabalhadores de que os direitos sociais foram conquistados por seu esforço, após anos de lutas sindicais. ","promover a autonomia dos grupos sociais, por meio de uma linguagem simples e de fácil entendimento. ","estimular os movimentos grevistas, que reivindicavam um aprofundamento dos direitos trabalhistas. ",consolidar a imagem de Vargas como um governante protetor das massas. ,"aumentar os grupos de discussão política dos trabalhadores, estimulados pelas palavras do ministro. ",D,
-21,57,"
 
+O suíço Thomas Davatz chegou a São Paulo em 1855 para trabalhar como colono na fazenda de café Ibicaba, em Campinas. A perspectiva de prosperidade que o atraiu para o Brasil deu lugar a insatisfação e revolta, que ele registrou em livro. Sobre o percurso entre o porto de Santos e o planalto paulista, escreveu Davatz: “As estradas do Brasil, salvo em alguns trechos, são péssimas. Em quase toda parte, falta qualquer espécie de calçamento ou mesmo de saibro. Constam apenas de terra simples, sem nenhum benefício. É fácil prever que nessas estradas não se encontram estalagens e hospedarias como as da Europa. Nas cidades maiores, o viajante pode naturalmente encontrar aposento sofrível; nunca, porém, qualquer coisa de comparável à comodidade que proporciona na Europa qualquer estalagem rural. Tais cidades são, porém, muito poucas na distância que vai de Santos a Ibicaba e que se percorre em cinquenta horas no mínimo”. Em 1867 foi inaugurada a ferrovia ligando Santos a Jundiaí, o que abreviou o tempo de viagem entre o litoral e o planalto para menos de um dia. Nos anos seguintes, foram construídos outros ramais ferroviários que articularam o interior cafeeiro ao porto de exportação, Santos.
 
-Na democracia estado-unidense, os cidadãos são incluídos na sociedade pelo exercício pleno dos direitos políticos e também pela ideia geral de direito de propriedade. Compete ao governo garantir que esse direito não seja violado. Como consequência, mesmo aqueles que possuem uma pequena propriedade sentem-se cidadãos de pleno direito.
+DAVATZ, T. Memórias de um colono no Brasil. São Paulo: Livraria Martins, 1941 (adaptado).
 
 
 
 ","
 
-Na tradição política dos EUA, uma forma de incluir socialmente os cidadãos é
+
+O impacto das ferrovias na promoção de projetos de colonização com base em imigrantes europeus foi importante, porque
 
 
-",submeter o indivíduo à proteção do governo.,hierarquizar os indivíduos segundo suas posses.,estimular a formação de propriedades comunais.,vincular democracia e possibilidades econômicas individuais.,defender a obrigação de que todos os indivíduos tenham propriedades.,D,
-22,64,"
+","        o percurso dos imigrantes até o interior, antes das ferrovias, era feito a pé ou em muares; no entanto, o tempo de viagem era aceitável, uma vez que o café era plantado nas proximidades da capital, São Paulo.      ",        a expansão da malha ferroviária pelo interior de São Paulo permitiu que mão-de-obra estrangeira fosse contratada para trabalhar em cafezais de regiões cada vez mais distantes do porto de Santos.      ,"        o escoamento da produção de café se viu beneficiado pelos aportes de capital, principalmente de colonos italianos, que desejavam melhorar sua situação econômica.      ",        os fazendeiros puderam prescindir da mão-de-obra europeia e contrataram trabalhadores brasileiros provenientes de outras regiões para trabalhar em suas plantações.      ,"        as notícias de terras acessíveis atraíram para São Paulo grande quantidade de imigrantes, que adquiriram vastas propriedades produtivas.      ", ,
+21,64,"
 
 
 A formação dos Estados foi certamente distinta na Europa, na América Latina, na África e na Ásia. Os Estados atuais, em especial na América Latina — onde as instituições das populações locais existentes à época da conquista ou foram eliminadas, como no caso do México e do Peru, ou eram frágeis, como no caso do Brasil —, são o resultado, em geral, da evolução do transplante de instituições europeias feito pelas metrópoles para suas colônias. Na África, as colônias tiveram fronteiras arbitrariamente traçadas, separando etnias, idiomas e tradições, que, mais tarde, sobreviveram ao processo de descolonização, dando razão para conflitos que, muitas vezes, têm sua verdadeira origem em disputas pela exploração de recursos naturais. Na Ásia, a colonização europeia se fez de forma mais indireta e encontrou sistemas políticos e administrativos mais sofisticados, aos quais se superpôs. Hoje, aquelas formas anteriores de organização, ou pelo menos seu espírito, sobrevivem nas organizações políticas do Estado asiático.
@@ -389,10 +383,28 @@ v. 22, n.º 62, jan.- abr. 2008 (adaptado).
 
 ","
 
+
 Relacionando as informações ao contexto histórico e geográfico por elas evocado, assinale a opção correta acerca do processo de formação socioeconômica dos continentes mencionados no texto.
 
 
-","Devido à falta de recursos naturais a serem explorados no Brasil, conflitos étnicos e culturais como os ocorridos na África estiveram ausentes no período da independência e formação do Estado brasileiro.","A maior distinção entre os processos histórico formativos dos continentes citados é a que se estabelece entre colonizador e colonizado, ou seja, entre a Europa e os demais.","À época das conquistas, a América Latina, a África e a Ásia tinham sistemas políticos e administrativos muito mais sofisticados que aqueles que lhes foram impostos pelo colonizador.","Comparadas ao México e ao Peru, as instituições brasileiras, por terem sido eliminadas à época da conquista, sofreram mais influência dos modelos institucionais europeus.","O modelo histórico da formação do Estado asiático equipara-se ao brasileiro, pois em ambos se manteve o espírito das formas de organização anteriores à conquista.",B,
+","        Devido à falta de recursos naturais a serem explorados no Brasil, conflitos étnicos e culturais como os ocorridos na África estiveram ausentes no período da independência e formação do Estado brasileiro.      ","        A maior distinção entre os processos histórico formativos dos continentes citados é a que se estabelece entre colonizador e colonizado, ou seja, entre a Europa e os demais.      ","        À época das conquistas, a América Latina, a África e a Ásia tinham sistemas políticos e administrativos muito mais sofisticados que aqueles que lhes foram impostos pelo colonizador.      ","        Comparadas ao México e ao Peru, as instituições brasileiras, por terem sido eliminadas à época da conquista, sofreram mais influência dos modelos institucionais europeus.      ","        O modelo histórico da formação do Estado asiático equipara-se ao brasileiro, pois em ambos se manteve o espírito das formas de organização anteriores à conquista.      ", ,
+22,66,"
+
+
+Colhe o Brasil, após esforço contínuo dilatado no tempo, o que plantou no esforço da construção de sua inserção internacional. Há dois séculos formularam-se os pilares da política externa. Teve o país inteligência de longo prazo e cálculo de oportunidade no mundo difuso da transição da hegemonia britânica para o século americano. Engendrou concepções, conceitos e teoria própria no século XIX, de José Bonifácio ao Visconde do Rio Branco. Buscou autonomia decisória no século XX. As elites se interessaram, por meio de calorosos debates, pelo destino do Brasil. O país emergiu, de Vargas aos militares, como ator responsável e previsível nas ações externas do Estado. A mudança de regime político para a democracia não alterou o pragmatismo externo, mas o aperfeiçoou.
+
+SARAIVA, J. F. S. O lugar do Brasil e o silêncio do parlamento. Correio Braziliense, Brasília,
+28 maio 2009 (adaptado).
+
+
+
+","
+
+
+Sob o ponto de vista da política externa brasileira no século XX, conclui-se que
+
+
+","        o Brasil é um país periférico na ordem mundial, devido às diferentes conjunturas de inserção internacional.      ","        as possibilidades de fazer prevalecer ideias e conceitos próprios, no que tange aos temas do comércio internacional e dos países em desenvolvimento, são mínimas.      ",        as brechas do sistema internacional não foram bem aproveitadas para avançar posições voltadas para a criação de uma área de cooperação e associação integrada a seu entorno geográfico.      ,        os grandes debates nacionais acerca da inserção internacional do Brasil foram embasados pelas elites do Império e da República por meio de consultas aos diversos setores da população.      ,"        a atuação do Brasil em termos de política externa evidencia que o país tem capacidade decisória própria, mesmo diante dos constrangimentos internacionais.      ", ,
 23,60,"
 
 
@@ -411,13 +423,67 @@ CAMPOS, F. O Estado nacional. Rio de Janeiro: José Olympio, 1940 (adaptado).
 
 
 
+
 Segundo as ideias de Francisco Campos,
 
 
 
 
-","os eleitores, políticos e juízes seriam mal-intencionados.","o governo Vargas seria um mal necessário, mas transitório.",Vargas seria o homem adequado para implantar a democracia de partidos.,a Constituição de 1937 seria a preparação para uma futura democracia liberal.,Vargas seria o homem capaz de exercer o poder de modo inteligente e correto.,E,
-24,63,"
+","        os eleitores, políticos e juízes seriam mal-intencionados.      ","        o governo Vargas seria um mal necessário, mas transitório.      ",        Vargas seria o homem adequado para implantar a democracia de partidos.      ,        a Constituição de 1937 seria a preparação para uma futura democracia liberal.      ,        Vargas seria o homem capaz de exercer o poder de modo inteligente e correto.      , ,
+24,61,"
+
+A definição de eleitor foi tema de artigos nas Constituições brasileiras de 1891 e de 1934. Diz a Constituição da República dos Estados Unidos do Brasil de 1891:
+Art. 70. São eleitores os cidadãos maiores de 21 anos que se alistarem na forma da lei.
+A Constituição da República dos Estados Unidos do Brasil de 1934, por sua vez, estabelece que:
+Art. 180. São eleitores os brasileiros de um e de outro sexo, maiores de 18 anos, que se alistarem na forma da lei.
+
+
+","
+
+
+
+
+Ao se comparar os dois artigos, no que diz respeito ao gênero dos eleitores, depreende-se que
+
+
+
+
+",        a Constituição de 1934 avançou ao reduzir a idade mínima para votar.      ,"        a Constituição de 1891, ao se referir a cidadãos, referia-se também às mulheres.       ",        os textos de ambas as Cartas permitiam que qualquer cidadão fosse eleitor.       ,        o texto da carta de 1891 já permitia o voto feminino.      ,        a Constituição de 1891 considerava eleitores apenas indivíduos do sexo masculino.       , ,
+25,69,"
+
+
+Como se assistisse à demonstração de um espetáculo mágico, ia revendo aquele ambiente tão característico de família, com seus pesados móveis de vinhático ou de jacarandá, de qualidade antiga, e que denunciavam um passado ilustre, gerações de Meneses talvez mais singelos e mais calmos; agora, uma espécie de desordem, de relaxamento, abastardava aquelas qualidades primaciais. Mesmo assim era fácil perceber o que haviam sido, esses nobres da roça, com seus cristais que brilhavam mansamente na sombra, suas pratas semi- empoeiradas que atestavam o esplendor esvanecido, seus marfins e suas opalinas – ah, respirava-se ali conforto, não havia dúvida, mas era apenas uma sobrevivência de coisas idas. Dir-se-ia, ante esse mundo que se ia desagregando, que um mal oculto o roía, como um tumor latente em suas entranhas.
+
+CARDOSO, L. Crônica da casa assassinada. Rio de Janeiro: Civilização Brasileira, 2002 (adaptado).
+
+
+
+","
+
+
+
+
+O mundo narrado nesse trecho do romance de Lúcio Cardoso, acerca da vida dos Meneses, família da aristocracia rural de Minas Gerais, apresenta não apenas a história da decadência dessa família, mas é, ainda, a representação literária de uma fase de desagregação política, social e econômica do país. O recurso expressivo que formula literariamente essa desagregação histórica é o de descrever a casa dos Meneses como
+
+
+
+
+","        ambiente de pobreza e privação, que carece de conforto mínimo para a sobrevivência da família.       ","        mundo mágico, capaz de recuperar o encantamento perdido durante o período de decadência da aristocracia rural mineira.       ","        cena familiar, na qual o calor humano dos habitantes da casa ocupa o primeiro plano, compensando a frieza e austeridade dos objetos antigos.       ","        símbolo de um passado ilustre que, apesar de superado, ainda resiste à sua total dissolução graças ao cuidado e asseio que a família dispensa à conservação da casa.       ","        espaço arruinado, onde os objetos perderam seu esplendor e sobre os quais a vida repousa como lembrança de um passado que está em vias de desaparecer completamente.       ", ,
+26,67,"
+
+
+Até o século XVII, as paisagens rurais eram marcadas por atividades rudimentares e de baixa produtividade. A partir da Revolução Industrial, porém, sobretudo com o advento da revolução tecnológica, houve um desenvolvimento contínuo do setor agropecuário.
+
+
+
+","
+
+
+São, portanto, observadas consequências econômicas, sociais e ambientais inter-relacionadas no período posterior à Revolução Industrial, as quais incluem
+
+
+",        a erradicação da fome no mundo.      ,        o aumento das áreas rurais e a diminuição das áreas urbanas.      ,"        a maior demanda por recursos naturais, entre os quais os recursos energéticos.      ",        a menor necessidade de utilização de adubos e corretivos na agricultura.      ,"        o contínuo aumento da oferta de emprego no setor primário da economia, em face da mecanização.      ", ,
+27,63,"
 
 
 No final do século XVI, na Bahia, Guiomar de Oliveira denunciou Antônia Nóbrega à Inquisição. Segundo o depoimento, esta lhe dava “uns pós não sabe de quê, e outros pós de osso de finado, os quais pós ela confessante deu a beber em vinho ao dito seu marido para ser seu amigo e serem bem-casados, e que todas estas coisas fez tendo-lhe dito a dita Antônia e ensinado que eram coisas diabólicas e que os diabos lha ensinaram”.
@@ -435,29 +501,14 @@ ARAÚJO, E. O teatro dos vícios. Transgressão e transigência na sociedade
 
 
 
+
 Do ponto de vista da Inquisição,
 
 
 
 
-","o problema dos métodos citados no trecho residia na dissimulação, que acabava por enganar o enfeitiçado. ",o diabo era um concorrente poderoso da autoridade da Igreja e somente a justiça do fogo poderia eliminá-lo. ,os ingredientes em decomposição das poções mágicas eram condenados porque afetavam a saúde da população. ,"as feiticeiras representavam séria ameaça à sociedade, pois eram perceptíveis suas tendências feministas. ",os cristãos deviam preservar a instituição do casamento recorrendo exclusivamente aos ensinamentos da Igreja. ,E,
-25,66,"
-
-
-Colhe o Brasil, após esforço contínuo dilatado no tempo, o que plantou no esforço da construção de sua inserção internacional. Há dois séculos formularam-se os pilares da política externa. Teve o país inteligência de longo prazo e cálculo de oportunidade no mundo difuso da transição da hegemonia britânica para o século americano. Engendrou concepções, conceitos e teoria própria no século XIX, de José Bonifácio ao Visconde do Rio Branco. Buscou autonomia decisória no século XX. As elites se interessaram, por meio de calorosos debates, pelo destino do Brasil. O país emergiu, de Vargas aos militares, como ator responsável e previsível nas ações externas do Estado. A mudança de regime político para a democracia não alterou o pragmatismo externo, mas o aperfeiçoou.
-
-SARAIVA, J. F. S. O lugar do Brasil e o silêncio do parlamento. Correio Braziliense, Brasília,
-28 maio 2009 (adaptado).
-
-
-
-","
-
-Sob o ponto de vista da política externa brasileira no século XX, conclui-se que
-
-
-","o Brasil é um país periférico na ordem mundial, devido às diferentes conjunturas de inserção internacional.","as possibilidades de fazer prevalecer ideias e conceitos próprios, no que tange aos temas do comércio internacional e dos países em desenvolvimento, são mínimas.",as brechas do sistema internacional não foram bem aproveitadas para avançar posições voltadas para a criação de uma área de cooperação e associação integrada a seu entorno geográfico.,os grandes debates nacionais acerca da inserção internacional do Brasil foram embasados pelas elites do Império e da República por meio de consultas aos diversos setores da população.,"a atuação do Brasil em termos de política externa evidencia que o país tem capacidade decisória própria, mesmo diante dos constrangimentos internacionais.",E,
-26,65,"
+","        o problema dos métodos citados no trecho residia na dissimulação, que acabava por enganar o enfeitiçado.       ",        o diabo era um concorrente poderoso da autoridade da Igreja e somente a justiça do fogo poderia eliminá-lo.       ,        os ingredientes em decomposição das poções mágicas eram condenados porque afetavam a saúde da população.       ,"        as feiticeiras representavam séria ameaça à sociedade, pois eram perceptíveis suas tendências feministas.       ",        os cristãos deviam preservar a instituição do casamento recorrendo exclusivamente aos ensinamentos da Igreja.       , ,
+28,65,"
 
 
 No tempo da independência do Brasil, circulavam nas classes populares do Recife trovas que faziam alusão à revolta escrava do Haiti:
@@ -479,105 +530,14 @@ AMARAL, F. P. do. Apud CARVALHO, A. Estudos pernambucanos. Recife: Cultura Acade
 
 
 
+
 O período da independência do Brasil registra conflitos raciais, como se depreende
 
 
 
 
-","dos rumores acerca da revolta escrava do Haiti, que circulavam entre a população escrava e entre os mestiços pobres, alimentando seu desejo por mudanças. ","da rejeição aos portugueses, brancos, que significava a rejeição à opressão da Metrópole, como ocorreu na Noite das Garrafadas. ","do apoio que escravos e negros forros deram à monarquia, com a perspectiva de receber sua proteção contra as injustiças do sistema escravista. ","do repúdio que os escravos trabalhadores dos portos demonstravam contra os marinheiros, porque estes representavam a elite branca opressora. ","da expulsão de vários líderes negros independentistas, que defendiam a implantação de uma república negra, a exemplo do Haiti. ",A,
-27,68,"
-
-
-A prosperidade induzida pela emergência das máquinas de tear escondia uma acentuada perda de prestígio. Foi nessa idade de ouro que os artesãos, ou os tecelões temporários, passaram a ser denominados, de modo genérico, tecelões de teares manuais. Exceto em alguns ramos especializados, os velhos artesãos foram colocados lado a lado com novos imigrantes, enquanto pequenos fazendeiros-tecelões abandonaram suas pequenas propriedades para se concentrar na atividade de tecer. Reduzidos à completa dependência dos teares mecanizados ou dos fornecedores de matéria-prima, os tecelões ficaram expostos a sucessivas reduções dos rendimentos.
-
-THOMPSON, E. P. The making of the english working class. Harmondsworth: Penguin Books, 1979 (adaptado).
-
-
-
-","
-
-Com a mudança tecnológica ocorrida durante a Revolução Industrial, a forma de trabalhar alterou-se porque
-
-
-",a invenção do tear propiciou o surgimento de novas relações sociais.,os tecelões mais hábeis prevaleceram sobre os inexperientes.,os novos teares exigiam treinamento especializado para serem operados.,"os artesãos, no período anterior, combinavam a tecelagem com o cultivo de subsistência.",os trabalhadores não especializados se apropriaram dos lugares dos antigos artesãos nas fábricas.,D,
-28,67,"
-
-
-Até o século XVII, as paisagens rurais eram marcadas por atividades rudimentares e de baixa produtividade. A partir da Revolução Industrial, porém, sobretudo com o advento da revolução tecnológica, houve um desenvolvimento contínuo do setor agropecuário.
-
-
-
-","
-
-São, portanto, observadas consequências econômicas, sociais e ambientais inter-relacionadas no período posterior à Revolução Industrial, as quais incluem
-
-
-",a erradicação da fome no mundo.,o aumento das áreas rurais e a diminuição das áreas urbanas.,"a maior demanda por recursos naturais, entre os quais os recursos energéticos.",a menor necessidade de utilização de adubos e corretivos na agricultura.,"o contínuo aumento da oferta de emprego no setor primário da economia, em face da mecanização.",C,
-29,71,"
-
-
-Populações inteiras, nas cidades e na zona rural, dispõem da parafernália digital global como fonte de educação e de formação cultural. Essa simultaneidade de cultura e informação eletrônica com as formas tradicionais e orais é um desafio que necessita ser discutido. A exposição, via mídia eletrônica, com estilos e valores culturais de outras sociedades, pode inspirar apreço, mas também distorções e ressentimentos. Tanto quanto há necessidade de uma cultura tradicional de posse da educação letrada, também é necessário criar estratégias de alfabetização eletrônica, que passam a ser o grande canal de informação das culturas segmentadas no interior dos grandes centros urbanos e das zonas rurais. Um novo modelo de educação.
-
-BRIGAGÃO, C. E.; RODRIGUES, G. A globalização a olho nu: o mundo conectado. São Paulo: Moderna, 1998 (adaptado).
-
-
-
-","
-
-Com base no texto e considerando os impactos culturais da difusão das tecnologias de informação no marco da globalização, depreende-se que
-
-
-","a ampla difusão das tecnologias de informação nos centros urbanos e no meio rural suscita o contato entre diferentes culturas e, ao mesmo tempo, traz a necessidade de reformular as concepções tradicionais de educação.","a apropriação, por parte de um grupo social, de valores e ideias de outras culturas para benefício próprio é fonte de conflitos e ressentimentos.","as mudanças sociais e culturais que acompanham o processo de globalização, ao mesmo tempo em que refletem a preponderância da cultura urbana, tornam obsoletas as formas de educação tradicionais próprias do meio rural.","as populações nos grandes centros urbanos e no meio rural recorrem aos instrumentos e tecnologias de informação basicamente como meio de comunicação mútua, e não os veem como fontes de educação e cultura.","a intensificação do fluxo de comunicação por meios eletrônicos, característica do processo de globalização, está dissociada do desenvolvimento social e cultural que ocorre no meio rural.",A,
-30,75,"
-
-
-O movimento migratório no Brasil é significativo, principalmente em função do volume de pessoas que saem de uma região com destino a outras regiões. Um desses movimentos ficou famoso nos anos 80, quando muitos nordestinos deixaram a região Nordeste em direção ao Sudeste do Brasil. Segundo os dados do IBGE de 2000, este processo continuou crescente no período seguinte, os anos 90, com um acréscimo de 7,6% nas migrações deste mesmo fluxo. A Pesquisa de Padrão de Vida, feita pelo IBGE, em 1996, aponta que, entre os nordestinos que chegam ao Sudeste, 48,6% exercem trabalhos manuais não qualificados, 18,5% são trabalhadores manuais qualificados, enquanto 13,5%, embora não sejam trabalhadores manuais, se encontram em áreas que não exigem formação profissional. O mesmo estudo indica também que esses migrantes possuem, em média, condição de vida e nível educacional acima dos de seus conterrâneos e abaixo dos de cidadãos estáveis do Sudeste.
-
-Disponível em: http://www.ibge.gov.br. Acesso em: 30 jul. 2009 (adaptado).
-
-
-
-","
-
-Com base nas informações contidas no texto, depreende-se que
-
-
-",o processo migratório foi desencadeado por ações de governo para viabilizar a produção industrial no Sudeste.,os governos estaduais do Sudeste priorizaram a qualificação da mão-de-obra migrante.,o processo de migração para o Sudeste contribui para o fenômeno conhecido como inchaço urbano.,"as migrações para o sudeste desencadearam a valorização do trabalho manual, sobretudo na década de 80.","a falta de especialização dos migrantes é positiva para os empregadores, pois significa maior versatilidade profissional.",C,
-31,69,"
-
-
-Como se assistisse à demonstração de um espetáculo mágico, ia revendo aquele ambiente tão característico de família, com seus pesados móveis de vinhático ou de jacarandá, de qualidade antiga, e que denunciavam um passado ilustre, gerações de Meneses talvez mais singelos e mais calmos; agora, uma espécie de desordem, de relaxamento, abastardava aquelas qualidades primaciais. Mesmo assim era fácil perceber o que haviam sido, esses nobres da roça, com seus cristais que brilhavam mansamente na sombra, suas pratas semi- empoeiradas que atestavam o esplendor esvanecido, seus marfins e suas opalinas – ah, respirava-se ali conforto, não havia dúvida, mas era apenas uma sobrevivência de coisas idas. Dir-se-ia, ante esse mundo que se ia desagregando, que um mal oculto o roía, como um tumor latente em suas entranhas.
-
-CARDOSO, L. Crônica da casa assassinada. Rio de Janeiro: Civilização Brasileira, 2002 (adaptado).
-
-
-
-","
-
-
-
-O mundo narrado nesse trecho do romance de Lúcio Cardoso, acerca da vida dos Meneses, família da aristocracia rural de Minas Gerais, apresenta não apenas a história da decadência dessa família, mas é, ainda, a representação literária de uma fase de desagregação política, social e econômica do país. O recurso expressivo que formula literariamente essa desagregação histórica é o de descrever a casa dos Meneses como
-
-
-
-
-","ambiente de pobreza e privação, que carece de conforto mínimo para a sobrevivência da família. ","mundo mágico, capaz de recuperar o encantamento perdido durante o período de decadência da aristocracia rural mineira. ","cena familiar, na qual o calor humano dos habitantes da casa ocupa o primeiro plano, compensando a frieza e austeridade dos objetos antigos. ","símbolo de um passado ilustre que, apesar de superado, ainda resiste à sua total dissolução graças ao cuidado e asseio que a família dispensa à conservação da casa. ","espaço arruinado, onde os objetos perderam seu esplendor e sobre os quais a vida repousa como lembrança de um passado que está em vias de desaparecer completamente. ",E,
-32,70,"
-
-
-O suíço Thomas Davatz chegou a São Paulo em 1855 para trabalhar como colono na fazenda de café Ibicaba, em Campinas. A perspectiva de prosperidade que o atraiu para o Brasil deu lugar a insatisfação e revolta, que ele registrou em livro. Sobre o percurso entre o porto de Santos e o planalto paulista, escreveu Davatz: “As estradas do Brasil, salvo em alguns trechos, são péssimas. Em quase toda parte, falta qualquer espécie de calçamento ou mesmo de saibro. Constam apenas de terra simples, sem nenhum benefício. É fácil prever que nessas estradas não se encontram estalagens e hospedarias como as da Europa. Nas cidades maiores, o viajante pode naturalmente encontrar aposento sofrível; nunca, porém, qualquer coisa de comparável à comodidade que proporciona na Europa qualquer estalagem rural. Tais cidades são, porém, muito poucas na distância que vai de Santos a Ibicaba e que se percorre em cinquenta horas no mínimo”. Em 1867 foi inaugurada a ferrovia ligando Santos a Jundiaí, o que abreviou o tempo de viagem entre o litoral e o planalto para menos de um dia. Nos anos seguintes, foram construídos outros ramais ferroviários que articularam o interior cafeeiro ao porto de exportação, Santos.
-
-DAVATZ, T. Memórias de um colono no Brasil. São Paulo: Livraria Martins, 1941 (adaptado).
-
-
-
-","
-
-O impacto das ferrovias na promoção de projetos de colonização com base em imigrantes europeus foi importante, porque
-
-
-","o percurso dos imigrantes até o interior, antes das ferrovias, era feito a pé ou em muares; no entanto, o tempo de viagem era aceitável, uma vez que o café era plantado nas proximidades da capital, São Paulo.",a expansão da malha ferroviária pelo interior de São Paulo permitiu que mão-de-obra estrangeira fosse contratada para trabalhar em cafezais de regiões cada vez mais distantes do porto de Santos.,"o escoamento da produção de café se viu beneficiado pelos aportes de capital, principalmente de colonos italianos, que desejavam melhorar sua situação econômica.",os fazendeiros puderam prescindir da mão-de-obra europeia e contrataram trabalhadores brasileiros provenientes de outras regiões para trabalhar em suas plantações.,"as notícias de terras acessíveis atraíram para São Paulo grande quantidade de imigrantes, que adquiriram vastas propriedades produtivas.",B,
-33,72,"
+","        dos rumores acerca da revolta escrava do Haiti, que circulavam entre a população escrava e entre os mestiços pobres, alimentando seu desejo por mudanças.       ","        da rejeição aos portugueses, brancos, que significava a rejeição à opressão da Metrópole, como ocorreu na Noite das Garrafadas.       ","        do apoio que escravos e negros forros deram à monarquia, com a perspectiva de receber sua proteção contra as injustiças do sistema escravista.       ","        do repúdio que os escravos trabalhadores dos portos demonstravam contra os marinheiros, porque estes representavam a elite branca opressora.       ","        da expulsão de vários líderes negros independentistas, que defendiam a implantação de uma república negra, a exemplo do Haiti.       ", ,
+29,72,"
 
 
 Além dos inúmeros eletrodomésticos e bens eletrônicos, o automóvel produzido pela indústria fordista promoveu, a partir dos anos 50, mudanças significativas no modo de vida dos consumidores e também na habitação e nas cidades. Com a massificação do consumo dos bens modernos, dos eletroeletrônicos e também do automóvel, mudaram radicalmente o modo de vida, os valores, a cultura e o conjunto do ambiente construído. Da ocupação do solo urbano até o interior da moradia, a transformação foi profunda.
@@ -589,40 +549,69 @@ Acesso em: 12 ago. 2009 (adaptado).
 
 ","
 
+
 Uma das consequências das inovações tecnológicas das últimas décadas, que determinaram diferentes formas de uso e ocupação do espaço geográfico, é a instituição das chamadas cidades globais, que se caracterizam por
 
 
-",possuírem o mesmo nível de influência no cenário mundial.,fortalecerem os laços de cidadania e solidariedade entre os membros das diversas comunidades.,constituírem um passo importante para a diminuição das desigualdades sociais causadas pela polarização social e pela segregação urbana.,"terem sido diretamente impactadas pelo processo de internacionalização da economia, desencadeado a partir do final dos anos 1970.",terem sua origem diretamente relacionadas ao processo de colonização ocidental do século XIX.,D,
-34,79,"
+",        possuírem o mesmo nível de influência no cenário mundial.      ,        fortalecerem os laços de cidadania e solidariedade entre os membros das diversas comunidades.      ,        constituírem um passo importante para a diminuição das desigualdades sociais causadas pela polarização social e pela segregação urbana.      ,"        terem sido diretamente impactadas pelo processo de internacionalização da economia, desencadeado a partir do final dos anos 1970.      ",        terem sua origem diretamente relacionadas ao processo de colonização ocidental do século XIX.      , ,
+30,62,"
 
 
-Entre 2004 e 2008, pelo menos 8 mil brasileiros foram libertados de fazendas onde trabalhavam como se fossem escravos. O governo criou uma lista em que ficaram expostos os nomes dos fazendeiros flagrados pela fiscalização. No Norte, Nordeste e Centro-Oeste, regiões que mais sofrem com a fraqueza do poder público, o bloqueio dos canais de financiamento agrícola para tais fazendeiros tem sido a principal arma de combate a esse problema, mas os governos ainda sofrem com a falta de informações, provocada pelas distâncias e pelo poder intimidador dos proprietários. Organizações não governamentais e grupos como a Pastoral da Terra têm agido corajosamente, acionando as autoridades públicas e ministrando aulas sobre direitos sociais e trabalhistas.
-
-Plano Nacional para Erradicação do Trabalho Escravo”. Disponível em:
-http://www.mte.gov.br. Acesso em: 17 mar. 2009 (adaptado).
+A partir de 1942 e estendendo-se até o final do Estado Novo, o Ministro do Trabalho, Indústria e Comércio de Getúlio Vargas falou aos ouvintes da Rádio Nacional semanalmente, por dez minutos, no programa “Hora do Brasil”. O objetivo declarado do governo era esclarecer os trabalhadores acerca das inovações na legislação de proteção ao trabalho.
 
 
 
-","
-
-Nos lugares mencionados no texto, o papel dos grupos de defesa dos direitos humanos tem sido fundamental, porque eles
+GOMES, A. C. A invenção do trabalhismo. Rio de Janeiro: IUPERJ / Vértice. São Paulo: Revista dos Tribunais, 1988 (adaptado).
 
 
-",negociam com os fazendeiros o reajuste dos honorários e a redução da carga horária de trabalho.,defendem os direitos dos consumidores junto aos armazéns e mercados das fazendas e carvoarias.,substituem as autoridades policiais e jurídicas na resolução dos conflitos entre patrões e empregados.,encaminham denúncias ao Ministério Público e promovem ações de conscientização dos trabalhadores.,fortalecem a administração pública ao ministrarem aulas aos seus servidores.,D,
-35,76,"
 
-
-Apesar do aumento da produção no campo e da integração entre a indústria e a agricultura, parte da população da América do Sul ainda sofre com a subalimentação, o que gera conflitos pela posse de terra que podem ser verificados em várias áreas e que frequentemente chegam a provocar mortes
 
 
 
 ","
 
-Um dos fatores que explica a subalimentação na América do Sul é
 
 
-",a baixa inserção de sua agricultura no comércio mundial.,a quantidade insuficiente de mão-de-obra para o trabalho agrícola.,a presença de estruturas agrárias arcaicas formadas por latifúndios improdutivos.,"a situação conflituosa vivida no campo, que impede o crescimento da produção agrícola.",os sistemas de cultivo mecanizado voltados para o abastecimento do mercado interno.,C,
-36,74,"
+
+Os programas “Hora do Brasil” contribuíram para
+
+
+
+
+","        conscientizar os trabalhadores de que os direitos sociais foram conquistados por seu esforço, após anos de lutas sindicais.       ","        promover a autonomia dos grupos sociais, por meio de uma linguagem simples e de fácil entendimento.       ","        estimular os movimentos grevistas, que reivindicavam um aprofundamento dos direitos trabalhistas.       ",        consolidar a imagem de Vargas como um governante protetor das massas.       ,"        aumentar os grupos de discussão política dos trabalhadores, estimulados pelas palavras do ministro.       ", ,
+31,68,"
+
+
+A prosperidade induzida pela emergência das máquinas de tear escondia uma acentuada perda de prestígio. Foi nessa idade de ouro que os artesãos, ou os tecelões temporários, passaram a ser denominados, de modo genérico, tecelões de teares manuais. Exceto em alguns ramos especializados, os velhos artesãos foram colocados lado a lado com novos imigrantes, enquanto pequenos fazendeiros-tecelões abandonaram suas pequenas propriedades para se concentrar na atividade de tecer. Reduzidos à completa dependência dos teares mecanizados ou dos fornecedores de matéria-prima, os tecelões ficaram expostos a sucessivas reduções dos rendimentos.
+
+THOMPSON, E. P. The making of the english working class. Harmondsworth: Penguin Books, 1979 (adaptado).
+
+
+
+","
+
+
+Com a mudança tecnológica ocorrida durante a Revolução Industrial, a forma de trabalhar alterou-se porque
+
+
+",        a invenção do tear propiciou o surgimento de novas relações sociais.      ,        os tecelões mais hábeis prevaleceram sobre os inexperientes.      ,        os novos teares exigiam treinamento especializado para serem operados.      ,"        os artesãos, no período anterior, combinavam a tecelagem com o cultivo de subsistência.      ",        os trabalhadores não especializados se apropriaram dos lugares dos antigos artesãos nas fábricas.      , ,
+32,71,"
+
+
+Populações inteiras, nas cidades e na zona rural, dispõem da parafernália digital global como fonte de educação e de formação cultural. Essa simultaneidade de cultura e informação eletrônica com as formas tradicionais e orais é um desafio que necessita ser discutido. A exposição, via mídia eletrônica, com estilos e valores culturais de outras sociedades, pode inspirar apreço, mas também distorções e ressentimentos. Tanto quanto há necessidade de uma cultura tradicional de posse da educação letrada, também é necessário criar estratégias de alfabetização eletrônica, que passam a ser o grande canal de informação das culturas segmentadas no interior dos grandes centros urbanos e das zonas rurais. Um novo modelo de educação.
+
+BRIGAGÃO, C. E.; RODRIGUES, G. A globalização a olho nu: o mundo conectado. São Paulo: Moderna, 1998 (adaptado).
+
+
+
+","
+
+
+Com base no texto e considerando os impactos culturais da difusão das tecnologias de informação no marco da globalização, depreende-se que
+
+
+","        a ampla difusão das tecnologias de informação nos centros urbanos e no meio rural suscita o contato entre diferentes culturas e, ao mesmo tempo, traz a necessidade de reformular as concepções tradicionais de educação.      ","        a apropriação, por parte de um grupo social, de valores e ideias de outras culturas para benefício próprio é fonte de conflitos e ressentimentos.      ","        as mudanças sociais e culturais que acompanham o processo de globalização, ao mesmo tempo em que refletem a preponderância da cultura urbana, tornam obsoletas as formas de educação tradicionais próprias do meio rural.      ","        as populações nos grandes centros urbanos e no meio rural recorrem aos instrumentos e tecnologias de informação basicamente como meio de comunicação mútua, e não os veem como fontes de educação e cultura.      ","        a intensificação do fluxo de comunicação por meios eletrônicos, característica do processo de globalização, está dissociada do desenvolvimento social e cultural que ocorre no meio rural.      ", ,
+33,74,"
 
 
 No período 750-338 a. C., a Grécia antiga era composta por cidades-Estado, como por exemplo Atenas, Esparta, Tebas, que eram independentes umas das outras, mas partilhavam algumas características culturais, como a língua grega. No centro da Grécia, Delfos era um lugar de culto religioso frequentado por habitantes de todas as cidades-Estado.
@@ -639,11 +628,42 @@ Folha de S. Paulo, ago. 2008 (adaptado).
 
 ","
 
+
 Apesar das diferenças históricas e geográficas existentes entre as duas civilizações elas são semelhantes pois
 
 
-",as ruínas das cidades mencionadas atestam que grandes epidemias dizimaram suas populações. ,"as cidades do Xingu desenvolveram a democracia, tal como foi concebida em Tebas. ",as duas civilizações tinham cidades autônomas e independentes entre si. ,"os povos do Xingu falavam uma mesma língua, tal como nas cidades-Estado da Grécia. ",as cidades do Xingu dedicavam-se à arte e à filosofia tal como na Grécia. ,C,
-37,80,"
+",        as ruínas das cidades mencionadas atestam que grandes epidemias dizimaram suas populações.       ,"        as cidades do Xingu desenvolveram a democracia, tal como foi concebida em Tebas.       ",        as duas civilizações tinham cidades autônomas e independentes entre si.       ,"        os povos do Xingu falavam uma mesma língua, tal como nas cidades-Estado da Grécia.       ",        as cidades do Xingu dedicavam-se à arte e à filosofia tal como na Grécia.       , ,
+34,76,"
+
+
+Apesar do aumento da produção no campo e da integração entre a indústria e a agricultura, parte da população da América do Sul ainda sofre com a subalimentação, o que gera conflitos pela posse de terra que podem ser verificados em várias áreas e que frequentemente chegam a provocar mortes
+
+
+
+","
+
+
+Um dos fatores que explica a subalimentação na América do Sul é
+
+
+",        a baixa inserção de sua agricultura no comércio mundial.      ,        a quantidade insuficiente de mão-de-obra para o trabalho agrícola.      ,        a presença de estruturas agrárias arcaicas formadas por latifúndios improdutivos.      ,"        a situação conflituosa vivida no campo, que impede o crescimento da produção agrícola.      ",        os sistemas de cultivo mecanizado voltados para o abastecimento do mercado interno.      , ,
+35,75,"
+
+
+O movimento migratório no Brasil é significativo, principalmente em função do volume de pessoas que saem de uma região com destino a outras regiões. Um desses movimentos ficou famoso nos anos 80, quando muitos nordestinos deixaram a região Nordeste em direção ao Sudeste do Brasil. Segundo os dados do IBGE de 2000, este processo continuou crescente no período seguinte, os anos 90, com um acréscimo de 7,6% nas migrações deste mesmo fluxo. A Pesquisa de Padrão de Vida, feita pelo IBGE, em 1996, aponta que, entre os nordestinos que chegam ao Sudeste, 48,6% exercem trabalhos manuais não qualificados, 18,5% são trabalhadores manuais qualificados, enquanto 13,5%, embora não sejam trabalhadores manuais, se encontram em áreas que não exigem formação profissional. O mesmo estudo indica também que esses migrantes possuem, em média, condição de vida e nível educacional acima dos de seus conterrâneos e abaixo dos de cidadãos estáveis do Sudeste.
+
+Disponível em: http://www.ibge.gov.br. Acesso em: 30 jul. 2009 (adaptado).
+
+
+
+","
+
+
+Com base nas informações contidas no texto, depreende-se que
+
+
+",        o processo migratório foi desencadeado por ações de governo para viabilizar a produção industrial no Sudeste.      ,        os governos estaduais do Sudeste priorizaram a qualificação da mão-de-obra migrante.      ,        o processo de migração para o Sudeste contribui para o fenômeno conhecido como inchaço urbano.      ,"        as migrações para o sudeste desencadearam a valorização do trabalho manual, sobretudo na década de 80.      ","        a falta de especialização dos migrantes é positiva para os empregadores, pois significa maior versatilidade profissional.      ", ,
+36,80,"
 
 
 O homem construiu sua história por meio do constante processo de ocupação e transformação do espaço natural. Na verdade, o que variou, nos diversos momentos da experiência humana, foi a intensidade dessa exploração.
@@ -655,10 +675,28 @@ Acesso em: 09 jul. 2009 (adaptado).
 
 ","
 
+
 Uma das consequências que pode ser atribuída à crescente intensificação da exploração de recursos naturais, facilitada pelo desenvolvimento tecnológico ao longo da história, é
 
 
-","a diminuição do comércio entre países e regiões, que se tornaram autossuficientes na produção de bens e serviços.","a ocorrência de desastres ambientais de grandes proporções, como no caso de derramamento de óleo por navios petroleiros.","a melhora generalizada das condições de vida da população mundial, a partir da eliminação das desigualdades econômicas na atualidade.","o desmatamento, que eliminou grandes extensões de diversos biomas improdutivos, cujas áreas passaram a ser ocupadas por centros industriais modernos.","o aumento demográfico mundial, sobretudo nos países mais desenvolvidos, que apresentam altas taxas de crescimento vegetativo.",B,
+","        a diminuição do comércio entre países e regiões, que se tornaram autossuficientes na produção de bens e serviços.      ","        a ocorrência de desastres ambientais de grandes proporções, como no caso de derramamento de óleo por navios petroleiros.      ","        a melhora generalizada das condições de vida da população mundial, a partir da eliminação das desigualdades econômicas na atualidade.      ","        o desmatamento, que eliminou grandes extensões de diversos biomas improdutivos, cujas áreas passaram a ser ocupadas por centros industriais modernos.      ","        o aumento demográfico mundial, sobretudo nos países mais desenvolvidos, que apresentam altas taxas de crescimento vegetativo.      ", ,
+37,79,"
+
+
+Entre 2004 e 2008, pelo menos 8 mil brasileiros foram libertados de fazendas onde trabalhavam como se fossem escravos. O governo criou uma lista em que ficaram expostos os nomes dos fazendeiros flagrados pela fiscalização. No Norte, Nordeste e Centro-Oeste, regiões que mais sofrem com a fraqueza do poder público, o bloqueio dos canais de financiamento agrícola para tais fazendeiros tem sido a principal arma de combate a esse problema, mas os governos ainda sofrem com a falta de informações, provocada pelas distâncias e pelo poder intimidador dos proprietários. Organizações não governamentais e grupos como a Pastoral da Terra têm agido corajosamente, acionando as autoridades públicas e ministrando aulas sobre direitos sociais e trabalhistas.
+
+Plano Nacional para Erradicação do Trabalho Escravo”. Disponível em:
+http://www.mte.gov.br. Acesso em: 17 mar. 2009 (adaptado).
+
+
+
+","
+
+
+Nos lugares mencionados no texto, o papel dos grupos de defesa dos direitos humanos tem sido fundamental, porque eles
+
+
+",        negociam com os fazendeiros o reajuste dos honorários e a redução da carga horária de trabalho.      ,        defendem os direitos dos consumidores junto aos armazéns e mercados das fazendas e carvoarias.      ,        substituem as autoridades policiais e jurídicas na resolução dos conflitos entre patrões e empregados.      ,        encaminham denúncias ao Ministério Público e promovem ações de conscientização dos trabalhadores.      ,        fortalecem a administração pública ao ministrarem aulas aos seus servidores.      , ,
 38,73,"
 
 
@@ -669,70 +707,12 @@ Uma das consequências que pode ser atribuída à crescente intensificação da 
 
 ","
 
+
 A partir do mapa apresentado, é possível inferir que nas últimas décadas do século XX, registraram-se processos que resultaram em transformações na distribuição das atividades econômicas e da população sobre o território brasileiro, com reflexos no PIB por habitante. Assim,
 
 
-","as desigualdades econômicas existentes entre regiões brasileiras desapareceram, tendo em vista a modernização tecnológica e o crescimento vivido pelo país.","os novos fluxos migratórios instaurados em direção ao Norte e ao Centro-Oeste do país prejudicaram o desenvolvimento socioeconômico dessas regiões, incapazes de atender ao crescimento da demanda por postos de trabalho.","o Sudeste brasileiro deixou de ser a região com o maior PIB industrial a partir do processo de desconcentração espacial do setor, em direção a outras regiões do país.","o avanço da fronteira econômica sobre os estados da região Norte e do Centro-Oeste resultou no desenvolvimento e na introdução de novas atividades econômicas, tanto nos setores primário e secundário, como no terciário.","o Nordeste tem vivido, ao contrário do restante do país, um período de retração econômica, como consequência da falta de investimentos no setor industrial com base na moderna tecnologia.",D,enem-data/enem-2009/73-images/context_img_0.png
-39,77,"
-
-
-A luta pela terra no Brasil é marcada por diversos aspectos que chamam a atenção. Entre os aspectos positivos, destaca-se a perseverança dos movimentos do campesinato e, entre os aspectos negativos, a violência que manchou de sangue essa história. Os movimentos pela reforma agrária articularam-se por todo o território nacional, principalmente entre 1985 e 1996, e conseguiram de maneira expressiva a inserção desse tema nas discussões pelo acesso à terra.O mapa seguinte apresenta a distribuição dos conflitos agrários em todas as regiões do Brasil nesse período, e o número de mortes ocorridas nessas lutas.
-
-
-
-
-
-
-
-
-
-
-
-
-
-OLIVEIRA, A. U. A longa marcha do campesinato brasileiro: movimentos sociais, conflitos e reforma agrária.  Revista Estudos Avançados. Vol. 15 n. 43, São Paulo, set./dez. 2001.
-
-
-
-","
-
-Com base nas informações do mapa acerca dos conflitos pela posse de terra no Brasil, a região
-
-
-",conhecida historicamente como das Missões Jesuíticas é a de maior violência.,do Bico do Papagaio apresenta os números mais expressivos.,conhecida como oeste baiano tem o maior número de mortes.,"do norte do Mato Grosso, área de expansão da agricultura mecanizada, é a mais violenta do país.",da Zona da Mata mineira teve o maior registro de mortes.,B,enem-data/enem-2009/77-images/context_img_0.png
-40,81,"
-
-
-Com a perspectiva do desaparecimento das geleiras no Polo Norte, grandes reservas de petróleo e minérios, hoje inacessíveis, poderão ser exploradas. E já atiçam a cobiça das potências.
-
-KOPP, D. Guerra Fria sobre o Ártico. Le monde diplomatique Brasil.
-Setembro, n. 2, 2007 (adaptado).
-
-
-
-","
-
-No cenário de que trata o texto, a exploração de jazidas de petróleo, bem como de minérios – diamante, ouro, prata, cobre, chumbo, zinco – torna-se atraente não só em função de seu formidável potencial, mas também por
-
-
-",situar-se em uma zona geopolítica mais estável que o Oriente Médio.,"possibilitar o povoamento de uma região pouco habitada, além de promover seu desenvolvimento econômico.","garantir, aos países em desenvolvimento, acesso a matérias-primas e energia, necessárias ao crescimento econômico.","contribuir para a redução da poluição em áreas ambientalmente já degradadas devido ao grande volume da produção industrial, como ocorreu na Europa.","promover a participação dos combustíveis fósseis na matriz energética mundial, dominada, majoritariamente, pelas fontes renováveis, de maior custo.",A,
-41,88,"
-
-
-A mais profunda objeção que se faz à ideia da criação de uma cidade, como Brasília, é que o seu desenvolvimento não poderá jamais ser natural. É uma objeção muito séria, pois provém de uma concepção de vida fundamental: a de que a atividade social e cultural não pode ser uma construção. Esquecem-se, porém, aqueles que fazem tal crítica, que o Brasil, como praticamente toda a América, é criação do homem ocidental.
-
-PEDROSA, M. Utopia: obra de arte. Vis – Revista do Programa de
- Pós-graduação em Arte (UnB), Vol. 5, n. 1, 2006 (adaptado).
-
-
-
-","
-
-As ideias apontadas no texto estão em oposição, porque
-
-
-",a cultura dos povos é reduzida a exemplos esquemáticos que não encontram respaldo na história do Brasil ou da América.,"as cidades, na primeira afirmação, têm um papel mais fraco na vida social, enquanto a América é mostrada como um exemplo a ser evitado.","a objeção inicial, de que as cidades não podem ser inventadas, é negada logo em seguida pelo exemplo utópico da colonização da América.","a concepção fundamental da primeira afirmação defende a construção de cidades e a segunda mostra, historicamente, que essa estratégia acarretou sérios problemas.","a primeira entende que as cidades devem ser organismos vivos, que nascem de forma espontânea, e a segunda mostra que há exemplos históricos que demonstram o contrário.",E,
-42,78,"
+","        as desigualdades econômicas existentes entre regiões brasileiras desapareceram, tendo em vista a modernização tecnológica e o crescimento vivido pelo país.      ","        os novos fluxos migratórios instaurados em direção ao Norte e ao Centro-Oeste do país prejudicaram o desenvolvimento socioeconômico dessas regiões, incapazes de atender ao crescimento da demanda por postos de trabalho.      ","        o Sudeste brasileiro deixou de ser a região com o maior PIB industrial a partir do processo de desconcentração espacial do setor, em direção a outras regiões do país.      ","        o avanço da fronteira econômica sobre os estados da região Norte e do Centro-Oeste resultou no desenvolvimento e na introdução de novas atividades econômicas, tanto nos setores primário e secundário, como no terciário.      ","        o Nordeste tem vivido, ao contrário do restante do país, um período de retração econômica, como consequência da falta de investimentos no setor industrial com base na moderna tecnologia.      ", ,enem-data/enem-2009/73-images/context_img_0.png
+39,78,"
 
 
 O gráfico mostra o percentual de áreas ocupadas, segundo o tipo de propriedade rural no Brasil, no ano de 2006.
@@ -756,11 +736,163 @@ Disponível em: http://www.sober.org.br. Acesso em: 6 ago. 2009.
 
 ","
 
+
 De acordo com o gráfico e com referência à distribuição das áreas rurais no Brasil, conclui-se que
 
 
-",imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões.,"o índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola.","o percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra.","a região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental.","a região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região.",A,enem-data/enem-2009/78-images/context_img_0.png
-43,96,"
+",        imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões.      ,"        o índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola.      ","        o percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra.      ","        a região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental.      ","        a região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região.      ", ,enem-data/enem-2009/78-images/context_img_0.png
+40,81,"
+
+
+Com a perspectiva do desaparecimento das geleiras no Polo Norte, grandes reservas de petróleo e minérios, hoje inacessíveis, poderão ser exploradas. E já atiçam a cobiça das potências.
+
+KOPP, D. Guerra Fria sobre o Ártico. Le monde diplomatique Brasil.
+Setembro, n. 2, 2007 (adaptado).
+
+
+
+","
+
+
+No cenário de que trata o texto, a exploração de jazidas de petróleo, bem como de minérios – diamante, ouro, prata, cobre, chumbo, zinco – torna-se atraente não só em função de seu formidável potencial, mas também por
+
+
+",        situar-se em uma zona geopolítica mais estável que o Oriente Médio.      ,"        possibilitar o povoamento de uma região pouco habitada, além de promover seu desenvolvimento econômico.      ","        garantir, aos países em desenvolvimento, acesso a matérias-primas e energia, necessárias ao crescimento econômico.      ","        contribuir para a redução da poluição em áreas ambientalmente já degradadas devido ao grande volume da produção industrial, como ocorreu na Europa.      ","        promover a participação dos combustíveis fósseis na matriz energética mundial, dominada, majoritariamente, pelas fontes renováveis, de maior custo.      ", ,
+41,77,"
+
+
+A luta pela terra no Brasil é marcada por diversos aspectos que chamam a atenção. Entre os aspectos positivos, destaca-se a perseverança dos movimentos do campesinato e, entre os aspectos negativos, a violência que manchou de sangue essa história. Os movimentos pela reforma agrária articularam-se por todo o território nacional, principalmente entre 1985 e 1996, e conseguiram de maneira expressiva a inserção desse tema nas discussões pelo acesso à terra.O mapa seguinte apresenta a distribuição dos conflitos agrários em todas as regiões do Brasil nesse período, e o número de mortes ocorridas nessas lutas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+OLIVEIRA, A. U. A longa marcha do campesinato brasileiro: movimentos sociais, conflitos e reforma agrária.  Revista Estudos Avançados. Vol. 15 n. 43, São Paulo, set./dez. 2001.
+
+
+
+","
+
+
+Com base nas informações do mapa acerca dos conflitos pela posse de terra no Brasil, a região
+
+
+",        conhecida historicamente como das Missões Jesuíticas é a de maior violência.      ,        do Bico do Papagaio apresenta os números mais expressivos.      ,        conhecida como oeste baiano tem o maior número de mortes.      ,"        do norte do Mato Grosso, área de expansão da agricultura mecanizada, é a mais violenta do país.      ",        da Zona da Mata mineira teve o maior registro de mortes.      , ,enem-data/enem-2009/77-images/context_img_0.png
+42,87,"
+
+
+Na figura, observa-se uma classificação de regiões da América do Sul segundo o grau de aridez verificado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disponível em: http:// www.mutirao.com.br.
+Acesso em: 5 ago. 2009.
+
+
+
+","
+
+
+Em relação às regiões marcadas na figura, observa-se que
+
+
+","        a existência de áreas superáridas, áridas e semiáridas é resultado do processo de desertificação, de intensidade variável, causado pela ação humana.      ","        o emprego de modernas técnicas de irrigação possibilitou a expansão da agricultura em determinadas áreas do semiárido, integrando-as ao comércio internacional.      ","        o semiárido, por apresentar déficit de precipitação, passou a ser habitado a partir da Idade Moderna, graças ao avanço científico e tecnológico.      ","        as áreas com escassez hídrica na América do Sul se restringem às regiões tropicais, onde as médias de temperatura anual são mais altas, justificando a falta de desenvolvimento e os piores indicadores sociais.      ","        o mesmo tipo de cobertura vegetal é encontrado nas áreas superáridas, áridas e semiáridas, mas essa cobertura, embora adaptada às condições climáticas, é desprovida de valor econômico.      ", ,enem-data/enem-2009/87-images/context_img_0.png
+43,90,"
+
+
+As áreas do planalto do cerrado – como a chapada dos Guimarães, a serra de Tapirapuã e a serra dos Parecis, no Mato Grosso, com altitudes que variam de 400 m a 800 m – são importantes para a planície pantaneira mato-grossense (com altitude média inferior a 200 m), no que se refere à manutenção do nível de água, sobretudo durante a estiagem. Nas cheias, a inundação ocorre em função da alta pluviosidade nas cabeceiras dos rios, do afloramento de lençóis freáticos e da baixa declividade do relevo, entre outros fatores. Durante a estiagem, a grande biodiversidade é assegurada pelas águas da calha dos principais rios, cujo volume tem diminuído, principalmente nas cabeceiras.
+
+Cabeceiras ameaçadas. Ciência Hoje. Rio de Janeiro:
+SBPC. Vol. 42, jun. 2008 (adaptado).
+
+
+
+","
+
+
+A medida mais eficaz a ser tomada, visando à conservação da planície pantaneira e à preservação de sua grande biodiversidade, é a conscientização da sociedade e a organização de movimentos sociais que exijam
+
+
+",        a criação de parques ecológicos na área do pantanal mato-grossense.      ,"        a proibição da pesca e da caça, que tanto ameaçam a biodiversidade.      ","        o aumento das pastagens na área da planície, para que a cobertura vegetal, composta de gramíneas, evite a erosão do solo.      ","        o controle do desmatamento e da erosão, principalmente nas nascentes dos rios responsáveis pelo nível das águas durante o período de cheias.      ","        a construção de barragens, para que o nível das águas dos rios seja mantido, sobretudo na estiagem, sem prejudicar os ecossistemas.      ", ,
+44,88,"
+
+
+A mais profunda objeção que se faz à ideia da criação de uma cidade, como Brasília, é que o seu desenvolvimento não poderá jamais ser natural. É uma objeção muito séria, pois provém de uma concepção de vida fundamental: a de que a atividade social e cultural não pode ser uma construção. Esquecem-se, porém, aqueles que fazem tal crítica, que o Brasil, como praticamente toda a América, é criação do homem ocidental.
+
+PEDROSA, M. Utopia: obra de arte. Vis – Revista do Programa de
+ Pós-graduação em Arte (UnB), Vol. 5, n. 1, 2006 (adaptado).
+
+
+
+","
+
+
+As ideias apontadas no texto estão em oposição, porque
+
+
+",        a cultura dos povos é reduzida a exemplos esquemáticos que não encontram respaldo na história do Brasil ou da América.      ,"        as cidades, na primeira afirmação, têm um papel mais fraco na vida social, enquanto a América é mostrada como um exemplo a ser evitado.      ","        a objeção inicial, de que as cidades não podem ser inventadas, é negada logo em seguida pelo exemplo utópico da colonização da América.      ","        a concepção fundamental da primeira afirmação defende a construção de cidades e a segunda mostra, historicamente, que essa estratégia acarretou sérios problemas.      ","        a primeira entende que as cidades devem ser organismos vivos, que nascem de forma espontânea, e a segunda mostra que há exemplos históricos que demonstram o contrário.      ", ,
+45,125,"
+
+
+
+
+
+
+
+","
+
+
+Na parte superior do anúncio, há um comentário escrito à mão que aborda a questão das atividades linguísticas e sua relação com as modalidades oral e escrita da língua. Esse comentário deixa evidente uma posição crítica quanto a usos que se fazem da linguagem, enfatizando ser necessário
+
+
+","        implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua .       ",        conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita.       ,"        dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção.       ",        empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita.       ,        utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso.       , ,enem-data/enem-2009/125-images/context_img_0.png
+46,83,"
+
+
+No mundo contemporâneo, as reservas energéticas tornam-se estratégicas para muitos países no cenário internacional. Os gráficos apresentados mostram os dez países com as maiores reservas de petróleo e gás natural em reservas comprovadas até janeiro de 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disponível em: http://indexmundi.com. Acesso em: 12 ago. 2009 (adaptado).
+
+
+
+","
+
+
+As reservas venezuelanas figuram em ambas as classificações porque
+
+
+",        a Venezuela já está integrada ao MERCOSUL.      ,"        são reservas comprovadas, mas ainda inexploradas.      ",        podem ser exploradas sem causarem alterações ambientais.      ,        já estão comprometidas com o setor industrial interno daquele país.      ,        a Venezuela é uma grande potência energética mundial.      , ,enem-data/enem-2009/83-images/context_img_0.png
+47,96,"
 
 
 Para o Mano Caetano
@@ -793,11 +925,34 @@ Acesso em: 14 ago. 2009 (adaptado).
 
 ","
 
+
 Na letra da canção apresentada, o compositor Lobão explora vários recursos da língua portuguesa, a fim de conseguir efeitos estéticos ou de sentido. Nessa letra, o autor explora o extrato sonoro do idioma e o uso de termos coloquiais na seguinte passagem:
 
 
-",“Quando um doce bardo brada a toda brida” (v. 2).,"“Em velas pandas, suas esquisitas rimas?” (v. 3).",“Que devora a voz do morto” (v. 9).,“lobo-bolo//Tipo pra rimar com ouro de tolo? (v. 11-12),"“Tease me, tease me outra vez” (v. 14)",D,
-44,104,"
+",        “Quando um doce bardo brada a toda brida” (v. 2).      ,"        “Em velas pandas, suas esquisitas rimas?” (v. 3).      ",        “Que devora a voz do morto” (v. 9).      ,        “lobo-bolo//Tipo pra rimar com ouro de tolo? (v. 11-12)      ,"        “Tease me, tease me outra vez” (v. 14)      ", ,
+48,85,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+Reunindo-se as informações contidas nas duas charges, infere-se que
+
+
+",        os regimes climáticos da Terra são desprovidos de padrões que os caracterizem.      ,        as intervenções humanas nas regiões polares são mais intensas que em outras partes do globo.      ,        o processo de aquecimento global será detido com a eliminação das queimadas.      ,        a destruição das florestas tropicais é uma das causas do aumento da temperatura em locais distantes como os polos.      ,"        os parâmetros climáticos modificados pelo homem afetam todo o planeta, mas os processos naturais têm alcance regional.      ", ,"enem-data/enem-2009/85-images/context_img_0.png,enem-data/enem-2009/85-images/context_img_1.png"
+49,104,"
 
 
 Diferentemente do texto escrito, que em geral compele os leitores a lerem numa onda linear – da esquerda para a direita e de cima para baixo, na página
@@ -810,115 +965,11 @@ Rio: Lucerna, 2007.
 
 ","
 
+
 No que diz respeito à relação entre o hipertexto e o conhecimento por ele produzido, o texto apresentado deixa claro que o hipertexto muda a noção tradicional de autoria, porque
 
 
-",é o leitor que constrói a versão final do texto.,o autor detém o controle absoluto do que escreve.,aclara os limites entre o leitor e o autor.,propicia um evento textual-interativo em que apenas o autor é ativo.,só o autor conhece o que eletronicamente se dispõe para o leitor.,A,
-45,157,"
-
-
-Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las.
-
-
-
-","
-
-Sabendo que a capacidade da caixa é de 13.824 cm³, então o número máximo de esferas que podem ser transportadas em uma caixa é igual a
-
-
-",4.,8.,16.,24.,32.,B,
-46,83,"
-
-
-No mundo contemporâneo, as reservas energéticas tornam-se estratégicas para muitos países no cenário internacional. Os gráficos apresentados mostram os dez países com as maiores reservas de petróleo e gás natural em reservas comprovadas até janeiro de 2008.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Disponível em: http://indexmundi.com. Acesso em: 12 ago. 2009 (adaptado).
-
-
-
-","
-
-As reservas venezuelanas figuram em ambas as classificações porque
-
-
-",a Venezuela já está integrada ao MERCOSUL.,"são reservas comprovadas, mas ainda inexploradas.",podem ser exploradas sem causarem alterações ambientais.,já estão comprometidas com o setor industrial interno daquele país.,a Venezuela é uma grande potência energética mundial.,E,enem-data/enem-2009/83-images/context_img_0.png
-47,90,"
-
-
-As áreas do planalto do cerrado – como a chapada dos Guimarães, a serra de Tapirapuã e a serra dos Parecis, no Mato Grosso, com altitudes que variam de 400 m a 800 m – são importantes para a planície pantaneira mato-grossense (com altitude média inferior a 200 m), no que se refere à manutenção do nível de água, sobretudo durante a estiagem. Nas cheias, a inundação ocorre em função da alta pluviosidade nas cabeceiras dos rios, do afloramento de lençóis freáticos e da baixa declividade do relevo, entre outros fatores. Durante a estiagem, a grande biodiversidade é assegurada pelas águas da calha dos principais rios, cujo volume tem diminuído, principalmente nas cabeceiras.
-
-Cabeceiras ameaçadas. Ciência Hoje. Rio de Janeiro:
-SBPC. Vol. 42, jun. 2008 (adaptado).
-
-
-
-","
-
-A medida mais eficaz a ser tomada, visando à conservação da planície pantaneira e à preservação de sua grande biodiversidade, é a conscientização da sociedade e a organização de movimentos sociais que exijam
-
-
-",a criação de parques ecológicos na área do pantanal mato-grossense.,"a proibição da pesca e da caça, que tanto ameaçam a biodiversidade.","o aumento das pastagens na área da planície, para que a cobertura vegetal, composta de gramíneas, evite a erosão do solo.","o controle do desmatamento e da erosão, principalmente nas nascentes dos rios responsáveis pelo nível das águas durante o período de cheias.","a construção de barragens, para que o nível das águas dos rios seja mantido, sobretudo na estiagem, sem prejudicar os ecossistemas.",D,
-48,87,"
-
-
-Na figura, observa-se uma classificação de regiões da América do Sul segundo o grau de aridez verificado.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Disponível em: http:// www.mutirao.com.br.
-Acesso em: 5 ago. 2009.
-
-
-
-","
-
-Em relação às regiões marcadas na figura, observa-se que
-
-
-","a existência de áreas superáridas, áridas e semiáridas é resultado do processo de desertificação, de intensidade variável, causado pela ação humana.","o emprego de modernas técnicas de irrigação possibilitou a expansão da agricultura em determinadas áreas do semiárido, integrando-as ao comércio internacional.","o semiárido, por apresentar déficit de precipitação, passou a ser habitado a partir da Idade Moderna, graças ao avanço científico e tecnológico.","as áreas com escassez hídrica na América do Sul se restringem às regiões tropicais, onde as médias de temperatura anual são mais altas, justificando a falta de desenvolvimento e os piores indicadores sociais.","o mesmo tipo de cobertura vegetal é encontrado nas áreas superáridas, áridas e semiáridas, mas essa cobertura, embora adaptada às condições climáticas, é desprovida de valor econômico.",B,enem-data/enem-2009/87-images/context_img_0.png
-49,85,"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-","
-
-Reunindo-se as informações contidas nas duas charges, infere-se que
-
-
-",os regimes climáticos da Terra são desprovidos de padrões que os caracterizem.,as intervenções humanas nas regiões polares são mais intensas que em outras partes do globo.,o processo de aquecimento global será detido com a eliminação das queimadas.,a destruição das florestas tropicais é uma das causas do aumento da temperatura em locais distantes como os polos.,"os parâmetros climáticos modificados pelo homem afetam todo o planeta, mas os processos naturais têm alcance regional.",D,"enem-data/enem-2009/85-images/context_img_0.png,enem-data/enem-2009/85-images/context_img_1.png"
+",        é o leitor que constrói a versão final do texto.      ,        o autor detém o controle absoluto do que escreve.      ,        aclara os limites entre o leitor e o autor.      ,        propicia um evento textual-interativo em que apenas o autor é ativo.      ,        só o autor conhece o que eletronicamente se dispõe para o leitor.      , ,
 50,84,"
 
 
@@ -943,61 +994,28 @@ BETHEL, L. História da América. V. I. São Paulo. (Foto: EDUSP)
 
 
 
+
 As terras brasileiras foram divididas por meio de tratados entre Portugal e Espanha. De acordo com esses tratados, identificados no mapa, conclui-se que
 
 
 
 
-","Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.",o Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.,o Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.,"Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.",o Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental.,C,enem-data/enem-2009/84-images/context_img_0.png
-51,125,"
+","        Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.      ",        o Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.      ,        o Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.      ,"        Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.      ",        o Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental.      , ,enem-data/enem-2009/84-images/context_img_0.png
+51,157,"
 
 
-
-
-
-
-
-","
-
-Na parte superior do anúncio, há um comentário escrito à mão que aborda a questão das atividades linguísticas e sua relação com as modalidades oral e escrita da língua. Esse comentário deixa evidente uma posição crítica quanto a usos que se fazem da linguagem, enfatizando ser necessário
-
-
-","implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua . ",conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita. ,"dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção. ",empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita. ,utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso. ,D,enem-data/enem-2009/125-images/context_img_0.png
-52,126,"
-
-
-
-
+Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las.
 
 
 
 ","
 
-O texto exemplifica um gênero textual híbrido entre carta e publicidade oficial. Em seu conteúdo, é possível perceber aspectos relacionados a gêneros digitais. Considerando-se a função social das informações geradas nos sistemas de comunicação e informação presentes no texto, infere-se que
+
+Sabendo que a capacidade da caixa é de 13.824 cm³, então o número máximo de esferas que podem ser transportadas em uma caixa é igual a
 
 
-",a utilização do termo download indica restrição de leitura de informações a respeito de formas de combate à dengue.,a diversidade dos sistemas de comunicação empregados e mencionados reduz a possibilidade de acesso às informações a respeito do combate à dengue.,a utilização do material disponibilizado para download no site www.combatadengue.com.br restringe-se ao receptor da publicidade.,a necessidade de atingir públicos distintos se revela por meio da estratégia de disponibilização de informações empregada pelo emissor.,"a utilização desse gênero textual compreende, no próprio texto, o detalhamento de informações a respeito de formas de combate à dengue.",D,enem-data/enem-2009/126-images/context_img_0.png
-53,165,"
-
-
-Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4.
-
-
-
-
-
-
-
-
-
-
-","
-
-Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135º graus no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em
-
-
-","Belo Horizonte, e em seguida embarcou para Curitiba.","Belo Horizonte, e em seguida embarcou para Salvador.","Boa Vista, e em seguida embarcou para Porto Velho.","Goiânia, e em seguida embarcou para o Rio de Janeiro.","Goiânia, e em seguida embarcou para Manaus.",B,enem-data/enem-2009/165-images/context_img_0.png
-54,141,"
+",        4.      ,        8.      ,        16.      ,        24.      ,        32.      , ,
+52,141,"
 
 
 O governo cedeu terrenos para que famílias construíssem suas residências com a condição de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. Ao receber o terreno retangular ABCD, em que AB= BC/2 , Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual AE = AB/5 é lado do quadrado.
@@ -1013,11 +1031,12 @@ O governo cedeu terrenos para que famílias construíssem suas residências com 
 
 ","
 
+
 Nesse caso, a área definida por Antônio atingiria exatamente o limite determinado pela condição se ele
 
 
-",duplicasse a medida do lado do quadrado.,triplicasse a medida do lado do quadrado.,triplicasse a área do quadrado.,ampliasse a medida do lado do quadrado em 4%.,ampliasse a área do quadrado em 4%.,C,enem-data/enem-2009/141-images/context_img_0.png
-55,86,"
+",        duplicasse a medida do lado do quadrado.      ,        triplicasse a medida do lado do quadrado.      ,        triplicasse a área do quadrado.      ,        ampliasse a medida do lado do quadrado em 4%.      ,        ampliasse a área do quadrado em 4%.      , ,enem-data/enem-2009/141-images/context_img_0.png
+53,86,"
 
 
 O clima é um dos elementos fundamentais não só na caracterização das paisagens naturais, mas também no histórico de ocupação do espaço geográfico.
@@ -1026,7 +1045,44 @@ O clima é um dos elementos fundamentais não só na caracterização das paisag
 
 ","
 
+
 Tendo em vista determinada restrição climática, a figura que representa o uso de tecnologia voltada para a produção é:
 
 
-",enem-data/enem-2009/86-images/alt_img_0.png,enem-data/enem-2009/86-images/alt_img_1.png,enem-data/enem-2009/86-images/alt_img_2.png,enem-data/enem-2009/86-images/alt_img_3.png,enem-data/enem-2009/86-images/alt_img_4.png,D,
+",enem-data/enem-2009/86-images/alt_img_0.png,enem-data/enem-2009/86-images/alt_img_1.png,enem-data/enem-2009/86-images/alt_img_2.png,enem-data/enem-2009/86-images/alt_img_3.png,enem-data/enem-2009/86-images/alt_img_4.png, ,
+54,126,"
+
+
+
+
+
+
+
+","
+
+
+O texto exemplifica um gênero textual híbrido entre carta e publicidade oficial. Em seu conteúdo, é possível perceber aspectos relacionados a gêneros digitais. Considerando-se a função social das informações geradas nos sistemas de comunicação e informação presentes no texto, infere-se que
+
+
+",        a utilização do termo download indica restrição de leitura de informações a respeito de formas de combate à dengue.      ,        a diversidade dos sistemas de comunicação empregados e mencionados reduz a possibilidade de acesso às informações a respeito do combate à dengue.      ,        a utilização do material disponibilizado para download no site www.combatadengue.com.br restringe-se ao receptor da publicidade.      ,        a necessidade de atingir públicos distintos se revela por meio da estratégia de disponibilização de informações empregada pelo emissor.      ,"        a utilização desse gênero textual compreende, no próprio texto, o detalhamento de informações a respeito de formas de combate à dengue.      ", ,enem-data/enem-2009/126-images/context_img_0.png
+55,165,"
+
+
+Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135º graus no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em
+
+
+","        Belo Horizonte, e em seguida embarcou para Curitiba.      ","        Belo Horizonte, e em seguida embarcou para Salvador.      ","        Boa Vista, e em seguida embarcou para Porto Velho.      ","        Goiânia, e em seguida embarcou para o Rio de Janeiro.      ","        Goiânia, e em seguida embarcou para Manaus.      ", ,enem-data/enem-2009/165-images/context_img_0.png

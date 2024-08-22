@@ -1,20 +1,5 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,153,"
-
-
-Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem
-e no funcionamento da suspensão do veículo, causas frequentes de acidentes.
-Ciente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1 500 telhas ou 1 200 tijolos.
-
-
-
-","
-
-Considerando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão?
-
-
-",300 tijolos,360 tijolos,400 tijolos,480 tijolos,600 tijolos,D,
-1,144,"
+0,144,"
 
 
 Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a y  centímetros. Essas placas são vendidas em caixas com N unidades e, na caixa, é
@@ -25,10 +10,26 @@ Devido a uma demanda do mercado por placas maiores, a fábrica triplicou a medid
 
 ","
 
+
 A quantidade X, de placas do novo modelo, em cada nova caixa será igual a:
 
 
-",N/9,N/6,N/3,3N,9N,A,
+",        N/9      ,        N/6      ,        N/3      ,        3N      ,        9N      , ,
+1,147,"
+
+
+Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de
+areia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m³ de concreto.
+
+
+
+","
+
+
+Qual é o volume de cimento, em m³, na carga de concreto trazido pela betoneira?
+
+
+","        1,75      ","        2,00      ","        2,33      ","        4,00      ","        8,00      ", ,
 2,151,"
 
 
@@ -39,11 +40,28 @@ Um cliente deseja comprar um produto que custava R$ 50,00 antes da remarcação 
 
 ","
 
+
 Caso esse cliente possuísse o cartão fidelidade da loja, a economia adicional que obteria ao efetuar a compra, em reais, seria de
 
 
-","15,00","14,00","10,00","5,00","4,00",E,
-3,139,"
+","        15,00      ","        14,00      ","        10,00      ","        5,00      ","        4,00      ", ,
+3,153,"
+
+
+Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem
+e no funcionamento da suspensão do veículo, causas frequentes de acidentes.
+Ciente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1 500 telhas ou 1 200 tijolos.
+
+
+
+","
+
+
+Considerando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão?
+
+
+",        300 tijolos      ,        360 tijolos      ,        400 tijolos      ,        480 tijolos      ,        600 tijolos      , ,
+4,148,"
 
 
 
@@ -53,40 +71,12 @@ Caso esse cliente possuísse o cartão fidelidade da loja, a economia adicional 
 
 ","
 
-Analisando os dados percentuais do gráfico, qual a diferença entre o maior e o menor centro em crescimento no polo das indústrias?
+
+O empresário decidiu comprar a empresa
 
 
-","75,28","64,09","56,95","45,76","30,07",C,enem-data/enem-2013/139-images/context_img_0.png
-4,146,"
-
-
-O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.
-
-Disponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
-
-
-
-","
-
-Um contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de:
-
-
-","R$ 900,00.","R$ 1 200,00.","R$ 2 100,00.","R$ 3 900,00.","R$ 5 100,00.",B,
-5,147,"
-
-
-Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de
-areia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m³ de concreto.
-
-
-
-","
-
-Qual é o volume de cimento, em m³, na carga de concreto trazido pela betoneira?
-
-
-","1,75","2,00","2,33","4,00","8,00",B,
-6,140,"
+",        F      ,        G      ,        H      ,        M      ,        P      , ,enem-data/enem-2013/148-images/context_img_0.png
+5,152,"
 
 
 
@@ -96,11 +86,12 @@ Qual é o volume de cimento, em m³, na carga de concreto trazido pela betoneira
 
 ","
 
-A razão que representa a quantidade de cadeiras reservadas do setor 3 em relação ao total de cadeiras desse mesmo setor é
+
+A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é
 
 
-",17/10,17/53,53/70,53/17,70/17,A,enem-data/enem-2013/140-images/context_img_0.png
-7,145,"
+",        6      ,        7      ,        8      ,        11      ,        12      , ,enem-data/enem-2013/152-images/context_img_0.png
+6,145,"
 
 
 
@@ -114,11 +105,12 @@ Considere 3 como valor aproximado para π
 
 ","
 
+
 Para satisfazer as condições dadas, o raio máximo da ilha de lazer r, em metros, estará mais próximo de
 
 
-","1,6","1,7","2,0","3,0","3,8",A,enem-data/enem-2013/145-images/context_img_0.png
-8,141,"
+","        1,6      ","        1,7      ","        2,0      ","        3,0      ","        3,8      ", ,enem-data/enem-2013/145-images/context_img_0.png
+7,141,"
 
 
 
@@ -127,13 +119,14 @@ Para satisfazer as condições dadas, o raio máximo da ilha de lazer r, em metr
 
 
 ","
+
 
 A loja sorteará um brinde entre os compradores do produto A e outro brinde entre os compradores do produto B.
 Qual a probabilidade de que os dois sorteados tenham feito suas compras em fevereiro de 2012?
 
 
-",1/20,3/242,5/22,6/25,7/15,A,enem-data/enem-2013/141-images/context_img_0.png
-9,152,"
+",        1/20      ,        3/242      ,        5/22      ,        6/25      ,        7/15      , ,enem-data/enem-2013/141-images/context_img_0.png
+8,140,"
 
 
 
@@ -143,11 +136,12 @@ Qual a probabilidade de que os dois sorteados tenham feito suas compras em fever
 
 ","
 
-A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é
+
+A razão que representa a quantidade de cadeiras reservadas do setor 3 em relação ao total de cadeiras desse mesmo setor é
 
 
-",6,7,8,11,12,C,enem-data/enem-2013/152-images/context_img_0.png
-10,150,"
+",        17/10      ,        17/53      ,        53/70      ,        53/17      ,        70/17      , ,enem-data/enem-2013/140-images/context_img_0.png
+9,150,"
 
 
 
@@ -156,26 +150,29 @@ A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é
 
 
 ","
+
 
 O valor mediano da diária, em reais, para o quarto padrão de casal nessa cidade, é
 
 
-","300,00.","345,00.","350,00.","375,00.","400,00.",C,enem-data/enem-2013/150-images/context_img_0.png
-11,148,"
+","        300,00.      ","        345,00.      ","        350,00.      ","        375,00.      ","        400,00.      ", ,enem-data/enem-2013/150-images/context_img_0.png
+10,146,"
 
 
+O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.
 
-
+Disponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
 
 
 
 ","
 
-O empresário decidiu comprar a empresa
+
+Um contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de:
 
 
-",F,G,H,M,P,B,enem-data/enem-2013/148-images/context_img_0.png
-12,149,"
+","        R$ 900,00.      ","        R$ 1 200,00.      ","        R$ 2 100,00.      ","        R$ 3 900,00.      ","        R$ 5 100,00.      ", ,
+11,149,"
 
 
 
@@ -192,25 +189,12 @@ Disponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado).
 
 ","
 
+
 O valor total gasto, em reais, para postar essas cartas é de
 
 
-","8,35","12,50","14,40","15,35","18,05",D,enem-data/enem-2013/149-images/context_img_0.png
-13,155,"
-
-
-Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.
-Nessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.
-
-
-
-","
-
-Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?
-
-
-",1/2,5/8,1/4,5/6,5/14,A,
-14,156,"
+","        8,35      ","        12,50      ","        14,40      ","        15,35      ","        18,05      ", ,enem-data/enem-2013/149-images/context_img_0.png
+12,139,"
 
 
 
@@ -220,23 +204,12 @@ Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala ingl
 
 ","
 
-Utilizando 0,26 como valor aproximado para a tangente de 15° e duas casas decimais nas operações, descobre-se que a área da base desse prédio ocupa na avenida um espaço
- 
+
+Analisando os dados percentuais do gráfico, qual a diferença entre o maior e o menor centro em crescimento no polo das indústrias?
 
 
-",menor que 100 m²  ,entre 100 m² e 300 m²  ,entre 300 m² e 500 m²  ,entre 500 m² e 700 m²  ,maior que 700 m²,E,enem-data/enem-2013/156-images/context_img_0.png
-15,162,"
-
-Considere 0,3 como aproximação para log10 2.
-
-
-","
-
-Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?
-
-
-",27,36,50,54,100,E,
-16,154,"
+","        75,28      ","        64,09      ","        56,95      ","        45,76      ","        30,07      ", ,enem-data/enem-2013/139-images/context_img_0.png
+13,154,"
 
 
 
@@ -245,196 +218,13 @@ Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-13
 
 
 ","
+
 
 A quantidade total de arroz, em toneladas, que deverá ser produzida no período de 2012 a 2021 será de
 
 
-","497,25.","500,85.","502,87.","558,75.","563,25.",D,enem-data/enem-2013/154-images/context_img_0.png
-17,163,"
-
-
-Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).
-Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.
-
-
-
-","
-
-Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de
-
-
-","0,83","1,20","12,03","104,73","120,34",C,
-18,157,"
-
-
-
-
-
-
-
-","
-
-Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor. A nova média, em relação à média anterior, é
- 
-
-
-","0,25 ponto maior.  ","1,00 ponto maior.  ","1,00 ponto menor.  ","1,25 ponto maior.  ","2,00 pontos menor.",B,enem-data/enem-2013/157-images/context_img_0.png
-19,166,"
-
-
-O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.
-
-Disponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.
-
-
-
-","
-
-No ano de 2101, o Sol estará no ciclo de atividade magnética de número
-
-
-",32,34,33,35,31,A,
-20,137,"
-
-
-Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.
-
-HUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).
-
-
-
-","
-
-Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:
-
-
-",enem-data/enem-2013/137-images/alt_img_0.png,enem-data/enem-2013/137-images/alt_img_1.png,enem-data/enem-2013/137-images/alt_img_2.png,enem-data/enem-2013/137-images/alt_img_3.png,enem-data/enem-2013/137-images/alt_img_4.png,D,
-21,167,"
-
-
-
-
-
-
-
-
-
-Há interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.
-
- 
- 
-
-
-
-","
-
-Esse número é
-
-
-",menor que 10.,maior que 10 e menor que 20.,maior que 20 e menor que 30.,maior que 30 e menor que 40.,maior que 40.,D,enem-data/enem-2013/167-images/context_img_0.png
-22,169,"
-
-
-
-
-
-
-
-
-
-Nela identifica-se a representação de duas figuras geométricas tridimensionais.
-
-
-
-","
-
-Essas figuras são
-
-
-",um tronco de cone e um cilindro.,um cone e um cilindro.,um tronco de pirâmide e um cilindro.,dois troncos de cone.,dois cilindros.,D,enem-data/enem-2013/169-images/context_img_0.png
-23,168,"
-
-
-
-
-
-
-
-
-
-A torre deve estar situada em um local equidistante das três antenas.
-
-
-
-","
-
-O local adequado para a construção dessa torre corresponde ao ponto de coordenadas
-
-
-",(65 ; 35).,(53 ; 30).,(45 ; 35).,(50 ; 20).,(50 ; 30).,E,enem-data/enem-2013/168-images/context_img_0.png
-24,165,"
-
-
-A temperatura T de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento (t = 0) e varia de acordo com a expressão com t em minutos. Por motivos de segurança, a trava do forno só é liberada para
-abertura quando o forno atinge a temperatura de 39 ºC.
- 
- 
-
-
-
-","
-
-Qual o tempo mínimo de espera, em minutos, após se desligar o forno, para que a porta possa ser aberta?
-
-
-","19,0","19,8","20,0","38,0","39,0",D,enem-data/enem-2013/165-images/context_img_0.png
-25,174,"
-
-
-
-Disponível em: www.arq.ufsc.br. Acesso em: 3 mar. 2012.
-
-
-
-
-Suponha que uma peça, quando moldada em argila, possuía uma base retangular cujos lados mediam 30 cm e 15 cm. Após o cozimento, esses lados foram reduzidos em 20%.
-
-
-","
-
-Em relação à área original, a área da base dessa peça, após o cozimento, ficou reduzida em
-
-
-",4%,20%,36%,64%,96%,C,
-26,170,"
-
-
-
-
-
-
-
-","
-
-Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é
-
-
-",Finlândia.,Holanda.,Israel.,México.,Rússia.,C,enem-data/enem-2013/170-images/context_img_0.png
-27,161,"
-
-
-
-
-
-
-
-","
-
-Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?
-
-
-",6,12,18,24,36,B,enem-data/enem-2013/161-images/context_img_0.png
-28,142,"
+","        497,25.      ","        500,85.      ","        502,87.      ","        558,75.      ","        563,25.      ", ,enem-data/enem-2013/154-images/context_img_0.png
+14,142,"
 
 
 Durante uma aula de Matemática, o professor sugere aos alunos que seja fixado um sistema de coordenadas cartesianas (x, y) e representa na lousa a descrição de cinco conjuntos algébricos, I, II, III, IV e V, como se segue:
@@ -449,11 +239,12 @@ A seguir, o professor representa corretamente os cinco conjuntos sobre uma mesma
 
 ","
 
+
 Qual destas figuras foi desenhada pelo professor?
 
 
-",enem-data/enem-2013/142-images/alt_img_0.png,enem-data/enem-2013/142-images/alt_img_1.png,enem-data/enem-2013/142-images/alt_img_2.png,enem-data/enem-2013/142-images/alt_img_3.png,enem-data/enem-2013/142-images/alt_img_4.png,E,
-29,172,"
+",enem-data/enem-2013/142-images/alt_img_0.png,enem-data/enem-2013/142-images/alt_img_1.png,enem-data/enem-2013/142-images/alt_img_2.png,enem-data/enem-2013/142-images/alt_img_3.png,enem-data/enem-2013/142-images/alt_img_4.png, ,
+15,156,"
 
 
 
@@ -463,11 +254,59 @@ Qual destas figuras foi desenhada pelo professor?
 
 ","
 
-Qual deve ser o valor do comprimento da haste EF?
+
+Utilizando 0,26 como valor aproximado para a tangente de 15° e duas casas decimais nas operações, descobre-se que a área da base desse prédio ocupa na avenida um espaço
+ 
 
 
-",1 m,2 m,"2,4 m",3 m,2√6 m,C,enem-data/enem-2013/172-images/context_img_0.png
-30,171,"
+",        menor que 100 m²        ,        entre 100 m² e 300 m²        ,        entre 300 m² e 500 m²        ,        entre 500 m² e 700 m²        ,        maior que 700 m²      , ,enem-data/enem-2013/156-images/context_img_0.png
+16,155,"
+
+
+Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.
+Nessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.
+
+
+
+","
+
+
+Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?
+
+
+",        1/2      ,        5/8      ,        1/4      ,        5/6      ,        5/14      , ,
+17,137,"
+
+
+Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.
+
+HUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).
+
+
+
+","
+
+
+Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:
+
+
+",enem-data/enem-2013/137-images/alt_img_0.png,enem-data/enem-2013/137-images/alt_img_1.png,enem-data/enem-2013/137-images/alt_img_2.png,enem-data/enem-2013/137-images/alt_img_3.png,enem-data/enem-2013/137-images/alt_img_4.png, ,
+18,163,"
+
+
+Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).
+Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.
+
+
+
+","
+
+
+Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de
+
+
+","        0,83      ","        1,20      ","        12,03      ","        104,73      ","        120,34      ", ,
+19,157,"
 
 
 
@@ -477,108 +316,13 @@ Qual deve ser o valor do comprimento da haste EF?
 
 ","
 
-Considere que AC = 7/5 BD e que l é a medida de um dos lados da base da bandeja.
-Qual deve ser o menor valor da razão lBD para que uma bandeja tenha capacidade de portar exatamente quatro copos de uma só vez?
 
+Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor. A nova média, em relação à média anterior, é
+ 
 
-",2,14/5,4,24/5,28/5,D,enem-data/enem-2013/171-images/context_img_0.png
-31,175,"
 
-
-
-
-
-
-
-","
-
-O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como
-
-
-",excelente.,bom.,regular.,ruim.,péssimo.,B,enem-data/enem-2013/175-images/context_img_0.png
-32,176,"
-
-
-
-
-
-
-
-
-
-Cinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:
-Arthur: 250 cartelas com 6 números escolhidos;
-Bruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;
-Caio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;
-Douglas: 4 cartelas com 9 números escolhidos;
-Eduardo: 2 cartelas com 10 números escolhidos.
-
-
-
-","
-
-Os dois apostadores com maiores probabilidades de serem premiados são
-
-
-",Caio e Eduardo.,Arthur e Eduardo.,Bruno e Caio.,Arthur e Bruno.,Douglas e Eduardo.,A,enem-data/enem-2013/176-images/context_img_0.png
-33,178,"
-
-
-
-
-
-
-
-","
-
-Utilize 1,7 como aproximação para √3
-O valor de R, em centímetros, é igual a
-
-
-","64,0","65,5","74,0","81,0","91,0",C,enem-data/enem-2013/178-images/context_img_0.png
-34,177,"
-
-
-
-
-
-
-
-","
-
-Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,
-
-
-","A, A, A, A. ","A, B, A, B.  ","A, B, B, A. ","B, A, A, B.  ","B, B, B, B.",D,enem-data/enem-2013/177-images/context_img_0.png
-35,179,"
-
-
-
-
-
-
-
-","
-
-Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a
-
-
-",Malhada,Mamona,Maravilha,Mateira,Mimosa,D,enem-data/enem-2013/179-images/context_img_0.png
-36,180,"
-
-
-
-
-
-
-
-","
-
-Quantos quilômetros esse aluno percorreu na fase de implantação do programa?
-
-
-",4,8,16,20,40,E,enem-data/enem-2013/180-images/context_img_0.png
-37,138,"
+","        0,25 ponto maior.        ","        1,00 ponto maior.        ","        1,00 ponto menor.        ","        1,25 ponto maior.        ","        2,00 pontos menor.      ", ,enem-data/enem-2013/157-images/context_img_0.png
+20,138,"
 
 
 
@@ -602,10 +346,304 @@ O esquema representa as trajetórias circulares de cinco satélites, de mesma ma
 
 ","
 
+
 Qual gráfico expressa as intensidades das forças que a Terra exerce sobre cada satélite em função do tempo?
 
 
-",enem-data/enem-2013/138-images/alt_img_0.png,enem-data/enem-2013/138-images/alt_img_1.png,enem-data/enem-2013/138-images/alt_img_2.png,enem-data/enem-2013/138-images/alt_img_3.png,enem-data/enem-2013/138-images/alt_img_4.png,B,"enem-data/enem-2013/138-images/context_img_0.png,enem-data/enem-2013/138-images/context_img_1.png"
+",enem-data/enem-2013/138-images/alt_img_0.png,enem-data/enem-2013/138-images/alt_img_1.png,enem-data/enem-2013/138-images/alt_img_2.png,enem-data/enem-2013/138-images/alt_img_3.png,enem-data/enem-2013/138-images/alt_img_4.png, ,"enem-data/enem-2013/138-images/context_img_0.png,enem-data/enem-2013/138-images/context_img_1.png"
+21,161,"
+
+
+
+
+
+
+
+","
+
+
+Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?
+
+
+",        6      ,        12      ,        18      ,        24      ,        36      , ,enem-data/enem-2013/161-images/context_img_0.png
+22,162,"
+
+Considere 0,3 como aproximação para log10 2.
+
+
+","
+
+
+Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?
+
+
+",        27      ,        36      ,        50      ,        54      ,        100      , ,
+23,166,"
+
+
+O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.
+
+Disponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.
+
+
+
+","
+
+
+No ano de 2101, o Sol estará no ciclo de atividade magnética de número
+
+
+",        32      ,        34      ,        33      ,        35      ,        31      , ,
+24,165,"
+
+
+A temperatura T de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento (t = 0) e varia de acordo com a expressão com t em minutos. Por motivos de segurança, a trava do forno só é liberada para
+abertura quando o forno atinge a temperatura de 39 ºC.
+ 
+ 
+
+
+
+","
+
+
+Qual o tempo mínimo de espera, em minutos, após se desligar o forno, para que a porta possa ser aberta?
+
+
+","        19,0      ","        19,8      ","        20,0      ","        38,0      ","        39,0      ", ,enem-data/enem-2013/165-images/context_img_0.png
+25,174,"
+
+
+
+Disponível em: www.arq.ufsc.br. Acesso em: 3 mar. 2012.
+
+
+
+
+Suponha que uma peça, quando moldada em argila, possuía uma base retangular cujos lados mediam 30 cm e 15 cm. Após o cozimento, esses lados foram reduzidos em 20%.
+
+
+","
+
+
+Em relação à área original, a área da base dessa peça, após o cozimento, ficou reduzida em
+
+
+",        4%      ,        20%      ,        36%      ,        64%      ,        96%      , ,
+26,167,"
+
+
+
+
+
+
+
+
+
+Há interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.
+
+ 
+ 
+
+
+
+","
+
+
+Esse número é
+
+
+",        menor que 10.      ,        maior que 10 e menor que 20.      ,        maior que 20 e menor que 30.      ,        maior que 30 e menor que 40.      ,        maior que 40.      , ,enem-data/enem-2013/167-images/context_img_0.png
+27,169,"
+
+
+
+
+
+
+
+
+
+Nela identifica-se a representação de duas figuras geométricas tridimensionais.
+
+
+
+","
+
+
+Essas figuras são
+
+
+",        um tronco de cone e um cilindro.      ,        um cone e um cilindro.      ,        um tronco de pirâmide e um cilindro.      ,        dois troncos de cone.      ,        dois cilindros.      , ,enem-data/enem-2013/169-images/context_img_0.png
+28,170,"
+
+
+
+
+
+
+
+","
+
+
+Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é
+
+
+",        Finlândia.      ,        Holanda.      ,        Israel.      ,        México.      ,        Rússia.      , ,enem-data/enem-2013/170-images/context_img_0.png
+29,168,"
+
+
+
+
+
+
+
+
+
+A torre deve estar situada em um local equidistante das três antenas.
+
+
+
+","
+
+
+O local adequado para a construção dessa torre corresponde ao ponto de coordenadas
+
+
+",        (65 ; 35).      ,        (53 ; 30).      ,        (45 ; 35).      ,        (50 ; 20).      ,        (50 ; 30).      , ,enem-data/enem-2013/168-images/context_img_0.png
+30,175,"
+
+
+
+
+
+
+
+","
+
+
+O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como
+
+
+",        excelente.      ,        bom.      ,        regular.      ,        ruim.      ,        péssimo.      , ,enem-data/enem-2013/175-images/context_img_0.png
+31,171,"
+
+
+
+
+
+
+
+","
+
+
+Considere que AC = 7/5 BD e que l é a medida de um dos lados da base da bandeja.
+Qual deve ser o menor valor da razão lBD para que uma bandeja tenha capacidade de portar exatamente quatro copos de uma só vez?
+
+
+",        2      ,        14/5      ,        4      ,        24/5      ,        28/5      , ,enem-data/enem-2013/171-images/context_img_0.png
+32,172,"
+
+
+
+
+
+
+
+","
+
+
+Qual deve ser o valor do comprimento da haste EF?
+
+
+",        1 m      ,        2 m      ,"        2,4 m      ",        3 m      ,        2√6 m      , ,enem-data/enem-2013/172-images/context_img_0.png
+33,177,"
+
+
+
+
+
+
+
+","
+
+
+Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,
+
+
+","        A, A, A, A.       ","        A, B, A, B.        ","        A, B, B, A.       ","        B, A, A, B.        ","        B, B, B, B.      ", ,enem-data/enem-2013/177-images/context_img_0.png
+34,176,"
+
+
+
+
+
+
+
+
+
+Cinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:
+Arthur: 250 cartelas com 6 números escolhidos;
+Bruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;
+Caio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;
+Douglas: 4 cartelas com 9 números escolhidos;
+Eduardo: 2 cartelas com 10 números escolhidos.
+
+
+
+","
+
+
+Os dois apostadores com maiores probabilidades de serem premiados são
+
+
+",        Caio e Eduardo.      ,        Arthur e Eduardo.      ,        Bruno e Caio.      ,        Arthur e Bruno.      ,        Douglas e Eduardo.      , ,enem-data/enem-2013/176-images/context_img_0.png
+35,179,"
+
+
+
+
+
+
+
+","
+
+
+Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a
+
+
+",        Malhada      ,        Mamona      ,        Maravilha      ,        Mateira      ,        Mimosa      , ,enem-data/enem-2013/179-images/context_img_0.png
+36,180,"
+
+
+
+
+
+
+
+","
+
+
+Quantos quilômetros esse aluno percorreu na fase de implantação do programa?
+
+
+",        4      ,        8      ,        16      ,        20      ,        40      , ,enem-data/enem-2013/180-images/context_img_0.png
+37,178,"
+
+
+
+
+
+
+
+","
+
+
+Utilize 1,7 como aproximação para √3
+O valor de R, em centímetros, é igual a
+
+
+","        64,0      ","        65,5      ","        74,0      ","        81,0      ","        91,0      ", ,enem-data/enem-2013/178-images/context_img_0.png
 38,160,"
 
 
@@ -616,7 +654,8 @@ Qual gráfico expressa as intensidades das forças que a Terra exerce sobre cada
 
 ","
 
+
 A imagem que representa a nova figura é:
 
 
-",enem-data/enem-2013/160-images/alt_img_0.png,enem-data/enem-2013/160-images/alt_img_1.png,enem-data/enem-2013/160-images/alt_img_2.png,enem-data/enem-2013/160-images/alt_img_3.png,enem-data/enem-2013/160-images/alt_img_4.png,E,enem-data/enem-2013/160-images/context_img_0.png
+",enem-data/enem-2013/160-images/alt_img_0.png,enem-data/enem-2013/160-images/alt_img_1.png,enem-data/enem-2013/160-images/alt_img_2.png,enem-data/enem-2013/160-images/alt_img_3.png,enem-data/enem-2013/160-images/alt_img_4.png, ,enem-data/enem-2013/160-images/context_img_0.png

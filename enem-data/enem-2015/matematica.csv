@@ -6,11 +6,27 @@ Considere 1,7 como aproximação para √3.
 
 ","
 
+
 O tampo a ser escolhido será aquele cujo raio, em centímetros, é igual a
 
 
-",18,26,30,35,60,A,
-1,137,"
+",        18      ,        26      ,        30      ,        35      ,        60      , ,
+1,142,"
+
+
+
+
+
+
+
+","
+
+
+Quantas configurações distintas das notas a serem atribuídas pelo jurado B no quesito Bateria tornariam campeã a Escola II?
+
+
+",        21      ,        90      ,        750      ,        1 250      ,        3 125      , ,enem-data/enem-2015/142-images/context_img_0.png
+2,137,"
 
 
 
@@ -24,11 +40,12 @@ Considere que o volume aproximado dessa bola é dado por V = 4ab².
 
 ","
 
+
 O volume dessa bola, em função apenas de b, é dado por
 
 
-",8b³,6b³,5b³,4b³,2b³,B,enem-data/enem-2015/137-images/context_img_0.png
-2,136,"
+",        8b³      ,        6b³      ,        5b³      ,        4b³      ,        2b³      , ,enem-data/enem-2015/137-images/context_img_0.png
+3,141,"
 
 
 
@@ -38,76 +55,12 @@ O volume dessa bola, em função apenas de b, é dado por
 
 ","
 
-Quando o estudante obtém o maior número possível de bactérias, a temperatura no interior da estufa está classificada como
+
+O valor pago na locadora Q é menor ou igual àquele pago na locadora P para distâncias, em quilômetros, presentes em qual(is) intervalo(s)?
 
 
-",muito baixa.,baixa.,média.,alta.,muito alta.,D,enem-data/enem-2015/136-images/context_img_0.png
-3,139,"
-
-
-
-
-
-
-
-","
-
-Quantas operações o investidor fez naquele dia?
-
-
-",3,4,5,6,7,B,enem-data/enem-2015/139-images/context_img_0.png
-4,145,"
-
-
-
-
-
-
-
-
-Essa indústria recebeu a encomenda de uma malha de proteção solar para ser aplicada em um vidro retangular de 5 m de largura por 9 m de comprimento.
-
-
-","
-
-A medida de d, em milímetros, para que a taxa de cobertura da malha seja de 75% é
-
-
-",2,1,11/3,4/3,2/3,A,enem-data/enem-2015/145-images/context_img_0.png
-5,151,"
-
-
-
-
-
-
-
-
-O ponto O indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores.
-
-
-","
-
-Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em
-
-
-",8π.,12π.,16π.,32π.,64π.,A,enem-data/enem-2015/151-images/context_img_0.png
-6,153,"
-
-
-As exportações de soja do Brasil totalizaram 4,129 milhões de toneladas no mês de julho de 2012, e registraram um aumento em relação ao mês de julho de 2011, embora tenha havido uma baixa em relação ao mês de maio de 2012.
-
-Disponível em: www.noticiasagricolas.com.br. Acesso em: 2 ago. 2012.
-
-
-
-","
-
-A quantidade, em quilogramas, de soja exportada pelo Brasil no mês de julho de 2012 foi de
-
-
-","4,129 x 10³","4,129 x 106","4,129 x 109","4,129 x 1012","4,129 x 1015",C,
-7,144,"
+",        De 20 a 100.      ,        De 80 a 130.      ,        De 100 a 160.      ,        De 0 a 20 e de 100 a 160.      ,        De 40 a 80 e de 130 a 160.      , ,enem-data/enem-2015/141-images/context_img_0.png
+4,144,"
 
 
 
@@ -116,26 +69,13 @@ A quantidade, em quilogramas, de soja exportada pelo Brasil no mês de julho de 
 
 
 ","
+
 
 A largura e o comprimento reais da pegada, em centímetros, são, respectivamente, iguais a
 
 
-","4,9 e 7,6.","8,6 e 9,8.","14,2 e 15,4.","26,4 e 40,8.","27,5 e 42,5.",D,enem-data/enem-2015/144-images/context_img_0.png
-8,150,"
-
-
-
-
-
-
-
-","
-
-De acordo com os gráficos, a quantidade de embalagens PET recicladas destinadas à produção de tecidos e malhas, em kton, é mais aproximada de
-
-
-","16,0.","22,9.","32,0.","84,6.","106,6.",C,enem-data/enem-2015/150-images/context_img_0.png
-9,147,"
+","        4,9 e 7,6.      ","        8,6 e 9,8.      ","        14,2 e 15,4.      ","        26,4 e 40,8.      ","        27,5 e 42,5.      ", ,enem-data/enem-2015/144-images/context_img_0.png
+5,147,"
 
 
 
@@ -150,11 +90,50 @@ A um paciente foram prescritas duas aplicações diárias: 10 unidades de insuli
 
 ","
 
+
 Qual o número máximo de aplicações por refil que o paciente poderá utilizar com a dosagem prescrita?
 
 
-",25,15,13,12,8,A,enem-data/enem-2015/147-images/context_img_0.png
-10,141,"
+",        25      ,        15      ,        13      ,        12      ,        8      , ,enem-data/enem-2015/147-images/context_img_0.png
+6,151,"
+
+
+
+
+
+
+
+
+O ponto O indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores.
+
+
+","
+
+
+Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em
+
+
+",        8π.      ,        12π.      ,        16π.      ,        32π.      ,        64π.      , ,enem-data/enem-2015/151-images/context_img_0.png
+7,145,"
+
+
+
+
+
+
+
+
+Essa indústria recebeu a encomenda de uma malha de proteção solar para ser aplicada em um vidro retangular de 5 m de largura por 9 m de comprimento.
+
+
+","
+
+
+A medida de d, em milímetros, para que a taxa de cobertura da malha seja de 75% é
+
+
+",        2      ,        1      ,        11/3      ,        4/3      ,        2/3      , ,enem-data/enem-2015/145-images/context_img_0.png
+8,139,"
 
 
 
@@ -164,26 +143,12 @@ Qual o número máximo de aplicações por refil que o paciente poderá utilizar
 
 ","
 
-O valor pago na locadora Q é menor ou igual àquele pago na locadora P para distâncias, em quilômetros, presentes em qual(is) intervalo(s)?
+
+Quantas operações o investidor fez naquele dia?
 
 
-",De 20 a 100.,De 80 a 130.,De 100 a 160.,De 0 a 20 e de 100 a 160.,De 40 a 80 e de 130 a 160.,D,enem-data/enem-2015/141-images/context_img_0.png
-11,155,"
-
-
-Segundo dados apurados no Censo 2010, para uma população de 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve algum tipo de rendimento em 2010, a renda média mensal apurada foi de R$ 1 202,00. A soma dos rendimentos mensais dos 10% mais pobres correspondeu a apenas 1,1% do total de rendimentos dessa população considerada, enquanto que a soma dos rendimentos mensais dos 10% mais ricos correspondeu a 44,5% desse total.
-
-Disponível em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).
-
-
-
-","
-
-Qual foi a diferença, em reais, entre a renda média mensal de um brasileiro que estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa dos 10% mais pobres?
-
-
-","240,40","548,11","1 723,67","4 026,70","5 216,68",E,
-12,142,"
+",        3      ,        4      ,        5      ,        6      ,        7      , ,enem-data/enem-2015/139-images/context_img_0.png
+9,150,"
 
 
 
@@ -193,11 +158,43 @@ Qual foi a diferença, em reais, entre a renda média mensal de um brasileiro qu
 
 ","
 
-Quantas configurações distintas das notas a serem atribuídas pelo jurado B no quesito Bateria tornariam campeã a Escola II?
+
+De acordo com os gráficos, a quantidade de embalagens PET recicladas destinadas à produção de tecidos e malhas, em kton, é mais aproximada de
 
 
-",21,90,750,1 250,3 125,C,enem-data/enem-2015/142-images/context_img_0.png
-13,143,"
+","        16,0.      ","        22,9.      ","        32,0.      ","        84,6.      ","        106,6.      ", ,enem-data/enem-2015/150-images/context_img_0.png
+10,136,"
+
+
+
+
+
+
+
+","
+
+
+Quando o estudante obtém o maior número possível de bactérias, a temperatura no interior da estufa está classificada como
+
+
+",        muito baixa.      ,        baixa.      ,        média.      ,        alta.      ,        muito alta.      , ,enem-data/enem-2015/136-images/context_img_0.png
+11,153,"
+
+
+As exportações de soja do Brasil totalizaram 4,129 milhões de toneladas no mês de julho de 2012, e registraram um aumento em relação ao mês de julho de 2011, embora tenha havido uma baixa em relação ao mês de maio de 2012.
+
+Disponível em: www.noticiasagricolas.com.br. Acesso em: 2 ago. 2012.
+
+
+
+","
+
+
+A quantidade, em quilogramas, de soja exportada pelo Brasil no mês de julho de 2012 foi de
+
+
+","        4,129 x 10³      ","        4,129 x 106 ","        4,129 x 109 ","        4,129 x 1012 ","        4,129 x 1015 ", ,
+12,143,"
 
 
 
@@ -211,11 +208,12 @@ De acordo com as normas desse porto, os contêineres deverão ser empilhados de 
 
 ","
 
+
 Após o empilhamento total da carga e atendendo à norma do porto, a altura mínima a ser atingida por essa pilha de contêineres é
 
 
-","12,5 m.","17,5 m.","25,0 m.","22,5 m.","32,5 m.",A,enem-data/enem-2015/143-images/context_img_0.png
-14,154,"
+","        12,5 m.      ","        17,5 m.      ","        25,0 m.      ","        22,5 m.      ","        32,5 m.      ", ,enem-data/enem-2015/143-images/context_img_0.png
+13,154,"
 
 
 
@@ -229,11 +227,12 @@ Uma enfermeira deve administrar um medicamento X a uma criança inconsciente, cu
 
 ","
 
+
 Então, a enfermeira deverá ministrar uma dosagem do medicamento X, em miligramas, igual a
 
 
-",15.,20.,30.,36.,40.,B,enem-data/enem-2015/154-images/context_img_0.png
-15,157,"
+",        15.      ,        20.      ,        30.      ,        36.      ,        40.      , ,enem-data/enem-2015/154-images/context_img_0.png
+14,157,"
 
 q = 400 – 100p,
 
@@ -245,12 +244,13 @@ A fim de aumentar o fluxo de clientes, o gerente da padaria decidiu fazer uma pr
 
 ","
 
+
  
 O preço p, em reais, do pão especial nessa promoção deverá estar no intervalo
 
 
-","R$ 0,50 ≤ p < R$ 1,50","R$ 1,50 ≤ p < R$ 2,50","R$ 2,50 ≤ p < R$ 3,50","R$ 3,50 ≤ p < R$ 4,50","R$ 4,50 ≤ p < R$ 5,50",A,
-16,158,"
+","        R$ 0,50 ≤ p < R$ 1,50      ","        R$ 1,50 ≤ p < R$ 2,50      ","        R$ 2,50 ≤ p < R$ 3,50      ","        R$ 3,50 ≤ p < R$ 4,50      ","        R$ 4,50 ≤ p < R$ 5,50      ", ,
+15,158,"
 
 
 Para diminuir os custos, a proposta escolhida deveria ser também aquela que vacinasse a menor quantidade possível de pessoas.
@@ -261,45 +261,72 @@ Disponível em: www.virushpv.com.br. Acesso em: 30 ago. 2014 (adaptado).
 
 ","
 
+
 A proposta implementada foi a de número
 
 
-",I.,II.,III.,IV.,V.,A,
-17,167,"
+",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      , ,
+16,160,"
 
-Utilize 3,0 como aproximação para π.
+
+
+
+
 
 
 ","
 
-O índice pluviométrico da região, durante o período do temporal, em milímetros, é de
+
+A mediana dos tempos apresentados no quadro é
 
 
-","10,8.","12,0.","32,4.","108,0.","324,0.",D,
+","        20,70.      ","        20,77.      ","        20,80.      ","        20,85.      ","        20,90.      ", ,enem-data/enem-2015/160-images/context_img_0.png
+17,148,"
+
+
+
+
+
+
+
+
+Após os cortes, a folha é aberta e a bandeirinha está pronta.
+
+
+","
+
+
+A figura que representa a forma da bandeirinha pronta é
+
+
+",enem-data/enem-2015/148-images/alt_img_0.png,enem-data/enem-2015/148-images/alt_img_1.png,enem-data/enem-2015/148-images/alt_img_2.png,enem-data/enem-2015/148-images/alt_img_3.png,enem-data/enem-2015/148-images/alt_img_4.png, ,enem-data/enem-2015/148-images/context_img_0.png
 18,163,"
 
 
 
 ","
 
+
 Qual deve ser o aumento, em metros, no raio da cisterna para atingir o volume desejado?
 
 
-","0,5","1,0","2,0","3,5","8,0",C,
-19,160,"
+","        0,5      ","        1,0      ","        2,0      ","        3,5      ","        8,0      ", ,
+19,155,"
 
 
+Segundo dados apurados no Censo 2010, para uma população de 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve algum tipo de rendimento em 2010, a renda média mensal apurada foi de R$ 1 202,00. A soma dos rendimentos mensais dos 10% mais pobres correspondeu a apenas 1,1% do total de rendimentos dessa população considerada, enquanto que a soma dos rendimentos mensais dos 10% mais ricos correspondeu a 44,5% desse total.
 
-
+Disponível em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).
 
 
 
 ","
 
-A mediana dos tempos apresentados no quadro é
+
+Qual foi a diferença, em reais, entre a renda média mensal de um brasileiro que estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa dos 10% mais pobres?
 
 
-","20,70.","20,77.","20,80.","20,85.","20,90.",D,enem-data/enem-2015/160-images/context_img_0.png
+","        240,40      ","        548,11      ","        1 723,67      ","        4 026,70      ","        5 216,68      ", ,
 20,166,"
 
 
@@ -310,25 +337,43 @@ A mediana dos tempos apresentados no quadro é
 
 ","
 
+
 A ordem de classificação final desse concurso é
 
 
-","A, B, C, E, D.","B, A, C, E, D.","C, B, E, A, D.","C, B, E, D, A.","E, C, D, B, A.",B,enem-data/enem-2015/166-images/context_img_0.png
-21,164,"
+","        A, B, C, E, D.      ","        B, A, C, E, D.      ","        C, B, E, A, D.      ","        C, B, E, D, A.      ","        E, C, D, B, A.      ", ,enem-data/enem-2015/166-images/context_img_0.png
+21,167,"
 
-
-
-
-
+Utilize 3,0 como aproximação para π.
 
 
 ","
 
-Entre esses polígonos, o único que satisfaz as condições necessárias para representar a ingestão correta de diferentes tipos de alimentos é o
+
+O índice pluviométrico da região, durante o período do temporal, em milímetros, é de
 
 
-",triângulo.,losango.,pentágono.,hexágono.,octógono.,C,enem-data/enem-2015/164-images/context_img_0.png
-22,168,"
+","        10,8.      ","        12,0.      ","        32,4.      ","        108,0.      ","        324,0.      ", ,
+22,176,"
+
+
+
+
+
+
+
+
+onde x representa o mês do ano, sendo x = 1 associado ao mês de janeiro, x = 2 ao mês de fevereiro, e assim sucessivamente, até x = 12 associado ao mês de dezembro.
+
+
+","
+
+
+Na safra, o mês de produção máxima desse produto é
+
+
+",        janeiro.      ,        abril.      ,        junho.      ,        julho.      ,        outubro.      , ,enem-data/enem-2015/176-images/context_img_0.png
+23,168,"
 
 
 
@@ -342,11 +387,12 @@ Os estudos indicam que o novo ponto T deverá ser instalado, nesse percurso, e
 
 ","
 
+
 De acordo com os dados, as coordenadas do novo ponto de parada são
 
 
-",(290 ; 20).,(410 ; 0).,(410 ; 20).,(440 ; 0).,(440 ; 20).,E,enem-data/enem-2015/168-images/context_img_0.png
-23,161,"
+",        (290 ; 20).      ,        (410 ; 0).      ,        (410 ; 20).      ,        (440 ; 0).      ,        (440 ; 20).      , ,enem-data/enem-2015/168-images/context_img_0.png
+24,161,"
 
 
 
@@ -367,11 +413,27 @@ Visando atender as orientações do Comitê Central da Federação Internacional
 
 ","
 
+
 Após executdas as modificações previstas, houve uma alteração na área ocupada por cada garrafão, que corresponde a um(a)
 
 
-",aumento de 5 800 cm².,aumento de 75 400 cm².,aumento de 214 600 cm².,diminuição de 63 800 cm².,diminuição de 272 600 cm².,A,"enem-data/enem-2015/161-images/context_img_0.png,enem-data/enem-2015/161-images/context_img_1.png"
-24,171,"
+",        aumento de 5 800 cm².      ,        aumento de 75 400 cm².      ,        aumento de 214 600 cm².      ,        diminuição de 63 800 cm².      ,        diminuição de 272 600 cm².      , ,"enem-data/enem-2015/161-images/context_img_0.png,enem-data/enem-2015/161-images/context_img_1.png"
+25,164,"
+
+
+
+
+
+
+
+","
+
+
+Entre esses polígonos, o único que satisfaz as condições necessárias para representar a ingestão correta de diferentes tipos de alimentos é o
+
+
+",        triângulo.      ,        losango.      ,        pentágono.      ,        hexágono.      ,        octógono.      , ,enem-data/enem-2015/164-images/context_img_0.png
+26,171,"
 
 
 
@@ -387,61 +449,12 @@ Considere 3,0 como aproximação para π.
 
 ","
 
+
 O maior valor possível para R, em metros, deverá ser
 
 
-",16.,28.,29.,31.,49.,B,enem-data/enem-2015/171-images/context_img_0.png
-25,176,"
-
-
-
-
-
-
-
-
-onde x representa o mês do ano, sendo x = 1 associado ao mês de janeiro, x = 2 ao mês de fevereiro, e assim sucessivamente, até x = 12 associado ao mês de dezembro.
-
-
-","
-
-Na safra, o mês de produção máxima desse produto é
-
-
-",janeiro.,abril.,junho.,julho.,outubro.,D,enem-data/enem-2015/176-images/context_img_0.png
-26,177,"
-
-
-
-
-
-
-
-","
-
-Segundo as regras do jogo, quantas cartas da mão desse jogador podem formar um par com a carta da mesa?
-
-
-",9,7,5,4,3,E,enem-data/enem-2015/177-images/context_img_0.png
-27,148,"
-
-
-
-
-
-
-
-
-Após os cortes, a folha é aberta e a bandeirinha está pronta.
-
-
-","
-
-A figura que representa a forma da bandeirinha pronta é
-
-
-",enem-data/enem-2015/148-images/alt_img_0.png,enem-data/enem-2015/148-images/alt_img_1.png,enem-data/enem-2015/148-images/alt_img_2.png,enem-data/enem-2015/148-images/alt_img_3.png,enem-data/enem-2015/148-images/alt_img_4.png,E,enem-data/enem-2015/148-images/context_img_0.png
-28,178,"
+",        16.      ,        28.      ,        29.      ,        31.      ,        49.      , ,enem-data/enem-2015/171-images/context_img_0.png
+27,178,"
 
 
 
@@ -455,10 +468,26 @@ Uma empresa vai lançar uma promoção utilizando apenas uma categoria nas class
 
 ","
 
+
 De acordo com o resultado da pesquisa, para atingir o maior número de consumidores das classes A/B e C/D, a empresa deve realizar a promoção, respectivamente, via
 
 
-",Correios e SMS.,internet e Correios.,internet e internet.,internet e mídias sociais.,rádio/TV e rádio/TV.,B,enem-data/enem-2015/178-images/context_img_0.png
+",        Correios e SMS.      ,        internet e Correios.      ,        internet e internet.      ,        internet e mídias sociais.      ,        rádio/TV e rádio/TV.      , ,enem-data/enem-2015/178-images/context_img_0.png
+28,177,"
+
+
+
+
+
+
+
+","
+
+
+Segundo as regras do jogo, quantas cartas da mão desse jogador podem formar um par com a carta da mesa?
+
+
+",        9      ,        7      ,        5      ,        4      ,        3      , ,enem-data/enem-2015/177-images/context_img_0.png
 29,165,"
 
 
@@ -474,10 +503,11 @@ A forma do vidro foi concebida de modo que o eixo x sempre divida ao meio a altu
 
 ","
 
+
 A expressão algébrica que determina a altura do vidro é
 
 
-",enem-data/enem-2015/165-images/alt_img_0.png,enem-data/enem-2015/165-images/alt_img_1.png,enem-data/enem-2015/165-images/alt_img_2.png,enem-data/enem-2015/165-images/alt_img_3.png,enem-data/enem-2015/165-images/alt_img_4.png,E,enem-data/enem-2015/165-images/context_img_0.png
+",enem-data/enem-2015/165-images/alt_img_0.png,enem-data/enem-2015/165-images/alt_img_1.png,enem-data/enem-2015/165-images/alt_img_2.png,enem-data/enem-2015/165-images/alt_img_3.png,enem-data/enem-2015/165-images/alt_img_4.png, ,enem-data/enem-2015/165-images/context_img_0.png
 30,170,"
 
 
@@ -495,7 +525,8 @@ Disponível em: www.gebh.net. Acesso em: 30 out. 2013 (adaptado).
 
 ","
 
+
 O número de formas distintas de se acomodar a família nesse voo é calculado por
 
 
-",enem-data/enem-2015/170-images/alt_img_0.png,enem-data/enem-2015/170-images/alt_img_1.png,enem-data/enem-2015/170-images/alt_img_2.png,enem-data/enem-2015/170-images/alt_img_3.png,enem-data/enem-2015/170-images/alt_img_4.png,A,enem-data/enem-2015/170-images/context_img_0.png
+",enem-data/enem-2015/170-images/alt_img_0.png,enem-data/enem-2015/170-images/alt_img_1.png,enem-data/enem-2015/170-images/alt_img_2.png,enem-data/enem-2015/170-images/alt_img_3.png,enem-data/enem-2015/170-images/alt_img_4.png, ,enem-data/enem-2015/170-images/context_img_0.png

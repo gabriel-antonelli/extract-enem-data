@@ -1,5 +1,19 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,100,"
+0,91,"
+
+
+Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a chama azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpretações diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha (NaCl), nela se encontram carboidratos, proteínas e sais minerais.
+
+
+
+","
+
+
+Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela
+
+
+","        reação do gás de cozinha com o sal, volatilizando gás cloro.      ","        emissão de fótons pelo sódio, excitado por causa da chama.      ","        produção de derivado amarelo, pela reação com o carboidrato.      ","        reação do gás de cozinha com a água, formando gás hidrogênio.      ","        excitação das moléculas de proteínas, com formação de luz amarela.      ", ,
+1,100,"
 
 
 Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de água que, sob condições adequadas de temperatura e pressão, propiciam a formação das nuvens e consequentemente das chuvas. No ar atmosférico, tais partículas são formadas pela reação de ácidos (H X
@@ -14,39 +28,12 @@ Química Nova na Escola, n. 21, maio 2005 (adaptado).
 
 ","
 
+
 A fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por
 
 
-",ligações iônicas.,interações dipolo-dipolo.,interações dipolo-dipolo induzido.,interações íon-dipolo.,ligações covalentes.,D,
-1,91,"
-
-
-Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a chama azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpretações diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha (NaCl), nela se encontram carboidratos, proteínas e sais minerais.
-
-
-
-","
-
-Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela
-
-
-","reação do gás de cozinha com o sal, volatilizando gás cloro.","emissão de fótons pelo sódio, excitado por causa da chama.","produção de derivado amarelo, pela reação com o carboidrato.","reação do gás de cozinha com a água, formando gás hidrogênio.","excitação das moléculas de proteínas, com formação de luz amarela.",B,
-2,102,"
-
-
-A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo presente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de 14C se reduz pela metade a cada 5 730 anos.
-
-A prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).
-
-
-
-","
-
-Considere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de radiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é
-
-
-",450.,1 433.,11 460.,17 190.,27 000.,C,
-3,94,"
+",        ligações iônicas.      ,        interações dipolo-dipolo.      ,        interações dipolo-dipolo induzido.      ,        interações íon-dipolo.      ,        ligações covalentes.      , ,
+2,94,"
 
 
 Pesquisadores criaram um tipo de plaqueta artificial, feita com um polímero gelatinoso coberto de anticorpos, que promete agilizar o processo de coagulação quando injetada no corpo. Se houver sangramento, esses anticorpos fazem com que a plaqueta mude sua forma e se transforme em uma espécie de rede que gruda nas lesões dos vasos sanguíneos e da pele.
@@ -58,10 +45,27 @@ Acesso em: 19 fev. 2013 (adaptado).
 
 ","
 
+
 Qual a doença cujos pacientes teriam melhora de seu estado de saúde com o uso desse material?
 
 
-",Filariose.,Hemofilia.,Aterosclerose.,Doença de Chagas.,Síndrome da imunodeficiência adquirida.,B,
+",        Filariose.      ,        Hemofilia.      ,        Aterosclerose.      ,        Doença de Chagas.      ,        Síndrome da imunodeficiência adquirida.      , ,
+3,102,"
+
+
+A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo presente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de 14C se reduz pela metade a cada 5 730 anos.
+
+A prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).
+
+
+
+","
+
+
+Considere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de radiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é
+
+
+",        450.      ,        1 433.      ,        11 460.      ,        17 190.      ,        27 000.      , ,
 4,105,"
 
 
@@ -75,10 +79,11 @@ Disponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).
 
 ","
 
+
 No ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de
 
 
-",nitratação.,nitrosação.,amonificação.,desnitrificação.,fixação biológica do N2.,A,
+",        nitratação.      ,        nitrosação.      ,        amonificação.      ,        desnitrificação.      ,        fixação biológica do N2.      , ,
 5,97,"
 
 
@@ -90,106 +95,12 @@ RODITI, I. Dicionário Houaiss de física. Rio de Janeiro: Objetiva, 2005 (adapt
 
 ","
 
+
 Nesse aparelho, a separação das substâncias ocorre em função
 
 
-",das diferentes densidades.,dos diferentes raios de rotação.,das diferentes velocidades angulares.,das diferentes quantidades de cada substância.,da diferente coesão molecular de cada substância.,A,
-6,95,"
-
-
-A farinha de linhaça dourada é um produto natural que oferece grandes benefícios para o nosso organismo. A maior parte dos nutrientes da linhaça encontra-se no óleo desta semente, rico em substâncias lipossolúveis com massas moleculares elevadas. A farinha também apresenta altos teores de fibras proteicas insolúveis em água, celulose, vitaminas lipossolúveis e sais minerais hidrossolúveis.
-Considere o esquema, que resume um processo de separação dos componentes principais da farinha de linhaça dourada.
-
-
-
-
-
-
-
-
-
-
-","
-
-O óleo de linhaça será obtido na fração
-
-
-",Destilado 1.,Destilado 2.,Resíduo 2.,Resíduo 3.,Resíduo 4.,E,enem-data/enem-2017/95-images/context_img_0.png
-7,101,"
-
-
-Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.
-
-
-
-
-
-
-
-
-
-
-","
-
-Qual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?
-
-
-",6,18,60,90,100,D,enem-data/enem-2017/101-images/context_img_0.png
-8,107,"
-
-
-Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.
-
-
-
-","
-
-Na terapêutica das doenças mencionadas, alguns desses fármacos atuam
-
-
-",ativando o sistema imunológico do hospedeiro.,interferindo na cascata bioquímica da inflamação.,removendo as toxinas sintetizadas pelas bactérias,combatendo as células hospedeiras das bactérias.,danificando estruturas específicas da célula bacteriana.,E,
-9,98,"
-
-
-Visando explicar uma das propriedades da membrana plasmática, fusionou-se uma célula de camundongo com uma célula humana, formando uma célula híbrida. Em seguida, com o intuito de marcar as proteínas de membrana, dois anticorpos foram inseridos no experimento, um específico para as proteínas de membrana do camundongo e outro para as proteínas de membrana humana. Os anticorpos foram visualizados ao microscópio por meio de fluorescência de cores diferentes.
-
-
-
-
-
-
-
-
-
-
-","
-
-A mudança observada da etapa 3 para a etapa 4 do experimento ocorre porque as proteínas
-
-
-",movimentam-se livremente no plano da bicamada lipídica.,permanecem confinadas em determinadas regiões da bicamada.,auxiliam o deslocamento dos fosfolipídios da membrana plasmática.,são mobilizadas em razão da inserção de anticorpos,são bloqueadas pelos anticorpos.,A,enem-data/enem-2017/98-images/context_img_0.png
-10,103,"
-
-
-A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.
-
-
-
-
-
-
-
-
-
-
-","
-
-Mesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está
-instalada, pois o(a)
-
-
-",planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.,hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.,"conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.",combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.,planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade.,B,enem-data/enem-2017/103-images/context_img_0.png
-11,92,"
+",        das diferentes densidades.      ,        dos diferentes raios de rotação.      ,        das diferentes velocidades angulares.      ,        das diferentes quantidades de cada substância.      ,        da diferente coesão molecular de cada substância.      , ,
+6,92,"
 
 
 A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.
@@ -206,13 +117,16 @@ A classificação biológica proposta por Whittaker permite distinguir cinco gra
 
 ","
 
+
 A diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em
 
 
-",tipos de células.,aspectos ecológicos.,relações filogenéticas.,propriedades fisiológicas.,características morfológicas.,C,enem-data/enem-2017/92-images/context_img_0.png
-12,93,"
+",        tipos de células.      ,        aspectos ecológicos.      ,        relações filogenéticas.      ,        propriedades fisiológicas.      ,        características morfológicas.      , ,enem-data/enem-2017/92-images/context_img_0.png
+7,98,"
 
-Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.
+
+Visando explicar uma das propriedades da membrana plasmática, fusionou-se uma célula de camundongo com uma célula humana, formando uma célula híbrida. Em seguida, com o intuito de marcar as proteínas de membrana, dois anticorpos foram inseridos no experimento, um específico para as proteínas de membrana do camundongo e outro para as proteínas de membrana humana. Os anticorpos foram visualizados ao microscópio por meio de fluorescência de cores diferentes.
+
 
 
 
@@ -224,11 +138,56 @@ Em uma colisão frontal entre dois automóveis, a força que o cinto de seguran�
 
 ","
 
-Qual modelo de cinto oferece menor risco de lesão interna ao motorista?
+
+A mudança observada da etapa 3 para a etapa 4 do experimento ocorre porque as proteínas
 
 
-",1,2,3,4,5,B,enem-data/enem-2017/93-images/context_img_0.png
-13,104,"
+",        movimentam-se livremente no plano da bicamada lipídica.      ,        permanecem confinadas em determinadas regiões da bicamada.      ,        auxiliam o deslocamento dos fosfolipídios da membrana plasmática.      ,        são mobilizadas em razão da inserção de anticorpos      ,        são bloqueadas pelos anticorpos.      , ,enem-data/enem-2017/98-images/context_img_0.png
+8,99,"
+
+
+A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.
+Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+ 
+Qual tipo de lâmpada melhor atende ao desejo do arquiteto?
+
+
+",        Haleto metálico.      ,        Tungstênio.      ,        Mercúrio.      ,        Xênon.      ,        LED      , ,enem-data/enem-2017/99-images/context_img_0.png
+9,96,"
+
+
+O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:
+
+
+
+
+
+
+
+
+
+
+","
+
+
+A função química presente no produto que representa o biodiesel é
+
+
+",        éter.      ,        éster.      ,        álcool.      ,        cetona.      ,        ácido carboxílico      , ,enem-data/enem-2017/96-images/context_img_0.png
+10,104,"
 
 
 A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.
@@ -245,11 +204,12 @@ A eletrólise é um processo não espontâneo de grande importância para a ind�
 
 ","
 
+
 No processo eletrolítico ilustrado, o produto secundário obtido é o
 
 
-",vapor de água.,oxigênio molecular.,hipoclorito de sódio.,hidrogênio molecular.,cloreto de hidrogênio.,D,enem-data/enem-2017/104-images/context_img_0.png
-14,106,"
+",        vapor de água.      ,        oxigênio molecular.      ,        hipoclorito de sódio.      ,        hidrogênio molecular.      ,        cloreto de hidrogênio.      , ,enem-data/enem-2017/104-images/context_img_0.png
+11,106,"
 
 
 A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.
@@ -271,35 +231,16 @@ Sessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vint
 
 ","
 
+
 Qual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?
 
 
-",O grupo que se contaminou somente com atrazina.,O grupo que se contaminou somente com diazinon.,Os grupos que se contaminaram com atrazina e malation.,Os grupos que se contaminaram com diazinon e malation.,"Nenhum dos grupos contaminados com atrazina, diazinon e malation.",D,enem-data/enem-2017/106-images/context_img_0.png
-15,96,"
+",        O grupo que se contaminou somente com atrazina.      ,        O grupo que se contaminou somente com diazinon.      ,        Os grupos que se contaminaram com atrazina e malation.      ,        Os grupos que se contaminaram com diazinon e malation.      ,"        Nenhum dos grupos contaminados com atrazina, diazinon e malation.      ", ,enem-data/enem-2017/106-images/context_img_0.png
+12,95,"
 
 
-O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:
-
-
-
-
-
-
-
-
-
-
-","
-
-A função química presente no produto que representa o biodiesel é
-
-
-",éter.,éster.,álcool.,cetona.,ácido carboxílico,B,enem-data/enem-2017/96-images/context_img_0.png
-16,99,"
-
-
-A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.
-Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.
+A farinha de linhaça dourada é um produto natural que oferece grandes benefícios para o nosso organismo. A maior parte dos nutrientes da linhaça encontra-se no óleo desta semente, rico em substâncias lipossolúveis com massas moleculares elevadas. A farinha também apresenta altos teores de fibras proteicas insolúveis em água, celulose, vitaminas lipossolúveis e sais minerais hidrossolúveis.
+Considere o esquema, que resume um processo de separação dos componentes principais da farinha de linhaça dourada.
 
 
 
@@ -312,27 +253,66 @@ Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa ilumin
 
 ","
 
- 
-Qual tipo de lâmpada melhor atende ao desejo do arquiteto?
+
+O óleo de linhaça será obtido na fração
 
 
-",Haleto metálico.,Tungstênio.,Mercúrio.,Xênon.,LED,E,enem-data/enem-2017/99-images/context_img_0.png
-17,110,"
+",        Destilado 1.      ,        Destilado 2.      ,        Resíduo 2.      ,        Resíduo 3.      ,        Resíduo 4.      , ,enem-data/enem-2017/95-images/context_img_0.png
+13,93,"
+
+Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.
 
 
-O fenômeno da piracema (subida do rio) é um importante mecanismo que influencia a reprodução de algumas espécies de peixes, pois induz o processo que estimula a queima de gordura e ativa mecanismos hormonais complexos, preparando-os para a reprodução. Intervenções antrópicas nos ambientes aquáticos, como a construção de barragens, interferem na reprodução desses animais.
 
-MALTA, P Impacto ambiental das barragens hidrelétricas. Disponível em: http://futurambiental.com. Acesso em: 10 maio 2013 (adaptado).
+
+
+
 
 
 
 ","
 
-Essa intervenção antrópica prejudica a piracema porque reduz o(a)
+
+Qual modelo de cinto oferece menor risco de lesão interna ao motorista?
 
 
-",percurso da migração.,longevidade dos indivíduos.,disponibilidade de alimentos.,período de migração da espécie.,número de espécies de peixes no local.,A,
-18,109,"
+",        1      ,        2      ,        3      ,        4      ,        5      , ,enem-data/enem-2017/93-images/context_img_0.png
+14,107,"
+
+
+Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.
+
+
+
+","
+
+
+Na terapêutica das doenças mencionadas, alguns desses fármacos atuam
+
+
+",        ativando o sistema imunológico do hospedeiro.      ,        interferindo na cascata bioquímica da inflamação.      ,        removendo as toxinas sintetizadas pelas bactérias      ,        combatendo as células hospedeiras das bactérias.      ,        danificando estruturas específicas da célula bacteriana.      , ,
+15,101,"
+
+
+Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+Qual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?
+
+
+",        6      ,        18      ,        60      ,        90      ,        100      , ,enem-data/enem-2017/101-images/context_img_0.png
+16,109,"
 
 
 Pesquisadores conseguiram estimular a absorção de energia luminosa em plantas graças ao uso de nanotubos de carbono. Para isso, nanotubos de carbono “se inseriram” no interior dos cloroplastos por uma montagem espontânea, através das membranas dos cloroplastos. Pigmentos da planta absorvem as radiações luminosas, os elétrons são “excitados” e se deslocam no interior de membranas dos cloroplastos, e a planta utiliza em seguida essa energia elétrica para a fabricação de açúcares. Os nanotubos de carbono podem absorver comprimentos de onda habitualmente não utilizados pelos cloroplastos, e os pesquisadores tiveram a ideia de utilizá-los como “antenas”, estimulando a conversão de energia solar pelos cloroplastos, com o aumento do transporte de elétrons. Nanotubos de carbono incrementam a fotossíntese de plantas.
@@ -344,76 +324,34 @@ Disponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).
 
 ","
 
+
 O aumento da eficiência fotossintética ocorreu pelo fato de os nanotubos de carbono promoverem diretamente a
 
 
-",utilização de água.,absorção de fótons.,formação de gás oxigênio.,proliferação dos cloroplastos.,captação de dióxido de carbono.,B,
-19,116,"
+",        utilização de água.      ,        absorção de fótons.      ,        formação de gás oxigênio.      ,        proliferação dos cloroplastos.      ,        captação de dióxido de carbono.      , ,
+17,103,"
 
 
-O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe2O3), a magnetita (Fe3O4) e a wustita (FeO). Na siderurgia, o ferro gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:
-
-FeO (s) + CO (g) –>  Fe (s) + CO2 (g)
-
-Considere as seguintes equações termoquímicas:
-Fe2O3 (s) + 3 CO (g) –> 2 Fe (s) + 3 CO2 (g) ∆rH = –25 kJ/mol de Fe2O3
-3 FeO (s) + CO2 (g) –> Fe3O4 (s) + CO (g) ∆rH = –36 kJ/mol de CO2
-2 Fe3O4 (s) + CO2 (g)  –> 3 Fe2O3 (s) + CO (g) ∆rH = +47 kJ/mol de CO2
+A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.
 
 
 
-","
-
-O valor mais próximo de ∆rH em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é
 
 
-",-14,-17,-50,-64,-100,B,
-20,112,"
 
 
-Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.
-
-MARCOLINO, B. Sentinelas do mar. Disponível em:  http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).
 
 
 
 ","
 
-Os botos-cinza acumulam maior concentração dessas substâncias porque
+
+Mesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está
+instalada, pois o(a)
 
 
-",são animais herbívoros.,são animais detritívoros.,são animais de grande porte.,digerem o alimento lentamente,estão no topo da cadeia alimentar,E,
-21,118,"
-
-
-A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal.
-
-RICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).
-
-
-
-","
-
-A diferença na manifestação da DMD entre as gêmeas pode ser explicada pela
-
-
-",dominância incompleta do alelo mutante em relação ao alelo normal.,falha na separação dos cromossomos X no momento da separação dos dois embriões.,recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.,inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.,origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra.,D,
-22,115,"
-
-
-A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.
-
-Disponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).
-
-
-
-","
-
-Essas espécies captam água do(a)
-
-
-",organismo das plantas vizinhas,solo através de suas longas raízes.,chuva acumulada entre suas folhas.,seiva bruta das plantas hospedeiras.,comunidade que vive em seu interior.,C,
-23,108,"
+",        planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.      ,        hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.      ,"        conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.      ",        combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.      ,        planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade.      , ,enem-data/enem-2017/103-images/context_img_0.png
+18,108,"
 
 Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros semicondutores, têm sido desenvolvidos para monitorar a concentração de amônia (gás tóxico e incolor) em granjas avícolas. A polianilina é um polímero semicondutor que tem o valor de sua resistência elétrica nominal quadruplicado quando exposta a altas concentrações de amônia. Na ausência de amônia, a polianilina se comporta como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico.
 
@@ -427,11 +365,12 @@ Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros
 
 ","
 
+
 O valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é igual a
 
 
-","0,5 x 100","2,0 x 100","2,5 x 105","5,0 x 105","2,0 x 106",E,enem-data/enem-2017/108-images/context_img_0.png
-24,111,"
+","        0,5 x 100 ","        2,0 x 100 ","        2,5 x 105 ","        5,0 x 105 ","        2,0 x 106 ", ,enem-data/enem-2017/108-images/context_img_0.png
+19,111,"
 
 
 Fusível é um dispositivo de proteção contra sobrecorrente em circuitos. Quando a corrente que passa por esse componente elétrico é maior que sua máxima corrente nominal, o fusível queima. Dessa forma, evita que a corrente elevada danifique os aparelhos do circuito. Suponha que o circuito elétrico mostrado seja alimentado por uma fonte de tensão U e que o fusível suporte uma corrente nominal de 500 mA.
@@ -447,11 +386,110 @@ Fusível é um dispositivo de proteção contra sobrecorrente em circuitos. Quan
 
 ","
 
+
 Qual é o máximo valor da tensão U para que o fusível não queime?
 
 
-",20 V,40 V,60 V,120 V,185 V,D,enem-data/enem-2017/111-images/context_img_0.png
-25,113,"
+",        20 V      ,        40 V      ,        60 V      ,        120 V      ,        185 V      , ,enem-data/enem-2017/111-images/context_img_0.png
+20,110,"
+
+
+O fenômeno da piracema (subida do rio) é um importante mecanismo que influencia a reprodução de algumas espécies de peixes, pois induz o processo que estimula a queima de gordura e ativa mecanismos hormonais complexos, preparando-os para a reprodução. Intervenções antrópicas nos ambientes aquáticos, como a construção de barragens, interferem na reprodução desses animais.
+
+MALTA, P Impacto ambiental das barragens hidrelétricas. Disponível em: http://futurambiental.com. Acesso em: 10 maio 2013 (adaptado).
+
+
+
+","
+
+
+Essa intervenção antrópica prejudica a piracema porque reduz o(a)
+
+
+",        percurso da migração.      ,        longevidade dos indivíduos.      ,        disponibilidade de alimentos.      ,        período de migração da espécie.      ,        número de espécies de peixes no local.      , ,
+21,112,"
+
+
+Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.
+
+MARCOLINO, B. Sentinelas do mar. Disponível em:  http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).
+
+
+
+","
+
+
+Os botos-cinza acumulam maior concentração dessas substâncias porque
+
+
+",        são animais herbívoros.      ,        são animais detritívoros.      ,        são animais de grande porte.      ,        digerem o alimento lentamente      ,        estão no topo da cadeia alimentar      , ,
+22,126,"
+
+
+Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.
+
+
+
+","
+
+
+O que ocorre com as células presentes nos alimentos preservados com essa técnica?
+
+
+",        O sal adicionado diminui a concentração de solutos em seu interior.      ,        O sal adicionado desorganiza e destrói suas membranas plasmáticas.      ,        A adição de sal altera as propriedades de suas membranas plasmáticas.      ,        Os íons Na+ e CI- provenientes da dissociação do sal entram livremente nelas.      ,        A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.      , ,
+23,122,"
+
+
+Na Idade Média, para elaborar preparados a partir de plantas produtoras de óleos essenciais, as coletas das espécies eram realizadas ao raiar do dia. Naquela época, essa prática era fundamentada misticamente pelo efeito mágico dos raios lunares, que seria anulado pela emissão dos raios solares. Com a evolução da ciência,
+foi comprovado que a coleta de algumas espécies ao raiar do dia garante a obtenção de material com maiores quantidades de óleos essenciais.
+
+
+
+","
+
+
+A explicação científica que justifica essa prática se baseia na
+
+
+",        volatilização das substâncias de interesse.      ,        polimerização dos óleos catalisada pela radiação solar.      ,        solubilização das substâncias de interesse pelo orvalho.      ,        oxidação do óleo pelo oxigênio produzido na fotossíntese.      ,        liberação das moléculas de óleo durante o processo de fotossíntese.      , ,
+24,116,"
+
+
+O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe2O3), a magnetita (Fe3O4) e a wustita (FeO). Na siderurgia, o ferro gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:
+
+FeO (s) + CO (g) –>  Fe (s) + CO2 (g)
+
+Considere as seguintes equações termoquímicas:
+Fe2O3 (s) + 3 CO (g) –> 2 Fe (s) + 3 CO2 (g) ∆rH = –25 kJ/mol de Fe2O3
+3 FeO (s) + CO2 (g) –> Fe3O4 (s) + CO (g) ∆rH = –36 kJ/mol de CO2
+2 Fe3O4 (s) + CO2 (g)  –> 3 Fe2O3 (s) + CO (g) ∆rH = +47 kJ/mol de CO2
+
+
+
+","
+
+
+O valor mais próximo de ∆rH em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é
+
+
+",        -14      ,        -17      ,        -50      ,        -64      ,        -100      , ,
+25,118,"
+
+
+A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal.
+
+RICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).
+
+
+
+","
+
+
+A diferença na manifestação da DMD entre as gêmeas pode ser explicada pela
+
+
+",        dominância incompleta do alelo mutante em relação ao alelo normal.      ,        falha na separação dos cromossomos X no momento da separação dos dois embriões.      ,        recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.      ,        inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.      ,        origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra.      , ,
+26,113,"
 
 
 O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da interferência de ondas sonoras. Uma fonte emite ondas sonoras de determinada frequência na entrada do dispositivo. Essas ondas se dividem pelos dois caminhos (ADC e AEC) e se encontram no ponto C, a saída do dispositivo, onde se posiciona um detector. O trajeto ADC pode ser aumentado pelo deslocamento dessa parte do dispositivo. Com o trajeto ADC igual ao AEC, capta-se um som muito intenso na saída. Entretanto, aumentando-se gradativa mente o trajeto ADC, até que ele fique como mostrado na figura, a intensidade do som na saída fica praticamente nula. Desta forma, conhecida a velocidade do som no interior do tubo (320 m/s), é possível determinar o valor da frequência do som produzido pela fonte.
@@ -467,60 +505,42 @@ O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o
 
 ","
 
+
 O valor da frequência, em hertz, do som produzido pela fonte sonora é
 
 
-",3200,1600,800,640,400,C,enem-data/enem-2017/113-images/context_img_0.png
-26,122,"
+",        3200      ,        1600      ,        800      ,        640      ,        400      , ,enem-data/enem-2017/113-images/context_img_0.png
+27,127,"
 
+Para demonstrar o processo de transformação de energia mecânica em elétrica, um estudante constrói um pequeno gerador utilizando:
 
-Na Idade Média, para elaborar preparados a partir de plantas produtoras de óleos essenciais, as coletas das espécies eram realizadas ao raiar do dia. Naquela época, essa prática era fundamentada misticamente pelo efeito mágico dos raios lunares, que seria anulado pela emissão dos raios solares. Com a evolução da ciência,
-foi comprovado que a coleta de algumas espécies ao raiar do dia garante a obtenção de material com maiores quantidades de óleos essenciais.
+-um fio de cobre de diâmetro D enrolado em N espiras circulares de área A;
+-dois ímãs que criam no espaço entre eles um campo magnético uniforme de intensidade B; e
+-um sistema de engrenagens que lhe permite girar as espiras em torno de um eixo com uma frequência f.
 
+Ao fazer o gerador funcionar, o estudante obteve uma tensão máxima V e uma corrente de curto-circuito i.
 
 
 ","
 
-A explicação científica que justifica essa prática se baseia na
+
+Para dobrar o valor da tensão máxima V do gerador mantendo constante o Valor da corrente de Curto i, o estudante deve dobrar o(a)
 
 
-",volatilização das substâncias de interesse.,polimerização dos óleos catalisada pela radiação solar.,solubilização das substâncias de interesse pelo orvalho.,oxidação do óleo pelo oxigênio produzido na fotossíntese.,liberação das moléculas de óleo durante o processo de fotossíntese.,A,
-27,125,"
+",        número de espiras.      ,        frequência de giro.      ,        intensidade do campo magnético.      ,        área das espiras.      ,        diâmetro do fio.      , ,
+28,125,"
 
 Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s². Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s². O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.
 
 
 ","
 
+
 Que distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?
 
 
-","2,90 m.","14,0 m.","14,5 m.","15,0 m.","17,4 m.",E,
-28,121,"
-
-
-Alguns tipos de dessalinizadores usam o processo de osmose reversa para obtenção de água potável a partir da água salgada. Nesse método, utiliza-se um recipiente contendo dois compartimentos separados por uma membrana semipermeável: em um deles coloca-se água salgada e no outro recolhe-se a água potável. A aplicação de pressão mecânica no sistema faz a água fluir de um compartimento para o outro. O movimento das moléculas de água através da membrana é controlado pela pressão osmótica e pela pressão mecânica aplicada.
-
-
-
-","
-
-Para que ocorra esse processo é necessário que as resultantes das pressões osmótica e mecânica apresentem
-
-
-",mesmo sentido e mesma intensidade.,sentidos opostos e mesma intensidade.,sentidos opostos e maior intensidade da pressão osmótica.,mesmo sentido e maior intensidade da pressão osmótica.,sentidos opostos e maior intensidade da pressão mecânica.,E,
-29,130,"
-
-Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma cerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja letal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência elétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1000 Ω
-
-
-","
-
-Para que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma resistência interna que, em relação à do corpo humano, é
-
-
-",praticamente nula.,aproximadamente igual.,milhares de vezes maior.,da ordem de 10 vezes maior.,da ordem de 10 vezes menor.,C,
-30,114,"
+","        2,90 m.      ","        14,0 m.      ","        14,5 m.      ","        15,0 m.      ","        17,4 m.      ", ,
+29,114,"
 
 
 O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:
@@ -542,49 +562,29 @@ Após a síntese, o AAS é purificado e o rendimento flnal é de aproximadamente
 
 ","
 
+
  
 Uma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?
 
 
-",293,345,414,690,828,D,enem-data/enem-2017/114-images/context_img_0.png
-31,120,"
+",        293      ,        345      ,        414      ,        690      ,        828      , ,enem-data/enem-2017/114-images/context_img_0.png
+30,115,"
 
 
-Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKa = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKa = -log Ka, em que Ka é a constante ácida da reação de ionização do lapachol.
+A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.
 
-
-
-
-
-
-
+Disponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).
 
 
 
 ","
 
-Qual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?
+
+Essas espécies captam água do(a)
 
 
-",Solução de Na2CO3 para formar um sal de lapachol.,"Solução-tampão ácido acético/acetato de sódio (pH = 4,5).",Solução de NaCI a fim de aumentar a força iônica do meio.,Solução de Na2SO4 para formar um par iônico com lapachol.,Solução de HCI a fim de extraí-lo por meio de reação ácido-base.,A,enem-data/enem-2017/120-images/context_img_0.png
-32,127,"
-
-Para demonstrar o processo de transformação de energia mecânica em elétrica, um estudante constrói um pequeno gerador utilizando:
-
--um fio de cobre de diâmetro D enrolado em N espiras circulares de área A;
--dois ímãs que criam no espaço entre eles um campo magnético uniforme de intensidade B; e
--um sistema de engrenagens que lhe permite girar as espiras em torno de um eixo com uma frequência f.
-
-Ao fazer o gerador funcionar, o estudante obteve uma tensão máxima V e uma corrente de curto-circuito i.
-
-
-","
-
-Para dobrar o valor da tensão máxima V do gerador mantendo constante o Valor da corrente de Curto i, o estudante deve dobrar o(a)
-
-
-",número de espiras.,frequência de giro.,intensidade do campo magnético.,área das espiras.,diâmetro do fio.,A,
-33,119,"
+",        organismo das plantas vizinhas      ,        solo através de suas longas raízes.      ,        chuva acumulada entre suas folhas.      ,        seiva bruta das plantas hospedeiras.      ,        comunidade que vive em seu interior.      , ,
+31,119,"
 
 
 Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão do uso de materiais de modo a minimizar os impactos causados no local. Entre esses materiais está o chamado concregrama ou pisograma, que é um tipo de revestimento composto por peças de concreto com áreas vazadas, preenchidas com solo gramado. As figuras apresentam essas duas formas de piso feitos de concreto.
@@ -600,11 +600,26 @@ Para se adequar às normas ambientais atuais, as construtoras precisam prever em
 
 ","
 
+
 A utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a
 
 
-",impermeabilização.,diminuição da temperatura.,acumulação de matéria orgânica.,alteração do pH.,salinização.,A,enem-data/enem-2017/119-images/context_img_0.png
-34,129,"
+",        impermeabilização.      ,        diminuição da temperatura.      ,        acumulação de matéria orgânica.      ,        alteração do pH.      ,        salinização.      , ,enem-data/enem-2017/119-images/context_img_0.png
+32,121,"
+
+
+Alguns tipos de dessalinizadores usam o processo de osmose reversa para obtenção de água potável a partir da água salgada. Nesse método, utiliza-se um recipiente contendo dois compartimentos separados por uma membrana semipermeável: em um deles coloca-se água salgada e no outro recolhe-se a água potável. A aplicação de pressão mecânica no sistema faz a água fluir de um compartimento para o outro. O movimento das moléculas de água através da membrana é controlado pela pressão osmótica e pela pressão mecânica aplicada.
+
+
+
+","
+
+
+Para que ocorra esse processo é necessário que as resultantes das pressões osmótica e mecânica apresentem
+
+
+",        mesmo sentido e mesma intensidade.      ,        sentidos opostos e mesma intensidade.      ,        sentidos opostos e maior intensidade da pressão osmótica.      ,        mesmo sentido e maior intensidade da pressão osmótica.      ,        sentidos opostos e maior intensidade da pressão mecânica.      , ,
+33,129,"
 
 
 A terapia celular tem sido amplamente divulgada como revolucionária, por permitir a regeneração de tecidos a partir de células novas. Entretanto, a técnica de se introduzirem novas células em um tecido, para o tratamento de enfermidades em indivíduos, já era aplicada rotineiramente em hospitais.
@@ -613,54 +628,12 @@ A terapia celular tem sido amplamente divulgada como revolucionária, por permit
 
 ","
 
+
 A que técnica refere-se o texto?
 
 
-",Vacina.,Biópsia.,Hemodiálise.,Quimioterapia.,Transfusão de sangue.,E,
-35,152,"
-
-Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da montanha.
-
-
-","
-
-Quantos segundos após a partida do bondinho B partiu o bondinho A?
-
-
-",5.,10.,15.,20.,25.,B,
-36,126,"
-
-
-Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.
-
-
-
-","
-
-O que ocorre com as células presentes nos alimentos preservados com essa técnica?
-
-
-",O sal adicionado diminui a concentração de solutos em seu interior.,O sal adicionado desorganiza e destrói suas membranas plasmáticas.,A adição de sal altera as propriedades de suas membranas plasmáticas.,Os íons Na+ e CI- provenientes da dissociação do sal entram livremente nelas.,A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.,E,
-37,134,"
-
-No manual fornecido pelo fabricante de uma ducha elétrica de 220V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6500 W.
-Considere o calor específico da água igual a 4200 J/(kg C) e a densidade da água igual a 1 kg/L.
-
-
-
-
-
-
-
-
-
-","
-
-Com base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?
-
-
-",1/3.,1/5.,3/5.,3/8.,5/8.,D,enem-data/enem-2017/134-images/context_img_0.png
-38,123,"
+",        Vacina.      ,        Biópsia.      ,        Hemodiálise.      ,        Quimioterapia.      ,        Transfusão de sangue.      , ,
+34,123,"
 
 
 A epilação a laser (popularmente conhecida como depilação a laser) consiste na aplicação de uma fonte de luz para aquecer e causar uma lesão localizada e controlada nos folículos capilares. Para evitar que outros tecidos sejam danificados, selecionam-se comprimentos de onda que são absorvidos pela melanina presente nos pelos, mas que não afetam a oxi-hemoglobina do sangue e a água dos tecidos da região em que o tratamento será aplicado. A figura mostra como é a absorção de diferentes comprimentos de onda pela melanina, oxi-hemoglobina e água.
@@ -676,10 +649,76 @@ A epilação a laser (popularmente conhecida como depilação a laser) consiste 
 
 ","
 
+
 Qual é o comprimento de onda, em nm, ideal para a epilação a laser?
 
 
-",400,700,1100,900,500,B,enem-data/enem-2017/123-images/context_img_0.png
+",        400      ,        700      ,        1100      ,        900      ,        500      , ,enem-data/enem-2017/123-images/context_img_0.png
+35,120,"
+
+
+Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKa = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKa = -log Ka, em que Ka é a constante ácida da reação de ionização do lapachol.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+Qual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?
+
+
+",        Solução de Na2CO3 para formar um sal de lapachol.      ,"        Solução-tampão ácido acético/acetato de sódio (pH = 4,5).      ",        Solução de NaCI a fim de aumentar a força iônica do meio.      ,        Solução de Na2SO4 para formar um par iônico com lapachol.      ,        Solução de HCI a fim de extraí-lo por meio de reação ácido-base.      , ,enem-data/enem-2017/120-images/context_img_0.png
+36,130,"
+
+Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma cerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja letal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência elétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1000 Ω
+
+
+","
+
+
+Para que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma resistência interna que, em relação à do corpo humano, é
+
+
+",        praticamente nula.      ,        aproximadamente igual.      ,        milhares de vezes maior.      ,        da ordem de 10 vezes maior.      ,        da ordem de 10 vezes menor.      , ,
+37,152,"
+
+Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da montanha.
+
+
+","
+
+
+Quantos segundos após a partida do bondinho B partiu o bondinho A?
+
+
+",        5.      ,        10.      ,        15.      ,        20.      ,        25.      , ,
+38,134,"
+
+No manual fornecido pelo fabricante de uma ducha elétrica de 220V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6500 W.
+Considere o calor específico da água igual a 4200 J/(kg C) e a densidade da água igual a 1 kg/L.
+
+
+
+
+
+
+
+
+
+","
+
+
+Com base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?
+
+
+",        1/3.      ,        1/5.      ,        3/5.      ,        3/8.      ,        5/8.      , ,enem-data/enem-2017/134-images/context_img_0.png
 39,117,"
 
 
@@ -696,10 +735,11 @@ A invenção do LED azul, que permite a geração de outras cores para compor a 
 
 ","
 
+
 Qual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?
 
 
-",enem-data/enem-2017/117-images/alt_img_0.png,enem-data/enem-2017/117-images/alt_img_1.png,enem-data/enem-2017/117-images/alt_img_2.png,enem-data/enem-2017/117-images/alt_img_3.png,enem-data/enem-2017/117-images/alt_img_4.png,C,enem-data/enem-2017/117-images/context_img_0.png
+",enem-data/enem-2017/117-images/alt_img_0.png,enem-data/enem-2017/117-images/alt_img_1.png,enem-data/enem-2017/117-images/alt_img_2.png,enem-data/enem-2017/117-images/alt_img_3.png,enem-data/enem-2017/117-images/alt_img_4.png, ,enem-data/enem-2017/117-images/context_img_0.png
 40,132,"
 
 
@@ -709,7 +749,8 @@ A reação em cadeia da polimerase (PCR, na sigla em inglês) é uma técnica d
 
 ","
 
+
 Qual dos segmentos de DNA será o primeiro a desnaturar totalmente durante o aumento da temperatura na reação de PCR?
 
 
-",enem-data/enem-2017/132-images/alt_img_0.png,enem-data/enem-2017/132-images/alt_img_1.png,enem-data/enem-2017/132-images/alt_img_2.png,enem-data/enem-2017/132-images/alt_img_3.png,enem-data/enem-2017/132-images/alt_img_4.png,C,
+",enem-data/enem-2017/132-images/alt_img_0.png,enem-data/enem-2017/132-images/alt_img_1.png,enem-data/enem-2017/132-images/alt_img_2.png,enem-data/enem-2017/132-images/alt_img_3.png,enem-data/enem-2017/132-images/alt_img_4.png, ,
