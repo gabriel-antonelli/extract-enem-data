@@ -14,36 +14,8 @@ SPIRO, T. G.; STIGLIANI, W. M. Química ambiental. São Paulo: Pearson, 2009 (ad
 Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a:
 
 
-","        filtração, com o uso de filtros de carvão ativo      ","        fluoretação, pela adição de fluoreto de sódio      ","        coagulação, pela adição de sulfato de alumínio.      ","        correção do pH, pela adição de carbonato de sódio.      ","        floculação, em tanques de concreto com a água em movimento.      ", ,
-1,56,"
-
-A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meio artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.
-
-
-","
-
-
-Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?
-
-
-",        Fissão do material radioativo.      ,        Condensação do vapor-d’água no final do processo.      ,        Conversão de energia das turbinas pelos geradores.      ,        Aquecimento da água líquida para gerar vapor-d’água.      ,        Lançamento do vapor-d’água sobre as pás das turbinas.      , ,
-2,46,"
-
-
-É comum aos fotógrafos tirar fotos coloridas em ambiente iluminados por lampadas fluorescentes, que contêm uma forte composição de luz verde. A consequências desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.
-
-Disponível em:http://nautilus.fis.uc.pt. Acesso em 20 maio 2014 (adaptado)
-
-
-
-","
-
-
-Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?
-
-
-",        Ciano.      ,        Verde.      ,        Amarelo.      ,        Magenta.      ,        Vermelho.      , ,
-3,50,"
+","        filtração, com o uso de filtros de carvão ativo      ","        fluoretação, pela adição de fluoreto de sódio      ","        coagulação, pela adição de sulfato de alumínio.      ","        correção do pH, pela adição de carbonato de sódio.      ","        floculação, em tanques de concreto com a água em movimento.      ",A,
+1,50,"
 
 
 Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).
@@ -62,8 +34,60 @@ BAIRD, C. Química ambiental. Porto Alegre: Bookman, 2002 (adaptado).
 Considerando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de
 
 
-",        64.      ,        108.      ,        122.      ,        136.      ,        245.      , ,
-4,59,"
+",        64.      ,        108.      ,        122.      ,        136.      ,        245.      ,C,
+2,51,"
+
+Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.
+
+
+","
+
+
+O poder terapêutico dessas células baseia-se em sua capacidade de
+
+
+",        multiplicação lenta.      ,        comunicação entre células.      ,        adesão a diferentes tecidos.      ,        diferenciação em células especializadas.      ,        reconhecimento de células semelhantes.      ,D,
+3,46,"
+
+
+É comum aos fotógrafos tirar fotos coloridas em ambiente iluminados por lampadas fluorescentes, que contêm uma forte composição de luz verde. A consequências desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.
+
+Disponível em:http://nautilus.fis.uc.pt. Acesso em 20 maio 2014 (adaptado)
+
+
+
+","
+
+
+Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?
+
+
+",        Ciano.      ,        Verde.      ,        Amarelo.      ,        Magenta.      ,        Vermelho.      ,D,
+4,56,"
+
+A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meio artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.
+
+
+","
+
+
+Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?
+
+
+",        Fissão do material radioativo.      ,        Condensação do vapor-d’água no final do processo.      ,        Conversão de energia das turbinas pelos geradores.      ,        Aquecimento da água líquida para gerar vapor-d’água.      ,        Lançamento do vapor-d’água sobre as pás das turbinas.      ,B,
+5,54,"
+
+Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.
+
+
+","
+
+
+Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?
+
+
+",        Mudou de sentido.      ,        Sofreu reflexão total.      ,        Atingiu o valor do ângulo limite.      ,        Direcionou-se para a superfície de separação.      ,        Aproximou-se da normal à superfície de separação.      ,E,
+6,59,"
 
 
 Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor.
@@ -78,23 +102,8 @@ WENDLING, M. Sensores. Disponível em: www2.feg.unesp.br. Acesso em: 7 maio 2014
 A radiação captada por esse detector encontra-se na região de frequência
 
 
-",        da luz visível.      ,        do ultravioleta.      ,        do infravermelho.      ,        das micro-ondas.      ,        das ondas longas de rádio.      , ,
-5,53,"
-
-
-
-
-
-
-
-","
-
-
-Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera
-
-
-","        manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.      ","        manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.      ","        diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.      ","        diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.      ","        aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.      ", ,enem-data/enem-2014/53-images/context_img_0.png
-6,61,"
+",        da luz visível.      ,        do ultravioleta.      ,        do infravermelho.      ,        das micro-ondas.      ,        das ondas longas de rádio.      ,C,
+7,61,"
 
 
 Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.
@@ -109,20 +118,8 @@ ERENO, D. Plásticos de vegetais. Pesquisa Fapesp, n. 179, jan. 2011 (adaptado).
 Nesses plásticos, a fragmentação da resina polimérica é facilitada porque os carboidratos presentes
 
 
-",        dissolvem-se na água.      ,        absorvem água com facilidade.      ,        caramelizam por aquecimento e quebram.      ,        são digeridos por organismos decompositores.      ,        decompõem-se espontaneamente em contato com água e gás carbônico.      , ,
-7,54,"
-
-Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.
-
-
-","
-
-
-Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?
-
-
-",        Mudou de sentido.      ,        Sofreu reflexão total.      ,        Atingiu o valor do ângulo limite.      ,        Direcionou-se para a superfície de separação.      ,        Aproximou-se da normal à superfície de separação.      , ,
-8,63,"
+",        dissolvem-se na água.      ,        absorvem água com facilidade.      ,        caramelizam por aquecimento e quebram.      ,        são digeridos por organismos decompositores.      ,        decompõem-se espontaneamente em contato com água e gás carbônico.      ,D,
+8,53,"
 
 
 
@@ -133,23 +130,11 @@ Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o c
 ","
 
 
-A fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a
+Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera
 
 
-",        esquerda e o ímã para a direita com polaridade invertida.      ,        direita e o ímã para a esquerda com polaridade invertida.      ,        esquerda e o ímã para a esquerda com mesma polaridade.      ,        direita e manter o ímã em repouso com polaridade invertida.      ,        esquerda e manter o ímã em repouso com mesma polaridade.      , ,enem-data/enem-2014/63-images/context_img_0.png
-9,51,"
-
-Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.
-
-
-","
-
-
-O poder terapêutico dessas células baseia-se em sua capacidade de
-
-
-",        multiplicação lenta.      ,        comunicação entre células.      ,        adesão a diferentes tecidos.      ,        diferenciação em células especializadas.      ,        reconhecimento de células semelhantes.      , ,
-10,57,"
+","        manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.      ","        manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.      ","        diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.      ","        diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.      ","        aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.      ",A,enem-data/enem-2014/53-images/context_img_0.png
+9,57,"
 
 
 
@@ -167,8 +152,35 @@ No heredograma, os símbolos preenchidos representam pessoas portadoras de um ti
 Qual é o padrão de herança observado para essa doença?
 
 
-","        Dominante autossômico, pois a doença aparece em ambos os sexos.      ","        Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.      ","        Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.      ","        Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.      ","        Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.      ", ,enem-data/enem-2014/57-images/context_img_0.png
-11,52,"
+","        Dominante autossômico, pois a doença aparece em ambos os sexos.      ","        Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.      ","        Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.      ","        Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.      ","        Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.      ",D,enem-data/enem-2014/57-images/context_img_0.png
+10,64,"
+
+Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.
+
+
+","
+
+
+Uma característica da mitocôndria que sustenta essa teoria é a
+
+
+",        capacidade de produzir moléculas de ATP.      ,        presença de parede celular semelhante à de procariontes.      ,        presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.      ,        capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.      ,        presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.      ,D,
+11,63,"
+
+
+
+
+
+
+
+","
+
+
+A fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a
+
+
+",        esquerda e o ímã para a direita com polaridade invertida.      ,        direita e o ímã para a esquerda com polaridade invertida.      ,        esquerda e o ímã para a esquerda com mesma polaridade.      ,        direita e manter o ímã em repouso com polaridade invertida.      ,        esquerda e manter o ímã em repouso com mesma polaridade.      ,A,enem-data/enem-2014/63-images/context_img_0.png
+12,52,"
 
 Durante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados.
 
@@ -186,20 +198,39 @@ Durante um teste de controle para o desenvolvimento de novas lentes fotocromáti
 Considerando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?
 
 
-",        1      ,        2      ,        3      ,        4      ,        5      , ,enem-data/enem-2014/52-images/context_img_0.png
-12,64,"
+",        1      ,        2      ,        3      ,        4      ,        5      ,C,enem-data/enem-2014/52-images/context_img_0.png
+13,71,"
 
-Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.
+
+A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.
+
+SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado).
+
 
 
 ","
 
 
-Uma característica da mitocôndria que sustenta essa teoria é a
+A substância capaz de formar as estruturas mencionadas é
 
 
-",        capacidade de produzir moléculas de ATP.      ,        presença de parede celular semelhante à de procariontes.      ,        presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.      ,        capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.      ,        presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.      , ,
-13,65,"
+",        C18H36.      ,        C17H33COONa.      ,        CH3 CH2 COONa.      ,        CH3CH2CH2 COOH.      ,        CH3CH2CH2CH2OCH2CH2CH2CH3 ,B,
+14,68,"
+
+
+
+
+
+
+
+","
+
+
+Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a
+
+
+",        filtração.      ,        ventilação.      ,        decantação.      ,        evaporação.      ,        destilação fracionada.      ,E,enem-data/enem-2014/68-images/context_img_0.png
+15,65,"
 
 Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observe o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).
 
@@ -221,24 +252,8 @@ Nessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com dur
 Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a
 
 
-",        69120.      ,        17280.      ,        11520.      ,        8640.      ,        2880.      , ,enem-data/enem-2014/65-images/context_img_0.png
-14,71,"
-
-
-A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.
-
-SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado).
-
-
-
-","
-
-
-A substância capaz de formar as estruturas mencionadas é
-
-
-",        C18H36.      ,        C17H33COONa.      ,        CH3 CH2 COONa.      ,        CH3CH2CH2 COOH.      ,        CH3CH2CH2CH2OCH2CH2CH2CH3 , ,
-15,68,"
+",        69120.      ,        17280.      ,        11520.      ,        8640.      ,        2880.      ,C,enem-data/enem-2014/65-images/context_img_0.png
+16,75,"
 
 
 
@@ -249,11 +264,27 @@ A substância capaz de formar as estruturas mencionadas é
 ","
 
 
-Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a
+A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar
 
 
-",        filtração.      ,        ventilação.      ,        decantação.      ,        evaporação.      ,        destilação fracionada.      , ,enem-data/enem-2014/68-images/context_img_0.png
-16,72,"
+",        maior pressão de vapor.      ,        menor massa molecular.      ,        maior compressibilidade.      ,        menor energia de ativação.      ,        menor capacidade calorífica.      ,E,enem-data/enem-2014/75-images/context_img_0.png
+17,73,"
+
+
+Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.
+
+PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Tropical Plant Pathology, v. 36, n. 2, mar.-abr. 2011 (adaptado).
+
+
+
+","
+
+
+Qual dos processos biológicos mencionados indica uma relação ecológica de competição?
+
+
+",        Fixação de nitrogênio para o tomateiro.      ,        Disponibilização de cálcio para o tomateiro      ,        Diminuição da quantidade de ferro disponível para o fungo.      ,        Liberação de substâncias que inibem o crescimento do fungo.      ,        Liberação de auxinas que estimulam o crescimento do tomateiro.      ,C,
+18,72,"
 
 
 
@@ -267,8 +298,23 @@ Considerando as características físico-químicas dos dois insumos formados, o 
 Das espécies apresentadas, a adequada para essa recuperação é
 
 
-",        Cu (s).      ,        Pt (s).      ,        Al3+(aq).      ,        Sn (s).      ,        Zn2+(aq) , ,enem-data/enem-2014/72-images/context_img_0.png
-17,69,"
+",        Cu (s).      ,        Pt (s).      ,        Al3+(aq).      ,        Sn (s).      ,        Zn2+(aq) ,D,enem-data/enem-2014/72-images/context_img_0.png
+19,70,"
+
+
+
+
+
+
+
+","
+
+
+Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição
+
+
+","        B, pois a corrente será maior nesse caso.      ","        B, pois a potência total será maior nesse caso.      ","        A, pois a resistência equivalente será menor nesse caso.      ","        B, pois o gerador fornecerá uma maior tensão nesse caso.      ","        A, pois a potência dissipada pelo gerador será menor nesse caso.      ",C,enem-data/enem-2014/70-images/context_img_0.png
+20,69,"
 
 Os parasitoides (misto de parasitas e predadores) são insetos diminutos que têm hábitos muito peculiares: suas larvas podem se desenvolver dentro do corpo de outros organismos, como mostra a figura. A forma adulta se alimenta de pólen e açúcares. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.
 
@@ -286,43 +332,8 @@ Os parasitoides (misto de parasitas e predadores) são insetos diminutos que tê
 A forma larval do parasitoide assume qual papel nessa cadeia alimentar?
 
 
-","        Consumidor primário, pois ataca diretamente uma espécie herbívora.      ","        Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.      ","        Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.      ","        Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.      ","        Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte.      ", ,enem-data/enem-2014/69-images/context_img_0.png
-18,76,"
-
-A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.
-
-
-
-
-
-
-
-
-
-","
-
-
-O processo citado está representado na etapa
-
-
-",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      , ,enem-data/enem-2014/76-images/context_img_0.png
-19,73,"
-
-
-Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.
-
-PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Tropical Plant Pathology, v. 36, n. 2, mar.-abr. 2011 (adaptado).
-
-
-
-","
-
-
-Qual dos processos biológicos mencionados indica uma relação ecológica de competição?
-
-
-",        Fixação de nitrogênio para o tomateiro.      ,        Disponibilização de cálcio para o tomateiro      ,        Diminuição da quantidade de ferro disponível para o fungo.      ,        Liberação de substâncias que inibem o crescimento do fungo.      ,        Liberação de auxinas que estimulam o crescimento do tomateiro.      , ,
-20,74,"
+","        Consumidor primário, pois ataca diretamente uma espécie herbívora.      ","        Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.      ","        Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.      ","        Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.      ","        Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte.      ",B,enem-data/enem-2014/69-images/context_img_0.png
+21,74,"
 
 Uma região de Cerrado possui lençol freático profundo, estação seca bem marcada, grande insolação e recorrência de incêndios naturais. Cinco espécies de árvores nativas, com as características apresentadas no quadro, foram avaliadas quanto ao seu potencial para uso em projetos de reflorestamento na região.
 
@@ -340,66 +351,8 @@ Uma região de Cerrado possui lençol freático profundo, estação seca bem mar
 Qual é a árvore adequada para o reflorestamento da região?
 
 
-",        1      ,        2      ,        3      ,        4      ,        5      , ,enem-data/enem-2014/74-images/context_img_0.png
-21,80,"
-
-
-A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.
-
-COELHO, F. A. S. Fármacos e quiralidade. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 3, maio 2001 (adaptado).
-
-
-
-","
-
-
-Essa malformação congênita ocorre porque esses enantiômeros
-
-
-",        reagem entre si.      ,        não podem ser separados.      ,         não estão presentes em partes iguais.      ,        interagem de maneira distinta com o organismo.      ,        são estruturas com diferentes grupos funcionais.      , ,
-22,75,"
-
-
-
-
-
-
-
-","
-
-
-A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar
-
-
-",        maior pressão de vapor.      ,        menor massa molecular.      ,        maior compressibilidade.      ,        menor energia de ativação.      ,        menor capacidade calorífica.      , ,enem-data/enem-2014/75-images/context_img_0.png
-23,70,"
-
-
-
-
-
-
-
-","
-
-
-Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição
-
-
-","        B, pois a corrente será maior nesse caso.      ","        B, pois a potência total será maior nesse caso.      ","        A, pois a resistência equivalente será menor nesse caso.      ","        B, pois o gerador fornecerá uma maior tensão nesse caso.      ","        A, pois a potência dissipada pelo gerador será menor nesse caso.      ", ,enem-data/enem-2014/70-images/context_img_0.png
-24,81,"
-
-Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.
-
-
-","
-
-
-Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por
-
-
-",        modificação de características.      ,        incremento no tamanho corporal.      ,        complexificação de seus sistemas.      ,        melhoria de processos e estruturas.      ,        especialização para uma determinada finalidade.      , ,
-25,83,"
+",        1      ,        2      ,        3      ,        4      ,        5      ,B,enem-data/enem-2014/74-images/context_img_0.png
+22,83,"
 
 
 Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.
@@ -414,8 +367,28 @@ YODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of natur
 Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)
 
 
-",        comprimento da haste seja mantido constante.      ,        massa do corpo suspenso pela haste seja pequena.      ,        material da haste possua alta condutividade térmica.      ,        amplitude da oscilação seja constante a qualquer temperatura.      ,        energia potencial gravitacional do corpo suspenso se mantenha constante.      , ,
-26,79,"
+",        comprimento da haste seja mantido constante.      ,        massa do corpo suspenso pela haste seja pequena.      ,        material da haste possua alta condutividade térmica.      ,        amplitude da oscilação seja constante a qualquer temperatura.      ,        energia potencial gravitacional do corpo suspenso se mantenha constante.      ,A,
+23,80,"
+
+
+A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.
+
+COELHO, F. A. S. Fármacos e quiralidade. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 3, maio 2001 (adaptado).
+
+
+
+","
+
+
+Essa malformação congênita ocorre porque esses enantiômeros
+
+
+",        reagem entre si.      ,        não podem ser separados.      ,         não estão presentes em partes iguais.      ,        interagem de maneira distinta com o organismo.      ,        são estruturas com diferentes grupos funcionais.      ,D,
+24,76,"
+
+A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.
+
+
 
 
 
@@ -426,11 +399,23 @@ Desprezando a presença de forças dissipativas e considerando a aceleração da
 ","
 
 
-O ambiente que necessita de biorremediação é o(a)
+O processo citado está representado na etapa
 
 
-",        solo I.      ,        solo II.      ,        água I.      ,        água II.      ,        água III.      , ,enem-data/enem-2014/79-images/context_img_0.png
-27,84,"
+",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      ,E,enem-data/enem-2014/76-images/context_img_0.png
+25,81,"
+
+Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.
+
+
+","
+
+
+Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por
+
+
+",        modificação de características.      ,        incremento no tamanho corporal.      ,        complexificação de seus sistemas.      ,        melhoria de processos e estruturas.      ,        especialização para uma determinada finalidade.      ,A,
+26,84,"
 
 
 Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.
@@ -445,38 +430,8 @@ O Hoje, 15 out. 2011 (adaptado).
 Para suprir o déficit nutricional a que os produtos rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em
 
 
-",        vitaminas A e E.       ,        frutose e sacarose.      ,        aminoácidos naturais.      ,        aminoácidos essenciais.      ,        ácidos graxos saturados.      , ,
-28,78,"
-
-
-
-
-
-
-
-","
-
-
-Desprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é
-
-
-",        nulo.      ,        paralelo à sua velocidade linear e no mesmo sentido.      ,        paralelo à sua velocidade linear e no sentido oposto.      ,        perpendicular à sua velocidade linear e dirigido para o centro da Terra.      ,        perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra.      , ,enem-data/enem-2014/78-images/context_img_0.png
-29,82,"
-
-
-
-
-
-
-
-","
-
-
-Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?
-
-
-",        Milho.      ,        Palma.      ,        Canola.      ,        Algodão.      ,        Amendoim.      , ,enem-data/enem-2014/82-images/context_img_0.png
-30,87,"
+",        vitaminas A e E.       ,        frutose e sacarose.      ,        aminoácidos naturais.      ,        aminoácidos essenciais.      ,        ácidos graxos saturados.      ,D,
+27,87,"
 
 Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.
 
@@ -487,8 +442,8 @@ Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estam
 O fenômeno descrito é a
 
 
-",        difração.      ,        refração.      ,        polarização.      ,        interferência.      ,        ressonância.      , ,
-31,89,"
+",        difração.      ,        refração.      ,        polarização.      ,        interferência.      ,        ressonância.      ,E,
+28,89,"
 
 
 Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.
@@ -503,8 +458,8 @@ SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem…
 A eficiência do uso do vinagre nesse caso se explica pela
 
 
-","        sobreposição de odor, propiciada pelo cheiro característico do vinagre.      ","        solubilidade da piridina, de caráter ácido, na solução ácida empregada.      ","        inibição da proliferação das bactérias presentes, devido à ação do ácido acético.      ","        degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.      ","        reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.      ", ,
-32,86,"
+","        sobreposição de odor, propiciada pelo cheiro característico do vinagre.      ","        solubilidade da piridina, de caráter ácido, na solução ácida empregada.      ","        inibição da proliferação das bactérias presentes, devido à ação do ácido acético.      ","        degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.      ","        reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.      ",E,
+29,86,"
 
 O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.
 
@@ -515,7 +470,52 @@ O potencial brasileiro para transformar lixo em energia permanece subutilizado �
 Essa fonte de energia subutilizada, citada no texto, é o
 
 
-","        etanol, obtido a partir da decomposição da matéria orgânica por bactérias.      ","        gás natural, formado pela ação de fungos decompositores da matéria orgânica.      ","        óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.      ","        gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.      ","        gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.      ", ,
+","        etanol, obtido a partir da decomposição da matéria orgânica por bactérias.      ","        gás natural, formado pela ação de fungos decompositores da matéria orgânica.      ","        óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.      ","        gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.      ","        gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.      ",D,
+30,78,"
+
+
+
+
+
+
+
+","
+
+
+Desprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é
+
+
+",        nulo.      ,        paralelo à sua velocidade linear e no mesmo sentido.      ,        paralelo à sua velocidade linear e no sentido oposto.      ,        perpendicular à sua velocidade linear e dirigido para o centro da Terra.      ,        perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra.      ,A,enem-data/enem-2014/78-images/context_img_0.png
+31,79,"
+
+
+
+
+
+
+
+","
+
+
+O ambiente que necessita de biorremediação é o(a)
+
+
+",        solo I.      ,        solo II.      ,        água I.      ,        água II.      ,        água III.      ,B,enem-data/enem-2014/79-images/context_img_0.png
+32,82,"
+
+
+
+
+
+
+
+","
+
+
+Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?
+
+
+",        Milho.      ,        Palma.      ,        Canola.      ,        Algodão.      ,        Amendoim.      ,B,enem-data/enem-2014/82-images/context_img_0.png
 33,90,"
 
 
@@ -532,7 +532,7 @@ LENT, R. O cérebro do meu professor de acordeão. Disponível em: http://cienci
 No contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a
 
 
-",        frequência.      ,        intensidade.      ,        forma de onda.      ,        amplitude de onda.      ,        velocidade de propagação.      , ,
+",        frequência.      ,        intensidade.      ,        forma de onda.      ,        amplitude de onda.      ,        velocidade de propagação.      ,A,
 34,85,"
 
 
@@ -547,7 +547,7 @@ No contexto apresentado, a propriedade física das ondas que permite essa distin
 Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da
 
 
-",        clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.      ,"        produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.      ",        oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.      ,        reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.      ,        reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.      , ,enem-data/enem-2014/85-images/context_img_0.png
+",        clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.      ,"        produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.      ",        oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.      ,        reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.      ,        reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.      ,B,enem-data/enem-2014/85-images/context_img_0.png
 35,77,"
 
 
@@ -562,4 +562,4 @@ Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrên
 O movimento dos pêndulos após a primeira colisão está representado em:
 
 
-",enem-data/enem-2014/77-images/alt_img_0.png,enem-data/enem-2014/77-images/alt_img_1.png,enem-data/enem-2014/77-images/alt_img_2.png,enem-data/enem-2014/77-images/alt_img_3.png,enem-data/enem-2014/77-images/alt_img_4.png, ,enem-data/enem-2014/77-images/context_img_0.png
+",enem-data/enem-2014/77-images/alt_img_0.png,enem-data/enem-2014/77-images/alt_img_1.png,enem-data/enem-2014/77-images/alt_img_2.png,enem-data/enem-2014/77-images/alt_img_3.png,enem-data/enem-2014/77-images/alt_img_4.png,C,enem-data/enem-2014/77-images/context_img_0.png

@@ -94,7 +94,6 @@ class ScrapQuestions:
                     img_filename = f"{dir_path}/{question_number}-images/alt_img_{i}.png"
                     self.download_image(img_url, img_filename)
                     alternatives_list.append(img_filename)
-
             row = [
                 question_number,
                 context_text,
@@ -104,7 +103,7 @@ class ScrapQuestions:
                 alternatives_list[2] if len(alternatives_list) > 2 else None,
                 alternatives_list[3] if len(alternatives_list) > 3 else None,
                 alternatives_list[4] if len(alternatives_list) > 4 else None,
-                answer_text[-1][-1] if answer_text else None,
+                answer_text[-1].strip() if answer_text else None,
                 # Include references to context and alternatives images in CSV
                 ",".join(f"{dir_path}/{question_number}-images/context_img_{i}.png" for i in range(len(context_images))),
             ]

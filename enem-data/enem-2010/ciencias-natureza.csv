@@ -1,5 +1,153 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,55,"
+0,46,"
+
+Em nosso cotidiano, utilizamos as palavras “calor” e “temperatura” de forma diferente de como elas são usadas no meio científico. Na linguagem corrente, calor é identificado como “algo quente” e temperatura mede a “quantidade de calor de um corpo”. Esses significados, no entanto, não conseguem explicar diversas situações que podem ser verificadas na prática.
+
+
+","
+
+
+Do ponto de vista científico, que situação prática mostra a limitação dos conceitos corriqueiros de calor e temperatura?
+
+
+",        A temperatura da água pode ficar constante durante o tempo em que estiver fervendo.      ,        Uma mãe coloca a mão na água da banheira do bebê para verificar a temperatura da água.      ,        A chama de um fogão pode ser usada para aumentar a temperatura da água em uma panela.      ,        A água quente que está em uma caneca é passada para outra caneca a fim de diminuir sua temperatura.      ,        Um forno pode fornecer calor para uma vasilha de água que está em seu interior com menor temperatura do que a dele.      ,A,
+1,50,"
+
+A vacina, o soro e os antibióticos submetem os organismos a processos biológicos diferentes. Pessoas que viajam para regiões em que ocorrem altas incidências de febre amarela, de picadas de cobras peçonhentas e de leptospirose e querem evitar ou tratar problemas de saúde relacionados a essas ocorrências devem seguir determinadas orientações.
+
+
+","
+
+
+Ao procurar um posto de saúde, um viajante deveria ser orientado por um médico a tomar preventivamente ou como medida de tratamento
+
+
+","        antibiótico contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e vacina contra a leptospirose.      ","        vacina contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e antibiótico caso entre em contato com a Leptospira sp.      ","        soro contra o vírus da febre amarela, antibiótico caso seja picado por uma cobra e soro contra toxinas bacterianas.      ","        antibiótico ou soro, tanto contra o vírus da febre amarela como para veneno de cobras, e vacina contra a leptospirose.      ",        soro antiofídico e antibiótico contra a Leptospira sp e vacina contra a febre amarela caso entre em contato com o vírus causador da doença.      ,B,
+2,49,"
+
+
+A cárie dental resulta da atividade de bactérias que degradam os açúcares e os transformam em ácidos que corroem a porção mineralizada dos dentes. O flúor, juntamente com o cálcio e um açúcar chamado xilitol, agem inibindo esse processo. Quando não se escovam os dentes corretamente e neles acumulam-se restos de alimentos, as bactérias que vivem na boca aderem aos dentes, formando a placa bacteriana ou biofilme. Na placa, elas transformam o açúcar dos restos de alimentos em ácidos, que corroem o esmalte do dente formando uma cavidade, que é a cárie. Vale lembrar que a placa bacteriana se forma mesmo na ausência de ingestão de carboidratos fermentáveis, pois as bactérias possuem polissacarídeos intracelulares de reserva.
+
+Disponível em: http://www.diariodasaude.com.br. Acesso em: 11 ago. 2010 (adaptado).
+
+
+
+
+
+cárie 1. destruição de um osso por corrosão progressiva.
+* cárie dentária: efeito da destruição da estrutura dentária por bactérias.
+
+HOUAISS, Antônio. Dicionário eletrônico. Versão 1.0. Editora
+Objetiva, 2001 (adaptado).
+
+
+
+","
+
+
+A partir da leitura do texto, que discute as causas do aparecimento de cáries, e da sua relação com as informações do dicionário, conclui-se que a cárie dental resulta, principalmente, de
+
+
+",        falta de flúor e de cálcio na alimentação diária da população brasileira.      ,"        consumo exagerado do xilitol, um açúcar, na dieta alimentar diária do indivíduo.      ",        redução na proliferação bacteriana quando a saliva é desbalanceada pela má alimentação.      ,"        uso exagerado do flúor, um agente que em alta quantidade torna-se tóxico à formação dos dentes.      ","        consumo excessivo de açúcares na alimentação e má higienizaçao bucal, que contribuem para a proliferação de bactérias.      ",E,
+3,57,"
+
+As cidades industrializadas produzem grandes proporções de gases como o CO2. o principal gás causador de efeito estufa. Isso ocorre por causa da quantidade de combustíveis fósseis queimados, principalmente no transporte, mas também em caldeiras industriais. Além disso, nessas cidades concentram-se as maiores áreas com solos asfaltados e concretados, o que aumenta a retenção de calor, formando o que se conhece por “ilhas de calor”. Tal fenômeno ocorre porque esses materiais absorvem o calor e o devolvem para o ar sob a forma de radiação térmica.
+
+
+","
+
+
+Em áreas urbanas, devido à atuação conjunta do efeito estufa e das “ilhas de calor”, espera-se que o consumo de energia elétrica
+
+
+",        diminua devido a utilização de caldeiras por indústrias metalúrgicas.      ,        aumente devido ao bloqueio da luz do sol pelos gases do efeito estufa.      ,        diminua devido à não necessidade de aquecer a água utilizada em indústrias.      ,        aumente devido à necessidade de maior refrigeração de indústrias e residências.      ,        diminua devido à grande quantidade de radiação térmica reutilizada.      ,D,
+4,52,"
+
+Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10°C de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.
+
+
+","
+
+
+O forno mais eficiente foi aquele que
+
+
+",        forneceu a maior quantidade de energia às amostras.      ,        cedeu energia à amostra de maior massa em mais tempo.      ,        forneceu a maior quantidade de energia em menos tempo.      ,        cedeu energia à amostra de menor calor específico mais lentamente.      ,        forneceu a menor quantidade de energia às amostras em menos tempo.      ,C,
+5,54,"
+
+
+O fósforo, geralmente representado pelo íon de fosfato (PO4−3), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon.
+
+
+
+","
+
+
+Uma medida que amenizaria esse problema seria:
+
+
+","        Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo.      ",        Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes.      ,        Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes.      ,        Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons.      ,"        Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais.      ",A,
+6,47,"
+
+
+
+
+
+
+
+","
+
+
+Um farol usa uma lâmpada de gás halogênio de 55 W de potência que opera com 36 V. Os dois faróis são ligados separadamente, com um fusível para cada um, mas, após um mau funcionamento, o motorista passou a conectá-los em paralelo, usando apenas um fusível. Dessa forma, admitindo-se que a fiação suporte a carga dos dois faróis, o menor valor de fusível adequado para proteção desse novo circuito é o
+
+
+",        azul.      ,        preto.      ,        laranja.      ,        amarelo.      ,        vermelho.      ,C,enem-data/enem-2010/47-images/context_img_0.png
+7,56,"
+
+
+A lavoura arrozeira na planície costeira da região sul do Brasil comumente sofre perdas elevadas devido a salinização da água de irrigação, que ocasiona prejuízos diretos, como a redução de produção da lavoura. Solos com processo de salinização avançado não são indicados, por exemplo, para o cultivo de arroz. As plantas retiram a água do solo quando as forças de embebição dos tecidos das raízes são superiores às forças com que a água é retida no solo.
+
+WINKEL, H.L.; TSCHIEDEL, M. Cultura do arroz: salinização de solos em cultivo do arroz.
+Disponível em: http://agropage.tripod.com/saliniza.hml. Acesso em: 25 jun. 2010 (adaptado).
+
+
+
+","
+
+
+A presença de sais na solução do solo faz com que seja dificultada a absorção de água pelas plantas, o que provoca o fenômeno conhecido por seca fisiológica, caracterizado pelo(a)
+
+
+","        aumento da salinidade, em que a água do solo atinge uma concentração de sais maior que a das células das raízes das plantas, impedindo, assim, que a água seja absorvida.      ","        aumento da salinidade, em que o solo atinge um nível muito baixo de água, e as plantas não tem força de sucção para absorver a água.      ","        diminuição da salinidade, que atinge um nível em que as plantas não têm força de sucção, fazendo com que a água não seja absorvida.      ","        aumento da salinidade, que atinge um nível em que as plantas têm muita sudação, não tendo força de sucção para superá-la.      ","        diminuição da salinidade, que atinge um nível em que as plantas ficam túrgidas e não têm força de sudação para superá-la.      ",A,
+8,48,"
+
+As ondas eletromagnéticas, como a luz visível e as ondas de rádio, viajam em linha reta em um meio homogêneo. Então, as ondas de rádio emitidas na região litorânea do Brasil não alcançariam a região amazônica do Brasil por causa da curvatura da Terra. Entretanto sabemos que é possível transmitir ondas de rádio entre essas localidades devido à ionosfera.
+
+
+","
+
+
+Com ajuda da ionosfera, a transmissão de ondas planas entre o litoral do Brasil e a região amazônica é possível por meio da
+
+
+",        reflexão.      ,        refração.      ,        difração.      ,        polarização.      ,        interferência.      ,A,
+9,61,"
+
+
+No ano de 2000, um vazamento em um duto de óleo na baía de Guanabara (RJ) causou um dos maiores acidentes ambientais do Brasil. Além de afetar a fauna e a flora, o acidente abalou o  equilíbrio da cadeia alimentar de toda a baía. O petróleo forma uma película na superfície da água, o que prejudica as trocas gasosas da atmosfera com a água e desfavorece a realização de fotossíntese pelas algas, que estão na base da cadeia alimentar hídrica. Além disso, o derramamento de óleo contribuiu para o envenenamento das árvores e, consequentemente, para a intoxicação da fauna e flora aquáticas, bem como conduziu à morte diversas espécies de animais, entre outras formas de vida, afetando também a atividade pesqueira.
+
+LAUBIER, L. Diversidade da Maré Negra. In: Scientific American Brasil. 4(39), ago. 2005 (adaptado).
+
+
+
+","
+
+
+A situação exposta no texto e suas implicações
+
+
+",        indicam a independência da espécie humana com relação ao ambiente marinho.      ,        alertam para a necessidade do controle da poluição ambiental para a redução do efeito estufa.      ,"        ilustram a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat.      ","        indicam a alta resistência do meio ambiente à ação do homem, além de evidenciar a sua sustentabilidade  mesmo em condições extremas de poluição.      ","        evidenciam a grande capacidade animal de se adaptar às mudanças ambientais, em contraste com a baixa capacidade das espécies vegetais, que estão na base da cadeia alimentar hídrica.      ",C,
+10,55,"
 
 O texto “O vôo das Folhas” traz uma visão dos índios
 Ticunas para um fenômeno usualmente observado na
@@ -33,60 +181,36 @@ Organização Geral dos Professores Bilíngues Ticunas, 2000
 Na visão dos índios Ticunas, a descrição sobre o ngaura permite classificá-lo como um produto diretamente relacionado ao ciclo
 
 
-",        da água.      ,        do oxigênio.      ,        do fósforo.      ,        do carbono.      ,        do nitrogênio.      , ,
-1,54,"
+",        da água.      ,        do oxigênio.      ,        do fósforo.      ,        do carbono.      ,        do nitrogênio.      ,D,
+11,59,"
+
+O despejo de dejetos de esgotos domésticos e industriais vem causando sérios problemas aos rios brasileiros. Esses poluentes são ricos em substâncias que contribuem para a eutrofização de ecossistemas, que é um enriquecimento da água por nutrientes, o que provoca um grande crescimento bacteriano e, por fim, pode promover escassez de oxigênio.
 
 
-O fósforo, geralmente representado pelo íon de fosfato (PO4−3), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon.
+","
+
+
+Uma maneira de evitar a diminuição da concentração de oxigênio no ambiente é:
+
+
+",        Aquecer as águas dos rios para aumentar a velocidade de decomposição dos dejetos.      ,        Retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios.      ,        Adicionar bactérias anaeróbicas às águas dos rios para que elas sobrevivam mesmo sem oxigênio.      ,        Substituir produtos não degradáveis por biodegradáveis para que as bactérias possam utilizar os nutrientes.      ,        Aumentar a solubilidade dos dejetos no esgoto para que os nutrientes fiquem mais acessíveis às bactérias.      ,B,
+12,62,"
+
+
+Um ambiente capaz de asfixiar todos os animais conhecidos do planeta foi colonizado por pelo menos três espécies diferentes de invertebrados marinhos. Descobertos a mais de 3.000 m de profundidade no Mediterrâneo, eles são os primeiros membros do reino animal a prosperar mesmo diante da ausência total de oxigênio. Até agora, achava-se que só bactérias pudessem ter esse estilo de vida. Não admira que os bichos pertençam a um grupo pouco conhecido, o dos loriciferos, que mal chegam a 1,0 mm. Apesar do tamanho, possuem cabeça, boca, sistema digestivo e carapaça. A adaptação dos bichos à vida no sufoco é tão profunda que suas células dispensaram as chamadas mitocôndrias.
+
+LOPES, R. J. Italianos descobrem animal que vive em água sem oxigênio. Disponível em: http://www1.folha.uol.com.br. Acesso em: 10 abr. 2010 (adaptado).
 
 
 
 ","
 
 
-Uma medida que amenizaria esse problema seria:
+Que substâncias poderiam ter a mesma função do O<sub>2</sub> na respiração celular realizada pelos loricíferos?
 
 
-","        Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo.      ",        Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes.      ,        Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes.      ,        Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons.      ,"        Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais.      ", ,
-2,49,"
-
-
-A cárie dental resulta da atividade de bactérias que degradam os açúcares e os transformam em ácidos que corroem a porção mineralizada dos dentes. O flúor, juntamente com o cálcio e um açúcar chamado xilitol, agem inibindo esse processo. Quando não se escovam os dentes corretamente e neles acumulam-se restos de alimentos, as bactérias que vivem na boca aderem aos dentes, formando a placa bacteriana ou biofilme. Na placa, elas transformam o açúcar dos restos de alimentos em ácidos, que corroem o esmalte do dente formando uma cavidade, que é a cárie. Vale lembrar que a placa bacteriana se forma mesmo na ausência de ingestão de carboidratos fermentáveis, pois as bactérias possuem polissacarídeos intracelulares de reserva.
-
-Disponível em: http://www.diariodasaude.com.br. Acesso em: 11 ago. 2010 (adaptado).
-
-
-
-
-
-cárie 1. destruição de um osso por corrosão progressiva.
-* cárie dentária: efeito da destruição da estrutura dentária por bactérias.
-
-HOUAISS, Antônio. Dicionário eletrônico. Versão 1.0. Editora
-Objetiva, 2001 (adaptado).
-
-
-
-","
-
-
-A partir da leitura do texto, que discute as causas do aparecimento de cáries, e da sua relação com as informações do dicionário, conclui-se que a cárie dental resulta, principalmente, de
-
-
-",        falta de flúor e de cálcio na alimentação diária da população brasileira.      ,"        consumo exagerado do xilitol, um açúcar, na dieta alimentar diária do indivíduo.      ",        redução na proliferação bacteriana quando a saliva é desbalanceada pela má alimentação.      ,"        uso exagerado do flúor, um agente que em alta quantidade torna-se tóxico à formação dos dentes.      ","        consumo excessivo de açúcares na alimentação e má higienizaçao bucal, que contribuem para a proliferação de bactérias.      ", ,
-3,46,"
-
-Em nosso cotidiano, utilizamos as palavras “calor” e “temperatura” de forma diferente de como elas são usadas no meio científico. Na linguagem corrente, calor é identificado como “algo quente” e temperatura mede a “quantidade de calor de um corpo”. Esses significados, no entanto, não conseguem explicar diversas situações que podem ser verificadas na prática.
-
-
-","
-
-
-Do ponto de vista científico, que situação prática mostra a limitação dos conceitos corriqueiros de calor e temperatura?
-
-
-",        A temperatura da água pode ficar constante durante o tempo em que estiver fervendo.      ,        Uma mãe coloca a mão na água da banheira do bebê para verificar a temperatura da água.      ,        A chama de um fogão pode ser usada para aumentar a temperatura da água em uma panela.      ,        A água quente que está em uma caneca é passada para outra caneca a fim de diminuir sua temperatura.      ,        Um forno pode fornecer calor para uma vasilha de água que está em seu interior com menor temperatura do que a dele.      , ,
-4,58,"
+",        S e CH4 ,        S e NO3- ,        H2 e NO3- ,        CO2 e CH4 ,        H2 e CO2 ,B,
+13,58,"
 
 Sob pressão normal (ao nível do mar), a água entra em ebulição à temperatura de 100 °C. Tendo por base essa afirmação, um garoto residente em uma cidade litorânea fez a seguinte experiência:
 
@@ -102,181 +226,8 @@ Sob pressão normal (ao nível do mar), a água entra em ebulição à temperatu
 Considerando o procedimento anterior, a água volta a ferver porque esse deslocamento
 
 
-",        permite a entrada de calor do ambiente externo para o interior da seringa.      ,"        provoca, por atrito, um aquecimento da água contida na seringa.      ",        produz um aumento de volume que aumenta o ponto de ebulição da água.      ,        proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água.      ,        possibilita uma diminuição da densidade da água que facilita sua ebulição.      , ,
-5,61,"
-
-
-No ano de 2000, um vazamento em um duto de óleo na baía de Guanabara (RJ) causou um dos maiores acidentes ambientais do Brasil. Além de afetar a fauna e a flora, o acidente abalou o  equilíbrio da cadeia alimentar de toda a baía. O petróleo forma uma película na superfície da água, o que prejudica as trocas gasosas da atmosfera com a água e desfavorece a realização de fotossíntese pelas algas, que estão na base da cadeia alimentar hídrica. Além disso, o derramamento de óleo contribuiu para o envenenamento das árvores e, consequentemente, para a intoxicação da fauna e flora aquáticas, bem como conduziu à morte diversas espécies de animais, entre outras formas de vida, afetando também a atividade pesqueira.
-
-LAUBIER, L. Diversidade da Maré Negra. In: Scientific American Brasil. 4(39), ago. 2005 (adaptado).
-
-
-
-","
-
-
-A situação exposta no texto e suas implicações
-
-
-",        indicam a independência da espécie humana com relação ao ambiente marinho.      ,        alertam para a necessidade do controle da poluição ambiental para a redução do efeito estufa.      ,"        ilustram a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat.      ","        indicam a alta resistência do meio ambiente à ação do homem, além de evidenciar a sua sustentabilidade  mesmo em condições extremas de poluição.      ","        evidenciam a grande capacidade animal de se adaptar às mudanças ambientais, em contraste com a baixa capacidade das espécies vegetais, que estão na base da cadeia alimentar hídrica.      ", ,
-6,60,"
-
-
-
-
-
-
-
-","
-
-
-A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado
-
-
-",        pela circulação do magma no subsolo.      ,        pelas erupções constantes dos vulcões.      ,        pelo sol que aquece as águas com radiação ultravioleta.      ,        pela queima do carvão e combustível fósseis.      ,        pelos detritos e cinzas vulcânicas.      , ,enem-data/enem-2010/60-images/context_img_0.png
-7,62,"
-
-
-Um ambiente capaz de asfixiar todos os animais conhecidos do planeta foi colonizado por pelo menos três espécies diferentes de invertebrados marinhos. Descobertos a mais de 3.000 m de profundidade no Mediterrâneo, eles são os primeiros membros do reino animal a prosperar mesmo diante da ausência total de oxigênio. Até agora, achava-se que só bactérias pudessem ter esse estilo de vida. Não admira que os bichos pertençam a um grupo pouco conhecido, o dos loriciferos, que mal chegam a 1,0 mm. Apesar do tamanho, possuem cabeça, boca, sistema digestivo e carapaça. A adaptação dos bichos à vida no sufoco é tão profunda que suas células dispensaram as chamadas mitocôndrias.
-
-LOPES, R. J. Italianos descobrem animal que vive em água sem oxigênio. Disponível em: http://www1.folha.uol.com.br. Acesso em: 10 abr. 2010 (adaptado).
-
-
-
-","
-
-
-Que substâncias poderiam ter a mesma função do O<sub>2</sub> na respiração celular realizada pelos loricíferos?
-
-
-",        S e CH4 ,        S e NO3- ,        H2 e NO3- ,        CO2 e CH4 ,        H2 e CO2 , ,
-8,50,"
-
-A vacina, o soro e os antibióticos submetem os organismos a processos biológicos diferentes. Pessoas que viajam para regiões em que ocorrem altas incidências de febre amarela, de picadas de cobras peçonhentas e de leptospirose e querem evitar ou tratar problemas de saúde relacionados a essas ocorrências devem seguir determinadas orientações.
-
-
-","
-
-
-Ao procurar um posto de saúde, um viajante deveria ser orientado por um médico a tomar preventivamente ou como medida de tratamento
-
-
-","        antibiótico contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e vacina contra a leptospirose.      ","        vacina contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e antibiótico caso entre em contato com a Leptospira sp.      ","        soro contra o vírus da febre amarela, antibiótico caso seja picado por uma cobra e soro contra toxinas bacterianas.      ","        antibiótico ou soro, tanto contra o vírus da febre amarela como para veneno de cobras, e vacina contra a leptospirose.      ",        soro antiofídico e antibiótico contra a Leptospira sp e vacina contra a febre amarela caso entre em contato com o vírus causador da doença.      , ,
-9,48,"
-
-As ondas eletromagnéticas, como a luz visível e as ondas de rádio, viajam em linha reta em um meio homogêneo. Então, as ondas de rádio emitidas na região litorânea do Brasil não alcançariam a região amazônica do Brasil por causa da curvatura da Terra. Entretanto sabemos que é possível transmitir ondas de rádio entre essas localidades devido à ionosfera.
-
-
-","
-
-
-Com ajuda da ionosfera, a transmissão de ondas planas entre o litoral do Brasil e a região amazônica é possível por meio da
-
-
-",        reflexão.      ,        refração.      ,        difração.      ,        polarização.      ,        interferência.      , ,
-10,52,"
-
-Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10°C de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.
-
-
-","
-
-
-O forno mais eficiente foi aquele que
-
-
-",        forneceu a maior quantidade de energia às amostras.      ,        cedeu energia à amostra de maior massa em mais tempo.      ,        forneceu a maior quantidade de energia em menos tempo.      ,        cedeu energia à amostra de menor calor específico mais lentamente.      ,        forneceu a menor quantidade de energia às amostras em menos tempo.      , ,
-11,47,"
-
-
-
-
-
-
-
-","
-
-
-Um farol usa uma lâmpada de gás halogênio de 55 W de potência que opera com 36 V. Os dois faróis são ligados separadamente, com um fusível para cada um, mas, após um mau funcionamento, o motorista passou a conectá-los em paralelo, usando apenas um fusível. Dessa forma, admitindo-se que a fiação suporte a carga dos dois faróis, o menor valor de fusível adequado para proteção desse novo circuito é o
-
-
-",        azul.      ,        preto.      ,        laranja.      ,        amarelo.      ,        vermelho.      , ,enem-data/enem-2010/47-images/context_img_0.png
-12,56,"
-
-
-A lavoura arrozeira na planície costeira da região sul do Brasil comumente sofre perdas elevadas devido a salinização da água de irrigação, que ocasiona prejuízos diretos, como a redução de produção da lavoura. Solos com processo de salinização avançado não são indicados, por exemplo, para o cultivo de arroz. As plantas retiram a água do solo quando as forças de embebição dos tecidos das raízes são superiores às forças com que a água é retida no solo.
-
-WINKEL, H.L.; TSCHIEDEL, M. Cultura do arroz: salinização de solos em cultivo do arroz.
-Disponível em: http://agropage.tripod.com/saliniza.hml. Acesso em: 25 jun. 2010 (adaptado).
-
-
-
-","
-
-
-A presença de sais na solução do solo faz com que seja dificultada a absorção de água pelas plantas, o que provoca o fenômeno conhecido por seca fisiológica, caracterizado pelo(a)
-
-
-","        aumento da salinidade, em que a água do solo atinge uma concentração de sais maior que a das células das raízes das plantas, impedindo, assim, que a água seja absorvida.      ","        aumento da salinidade, em que o solo atinge um nível muito baixo de água, e as plantas não tem força de sucção para absorver a água.      ","        diminuição da salinidade, que atinge um nível em que as plantas não têm força de sucção, fazendo com que a água não seja absorvida.      ","        aumento da salinidade, que atinge um nível em que as plantas têm muita sudação, não tendo força de sucção para superá-la.      ","        diminuição da salinidade, que atinge um nível em que as plantas ficam túrgidas e não têm força de sudação para superá-la.      ", ,
-13,53,"
-
-
-
-
-
-
-
-
-A aparência de Júpiter é tipicamente marcada por duas faixas escuras em sua atmosfera – uma no hemisfério norte e outra no hemisfério sul. Como o gás está constantemente em movimento, o desaparecimento da faixa no planeta relaciona-se ao movimento das diversas camadas de nuvens em sua atmosfera. A luz do Sol, refletida nessas nuvens, gera a imagem que é captada pelos telescópios, no espaço ou na Terra.
-
-
-","
-
-
-O desaparecimento da faixa sul pode ter sido determinado por uma alteração
-
-
-",        na temperatura da superfície do planeta.      ,        no formato da camada gasosa do planeta.      ,        no campo gravitacional gerado pelo planeta.      ,        na composição química das nuvens do planeta.      ,        na densidade das nuvens que compõem o planeta.      , ,enem-data/enem-2010/53-images/context_img_0.png
-14,59,"
-
-O despejo de dejetos de esgotos domésticos e industriais vem causando sérios problemas aos rios brasileiros. Esses poluentes são ricos em substâncias que contribuem para a eutrofização de ecossistemas, que é um enriquecimento da água por nutrientes, o que provoca um grande crescimento bacteriano e, por fim, pode promover escassez de oxigênio.
-
-
-","
-
-
-Uma maneira de evitar a diminuição da concentração de oxigênio no ambiente é:
-
-
-",        Aquecer as águas dos rios para aumentar a velocidade de decomposição dos dejetos.      ,        Retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios.      ,        Adicionar bactérias anaeróbicas às águas dos rios para que elas sobrevivam mesmo sem oxigênio.      ,        Substituir produtos não degradáveis por biodegradáveis para que as bactérias possam utilizar os nutrientes.      ,        Aumentar a solubilidade dos dejetos no esgoto para que os nutrientes fiquem mais acessíveis às bactérias.      , ,
-15,57,"
-
-As cidades industrializadas produzem grandes proporções de gases como o CO2. o principal gás causador de efeito estufa. Isso ocorre por causa da quantidade de combustíveis fósseis queimados, principalmente no transporte, mas também em caldeiras industriais. Além disso, nessas cidades concentram-se as maiores áreas com solos asfaltados e concretados, o que aumenta a retenção de calor, formando o que se conhece por “ilhas de calor”. Tal fenômeno ocorre porque esses materiais absorvem o calor e o devolvem para o ar sob a forma de radiação térmica.
-
-
-","
-
-
-Em áreas urbanas, devido à atuação conjunta do efeito estufa e das “ilhas de calor”, espera-se que o consumo de energia elétrica
-
-
-",        diminua devido a utilização de caldeiras por indústrias metalúrgicas.      ,        aumente devido ao bloqueio da luz do sol pelos gases do efeito estufa.      ,        diminua devido à não necessidade de aquecer a água utilizada em indústrias.      ,        aumente devido à necessidade de maior refrigeração de indústrias e residências.      ,        diminua devido à grande quantidade de radiação térmica reutilizada.      , ,
-16,67,"
-
-
-O abastecimento de nossas necessidades energéticas futuras dependerá certamente do desenvolvimento de tecnologias para aproveitar a energia solar com maior eficiência. A energia solar é a maior fonte de energia mundial. Num dia ensolarado, por exemplo, aproximadamente 1 kJ de energia solar atinge cada metro quadrado de superfície terrestre por segundo. No entanto, o aproveitamento dessa energia é difícil porque ela é diluída (distribuída por uma área muito extensa) e oscila com o horário e as condições climáticas. O uso efetivo da energia solar depende de formas de estocar a energia coletada para o uso posterior.
-BROWN, T. Química e Ciência Central. São Paulo: Pearson Prentice Hall, 2005.
-
-
-
-","
-
-
-Atualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH4(g)+ H2O(v) + calor ↔CO(g) + 3H2(g) e analisando-a como potencial mecanismo para aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia
-
-
-","        insatisfatória, pois a reação apresentada não permite que a energia presente no meio externo seja absorvida pelo sistema para ser utilizada posteriormente.      ","          insatisfatória, uma vez que há formação de gases poluentes e com potencial poder explosivo, tornando-a uma reação perigosa e de difícil controle.      ","        insatisfatória, uma vez que a a formação do gás CO que não possui conteúdo energético passível de ser aproveitado posteriormente e é considerado um gás poluente.      ","        satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para a obtenção de energia e realização de trabalho útil.      ","        satisfatória, uma vez que a reação direta ocorre com liberação de calor havendo ainda a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para a obtenção de energia a realização de trabalho útil.      ", ,
-17,63,"
+",        permite a entrada de calor do ambiente externo para o interior da seringa.      ,"        provoca, por atrito, um aquecimento da água contida na seringa.      ",        produz um aumento de volume que aumenta o ponto de ebulição da água.      ,        proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água.      ,        possibilita uma diminuição da densidade da água que facilita sua ebulição.      ,D,
+14,63,"
 
 
 As misturas efervescentes, em pó ou comprimidos, são comuns para a administração de vitamina C ou de medicamentos para azia. Essa forma farmacêutica sólida foi desenvolvida para facilitar o transporte, aumentar a estabilidade de substâncias e, quando em solução, acelerar a absorção do fármaco pelo organismo.
@@ -295,20 +246,57 @@ IV – H3A ↔ 3H+ + A−
 A ionização, a dissociação iônica, a formação do ácido e a liberação do gás ocorrem, respectivamente, nas seguintes etapas:
 
 
-","        IV, I, II e III.      ","        I, IV, III e II.      ","        IV, III, I e II.      ","        I, IV, II e III.      ","        IV, I, III e II.      ", ,
-18,64,"
+","        IV, I, II e III.      ","        I, IV, III e II.      ","        IV, III, I e II.      ","        I, IV, II e III.      ","        IV, I, III e II.      ",E,
+15,53,"
 
-Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausência de olhos.
+
+
+
+
+
+
+
+A aparência de Júpiter é tipicamente marcada por duas faixas escuras em sua atmosfera – uma no hemisfério norte e outra no hemisfério sul. Como o gás está constantemente em movimento, o desaparecimento da faixa no planeta relaciona-se ao movimento das diversas camadas de nuvens em sua atmosfera. A luz do Sol, refletida nessas nuvens, gera a imagem que é captada pelos telescópios, no espaço ou na Terra.
 
 
 ","
 
 
-Suponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamark. Ao adotar esse ponto de vista, ele diria que
+O desaparecimento da faixa sul pode ter sido determinado por uma alteração
 
 
-",        as características citadas no texto foram originadas pela seleção natural.      ,"        a ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso.      ","        o corpo anelado é uma característica fortemente adaptativa, mas transmitida apenas à primeira geração de descendentes.      ","        as patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitidas aos descendentes.      ","        as características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram.      ", ,
-19,68,"
+",        na temperatura da superfície do planeta.      ,        no formato da camada gasosa do planeta.      ,        no campo gravitacional gerado pelo planeta.      ,        na composição química das nuvens do planeta.      ,        na densidade das nuvens que compõem o planeta.      ,E,enem-data/enem-2010/53-images/context_img_0.png
+16,67,"
+
+
+O abastecimento de nossas necessidades energéticas futuras dependerá certamente do desenvolvimento de tecnologias para aproveitar a energia solar com maior eficiência. A energia solar é a maior fonte de energia mundial. Num dia ensolarado, por exemplo, aproximadamente 1 kJ de energia solar atinge cada metro quadrado de superfície terrestre por segundo. No entanto, o aproveitamento dessa energia é difícil porque ela é diluída (distribuída por uma área muito extensa) e oscila com o horário e as condições climáticas. O uso efetivo da energia solar depende de formas de estocar a energia coletada para o uso posterior.
+BROWN, T. Química e Ciência Central. São Paulo: Pearson Prentice Hall, 2005.
+
+
+
+","
+
+
+Atualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH4(g)+ H2O(v) + calor ↔CO(g) + 3H2(g) e analisando-a como potencial mecanismo para aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia
+
+
+","        insatisfatória, pois a reação apresentada não permite que a energia presente no meio externo seja absorvida pelo sistema para ser utilizada posteriormente.      ","          insatisfatória, uma vez que há formação de gases poluentes e com potencial poder explosivo, tornando-a uma reação perigosa e de difícil controle.      ","        insatisfatória, uma vez que a a formação do gás CO que não possui conteúdo energético passível de ser aproveitado posteriormente e é considerado um gás poluente.      ","        satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para a obtenção de energia e realização de trabalho útil.      ","        satisfatória, uma vez que a reação direta ocorre com liberação de calor havendo ainda a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para a obtenção de energia a realização de trabalho útil.      ",D,
+17,65,"
+
+
+
+
+
+
+
+","
+
+
+Com base no texto e na figura, a produção de energia elétrica por meio da célula a combustível hidrogênio/oxigênio diferencia-se dos processos convencionais porque
+
+
+","        transforma energia química em energia elétrica, sem causar danos ao meio ambiente, porque o principal subproduto formado é a água.      ","        converte a energia química contida nas moléculas dos componentes em energia térmica, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.      ","        transforma energia química em energia elétrica, porém emite gases poluentes da mesma forma que a produção de energia a partir dos combustíveis fósseis.      ","        converte energia elétrica proveniente dos combustíveis fósseis em energia química, retendo os gases poluentes produzidos no processo sem alterar a qualidade do meio ambiente.      ","        converte a energia potencial acumulada nas moléculas de água contidas no sistema em energia química, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.      ",A,enem-data/enem-2010/65-images/context_img_0.png
+18,68,"
 
 
 Todos os organismos necessitam de água e grande parte deles vive em rios, lagos e oceanos. Os processos biológicos, como respiração e fotossíntese, exercem profunda influência na química das águas naturais em todo o planeta. O oxigênio é ator dominante na química e na bioquímica da hidrosfera. Devido a sua baixa solubilidade em água (9,0 mg/l a 20 °C) a disponibilidade de oxigênio nos ecossistemas aquáticos estabelece o limite entre a vida aeróbica e anaeróbica. Nesse contexto, um parâmetro chamado Demanda Bioquímica de Oxigênio (DBO) foi definido para medir a quantidade de matéria orgânica presente em um sistema hídrico. A DBO corresponde à massa de O2 em miligramas necessárias para realizar a oxidação total do carbono orgânico em um litro de água.
@@ -323,8 +311,20 @@ Dados: Massas molares em g/mol: C = 12; H = 1; O = 16.
 Suponha que 10 mg de açúcar (fórmula mínima CH2O e massa molar a 30 g/mol) são dissolvidos em um litro de água; em quanto a DBO será aumentada?
 
 
-","        0,4 mg de O2/litro      ","        1,7 mg de O2/litro      ","        2,7 mg de O2/litro      ","        9,4 mg de O2/litro      ","        10,7 mg de O2/litro      ", ,
-20,65,"
+","        0,4 mg de O2/litro      ","        1,7 mg de O2/litro      ","        2,7 mg de O2/litro      ","        9,4 mg de O2/litro      ","        10,7 mg de O2/litro      ",E,
+19,64,"
+
+Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausência de olhos.
+
+
+","
+
+
+Suponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamark. Ao adotar esse ponto de vista, ele diria que
+
+
+",        as características citadas no texto foram originadas pela seleção natural.      ,"        a ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso.      ","        o corpo anelado é uma característica fortemente adaptativa, mas transmitida apenas à primeira geração de descendentes.      ","        as patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitidas aos descendentes.      ","        as características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram.      ",B,
+20,60,"
 
 
 
@@ -335,11 +335,27 @@ Suponha que 10 mg de açúcar (fórmula mínima CH2O e massa molar a 30 g/mol) s
 ","
 
 
-Com base no texto e na figura, a produção de energia elétrica por meio da célula a combustível hidrogênio/oxigênio diferencia-se dos processos convencionais porque
+A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado
 
 
-","        transforma energia química em energia elétrica, sem causar danos ao meio ambiente, porque o principal subproduto formado é a água.      ","        converte a energia química contida nas moléculas dos componentes em energia térmica, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.      ","        transforma energia química em energia elétrica, porém emite gases poluentes da mesma forma que a produção de energia a partir dos combustíveis fósseis.      ","        converte energia elétrica proveniente dos combustíveis fósseis em energia química, retendo os gases poluentes produzidos no processo sem alterar a qualidade do meio ambiente.      ","        converte a energia potencial acumulada nas moléculas de água contidas no sistema em energia química, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.      ", ,enem-data/enem-2010/65-images/context_img_0.png
-21,74,"
+",        pela circulação do magma no subsolo.      ,        pelas erupções constantes dos vulcões.      ,        pelo sol que aquece as águas com radiação ultravioleta.      ,        pela queima do carvão e combustível fósseis.      ,        pelos detritos e cinzas vulcânicas.      ,A,enem-data/enem-2010/60-images/context_img_0.png
+21,69,"
+
+
+O uso prolongado de lentes de contato, sobretudo durante a noite, aliado a condições precárias de higiene representam fatores de risco para o aparecimento de uma infecção denominada ceratite microbiana, que causa ulceração inflamatória na córnea. Para interromper o processo da doença, é necessário tratamento antibiótico. De modo geral, os fatores de risco provocam a diminuição da oxigenação corneana e determinam mudanças no seu metabolismo, de um estado aeróbico para anaeróbico. Como decorrência, observa-se a diminuição no número e na velocidade de mitoses do epitélio, o que predispõe ao aparecimento de defeitos epiteliais e à invasão bacteriana. 
+
+CRESTA, F. Lente de contato e infecção ocular. Revista Sinopse de Oftalmologia. São Paulo: Moreira Jr., v.04, n.04, 2002 (adaptado).
+
+
+
+","
+
+
+A instalação das bactérias e o avanço do processo infeccioso na córnea estão relacionados a algumas características gerais desses micro-organismos, tais como:
+
+
+","        A grande capacidade de adaptação, considerando as constantes mudanças no ambiente em que se reproduzem e o processo aeróbico como a melhor opção desses micro-organismos para a obtenção de energia.      ","        A grande capacidade de sofrer mutações, aumentando a probabilidade do aparecimento de formas resistentes e o processo anaeróbico da fermentação como a principal via de obtenção de energia.       ","        A diversidade morfológica entre as bactérias, aumentando a variedade de tipos de agentes infecciosos e a nutrição heterotrófica, como forma de esses micro-organismos obterem matéria-prima e energia.      ","        O alto poder de reprodução, aumentando a variabilidade genética dos milhares de indivíduos e a nutrição heterotrófica, como única forma de obtenção de matéria-prima e energia desses micro-organismos.      ","        O alto poder de reprodução, originando milhares de descendentes geneticamente idênticos entre si e a diversidade metabólica, considerando processos aeróbicos e anaeróbicos para a obtenção de energia.      ",E,
+22,74,"
 
 
 A eletrólise é muito empregada na indústria com o objetivo de reaproveitar parte dos metais sucateados. O cobre, por exemplo, é um dos metais com maior rendimento no processo de eletrólise, com uma recuperação de aproximadamente 99,9%. Por ser um metal de alto valor comercial e de múltiplas aplicações, sua recuperação torna-se viável economicamente.
@@ -353,8 +369,50 @@ Suponha que, em um processo de recuperação de cobre puro, tenha-se eletrolisad
 Dados: Constante de Faraday F = 96500C/mol; Massa molar em g/mol: Cu = 63,5
 
 
-","        0,02 g      ","        0,04 g      ","        2,40 g       ","        35,5 g      ","        71,0 g      ", ,
-22,66,"
+","        0,02 g      ","        0,04 g      ","        2,40 g       ","        35,5 g      ","        71,0 g      ",D,
+23,75,"
+
+Duas irmãs que dividem o mesmo quarto de estudos combinaram de comprar duas caixas com tampas para guardarem seus pertences dentro de suas caixas, evitando, assim, a bagunça sobre a mesa de estudos. Uma delas comprou uma metálica, e a outra, uma caixa de madeira de área e espessura lateral diferentes, para facilitar a identificação. Um dia as meninas foram estudar para a prova de Física e, ao se acomodarem na mesa de estudos, guardarem seus celulares ligados dentro de suas caixas. Ao longo desse dia, uma delas recebeu ligações telefônicas, enquanto os amigos da outra tentavam ligar e recebiam a mensagem de que o celular estava fora da área de cobertura ou desligado.
+
+
+","
+
+
+Para explicar essa situação, um físico deveria afirmar que o material da caixa, cujo telefone celular não recebeu as ligações é de
+
+
+","        madeira, e o telefone não funcionava porque a madeira não é um bom condutor de eletricidade.      ","        metal, e o telefone não funcionava devido à blindagem eletrostática que o metal proporcionava.      ","        metal, e o telefone não funcionava porque o metal refletia todo tipo de radiação que nele incidia.      ","        metal, e o telefone não funcionava porque a área lateral da caixa de metal era maior.      ","        madeira, e o telefone não funcionava porque a espessura desta caixa era maior que a espessura da caixa de metal.      ",B,
+24,70,"
+
+
+
+
+
+
+
+","
+
+
+Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?
+
+
+",        1.830 W.      ,        2.800 W.      ,        3.200 W.      ,        4.030 W.      ,        5.500 W.      ,A,enem-data/enem-2010/70-images/context_img_0.png
+25,71,"
+
+
+
+
+
+
+
+","
+
+
+Considere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar
+
+
+","        metanol, pois sua combustão completa fornece, aproximadamente, 22,7 kJ de energia por litro de combustível queimado.      ","        etanol, pois sua combustão completa fornece, aproximadamente, 29,7 kJ de energia por litro de combustível queimado.      ","        metanol, pois sua combustão completa fornece, aproximadamente, 17,9 MJ de energia por litro de combustível queimado.      ","        etanol, pois sua combustão completa fornece, aproximadamente, 23,5 MJ de energia por litro de combustível queimado.      ","        etanol, pois sua combustão completa fornece, aproximadamente, 33,7 MJ de energia por litro de combustível queimado.      ",D,enem-data/enem-2010/71-images/context_img_0.png
+26,66,"
 
 Para explicar a absorção de nutrientes, bem como a função das microvilosidades das membranas das células que revestem as paredes internas do intestino delgado, um estudante realizou o seguinte experimento:
 Colocou 200 ml de água em dois recipientes. No primeiro recipiente, mergulhou, por 5 segundos, um pedaço de papel liso, como na FIGURA 1; no segundo recipiente, fez o mesmo com um pedaço de papel com dobras simulando as microvilosidades, conforme FIGURA 2. Os dados obtidos foram: a quantidade de água absorvida pelo papel liso foi de 8 ml, enquanto pelo papel dobrado foi de 12 ml.
@@ -373,36 +431,54 @@ Colocou 200 ml de água em dois recipientes. No primeiro recipiente, mergulhou, 
 Com base nos dados obtidos, infere-se que a função das microvilosidades intestinais com relação à absorção de nutrientes pelas células das paredes internas do intestino é a de
 
 
-",        manter o volume de absorção.      ,        aumentar a superfície de absorção.      ,        diminuir a velocidade de absorção.      ,        aumentar o tempo da absorção.      ,        manter a seletividade na absorção.      , ,enem-data/enem-2010/66-images/context_img_0.png
-23,69,"
+",        manter o volume de absorção.      ,        aumentar a superfície de absorção.      ,        diminuir a velocidade de absorção.      ,        aumentar o tempo da absorção.      ,        manter a seletividade na absorção.      ,B,enem-data/enem-2010/66-images/context_img_0.png
+27,79,"
 
 
-O uso prolongado de lentes de contato, sobretudo durante a noite, aliado a condições precárias de higiene representam fatores de risco para o aparecimento de uma infecção denominada ceratite microbiana, que causa ulceração inflamatória na córnea. Para interromper o processo da doença, é necessário tratamento antibiótico. De modo geral, os fatores de risco provocam a diminuição da oxigenação corneana e determinam mudanças no seu metabolismo, de um estado aeróbico para anaeróbico. Como decorrência, observa-se a diminuição no número e na velocidade de mitoses do epitélio, o que predispõe ao aparecimento de defeitos epiteliais e à invasão bacteriana. 
+As mobilizações para promover um planeta melhor para as futuras gerações são cada vez frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200g de dióxido de carbono por km percorrido.
 
-CRESTA, F. Lente de contato e infecção ocular. Revista Sinopse de Oftalmologia. São Paulo: Moreira Jr., v.04, n.04, 2002 (adaptado).
+Revista Aquecimento Global. Ano 2, no 8. Publicação do Instituto Brasileiro de Cultura Ltda.
+
+
+
+","
+
+
+Um dos principais constituintes da gasolina é o octano (C8H18). Por meio da combustão do octano é possível a liberação de energia, permitindo que o carro entre em movimento. A equação que representa a reação química desse processo demonstra que
+
+
+","        no processo há liberação de oxigênio, sob a forma de O2 ",        o coeficiente estequiométrico para a água é de 8 para 1 do octano.      ,"         no processo há consumo de água, para que haja liberação de energia.      ","        o coeficiente estequiométrico para o oxigênio é de 12,5 para 1 do octano.      ",        o coeficiente estequiométrico para o gás carbônico é de 9 para 1 do octano      ,D,
+28,76,"
+
+
+Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade de Aedes aegypti geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem
+expressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas.
+
+FU, G. et al. Female-specific flightless phenotype for mosquito control.
+PNAS 107 (10): 4550-4554, 2010.
 
 
 
 ","
 
 
-A instalação das bactérias e o avanço do processo infeccioso na córnea estão relacionados a algumas características gerais desses micro-organismos, tais como:
+Prevê-se, porém, que a utilização dessa variedade de Aedes aegypti demore ainda anos para ser implementada, pois há demanda de muitos estudos com relação ao impacto ambiental. A liberação de machos de Aedes aegypti dessa variedade geneticamente modificada reduziria o número de casos de dengue em uma determinada região porque
 
 
-","        A grande capacidade de adaptação, considerando as constantes mudanças no ambiente em que se reproduzem e o processo aeróbico como a melhor opção desses micro-organismos para a obtenção de energia.      ","        A grande capacidade de sofrer mutações, aumentando a probabilidade do aparecimento de formas resistentes e o processo anaeróbico da fermentação como a principal via de obtenção de energia.       ","        A diversidade morfológica entre as bactérias, aumentando a variedade de tipos de agentes infecciosos e a nutrição heterotrófica, como forma de esses micro-organismos obterem matéria-prima e energia.      ","        O alto poder de reprodução, aumentando a variabilidade genética dos milhares de indivíduos e a nutrição heterotrófica, como única forma de obtenção de matéria-prima e energia desses micro-organismos.      ","        O alto poder de reprodução, originando milhares de descendentes geneticamente idênticos entre si e a diversidade metabólica, considerando processos aeróbicos e anaeróbicos para a obtenção de energia.      ", ,
-24,75,"
+",        diminuiria o sucesso reprodutivo desses machos transgênicos.      ,        restringiria a área geográfica de voo dessa espécie de mosquito.      ,        dificultaria a contaminação e reprodução do vetor natural da doença.      ,        tornaria o mosquito menos resistente ao agente etiológico da doença.      ,        dificultaria a obtenção de alimentos pelos machos geneticamente modificados.      ,C,
+29,83,"
 
-Duas irmãs que dividem o mesmo quarto de estudos combinaram de comprar duas caixas com tampas para guardarem seus pertences dentro de suas caixas, evitando, assim, a bagunça sobre a mesa de estudos. Uma delas comprou uma metálica, e a outra, uma caixa de madeira de área e espessura lateral diferentes, para facilitar a identificação. Um dia as meninas foram estudar para a prova de Física e, ao se acomodarem na mesa de estudos, guardarem seus celulares ligados dentro de suas caixas. Ao longo desse dia, uma delas recebeu ligações telefônicas, enquanto os amigos da outra tentavam ligar e recebiam a mensagem de que o celular estava fora da área de cobertura ou desligado.
+Durante uma obra em um clube, um grupo de trabalhadores teve de remover uma escultura de ferro maciço colocada no fundo de uma piscina vazia. Cinco trabalhadores amarraram cordas à escultura e tentaram puxá-la para cima, sem sucesso.
 
 
 ","
 
 
-Para explicar essa situação, um físico deveria afirmar que o material da caixa, cujo telefone celular não recebeu as ligações é de
+Se a piscina for preenchida com água, ficará mais fácil para os trabalhadores removerem a escultura, pois a
 
 
-","        madeira, e o telefone não funcionava porque a madeira não é um bom condutor de eletricidade.      ","        metal, e o telefone não funcionava devido à blindagem eletrostática que o metal proporcionava.      ","        metal, e o telefone não funcionava porque o metal refletia todo tipo de radiação que nele incidia.      ","        metal, e o telefone não funcionava porque a área lateral da caixa de metal era maior.      ","        madeira, e o telefone não funcionava porque a espessura desta caixa era maior que a espessura da caixa de metal.      ", ,
-25,72,"
+","        escultura flutuará, desta forma, os homens não precisarão fazer força para remover a escultura do fundo.      ","        escultura ficará como peso menor. Desta forma, a intensidade da força necessária para elevar a escultura será menor.      ","        água exercerá uma força na escultura proporcional a sua massa, e para cima. Esta força se somará à força que os trabalhadores fazem para anular a ação da força peso da escultura.      ","        água exercerá uma força na escultura para baixo, e esta passará a receber uma força ascendente do piso da piscina. Esta força ajudará a anular a ação da força peso na escultura.      ","        água exercerá uma força na escultura proporcional ao seu volume, e para cima. Esta força se somará à força que os trabalhadores fazem, podendo resultar em uma força ascendente maior que o peso da escultura.      ",E,
+30,72,"
 
 
 
@@ -416,8 +492,133 @@ Para explicar essa situação, um físico deveria afirmar que o material da caix
 O valor a ser pago pelo consumo de energia elétrica registrado seria de
 
 
-","        R$ 42,80.      ","        R$ 42,00.      ","        R$ 43,00.      ","        R$ 43,80.      ","        R$ 44,00.      ", ,enem-data/enem-2010/72-images/context_img_0.png
-26,77,"
+","        R$ 42,80.      ","        R$ 42,00.      ","        R$ 43,00.      ","        R$ 43,80.      ","        R$ 44,00.      ",E,enem-data/enem-2010/72-images/context_img_0.png
+31,73,"
+
+
+
+
+
+
+
+","
+
+
+O monofluoracetato de sódio pode ser obtido pela
+
+
+",        Desidratação do ácido monofluoracético com liberação de água.      ,        Hidrólise do ácido monofluoracético sem formação de água.      ,"        Perda de íons hidroxila do ácido monofluoracético, com liberação de hidróxido de sódio.      ","        Neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água.      ","        Substituição dos íons hidrogênio por sódio na estrutura do ácido monofluoracético, sem formação de água.      ",D,enem-data/enem-2010/73-images/context_img_0.png
+32,87,"
+
+Deseja-se instalar uma estação de geração de energia elétrica em um município localizado no interior de um pequeno vale cercado de altas montanhas de difícil acesso. A cidade é cruzada por um rio, que é fonte de água para consumo, irrigação das lavouras de subsistência e pesca. Na região, que possui pequena extensão territorial, a incidência solar é alta o ano todo. A estação em questão irá abastecer apenas o município apresentado.
+
+
+","
+
+
+Qual forma de obtenção de energia, entre as apresentadas, é a mais indicada para ser implantada nesse município de modo a causar o menor impacto ambiental?
+
+
+","        Termoelétrica, pois é possível utilizar a água do rio no sistema de refrigeração.      ","        Eólica, pois a geografia do local é própria para a captação desse tipo de energia.      ","        Nuclear, pois o modo de resfriamento de seus sistemas não afetariam a população.      ","        Fotovoltaica, pois é possível aproveitar a energia solar que chega à superfície do local.      ","        Hidrelétrica, pois o rio que corta o município é suficiente para abastecer a usina construída.      ",D,
+33,85,"
+
+
+Decisão de asfaltamento da rodovia MG-010, acompanha da introdução de espécies exóticas, e a prática de incêndios criminosos, ameaçam o sofisticado ecossistema do campo rupestre da reserva da Serra do Espinhaço. As plantas nativas desta região, altamente adaptadas a uma alta concentração de alumínio, que inibe o crescimento das raízes e dificultam a absorção de nutrientes e água, estão sendo substituídas por espécies invasoras que não teriam naturalmente adaptação para este ambiente, no entanto elas estão dominando as margens da rodovia, equivocadamente chamada de “estrada ecológica”.  Possivelmente a entrada de espécies de plantas exóticas neste ambiente foi provocada pelo uso, neste empreendimento, de um tipo de asfalto (cimento-solo), que possui uma mistura rica em cálcio, que causou modificações químicas aos solos adjacentes à rodovia MG-010.
+
+Scientific American. Brasil. Ano 7, nº 79. 2008 (adaptado).
+
+
+
+","
+
+
+Essa afirmação baseia-se no uso de cimento-solo, mistura rica em cálcio que
+
+
+","        inibe a toxicidade do alumínio, elevando o pH dessas áreas.      ","        inibe a toxicidade do alumínio, reduzindo o pH dessas áreas.      ","        aumenta a toxicidade do alumínio, elevando o pH dessas áreas.      ","        aumenta a toxicidade do alumínio, reduzindo o pH dessas áreas.      ","        neutraliza a toxicidade do alumínio, reduzindo o pH dessas áreas.      ",A,
+34,86,"
+
+
+O lixão que recebia 130 toneladas de lixo e contaminava a região com seu chorume (líquido derivado da decomposição de compostos orgânicos) foi recuperado, transformando-se em um aterro sanitário controlado, mudando a qualidade de vida e a paisagem e proporcionando condições dignas de trabalho para os que dele subsistiam.
+
+Revista Promoção da Saúde da Secretaria de Políticas da Saúde. Ano 1, nº 4, dez. 2000 (adaptado).
+
+
+
+","
+
+
+Quais procedimentos técnicos tornam o aterro sanitário mais vantajoso que o lixão, em relação às problemáticas abordadas no texto?
+
+
+",        O lixo é recolhido e incinerado pela combustão a altas temperaturas.      ,"        O lixo hospitalar é separado para ser enterrado e sobre ele, colocada cal virgem.      ","        O lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado.      ","        O lixo orgânico é completamente separado do lixo inorgânico, evitando a formação de chorume.      ","        O lixo industrial é separado e acondicionado de forma adequada, formando uma bolsa de resíduos.      ",C,
+35,89,"
+
+
+De 15% a 20% da área de um canavial precisa ser renovada anualmente. Entre o período de corte e o de plantação de novas canas, os produtores estão optando por plantar leguminosas, pois elas fixam nitrogênio no solo, um adubo natural para a cana. Essa opção de rotação é agronomicamente favorável, de forma que municípios canavieiros são hoje grandes produtores de soja, amendoim e feijão. 
+
+As encruzilhadas da fome. Planeta. São Paulo, ano 36, no 430, jul. 2008 (adaptado).
+
+
+
+","
+
+
+A rotação de culturas citada no texto pode beneficiar economicamente os produtores de cana porque
+
+
+",        a decomposição da cobertura morta dessas culturas resulta em economia na aquisição de adubos industrializados.      ,"        o plantio de cana-de-açúcar propicia um solo mais adequado para o cultivo posterior da soja, do amendoim e do feijão.      ","        as leguminosas absorvem do solo elementos químicos diferentes dos absorvidos pela cana, restabelecendo o equilíbrio do solo.      ","        a queima dos restos de vegetais do cultivo da cana-de-açúcar transforma-se em cinzas, sendo reincorporadas ao solo, o que gera economia na aquisição de adubo.      ","        a soja, o amendoim e o feijão, além de possibilitarem a incorporação ao solo de determinadas moléculas disponíveis na atmosfera, são grãos comercializados no mercado produtivo.      ",E,
+36,88,"
+
+
+Diversos comportamentos e funções fisiológicas do nosso corpo são periódicos, sendo assim, são classificados como ritmo biológico. Quando o ritmo biológico responde a um período aproximado de 24 horas, ele é denominado ritmo circadiano. Esse ritmo diário é mantido pelas pistas ambientais de claro-escuro e determina comportamentos como o ciclo do sono-vigília e o da alimentação. Uma pessoa, em condições normais, acorda às 8 h e vai dormir às 21 h, mantendo seu ciclo de sono dentro do ritmo dia e noite. Imagine que essa mesma pessoa tenha sido mantida numa sala totalmente escura por mais de quinze dias. Ao sair de lá, ela dormia às 18 h e acordava às 3 h da manhã. Além disso, dormia mais vezes durante o dia, por curtos períodos de tempo, e havia perdido a noção da contagem dos dias, pois, quando saiu, achou que havia passado muito mais tempo no escuro.
+
+Brandão, M. L. Psicofisiologia. São Paulo: Atheneu, 2000 (adaptado).
+
+
+
+","
+
+
+Em função das características observadas, conclui-se que a pessoa
+
+
+","        apresentou aumento do seu período de sono contínuo e passou a dormir durante o dia, pois seu ritmo biológico foi alterado apenas no período noturno.      ","        apresentou pouca alteração do seu ritmo circadiano, sendo que sua noção de tempo foi alterada somente pela sua falta de atenção à passagem do tempo.      ","        estava com seu ritmo já alterado antes de entrar na sala, o que significa que apenas progrediu para um estado mais avançado de perda do ritmo biológico no escuro.      ","        teve seu ritmo biológico alterado devido à ausência de luz e de contato com o mundo externo, no qual a noção de tempo de um dia é modulada pela presença ou ausência do sol.      ","        deveria não ter apresentado nenhuma mudança do seu período de sono porque, na realidade, continua com seu ritmo normal, independentemente do ambiente em que seja colocada.      ",D,
+37,81,"
+
+Ao colocar um pouco de açúcar ma água e mexer até a obtenção de uma só fase, prepara-se uma solução. O mesmo acontece ao se adicionar um pouquinho de sal à água e misturar bem. Uma substância capaz de dissolver o soluto é denominada solvente; por exemplo, a água é um solvente para o açúcar, para o sal e para várias outras substâncias. A figura a seguir ilustra essa citação.
+
+
+
+
+
+
+
+
+
+","
+
+
+Suponha que uma pessoa, para adoçar seu cafezinho, tenha utilizado 3,42 g de sacarose (massa molar igual a 342 g/mol) para uma xícara de 50 mℓ do líquido. Qual é a concentração final em mol/ℓ de sacarose nesse cafezinho?
+
+
+","        0,02      ","        0,2      ",        2      ,        200      ,        2000      ,B,enem-data/enem-2010/81-images/context_img_0.png
+38,78,"
+
+
+
+
+
+
+
+","
+
+
+Segundo as condições do processo apresentado para a obtenção de carbonato de chumbo (II) por meio da lixiviação por carbonato de sódio e considerando uma massa de pasta residual de uma bateria de 6 kg, qual quantidade aproximada, em quilogramas, de PbCO3 é obtida?
+
+
+","        1,7 kg.      ","        1,9 Kg.      ","        2,9 Kg.      ","        3,3 Kg.      ","        3,6 Kg.      ",C,enem-data/enem-2010/78-images/context_img_0.png
+39,77,"
 
 
 
@@ -445,146 +646,8 @@ Disponível em: http://educacao.uol.com.br/ciencias/ult1686u52.jhtm. Acesso em: 
 Os trechos I, II, III e IV referem-se, pela ordem, aos seguintes ecossistemas:
 
 
-","        Caatinga, Cerrado, Zona dos Cocais e Floresta Amazônica.      ","        Mata de Araucárias, Cerrado, Zona dos Cocais e Caatinga.      ","        Manguezais, Zona dos Cocais, Cerrado e Mata Atlântica.      ","        Floresta Amazônica, Cerrado, Mata Atlântica e Pampas.      ","        Mata Atlântica, Cerrado, Zona dos Cocais e Pantanal.      ", ,enem-data/enem-2010/77-images/context_img_0.png
-27,76,"
-
-
-Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade de Aedes aegypti geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem
-expressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas.
-
-FU, G. et al. Female-specific flightless phenotype for mosquito control.
-PNAS 107 (10): 4550-4554, 2010.
-
-
-
-","
-
-
-Prevê-se, porém, que a utilização dessa variedade de Aedes aegypti demore ainda anos para ser implementada, pois há demanda de muitos estudos com relação ao impacto ambiental. A liberação de machos de Aedes aegypti dessa variedade geneticamente modificada reduziria o número de casos de dengue em uma determinada região porque
-
-
-",        diminuiria o sucesso reprodutivo desses machos transgênicos.      ,        restringiria a área geográfica de voo dessa espécie de mosquito.      ,        dificultaria a contaminação e reprodução do vetor natural da doença.      ,        tornaria o mosquito menos resistente ao agente etiológico da doença.      ,        dificultaria a obtenção de alimentos pelos machos geneticamente modificados.      , ,
-28,78,"
-
-
-
-
-
-
-
-","
-
-
-Segundo as condições do processo apresentado para a obtenção de carbonato de chumbo (II) por meio da lixiviação por carbonato de sódio e considerando uma massa de pasta residual de uma bateria de 6 kg, qual quantidade aproximada, em quilogramas, de PbCO3 é obtida?
-
-
-","        1,7 kg.      ","        1,9 Kg.      ","        2,9 Kg.      ","        3,3 Kg.      ","        3,6 Kg.      ", ,enem-data/enem-2010/78-images/context_img_0.png
-29,73,"
-
-
-
-
-
-
-
-","
-
-
-O monofluoracetato de sódio pode ser obtido pela
-
-
-",        Desidratação do ácido monofluoracético com liberação de água.      ,        Hidrólise do ácido monofluoracético sem formação de água.      ,"        Perda de íons hidroxila do ácido monofluoracético, com liberação de hidróxido de sódio.      ","        Neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água.      ","        Substituição dos íons hidrogênio por sódio na estrutura do ácido monofluoracético, sem formação de água.      ", ,enem-data/enem-2010/73-images/context_img_0.png
-30,86,"
-
-
-O lixão que recebia 130 toneladas de lixo e contaminava a região com seu chorume (líquido derivado da decomposição de compostos orgânicos) foi recuperado, transformando-se em um aterro sanitário controlado, mudando a qualidade de vida e a paisagem e proporcionando condições dignas de trabalho para os que dele subsistiam.
-
-Revista Promoção da Saúde da Secretaria de Políticas da Saúde. Ano 1, nº 4, dez. 2000 (adaptado).
-
-
-
-","
-
-
-Quais procedimentos técnicos tornam o aterro sanitário mais vantajoso que o lixão, em relação às problemáticas abordadas no texto?
-
-
-",        O lixo é recolhido e incinerado pela combustão a altas temperaturas.      ,"        O lixo hospitalar é separado para ser enterrado e sobre ele, colocada cal virgem.      ","        O lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado.      ","        O lixo orgânico é completamente separado do lixo inorgânico, evitando a formação de chorume.      ","        O lixo industrial é separado e acondicionado de forma adequada, formando uma bolsa de resíduos.      ", ,
-31,85,"
-
-
-Decisão de asfaltamento da rodovia MG-010, acompanha da introdução de espécies exóticas, e a prática de incêndios criminosos, ameaçam o sofisticado ecossistema do campo rupestre da reserva da Serra do Espinhaço. As plantas nativas desta região, altamente adaptadas a uma alta concentração de alumínio, que inibe o crescimento das raízes e dificultam a absorção de nutrientes e água, estão sendo substituídas por espécies invasoras que não teriam naturalmente adaptação para este ambiente, no entanto elas estão dominando as margens da rodovia, equivocadamente chamada de “estrada ecológica”.  Possivelmente a entrada de espécies de plantas exóticas neste ambiente foi provocada pelo uso, neste empreendimento, de um tipo de asfalto (cimento-solo), que possui uma mistura rica em cálcio, que causou modificações químicas aos solos adjacentes à rodovia MG-010.
-
-Scientific American. Brasil. Ano 7, nº 79. 2008 (adaptado).
-
-
-
-","
-
-
-Essa afirmação baseia-se no uso de cimento-solo, mistura rica em cálcio que
-
-
-","        inibe a toxicidade do alumínio, elevando o pH dessas áreas.      ","        inibe a toxicidade do alumínio, reduzindo o pH dessas áreas.      ","        aumenta a toxicidade do alumínio, elevando o pH dessas áreas.      ","        aumenta a toxicidade do alumínio, reduzindo o pH dessas áreas.      ","        neutraliza a toxicidade do alumínio, reduzindo o pH dessas áreas.      ", ,
-32,70,"
-
-
-
-
-
-
-
-","
-
-
-Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?
-
-
-",        1.830 W.      ,        2.800 W.      ,        3.200 W.      ,        4.030 W.      ,        5.500 W.      , ,enem-data/enem-2010/70-images/context_img_0.png
-33,83,"
-
-Durante uma obra em um clube, um grupo de trabalhadores teve de remover uma escultura de ferro maciço colocada no fundo de uma piscina vazia. Cinco trabalhadores amarraram cordas à escultura e tentaram puxá-la para cima, sem sucesso.
-
-
-","
-
-
-Se a piscina for preenchida com água, ficará mais fácil para os trabalhadores removerem a escultura, pois a
-
-
-","        escultura flutuará, desta forma, os homens não precisarão fazer força para remover a escultura do fundo.      ","        escultura ficará como peso menor. Desta forma, a intensidade da força necessária para elevar a escultura será menor.      ","        água exercerá uma força na escultura proporcional a sua massa, e para cima. Esta força se somará à força que os trabalhadores fazem para anular a ação da força peso da escultura.      ","        água exercerá uma força na escultura para baixo, e esta passará a receber uma força ascendente do piso da piscina. Esta força ajudará a anular a ação da força peso na escultura.      ","        água exercerá uma força na escultura proporcional ao seu volume, e para cima. Esta força se somará à força que os trabalhadores fazem, podendo resultar em uma força ascendente maior que o peso da escultura.      ", ,
-34,71,"
-
-
-
-
-
-
-
-","
-
-
-Considere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar
-
-
-","        metanol, pois sua combustão completa fornece, aproximadamente, 22,7 kJ de energia por litro de combustível queimado.      ","        etanol, pois sua combustão completa fornece, aproximadamente, 29,7 kJ de energia por litro de combustível queimado.      ","        metanol, pois sua combustão completa fornece, aproximadamente, 17,9 MJ de energia por litro de combustível queimado.      ","        etanol, pois sua combustão completa fornece, aproximadamente, 23,5 MJ de energia por litro de combustível queimado.      ","        etanol, pois sua combustão completa fornece, aproximadamente, 33,7 MJ de energia por litro de combustível queimado.      ", ,enem-data/enem-2010/71-images/context_img_0.png
-35,79,"
-
-
-As mobilizações para promover um planeta melhor para as futuras gerações são cada vez frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200g de dióxido de carbono por km percorrido.
-
-Revista Aquecimento Global. Ano 2, no 8. Publicação do Instituto Brasileiro de Cultura Ltda.
-
-
-
-","
-
-
-Um dos principais constituintes da gasolina é o octano (C8H18). Por meio da combustão do octano é possível a liberação de energia, permitindo que o carro entre em movimento. A equação que representa a reação química desse processo demonstra que
-
-
-","        no processo há liberação de oxigênio, sob a forma de O2 ",        o coeficiente estequiométrico para a água é de 8 para 1 do octano.      ,"         no processo há consumo de água, para que haja liberação de energia.      ","        o coeficiente estequiométrico para o oxigênio é de 12,5 para 1 do octano.      ",        o coeficiente estequiométrico para o gás carbônico é de 9 para 1 do octano      , ,
-36,82,"
+","        Caatinga, Cerrado, Zona dos Cocais e Floresta Amazônica.      ","        Mata de Araucárias, Cerrado, Zona dos Cocais e Caatinga.      ","        Manguezais, Zona dos Cocais, Cerrado e Mata Atlântica.      ","        Floresta Amazônica, Cerrado, Mata Atlântica e Pampas.      ","        Mata Atlântica, Cerrado, Zona dos Cocais e Pantanal.      ",B,enem-data/enem-2010/77-images/context_img_0.png
+40,82,"
 
 As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns uma vez que uma considerável quantidade de cádmio é volatilizada e emitida para o meio ambiente quando as baterias gastas são incineradas como componente do lixo. Com o objetivo de evitar a emissão de cádmio para a atmosfera durante a combustão é indicada que seja feita a reciclagem dos materiais dessas baterias.
 
@@ -621,103 +684,8 @@ O gráfico mostra resultado de extração utilizando os solventes orgânicos X e
 A reação descrita no texto mostra o processo de extração dos metais por meio da reação com moléculas orgânicas, X e Y. Considerando-se as estruturas de X e Y e o processo de separação descrito, pode-se afirmar que
 
 
-",        as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon H+ pelo cátion do metal.      ,        as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon H+ pelo cátion do metal.      ,        as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon PO2-2 pelo cátion do metal.      ,        as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon PO2-2 pelo cátion do metal.      ,        as moléculas X e Y fazem ligações com os ions metálicos resultando em compostos com caráter apolar o que justifica a eficácia da extração.      , ,"enem-data/enem-2010/82-images/context_img_0.png,enem-data/enem-2010/82-images/context_img_1.png"
-37,87,"
-
-Deseja-se instalar uma estação de geração de energia elétrica em um município localizado no interior de um pequeno vale cercado de altas montanhas de difícil acesso. A cidade é cruzada por um rio, que é fonte de água para consumo, irrigação das lavouras de subsistência e pesca. Na região, que possui pequena extensão territorial, a incidência solar é alta o ano todo. A estação em questão irá abastecer apenas o município apresentado.
-
-
-","
-
-
-Qual forma de obtenção de energia, entre as apresentadas, é a mais indicada para ser implantada nesse município de modo a causar o menor impacto ambiental?
-
-
-","        Termoelétrica, pois é possível utilizar a água do rio no sistema de refrigeração.      ","        Eólica, pois a geografia do local é própria para a captação desse tipo de energia.      ","        Nuclear, pois o modo de resfriamento de seus sistemas não afetariam a população.      ","        Fotovoltaica, pois é possível aproveitar a energia solar que chega à superfície do local.      ","        Hidrelétrica, pois o rio que corta o município é suficiente para abastecer a usina construída.      ", ,
-38,81,"
-
-Ao colocar um pouco de açúcar ma água e mexer até a obtenção de uma só fase, prepara-se uma solução. O mesmo acontece ao se adicionar um pouquinho de sal à água e misturar bem. Uma substância capaz de dissolver o soluto é denominada solvente; por exemplo, a água é um solvente para o açúcar, para o sal e para várias outras substâncias. A figura a seguir ilustra essa citação.
-
-
-
-
-
-
-
-
-
-","
-
-
-Suponha que uma pessoa, para adoçar seu cafezinho, tenha utilizado 3,42 g de sacarose (massa molar igual a 342 g/mol) para uma xícara de 50 mℓ do líquido. Qual é a concentração final em mol/ℓ de sacarose nesse cafezinho?
-
-
-","        0,02      ","        0,2      ",        2      ,        200      ,        2000      , ,enem-data/enem-2010/81-images/context_img_0.png
-39,88,"
-
-
-Diversos comportamentos e funções fisiológicas do nosso corpo são periódicos, sendo assim, são classificados como ritmo biológico. Quando o ritmo biológico responde a um período aproximado de 24 horas, ele é denominado ritmo circadiano. Esse ritmo diário é mantido pelas pistas ambientais de claro-escuro e determina comportamentos como o ciclo do sono-vigília e o da alimentação. Uma pessoa, em condições normais, acorda às 8 h e vai dormir às 21 h, mantendo seu ciclo de sono dentro do ritmo dia e noite. Imagine que essa mesma pessoa tenha sido mantida numa sala totalmente escura por mais de quinze dias. Ao sair de lá, ela dormia às 18 h e acordava às 3 h da manhã. Além disso, dormia mais vezes durante o dia, por curtos períodos de tempo, e havia perdido a noção da contagem dos dias, pois, quando saiu, achou que havia passado muito mais tempo no escuro.
-
-Brandão, M. L. Psicofisiologia. São Paulo: Atheneu, 2000 (adaptado).
-
-
-
-","
-
-
-Em função das características observadas, conclui-se que a pessoa
-
-
-","        apresentou aumento do seu período de sono contínuo e passou a dormir durante o dia, pois seu ritmo biológico foi alterado apenas no período noturno.      ","        apresentou pouca alteração do seu ritmo circadiano, sendo que sua noção de tempo foi alterada somente pela sua falta de atenção à passagem do tempo.      ","        estava com seu ritmo já alterado antes de entrar na sala, o que significa que apenas progrediu para um estado mais avançado de perda do ritmo biológico no escuro.      ","        teve seu ritmo biológico alterado devido à ausência de luz e de contato com o mundo externo, no qual a noção de tempo de um dia é modulada pela presença ou ausência do sol.      ","        deveria não ter apresentado nenhuma mudança do seu período de sono porque, na realidade, continua com seu ritmo normal, independentemente do ambiente em que seja colocada.      ", ,
-40,80,"
-
-
-Um grupo de cientistas liderado por pesquisadores do instituto de Tecnologia da Califórnia (Caltech), nos Estados Unidos, construiu o primeiro metamaterial que apresenta valor negativo do índice de refração relativo para a luz visível. Denomina-se metamaterial um material óptico artificial, tridimensional, formado por pequenas estruturas menores do que o comprimento de onda da luz, o que lhe dá propriedades e comportamentos que não são encontrados em materiais naturais. Esse material tem sido chamado de “canhoto”.
-
-Disponível em: http://www.invocaçãotecnologica.com.br. Acesso em: 28 abr. (adaptado).
-
-
-
-","
-
-
-Considerando o comportamento atípico desse metamaterial, qual é a figura que representa a refração da luz ao passar do ar para esse meio?
-
-
-",enem-data/enem-2010/80-images/alt_img_0.png,enem-data/enem-2010/80-images/alt_img_1.png,enem-data/enem-2010/80-images/alt_img_2.png,enem-data/enem-2010/80-images/alt_img_3.png,enem-data/enem-2010/80-images/alt_img_4.png, ,
-41,84,"
-
-
-Os pesticidas modernos são divididos em várias classes, entre as quais se destacam os organofosforados, materiais que apresentam efeito tóxico agudo para os seres humanos. Esses pesticidas contêm um átomo central de fósforo ao qual estão ligados outros átomos ou grupo de átomos como oxigênio, enxofre, grupos metoxi ou etoxi ou um radical orgânico de cadeia longa. Os organofosforados são divididos em três subclasses: Tipo A, na qual o enxofre não se incorpora na molácula; Tipo B, na qual o oxigênio, que faz dupla ligação com fósforo, é substituído pelo enxofre; e Tipo C, no qual dois oxigênios são substituídos por enxofre.
-
-BAIRD, C. Química Ambiental. Bookmam. 2005.
-
-
-
-","
-
-
-Um exemplo de pesticida organofosforado Tipo B, que apresenta grupo etoxi em sua fórmula estrutural, está representado em:
-
-
-",enem-data/enem-2010/84-images/alt_img_0.png,enem-data/enem-2010/84-images/alt_img_1.png,enem-data/enem-2010/84-images/alt_img_2.png,enem-data/enem-2010/84-images/alt_img_3.png,enem-data/enem-2010/84-images/alt_img_4.png, ,
-42,89,"
-
-
-De 15% a 20% da área de um canavial precisa ser renovada anualmente. Entre o período de corte e o de plantação de novas canas, os produtores estão optando por plantar leguminosas, pois elas fixam nitrogênio no solo, um adubo natural para a cana. Essa opção de rotação é agronomicamente favorável, de forma que municípios canavieiros são hoje grandes produtores de soja, amendoim e feijão. 
-
-As encruzilhadas da fome. Planeta. São Paulo, ano 36, no 430, jul. 2008 (adaptado).
-
-
-
-","
-
-
-A rotação de culturas citada no texto pode beneficiar economicamente os produtores de cana porque
-
-
-",        a decomposição da cobertura morta dessas culturas resulta em economia na aquisição de adubos industrializados.      ,"        o plantio de cana-de-açúcar propicia um solo mais adequado para o cultivo posterior da soja, do amendoim e do feijão.      ","        as leguminosas absorvem do solo elementos químicos diferentes dos absorvidos pela cana, restabelecendo o equilíbrio do solo.      ","        a queima dos restos de vegetais do cultivo da cana-de-açúcar transforma-se em cinzas, sendo reincorporadas ao solo, o que gera economia na aquisição de adubo.      ","        a soja, o amendoim e o feijão, além de possibilitarem a incorporação ao solo de determinadas moléculas disponíveis na atmosfera, são grãos comercializados no mercado produtivo.      ", ,
-43,90,"
+",        as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon H+ pelo cátion do metal.      ,        as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon H+ pelo cátion do metal.      ,        as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon PO2-2 pelo cátion do metal.      ,        as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon PO2-2 pelo cátion do metal.      ,        as moléculas X e Y fazem ligações com os ions metálicos resultando em compostos com caráter apolar o que justifica a eficácia da extração.      ,A,"enem-data/enem-2010/82-images/context_img_0.png,enem-data/enem-2010/82-images/context_img_1.png"
+41,90,"
 
 
 
@@ -735,4 +703,36 @@ Três dos quatro tipos de testes atualmente empregados para a detecção de prí
 Analisando os testes I, II e III, para a detecção de príons patogênicos, identifique as condições em que os resultados foram positivos para a presença de príons nos três testes:
 
 
-","        Animal A, lâmina B e gel A.      ","        Animal A, lâmina A e gel B.      ","        Animal B, lâmina A e gel B.      ","        Animal B, lâmina B e gel A.      ","        Animal A, lâmina B e gel B.      ", ,enem-data/enem-2010/90-images/context_img_0.png
+","        Animal A, lâmina B e gel A.      ","        Animal A, lâmina A e gel B.      ","        Animal B, lâmina A e gel B.      ","        Animal B, lâmina B e gel A.      ","        Animal A, lâmina B e gel B.      ",C,enem-data/enem-2010/90-images/context_img_0.png
+42,84,"
+
+
+Os pesticidas modernos são divididos em várias classes, entre as quais se destacam os organofosforados, materiais que apresentam efeito tóxico agudo para os seres humanos. Esses pesticidas contêm um átomo central de fósforo ao qual estão ligados outros átomos ou grupo de átomos como oxigênio, enxofre, grupos metoxi ou etoxi ou um radical orgânico de cadeia longa. Os organofosforados são divididos em três subclasses: Tipo A, na qual o enxofre não se incorpora na molácula; Tipo B, na qual o oxigênio, que faz dupla ligação com fósforo, é substituído pelo enxofre; e Tipo C, no qual dois oxigênios são substituídos por enxofre.
+
+BAIRD, C. Química Ambiental. Bookmam. 2005.
+
+
+
+","
+
+
+Um exemplo de pesticida organofosforado Tipo B, que apresenta grupo etoxi em sua fórmula estrutural, está representado em:
+
+
+",enem-data/enem-2010/84-images/alt_img_0.png,enem-data/enem-2010/84-images/alt_img_1.png,enem-data/enem-2010/84-images/alt_img_2.png,enem-data/enem-2010/84-images/alt_img_3.png,enem-data/enem-2010/84-images/alt_img_4.png,E,
+43,80,"
+
+
+Um grupo de cientistas liderado por pesquisadores do instituto de Tecnologia da Califórnia (Caltech), nos Estados Unidos, construiu o primeiro metamaterial que apresenta valor negativo do índice de refração relativo para a luz visível. Denomina-se metamaterial um material óptico artificial, tridimensional, formado por pequenas estruturas menores do que o comprimento de onda da luz, o que lhe dá propriedades e comportamentos que não são encontrados em materiais naturais. Esse material tem sido chamado de “canhoto”.
+
+Disponível em: http://www.invocaçãotecnologica.com.br. Acesso em: 28 abr. (adaptado).
+
+
+
+","
+
+
+Considerando o comportamento atípico desse metamaterial, qual é a figura que representa a refração da luz ao passar do ar para esse meio?
+
+
+",enem-data/enem-2010/80-images/alt_img_0.png,enem-data/enem-2010/80-images/alt_img_1.png,enem-data/enem-2010/80-images/alt_img_2.png,enem-data/enem-2010/80-images/alt_img_3.png,enem-data/enem-2010/80-images/alt_img_4.png,D,

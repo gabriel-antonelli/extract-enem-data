@@ -1,42 +1,5 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,141,"
-
-
-Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos.
-Cinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6 000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados.
-
-Disponível em: http://www1.folha.uol.com.br. Acesso em: 21 abr. 2010 (adaptado).
-
-
-
-
-Considere que 1 metro equivale a aproximadamente 3,3 pés.
-
-
-","
-
-
-Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos?
-
-
-",        3 390 pés      ,        9 390 pés      ,        11 200 pés      ,        19 800 pés      ,        50 800 pés      , ,
-1,155,"
-
-
-O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.
-
-Disponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
-
-
-
-","
-
-
-Considerando-se que y e x representam, respectivamente, as quantidades de trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o segundo, e assim por diante, a expressão algébrica que relaciona essas quantidades nesses meses é
-
-
-",        y = 4 300x      ,        y = 884 905x      ,        y = 872 005 + 4 300x      ,        y = 876 305 + 4 300x      ,        y = 880 605 + 4 300x      , ,
-2,143,"
+0,143,"
 
 
 Sabe-se que a distância real, em linha reta, de uma cidade A, localizada no estado de São Paulo, a uma cidade B, localizada no estado de Alagoas, é igual a 2 000 km. Um estudante, ao analisar um mapa, verificou com sua régua que a distância entre essas duas cidades, A e B, era 8 cm.
@@ -49,62 +12,8 @@ Sabe-se que a distância real, em linha reta, de uma cidade A, localizada no est
 Os dados nos indicam que o mapa observado pelo estudante está na escala de
 
 
-",        1 : 250.      ,        1 : 2 500.      ,        1 : 25 000.      ,        1 : 250 000.      ,        1 : 25 000 000.      , ,
-3,147,"
-
-
-
-Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.
-
-
-
-
-","
-
-
-Que medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete?
-
-
-","        4,8 e 11,2      ","        7,0 e 3,0      ","        11,2 e 4,8      ","        28,0 e 12,0      ","        30,0 e 70,0      ", ,
-4,142,"
-
-
-
-
-
-
-
-","
-
-
-Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno.
-
-
-",        1.      ,        2.      ,        3.      ,        4.      ,        5.      , ,enem-data/enem-2011/142-images/context_img_0.png
-5,137,"
-
-
-
-
-
-
-
-
-
-
-A medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.
-
-
-
-
-","
-
-
-O número obtido pela leitura em kWh, na imagem, é
-
-
-",        2 614.      ,        2 624.      ,        2 715.      ,        2 725.      ,        4 162.      , ,enem-data/enem-2011/137-images/context_img_0.png
-6,138,"
+",        1 : 250.      ,        1 : 2 500.      ,        1 : 25 000.      ,        1 : 250 000.      ,        1 : 25 000 000.      ,E,
+1,138,"
 
 
 
@@ -119,53 +28,8 @@ Para colocar o pistão no motor que está sendo consertado, o dono da oficina te
 Nessa condição, o dono da oficina deverá comprar o pistão de diâmetro
 
 
-","        68,21 mm.      ","        68,102 mm.      ","        68,02 mm.      ","        68,012 mm.      ","        68,001 mm.      ", ,
-7,144,"
-
-
-
-
-
-
-
-
-
-Os pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas AD, BC, AB e CD, nessa ordem. Após os cortes, são descartados quatro sólidos.
-
-
-
-","
-
-
-Os formatos dos sólidos descartados são
-
-
-",        todos iguais.      ,        todos diferentes.      ,        três iguais e um diferente.      ,        apenas dois iguais.      ,        iguais dois a dois.      , ,enem-data/enem-2011/144-images/context_img_0.png
-8,145,"
-
-
-O consumo atingiu o maior nível da história no ano passado: os brasileiros beberam o equivalente a 331 bilhões de xícaras.
-
-Veja. Ed. 2158, 31 mar. 2010.
-
-
-
-
-
-Considere que a xícara citada na notícia seja equivalente a, aproximadamente, 120 mL de café. Suponha que em 2010 os brasileiros bebam ainda mais café, aumentando o consumo em 1/5 do que foi consumido no ano anterior.
- 
-
-
-
-","
-
-
-De acordo com essas informações, qual a previsão mais aproximada para consumo de café em 2010?
- 
-
-
-",        8 bilhões de litros.      ,        16 bilhões de litros.      ,        32 bilhões de litros.      ,        40 bilhões de litros.      ,        48 bilhões de litros.      , ,
-9,146,"
+","        68,21 mm.      ","        68,102 mm.      ","        68,02 mm.      ","        68,012 mm.      ","        68,001 mm.      ",E,
+2,146,"
 
 
 
@@ -198,8 +62,193 @@ Uma pessoa deseja executar essas atividades, porém, ajustando o tempo para que,
 A partir dos ajustes, quanto tempo a mais será necessário para realizar todas as atividades?
 
 
-",        50 minutos.      ,        60 minutos.      ,        80 minutos.      ,        120 minutos.      ,        170 minutos.      , ,
-10,139,"
+",        50 minutos.      ,        60 minutos.      ,        80 minutos.      ,        120 minutos.      ,        170 minutos.      ,B,
+3,145,"
+
+
+O consumo atingiu o maior nível da história no ano passado: os brasileiros beberam o equivalente a 331 bilhões de xícaras.
+
+Veja. Ed. 2158, 31 mar. 2010.
+
+
+
+
+
+Considere que a xícara citada na notícia seja equivalente a, aproximadamente, 120 mL de café. Suponha que em 2010 os brasileiros bebam ainda mais café, aumentando o consumo em 1/5 do que foi consumido no ano anterior.
+ 
+
+
+
+","
+
+
+De acordo com essas informações, qual a previsão mais aproximada para consumo de café em 2010?
+ 
+
+
+",        8 bilhões de litros.      ,        16 bilhões de litros.      ,        32 bilhões de litros.      ,        40 bilhões de litros.      ,        48 bilhões de litros.      ,E,
+4,147,"
+
+
+
+Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.
+
+
+
+
+","
+
+
+Que medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete?
+
+
+","        4,8 e 11,2      ","        7,0 e 3,0      ","        11,2 e 4,8      ","        28,0 e 12,0      ","        30,0 e 70,0      ",C,
+5,155,"
+
+
+O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.
+
+Disponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
+
+
+
+","
+
+
+Considerando-se que y e x representam, respectivamente, as quantidades de trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o segundo, e assim por diante, a expressão algébrica que relaciona essas quantidades nesses meses é
+
+
+",        y = 4 300x      ,        y = 884 905x      ,        y = 872 005 + 4 300x      ,        y = 876 305 + 4 300x      ,        y = 880 605 + 4 300x      ,C,
+6,148,"
+
+
+
+
+
+
+
+","
+
+
+Em relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a
+
+
+","        17°C, 17°C e 13,5°C.      ","        17°C, 18°C e 13,5°C.      ","        17°C, 13,5°C e 18°C.      ","        17°C, 18°C e 21,5°C.      ","        17°C, 13,5°C e 21,5°C.      ",B,enem-data/enem-2011/148-images/context_img_0.png
+7,137,"
+
+
+
+
+
+
+
+
+
+
+A medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.
+
+
+
+
+","
+
+
+O número obtido pela leitura em kWh, na imagem, é
+
+
+",        2 614.      ,        2 624.      ,        2 715.      ,        2 725.      ,        4 162.      ,A,enem-data/enem-2011/137-images/context_img_0.png
+8,141,"
+
+
+Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos.
+Cinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6 000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados.
+
+Disponível em: http://www1.folha.uol.com.br. Acesso em: 21 abr. 2010 (adaptado).
+
+
+
+
+Considere que 1 metro equivale a aproximadamente 3,3 pés.
+
+
+","
+
+
+Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos?
+
+
+",        3 390 pés      ,        9 390 pés      ,        11 200 pés      ,        19 800 pés      ,        50 800 pés      ,C,
+9,142,"
+
+
+
+
+
+
+
+","
+
+
+Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno.
+
+
+",        1.      ,        2.      ,        3.      ,        4.      ,        5.      ,C,enem-data/enem-2011/142-images/context_img_0.png
+10,144,"
+
+
+
+
+
+
+
+
+
+Os pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas AD, BC, AB e CD, nessa ordem. Após os cortes, são descartados quatro sólidos.
+
+
+
+","
+
+
+Os formatos dos sólidos descartados são
+
+
+",        todos iguais.      ,        todos diferentes.      ,        três iguais e um diferente.      ,        apenas dois iguais.      ,        iguais dois a dois.      ,E,enem-data/enem-2011/144-images/context_img_0.png
+11,136,"
+
+
+
+
+
+
+
+","
+
+
+Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,
+
+
+","        0,23 e 0,16.      ","        2,3 e 1,6.      ",        23 e 16.      ,        230 e 160.      ,        2 300 e 1 600.      ,B,enem-data/enem-2011/136-images/context_img_0.png
+12,156,"
+
+
+
+
+
+
+
+
+Considere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh.
+
+
+","
+
+
+A diferença entre o gasto desses consumidores com 1kWh, depois da redução da tarifa de energia, mais aproximada, é de
+
+
+","        R$ 0,27.      ","        R$ 0,29.      ","        R$ 0,32.      ","        R$ 0,34.      ","        R$ 0,61.      ",B,enem-data/enem-2011/156-images/context_img_0.png
+13,139,"
 
 
 
@@ -222,8 +271,8 @@ Disponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado).
 Mostrando que é possível determinar a medida por meio de conhecimentos matemáticos, qual foi o momento sísmico M0
 
 
-","        10-5,10 ","        10-0,73 ","        1012,00 ","        1021,65 ","        1027,00 ", ,enem-data/enem-2011/139-images/context_img_0.png
-11,136,"
+","        10-5,10 ","        10-0,73 ","        1012,00 ","        1021,65 ","        1027,00 ",E,enem-data/enem-2011/139-images/context_img_0.png
+14,150,"
 
 
 
@@ -234,11 +283,11 @@ Mostrando que é possível determinar a medida por meio de conhecimentos matemá
 ","
 
 
-Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,
+Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?
 
 
-","        0,23 e 0,16.      ","        2,3 e 1,6.      ",        23 e 16.      ,        230 e 160.      ,        2 300 e 1 600.      , ,enem-data/enem-2011/136-images/context_img_0.png
-12,152,"
+","        14,6%      ","        18,2%      ","        18,4%      ","        19,0%      ","        21,0%      ",C,enem-data/enem-2011/150-images/context_img_0.png
+15,152,"
 
 
 
@@ -253,69 +302,34 @@ A reta de equação y = x + 4 representa o planejamento do percurso da linha do 
 Atendendo ao pedido da comunidade, o comitê argumentou corretamente que isso seria automaticamente satisfeito, pois já estava prevista a construção de uma estação no ponto.
 
 
-","        (–5, 0).      ","        (–3, 1).      ","        (–2, 1).      ","        (0, 4).      ","        (2, 6).      ", ,enem-data/enem-2011/152-images/context_img_0.png
-13,150,"
+","        (–5, 0).      ","        (–3, 1).      ","        (–2, 1).      ","        (0, 4).      ","        (2, 6).      ",B,enem-data/enem-2011/152-images/context_img_0.png
+16,167,"
 
-
-
-
-
-
-
-","
-
-
-Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?
-
-
-","        14,6%      ","        18,2%      ","        18,4%      ","        19,0%      ","        21,0%      ", ,enem-data/enem-2011/150-images/context_img_0.png
-14,148,"
-
-
-
-
-
+Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida).
+O jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada.
+Arthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.
 
 
 ","
 
 
-Em relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a
+Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é
 
 
-","        17°C, 17°C e 13,5°C.      ","        17°C, 18°C e 13,5°C.      ","        17°C, 13,5°C e 18°C.      ","        17°C, 18°C e 21,5°C.      ","        17°C, 13,5°C e 21,5°C.      ", ,enem-data/enem-2011/148-images/context_img_0.png
-15,156,"
+","        Arthur, pois a soma que escolheu é a menor.      ","        Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.      ","        Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.      ","        Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.      ","        Caio, pois a soma que escolheu é a maior.      ",C,
+17,161,"
 
-
-
-
-
-
-
-
-Considere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh.
+O número mensal de passagens de uma determinada empresa aérea aumentou no ano passado nas seguintes condições: em janeiro foram vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse padrão de crescimento se mantém para os meses subsequentes.
 
 
 ","
 
 
-A diferença entre o gasto desses consumidores com 1kWh, depois da redução da tarifa de energia, mais aproximada, é de
+Quantas passagens foram vendidas por essa empresa em julho do ano passado?
 
 
-","        R$ 0,27.      ","        R$ 0,29.      ","        R$ 0,32.      ","        R$ 0,34.      ","        R$ 0,61.      ", ,enem-data/enem-2011/156-images/context_img_0.png
-16,160,"
-
-O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n) acrescido de um valor fixo de R$ 150  000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.
-
-
-","
-
-
-Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?
-
-
-",        100n + 350 = 120n + 150      ,        100n + 150 = 120n + 350      ,        100(n + 350) = 120(n + 150)      ,        100(n + 350 000) = 120(n + 150 000)      ,        350(n + 100 000) = 150(n + 120 000)      , ,
-17,158,"
+",        38 000      ,        40 500      ,        41 000      ,        42 000      ,        48 000      ,D,
+18,158,"
 
 
 
@@ -333,89 +347,8 @@ Suponha que o navegante tenha medido o ângulo α = 30°  e, ao chegar ao pont
 Com base nesses dados e mantendo a mesma trajetória, a menor distância do barco até o ponto fixo P será
 
 
-",        1 000 m.      ,        1 000 √3 m.      ,        2 000 √3/3 m.      ,        2 000 m      ,        2 000 √3 m.      , ,enem-data/enem-2011/158-images/context_img_0.png
-18,161,"
-
-O número mensal de passagens de uma determinada empresa aérea aumentou no ano passado nas seguintes condições: em janeiro foram vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse padrão de crescimento se mantém para os meses subsequentes.
-
-
-","
-
-
-Quantas passagens foram vendidas por essa empresa em julho do ano passado?
-
-
-",        38 000      ,        40 500      ,        41 000      ,        42 000      ,        48 000      , ,
-19,164,"
-
-
-Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km² de área. Quando não chove, o homem do sertão e dua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo.
-
-Disponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010.
-
-
-
-","
-
-
-Segundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km², é de
-
-
-",        250.      ,        25.      ,"        2,5.      ","        0,25.      ","        0,025.      ", ,
-20,159,"
-
-
-
-
-
-
-
-","
-
-
-Escolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade de ele escolher uma região que seja adequada às recomendações médicas é
-
-
-",        1/5      ,        1/4      ,        2/5      ,        3/5      ,        3/4      , ,enem-data/enem-2011/159-images/context_img_0.png
-21,163,"
-
-Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4 800 W consome 4,8 kW por hora.
-
-
-","
-
-
-Uma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW?
-
-
-","        0,8      ","        1,6      ","        5,6      ","        11,2      ","        33,6      ", ,
-22,167,"
-
-Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida).
-O jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada.
-Arthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.
-
-
-","
-
-
-Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é
-
-
-","        Arthur, pois a soma que escolheu é a menor.      ","        Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.      ","        Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.      ","        Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.      ","        Caio, pois a soma que escolheu é a maior.      ", ,
-23,162,"
-
-Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3 800,00 gerado pela aplicação.
-
-
-","
-
-
-A quantia inicial que essa pessoa aplicou em ações corresponde ao valor de
-
-
-","        R$ 4 222,22.      ","        R$ 4 523,80.      ","        R$ 5 000,00.      ","        D R$ 13 300,00.      ","        R$ 17 100,00.      ", ,
-24,168,"
+",        1 000 m.      ,        1 000 √3 m.      ,        2 000 √3/3 m.      ,        2 000 m      ,        2 000 √3 m.      ,B,enem-data/enem-2011/158-images/context_img_0.png
+19,168,"
 
 
 É possível usar água ou comida para atrair as aves e observá-las. Muitas pessoas costumam usar água com açúcar, por exemplo, para atrair beija-flores. Mas é importante saber que, na hora de fazer a mistura, você deve sempre usar uma parte de açúcar para cinco  partes de água. Além disso, em dias quentes, precisa trocar a água de duas a três vezes, pois com o calor ela pode fermentar e, se for ingerida pela ave, pode deixá-la doente. O excesso de açúcar, ao cristalizar, também pode manter o bico da ave fechado, impedindo-a de se alimentar. Isso pode até matá-la.
@@ -434,8 +367,36 @@ Pretende-se encher completamente um copo com a mistura para atrais beija-flores.
 O copo tem formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de diâmetro. A quantidade de água que deve ser utilizada na mistura é cerca de (utilize π = 3)
 
 
-",        20 mL.      ,        24 mL.      ,        100 mL.      ,        120 mL.      ,        600 mL.      , ,
-25,166,"
+",        20 mL.      ,        24 mL.      ,        100 mL.      ,        120 mL.      ,        600 mL.      ,C,
+20,160,"
+
+O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n) acrescido de um valor fixo de R$ 150  000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.
+
+
+","
+
+
+Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?
+
+
+",        100n + 350 = 120n + 150      ,        100n + 150 = 120n + 350      ,        100(n + 350) = 120(n + 150)      ,        100(n + 350 000) = 120(n + 150 000)      ,        350(n + 100 000) = 150(n + 120 000)      ,A,
+21,164,"
+
+
+Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km² de área. Quando não chove, o homem do sertão e dua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo.
+
+Disponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010.
+
+
+
+","
+
+
+Segundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km², é de
+
+
+",        250.      ,        25.      ,"        2,5.      ","        0,25.      ","        0,025.      ",B,
+22,159,"
 
 
 
@@ -446,24 +407,35 @@ O copo tem formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de di
 ","
 
 
-Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é
+Escolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade de ele escolher uma região que seja adequada às recomendações médicas é
 
 
-",        8%.      ,        9%.      ,        11%.      ,        12%.      ,        22%.      , ,enem-data/enem-2011/166-images/context_img_0.png
-26,174,"
+",        1/5      ,        1/4      ,        2/5      ,        3/5      ,        3/4      ,E,enem-data/enem-2011/159-images/context_img_0.png
+23,162,"
 
-O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar
-os interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares.
+Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3 800,00 gerado pela aplicação.
 
 
 ","
 
 
-Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75 913 é
+A quantia inicial que essa pessoa aplicou em ações corresponde ao valor de
 
 
-",        24      ,        31      ,        32      ,        88      ,        89      , ,
-27,171,"
+","        R$ 4 222,22.      ","        R$ 4 523,80.      ","        R$ 5 000,00.      ","        D R$ 13 300,00.      ","        R$ 17 100,00.      ",C,
+24,163,"
+
+Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4 800 W consome 4,8 kW por hora.
+
+
+","
+
+
+Uma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW?
+
+
+","        0,8      ","        1,6      ","        5,6      ","        11,2      ","        33,6      ",D,
+25,171,"
 
 
 Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo.
@@ -482,8 +454,21 @@ Supondo que, nos próximos cinco anos, haja um acréscimo de 8 mil internações
 De acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a
 
 
-",        4 mil.      ,        9 mil.      ,        21 mil.      ,        35 mil.      ,        39 mil.      , ,
-28,177,"
+",        4 mil.      ,        9 mil.      ,        21 mil.      ,        35 mil.      ,        39 mil.      ,D,
+26,174,"
+
+O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar
+os interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares.
+
+
+","
+
+
+Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75 913 é
+
+
+",        24      ,        31      ,        32      ,        88      ,        89      ,E,
+27,166,"
 
 
 
@@ -494,26 +479,11 @@ De acordo com as informações dadas, o número de homens que seriam internados 
 ","
 
 
-Considerando-se S como a resistência, a representação algébrica que exprime essa relação é
+Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é
 
 
-",        S = k . b . d      ,        S = b . d²      ,        S = k . b . d²      ,        S = (k . b)/d      ,        S = (k . d²)/b      , ,enem-data/enem-2011/177-images/context_img_0.png
-29,175,"
-
-
-
-
-
-
-
-","
-
-
-Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos
-
-
-","        K, I e F.      ","        K, J, I, G, L e F.      ","        K, L, G, I, J, H e F.      ","        K, J, H, I, G, L e F.      ","        K, L, G, I, H, J e F.      ", ,enem-data/enem-2011/175-images/context_img_0.png
-30,170,"
+",        8%.      ,        9%.      ,        11%.      ,        12%.      ,        22%.      ,C,enem-data/enem-2011/166-images/context_img_0.png
+28,172,"
 
 
 
@@ -524,11 +494,23 @@ Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez 
 ","
 
 
-Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?
+Analisando os dados do gráfico, quantos internautas responderam “NÃO” à enquete?
 
 
-",        1      ,        4      ,        5      ,        7      ,        8      , ,enem-data/enem-2011/170-images/context_img_0.png
-31,173,"
+",        Menos de 23.      ,        Mais de 23 e menos de 25.      ,        Mais de 50 e menos de 75.      ,        Mais de 100 e menos de 190.      ,        Mais de 200.      ,C,enem-data/enem-2011/172-images/context_img_0.png
+29,179,"
+
+Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade q de produtos é dado por uma função, simbolizada por CT, enquanto o faturamento que a empresa obtém com a venda da quantidade q também é uma função, simbolizada por FT. O lucro total (LT) obtido pela venda da quantidade q de produtos é dado pela expressão LT(q) = FT(q) – CT(q).
+
+
+","
+
+
+Considerando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo?
+
+
+",        1      ,        3      ,        4      ,        5      ,,D,
+30,173,"
 
 
 
@@ -542,27 +524,53 @@ Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das ra
 Se tomarmos uma estrela que tenha temperatura 5 vezes maior que a temperatura do Sol, qual será a ordem de grandeza de sua luminosidade?
 
 
-",        20 000 vezes a luminosidade do Sol.      ,        28 000 vezes a luminosidade do Sol.      ,        28 850 vezes a luminosidade do Sol.      ,        30 000 vezes a luminosidade do Sol.      ,        50 000 vezes a luminosidade do Sol.      , ,enem-data/enem-2011/173-images/context_img_0.png
-32,176,"
+",        20 000 vezes a luminosidade do Sol.      ,        28 000 vezes a luminosidade do Sol.      ,        28 850 vezes a luminosidade do Sol.      ,        30 000 vezes a luminosidade do Sol.      ,        50 000 vezes a luminosidade do Sol.      ,A,enem-data/enem-2011/173-images/context_img_0.png
+31,170,"
 
 
 
 
 
-
-
-
-Esse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais.
 
 
 ","
 
 
-Segundo o gráfico, o período de queda ocorreu entre os anos de
+Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?
 
 
-",        1998 e 2001      ,        2001 e 2003      ,        2003 e 2006      ,        2003 e 2007      ,        2003 e 2008      , ,enem-data/enem-2011/176-images/context_img_0.png
-33,169,"
+",        1      ,        4      ,        5      ,        7      ,        8      ,A,enem-data/enem-2011/170-images/context_img_0.png
+32,175,"
+
+
+
+
+
+
+
+","
+
+
+Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos
+
+
+","        K, I e F.      ","        K, J, I, G, L e F.      ","        K, L, G, I, J, H e F.      ","        K, J, H, I, G, L e F.      ","        K, L, G, I, H, J e F.      ",C,enem-data/enem-2011/175-images/context_img_0.png
+33,177,"
+
+
+
+
+
+
+
+","
+
+
+Considerando-se S como a resistência, a representação algébrica que exprime essa relação é
+
+
+",        S = k . b . d      ,        S = b . d²      ,        S = k . b . d²      ,        S = (k . b)/d      ,        S = (k . d²)/b      ,C,enem-data/enem-2011/177-images/context_img_0.png
+34,169,"
 
 
 
@@ -589,35 +597,8 @@ No quadro é apresentada a Escala de Índice de Massa Corporal com as respectiva
 A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são
 
 
-","        Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.      ","        Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.      ","        Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.      ","        Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.      ","        Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.      ", ,"enem-data/enem-2011/169-images/context_img_0.png,enem-data/enem-2011/169-images/context_img_1.png"
-34,179,"
-
-Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade q de produtos é dado por uma função, simbolizada por CT, enquanto o faturamento que a empresa obtém com a venda da quantidade q também é uma função, simbolizada por FT. O lucro total (LT) obtido pela venda da quantidade q de produtos é dado pela expressão LT(q) = FT(q) – CT(q).
-
-
-","
-
-
-Considerando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo?
-
-
-",        1      ,        3      ,        4      ,        5      ,, ,
-35,172,"
-
-
-
-
-
-
-
-","
-
-
-Analisando os dados do gráfico, quantos internautas responderam “NÃO” à enquete?
-
-
-",        Menos de 23.      ,        Mais de 23 e menos de 25.      ,        Mais de 50 e menos de 75.      ,        Mais de 100 e menos de 190.      ,        Mais de 200.      , ,enem-data/enem-2011/172-images/context_img_0.png
-36,178,"
+","        Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.      ","        Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.      ","        Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.      ","        Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.      ","        Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.      ",B,"enem-data/enem-2011/169-images/context_img_0.png,enem-data/enem-2011/169-images/context_img_1.png"
+35,178,"
 
 
 
@@ -631,7 +612,26 @@ Analisando os dados do gráfico, quantos internautas responderam “NÃO” à e
 Para escolher o investimento com a maior rentabilidade anual, essa pessoa deverá
 
 
-","        escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.      ","        escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.      ","        escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.      ","        escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.      ","        escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.      ", ,enem-data/enem-2011/178-images/context_img_0.png
+","        escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.      ","        escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.      ","        escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.      ","        escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.      ","        escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.      ",C,enem-data/enem-2011/178-images/context_img_0.png
+36,176,"
+
+
+
+
+
+
+
+
+Esse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais.
+
+
+","
+
+
+Segundo o gráfico, o período de queda ocorreu entre os anos de
+
+
+",        1998 e 2001      ,        2001 e 2003      ,        2003 e 2006      ,        2003 e 2007      ,        2003 e 2008      ,C,enem-data/enem-2011/176-images/context_img_0.png
 37,180,"
 
 Uma empresa de telefone fixa oferece dois planos aos seus clientes: no plano K, o cliente paga R$ 29,90 por  200 minutos mensais e R$ 0,20 por cada minuto excedente; no plano Z, paga R$ 49,90 por 300 minutos mensais e R$ 0,10 por cada minuto excedente.
@@ -643,4 +643,4 @@ Uma empresa de telefone fixa oferece dois planos aos seus clientes: no plano K, 
 O gráfico que representa o valor pago, em reais, nos dois planos em função dos minutos utilizados é
 
 
-",enem-data/enem-2011/180-images/alt_img_0.png,enem-data/enem-2011/180-images/alt_img_1.png,enem-data/enem-2011/180-images/alt_img_2.png,enem-data/enem-2011/180-images/alt_img_3.png,enem-data/enem-2011/180-images/alt_img_4.png, ,
+",enem-data/enem-2011/180-images/alt_img_0.png,enem-data/enem-2011/180-images/alt_img_1.png,enem-data/enem-2011/180-images/alt_img_2.png,enem-data/enem-2011/180-images/alt_img_3.png,enem-data/enem-2011/180-images/alt_img_4.png,D,

@@ -1,43 +1,5 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,141,"
-
-
- Uma pessoa, que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Art. 1 234 do Código Civil, poderá ter que pagar pelas despesas do transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5% do valor do objeto.
-
-Ela sabe que o custo com transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapasse o valor atual do objeto.
-
-
-
-","
-
-
-Nessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a
-
-
-",        20%      ,        25%      ,        40%      ,        60%      ,        80%      , ,
-1,152,"
-
-
-O rótulo da embalagem de um cosmético informa que a dissolução de seu conteúdo, de acordo com suas especificações, rende 2,7 litros desse produto pronto para o uso. Uma pessoa será submetida a um tratamento estético em que deverá tomar um banho de imersão com esse produto numa banheira com capacidade de 0,3 m³.
-Para evitar o transbordamento, essa banheira será preenchida em 80% de sua capacidade.
-
-
-
-","
-
-
-
-
-
-Para esse banho, o número mínimo de embalagens desse cosmético é
-
-
-
-
-
-
-",        9.      ,        12.      ,        89.      ,        112.      ,        134.      , ,
-2,140,"
+0,140,"
 
 
 A Hydrangea macrophyila é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8.
@@ -51,8 +13,79 @@ Sabe-se que pH = – log10x, em que x é a concentração de íon hidrogênio (H
 Para produzir a Hydrangea cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que x assuma
 
 
-",qualquer valor acima de 10^{-8}10​−8    ​​. ,qualquer valor positivo inferior a 10^{-7}10​−7​​. ,        valores maiores que 7 e menores que 8.      ,        valores maiores que 70 e menores que 80.      ,valores maiores que 10^{-8}10​−8​​ e menores que 10^{-7}10​−7​​. , ,
-3,150,"
+",qualquer valor acima de 10^{-8}10​−8    ​​. ,qualquer valor positivo inferior a 10^{-7}10​−7​​. ,        valores maiores que 7 e menores que 8.      ,        valores maiores que 70 e menores que 80.      ,valores maiores que 10^{-8}10​−8​​ e menores que 10^{-7}10​−7​​. ,E,
+1,146,"
+
+
+Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6m, é cercado por grama. A administração do condomínio deseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8m, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 m² de área.
+ 
+
+
+O síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.
+
+
+
+
+Utilize 3 como aproximação para π.
+
+
+
+
+
+","
+
+
+A conclusão correta a que o síndico deverá chegar, considerando a nova área a ser pavimentada, é a de que o material disponível em estoque:
+
+
+","        será suficiente, pois a área da nova região a ser pavimentada mede 21 m².      ","        será suficiente, pois a área da nova região a ser pavimentada mede 24 m².      ","        será suficiente, pois a área da nova região a ser pavimentada mede 48 m².      ","        não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².      ","        não será suficiente, pois a área da nova região a ser pavimentada mede 120 m².      ",E,
+2,136,"
+
+
+A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 mg desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 kg pelo período de 5 dias.
+
+Esse medicamento pode ser comprado em frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento.
+
+Considere que 1 g desse medicamento ocupe um volume de 1 cm³.
+
+
+
+","
+
+
+A capacidade do frasco, em mililitro, que esses pais deverão comprar é
+
+
+",        10      ,        50      ,        100      ,        250      ,        500      ,B,
+3,144,"
+
+
+A gripe é uma infecção respiratória aguda de curtaduração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.
+
+
+
+Disponível em: www.gripenet.pt.
+Acesso em: 2 nov. 2013 (adaptado).
+
+
+
+","
+
+
+
+
+
+
+Em notação científica, o diâmetro interno do vírus influenza, em mm, é
+
+
+
+
+
+
+
+","1,1x10​−1​​ ","1,1x10​−2​​ ","1,1x10​−3​​ ","1,1x10​−4​​ ","1,1x10​−5​​ ",D,
+4,150,"
 
 
 
@@ -93,171 +126,24 @@ Em qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s) corretamente?
 
 
 
-",        1.      ,        12.      ,        1 e 12.      ,        1 e 13.      ,"        1, 12 e 13.      ", ,
-4,136,"
+",        1.      ,        12.      ,        1 e 12.      ,        1 e 13.      ,"        1, 12 e 13.      ",A,
+5,141,"
 
 
-A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 mg desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 kg pelo período de 5 dias.
+ Uma pessoa, que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Art. 1 234 do Código Civil, poderá ter que pagar pelas despesas do transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5% do valor do objeto.
 
-Esse medicamento pode ser comprado em frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento.
-
-Considere que 1 g desse medicamento ocupe um volume de 1 cm³.
-
-
-
-","
-
-
-A capacidade do frasco, em mililitro, que esses pais deverão comprar é
-
-
-",        10      ,        50      ,        100      ,        250      ,        500      , ,
-5,144,"
-
-
-A gripe é uma infecção respiratória aguda de curtaduração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.
-
-
-
-Disponível em: www.gripenet.pt.
-Acesso em: 2 nov. 2013 (adaptado).
+Ela sabe que o custo com transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapasse o valor atual do objeto.
 
 
 
 ","
 
 
+Nessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a
 
 
-
-
-Em notação científica, o diâmetro interno do vírus influenza, em mm, é
-
-
-
-
-
-
-
-","1,1x10​−1​​ ","1,1x10​−2​​ ","1,1x10​−3​​ ","1,1x10​−4​​ ","1,1x10​−5​​ ", ,
-6,143,"
-
-
-Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.
-O quadro mostra os resultados obtidos com a pesquisa realizada.
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-
-Nessas condições, qual será o destino escolhido para a viagem?
-
-
-
-
-
-
-",        Austrália.      ,        Canadá.      ,        EUA.      ,        França.      ,        Reino Unido.      , ,enem-data/enem-2019/143-images/context_img_0.png
-7,146,"
-
-
-Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6m, é cercado por grama. A administração do condomínio deseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8m, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 m² de área.
- 
-
-
-O síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.
-
-
-
-
-Utilize 3 como aproximação para π.
-
-
-
-
-
-","
-
-
-A conclusão correta a que o síndico deverá chegar, considerando a nova área a ser pavimentada, é a de que o material disponível em estoque:
-
-
-","        será suficiente, pois a área da nova região a ser pavimentada mede 21 m².      ","        será suficiente, pois a área da nova região a ser pavimentada mede 24 m².      ","        será suficiente, pois a área da nova região a ser pavimentada mede 48 m².      ","        não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².      ","        não será suficiente, pois a área da nova região a ser pavimentada mede 120 m².      ", ,
-8,147,"
-
-
-Os exercícios físicos são recomendados para o bom funcionamento do organismo, pois aceleram o metabolismo e, em consequência, elevam o consumo de calorias. No gráfico, estão registrados os valores calóricos, em kcal, gastos em cinco diferentes atividades físicas, em função do tempo dedicado às atividades, contado em minuto.
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-
-Qual dessas atividades físicas proporciona o maior consumo de quilocalorias por minuto?
-
-
-
-
-
-
-",        I      ,        II      ,        III      ,        IV      ,        V      , ,enem-data/enem-2019/147-images/context_img_0.png
-9,148,"
-
-
-
-
-Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.
-
-
-
-
-Nessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.
-
-
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-O teste que apresentou maior quantidade de acertos foi o aplicado na
-
-
-
-
-
-",        segunda-feira.      ,        terça-feira.      ,        quarta-feira.      ,        quinta-feira.      ,        sexta-feira.      , ,enem-data/enem-2019/148-images/context_img_0.png
-10,142,"
+",        20%      ,        25%      ,        40%      ,        60%      ,        80%      ,E,
+6,142,"
 
 
 Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.
@@ -283,94 +169,8 @@ A sequência de deslocamento pelos cômodos, conforme o consumo de energia apres
 
 
 
-",        1 → 4 → 5 → 4 → 1 → 6 → 1 → 4      ,        1 → 2 → 3 → 1 → 4 → 1 → 4 → 4      ,        1 → 4 → 5 → 4 → 1 → 6 → 1 → 2 → 3      ,        1 → 2 → 3 → 5 → 4 → 1 → 6 → 1 → 4      ,        1 → 4 → 2 → 3 → 5 → 1 → 6 → 1 → 4      , ,enem-data/enem-2019/142-images/context_img_0.png
-11,137,"
-
-
-Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas  numerações, conforme ilustrado na figura.
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por
-
-
-
-
-
-",C412 x C312 x C312 x C212 ,C412 + C38 + C35 + C22 ,C412 x 2 x C38 x C25 ,C412 + 2 + C312 + C312 ,C412 x C38 x C35 x C22 , ,enem-data/enem-2019/137-images/context_img_0.png
-12,149,"
-
-
-Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta.
-As diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.
-
-
-
-
-
-
-
-
-
-
-
-
-O ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.
-
-
-
-","
-
-
-
-
-
-O valor mais próximo da medida do diâmetro da segunda catraca, em centímetro e com uma casa decimal, é
-
-
-
-
-
-
-","        2,3.      ","        3,5.      ","        4,7.      ","        5,3.      ","        10,5.      ", ,enem-data/enem-2019/149-images/context_img_0.png
-13,156,"
-
-
-Para contratar três máquinas que farão o reparo de vias rurais de um município, a prefeitura elaborou um edital que, entre outras cláusulas, previa:
-• Cada empresa interessada só pode cadastrar uma única máquina para concorrer ao edital;
-• O total de recursos destinados para contratar o conjunto das três máquinas é de R$ 31 000,00;
-• O valor a ser pago a cada empresa será inversamente proporcional à idade de uso da máquina cadastrada pela empresa para o presente edital.
-As três empresas vencedoras do edital cadastraram máquinas com 2, 3 e 5 anos de idade de uso.
-
-
-
-","
-
-
-
-
-
-Quanto receberá a empresa que cadastrou a máquina com maior idade de uso?
-
-
-
-
-
-
-","        R$ 3.100,00      ","        R$ 6.000,00      ","        R$ 6.200,00      ","        R$ 15.000,00      ","        R$ 15.500,00      ", ,
-14,138,"
+",        1 → 4 → 5 → 4 → 1 → 6 → 1 → 4      ,        1 → 2 → 3 → 1 → 4 → 1 → 4 → 4      ,        1 → 4 → 5 → 4 → 1 → 6 → 1 → 2 → 3      ,        1 → 2 → 3 → 5 → 4 → 1 → 6 → 1 → 4      ,        1 → 4 → 2 → 3 → 5 → 1 → 6 → 1 → 4      ,A,enem-data/enem-2019/142-images/context_img_0.png
+7,138,"
 
 
 
@@ -409,8 +209,119 @@ O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida
 
 
 
-",        Janeiro.      ,        Fevereiro.      ,        Março.      ,        Abril.      ,        Maio.      , ,enem-data/enem-2019/138-images/context_img_0.png
-15,155,"
+",        Janeiro.      ,        Fevereiro.      ,        Março.      ,        Abril.      ,        Maio.      ,D,enem-data/enem-2019/138-images/context_img_0.png
+8,152,"
+
+
+O rótulo da embalagem de um cosmético informa que a dissolução de seu conteúdo, de acordo com suas especificações, rende 2,7 litros desse produto pronto para o uso. Uma pessoa será submetida a um tratamento estético em que deverá tomar um banho de imersão com esse produto numa banheira com capacidade de 0,3 m³.
+Para evitar o transbordamento, essa banheira será preenchida em 80% de sua capacidade.
+
+
+
+","
+
+
+
+
+
+Para esse banho, o número mínimo de embalagens desse cosmético é
+
+
+
+
+
+
+",        9.      ,        12.      ,        89.      ,        112.      ,        134.      ,C,
+9,137,"
+
+
+Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas  numerações, conforme ilustrado na figura.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por
+
+
+
+
+
+",C412 x C312 x C312 x C212 ,C412 + C38 + C35 + C22 ,C412 x 2 x C38 x C25 ,C412 + 2 + C312 + C312 ,C412 x C38 x C35 x C22 ,E,enem-data/enem-2019/137-images/context_img_0.png
+10,149,"
+
+
+Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta.
+As diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.
+
+
+
+
+
+
+
+
+
+
+
+
+O ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.
+
+
+
+","
+
+
+
+
+
+O valor mais próximo da medida do diâmetro da segunda catraca, em centímetro e com uma casa decimal, é
+
+
+
+
+
+
+","        2,3.      ","        3,5.      ","        4,7.      ","        5,3.      ","        10,5.      ",C,enem-data/enem-2019/149-images/context_img_0.png
+11,147,"
+
+
+Os exercícios físicos são recomendados para o bom funcionamento do organismo, pois aceleram o metabolismo e, em consequência, elevam o consumo de calorias. No gráfico, estão registrados os valores calóricos, em kcal, gastos em cinco diferentes atividades físicas, em função do tempo dedicado às atividades, contado em minuto.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Qual dessas atividades físicas proporciona o maior consumo de quilocalorias por minuto?
+
+
+
+
+
+
+",        I      ,        II      ,        III      ,        IV      ,        V      ,B,enem-data/enem-2019/147-images/context_img_0.png
+12,155,"
 
 
 Três sócios resolveram fundar uma fábrica. O investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial.
@@ -431,8 +342,8 @@ Quais os valores mais próximos, em porcentagens, correspondentes às parcelas f
 
 
 
-","        29,60 e 11,11.      ","        28,70 e 13,89.      ","        25,00 e 25,00.      ","        18,52 e 11,11.      ","        12,96 e 13,89.      ", ,
-16,154,"
+","        29,60 e 11,11.      ","        28,70 e 13,89.      ","        25,00 e 25,00.      ","        18,52 e 11,11.      ","        12,96 e 13,89.      ",A,
+13,154,"
 
 
 Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1% ao mês.
@@ -448,8 +359,142 @@ Para concretizar a compra, o gerente emitirá uma nota fiscal com o valor do pro
 O valor à vista, em real, que deverá constar na nota fiscal é de
 
 
-","        398,02      ","        400,00      ","        401,94      ","        404,00      ","        406,02      ", ,
-17,151,"
+","        398,02      ","        400,00      ","        401,94      ","        404,00      ","        406,02      ",B,
+14,143,"
+
+
+Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.
+O quadro mostra os resultados obtidos com a pesquisa realizada.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Nessas condições, qual será o destino escolhido para a viagem?
+
+
+
+
+
+
+",        Austrália.      ,        Canadá.      ,        EUA.      ,        França.      ,        Reino Unido.      ,A,enem-data/enem-2019/143-images/context_img_0.png
+15,148,"
+
+
+
+
+Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.
+
+
+
+
+Nessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+O teste que apresentou maior quantidade de acertos foi o aplicado na
+
+
+
+
+
+",        segunda-feira.      ,        terça-feira.      ,        quarta-feira.      ,        quinta-feira.      ,        sexta-feira.      ,A,enem-data/enem-2019/148-images/context_img_0.png
+16,157,"
+
+
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano 2000, era de R$ 1.250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2% em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10% maior do que foi em 2010.
+
+IBGE. Censo 2010. Disponível em: www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado).
+
+
+
+","
+
+
+
+
+
+Supondo que as projeções do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de
+
+
+
+
+
+
+","        R$ 1.340,00.      ","        R$ 1.349,00      ","        R$ 1.375,00      ","        R$ 1.465,00      ","        R$ 1.474,00.      ",E,
+17,156,"
+
+
+Para contratar três máquinas que farão o reparo de vias rurais de um município, a prefeitura elaborou um edital que, entre outras cláusulas, previa:
+• Cada empresa interessada só pode cadastrar uma única máquina para concorrer ao edital;
+• O total de recursos destinados para contratar o conjunto das três máquinas é de R$ 31 000,00;
+• O valor a ser pago a cada empresa será inversamente proporcional à idade de uso da máquina cadastrada pela empresa para o presente edital.
+As três empresas vencedoras do edital cadastraram máquinas com 2, 3 e 5 anos de idade de uso.
+
+
+
+","
+
+
+
+
+
+Quanto receberá a empresa que cadastrou a máquina com maior idade de uso?
+
+
+
+
+
+
+","        R$ 3.100,00      ","        R$ 6.000,00      ","        R$ 6.200,00      ","        R$ 15.000,00      ","        R$ 15.500,00      ",B,
+18,160,"
+
+
+Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia.
+Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.
+
+
+
+","
+
+
+
+
+
+De quantas maneiras diferentes podem ser formadas essas quatro duplas?
+
+
+
+
+
+
+",        69      ,        70      ,        90      ,        104      ,        105      ,C,
+19,151,"
 
 
 
@@ -474,88 +519,8 @@ O profissional contratado para o serviço inicial pintará o fundo de dez placas
 Qual é a soma das medidas das áreas, em centímetros quadrados, das dez placas?
 
 
-",        16 628      ,        22 280      ,        28 560      ,        41 120      ,        66 240      , ,enem-data/enem-2019/151-images/context_img_0.png
-18,153,"
-
-
-O slogan “Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.
-
-
-
-
-
-
-
-
-
-
-
-
-Suponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015.
-
-
-
-","
-
-
-
-
-
-Com base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de
-
-
-
-
-
-
-",        150      ,        450      ,        550      ,        700      ,        800      , ,enem-data/enem-2019/153-images/context_img_0.png
-19,157,"
-
-
-Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano 2000, era de R$ 1.250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2% em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10% maior do que foi em 2010.
-
-IBGE. Censo 2010. Disponível em: www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado).
-
-
-
-","
-
-
-
-
-
-Supondo que as projeções do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de
-
-
-
-
-
-
-","        R$ 1.340,00.      ","        R$ 1.349,00      ","        R$ 1.375,00      ","        R$ 1.465,00      ","        R$ 1.474,00.      ", ,
-20,162,"
-
-
-Comum em lançamentos de empreendimentos imobiliários, as maquetes de condomínios funcionam como uma ótima ferramenta de marketing para as construtoras, pois, além de encantar clientes, auxiliam de maneira significativa os corretores na negociação e venda de imóveis.
-Um condomínio está sendo lançado em um novo bairro de uma cidade. Na maquete projetada pela construtora, em escala de 1 : 200, existe um reservatório de água com capacidade de 45 cm³.
-Quando todas as famílias estiverem residindo no condomínio, a estimativa é que, por dia, sejam consumidos 30.000 litros de água.
-
-
-
-","
-
-
-
-
-
-Em uma eventual falta de água, o reservatório cheio será suficiente para abastecer o condomínio por quantos dias?
-
-
-
-
-
-
-",        30      ,        15      ,        12      ,        6      ,        3      , ,
-21,159,"
+",        16 628      ,        22 280      ,        28 560      ,        41 120      ,        66 240      ,B,enem-data/enem-2019/151-images/context_img_0.png
+20,159,"
 
 
 Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada
@@ -592,8 +557,65 @@ O 2.015º. item cadastrado foi um(a)
 
 
 
-",        rolamento.      ,        catalisador.      ,        amortecedor.      ,        pastilha de freio.      ,        caixa de direção.      , ,
-22,158,"
+",        rolamento.      ,        catalisador.      ,        amortecedor.      ,        pastilha de freio.      ,        caixa de direção.      ,E,
+21,162,"
+
+
+Comum em lançamentos de empreendimentos imobiliários, as maquetes de condomínios funcionam como uma ótima ferramenta de marketing para as construtoras, pois, além de encantar clientes, auxiliam de maneira significativa os corretores na negociação e venda de imóveis.
+Um condomínio está sendo lançado em um novo bairro de uma cidade. Na maquete projetada pela construtora, em escala de 1 : 200, existe um reservatório de água com capacidade de 45 cm³.
+Quando todas as famílias estiverem residindo no condomínio, a estimativa é que, por dia, sejam consumidos 30.000 litros de água.
+
+
+
+","
+
+
+
+
+
+Em uma eventual falta de água, o reservatório cheio será suficiente para abastecer o condomínio por quantos dias?
+
+
+
+
+
+
+",        30      ,        15      ,        12      ,        6      ,        3      ,C,
+22,153,"
+
+
+O slogan “Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.
+
+
+
+
+
+
+
+
+
+
+
+
+Suponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015.
+
+
+
+","
+
+
+
+
+
+Com base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de
+
+
+
+
+
+
+",        150      ,        450      ,        550      ,        700      ,        800      ,D,enem-data/enem-2019/153-images/context_img_0.png
+23,158,"
 
 
 Charles Richter e Beno Gutenberg desenvolveram a escala Richter, que mede a magnitude de um terremoto.
@@ -634,8 +656,8 @@ Utilize 0,3 como aproximação para log 2. De acordo com os dados fornecidos, o 
 
 
 
-",        pequeno.      ,        ligeiro.      ,        moderado.      ,        grande.      ,        extremo.      , ,enem-data/enem-2019/158-images/context_img_0.png
-23,164,"
+",        pequeno.      ,        ligeiro.      ,        moderado.      ,        grande.      ,        extremo.      ,C,enem-data/enem-2019/158-images/context_img_0.png
+24,164,"
 
 
 O dono de um restaurante situado às margens de uma rodovia percebeu que, ao colocar uma placa de propaganda de seu restaurante ao longo da rodovia, as vendas aumentaram. Pesquisou junto aos seus clientes e concluiu que a probabilidade de um motorista perceber uma placa de anúncio é 1/2.
@@ -656,74 +678,8 @@ A quantidade mínima de novas placas de propaganda a serem instaladas é
 
 
 
-",        99      ,        51      ,        50      ,        6      ,        1      , ,
-24,160,"
-
-
-Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia.
-Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.
-
-
-
-","
-
-
-
-
-
-De quantas maneiras diferentes podem ser formadas essas quatro duplas?
-
-
-
-
-
-
-",        69      ,        70      ,        90      ,        104      ,        105      , ,
-25,161,"
-
-
-As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos.
-Uma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas. Uma dessas secções está indicada na figura.
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-
-Essa luminária terá por faces
-
-
-
-
-
-
-",        4 hexágonos regulares e 4 triângulos equiláteros.      ,        2 hexágonos regulares e 4 triângulos equiláteros.      ,        4 quadriláteros e 4 triângulos isósceles.      ,        3 quadriláteros e 4 triângulos isósceles.      ,        3 hexágonos regulares e 4 triângulos equiláteros.      , ,enem-data/enem-2019/161-images/context_img_0.png
-26,173,"
-
-
-Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1000,00 por semana.
-Os outros funcionários são diaristas. Cada um trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.
-
-
-
-","
-
-
-Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por
-
-
-",        Y = 80X + 920.      ,        Y = 80X + 1000.      ,        Y = 80X + 1080.      ,        Y = 160X + 840.      ,        Y = 160X + 1000.      , ,
-27,165,"
+",        99      ,        51      ,        50      ,        6      ,        1      ,D,
+25,165,"
 
 
 O preparador físico de um time de basquete dispõe de um plantel de 20 jogadores, com média de altura igual a 1,80 m.
@@ -737,8 +693,8 @@ No último treino antes da estreia em um campeonato, um dos jogadores desfalcou 
 Se o novo jogador é 0,20 m mais baixo que o anterior, qual é a média de altura, em metro, do novo grupo?
 
 
-","        1,60.      ","        1,78.      ","        1,79.      ","        1,81.      ","        1,82.      ", ,
-28,166,"
+","        1,60.      ","        1,78.      ","        1,79.      ","        1,81.      ","        1,82.      ",C,
+26,166,"
 
 
 Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo.
@@ -766,8 +722,8 @@ A média diária de garrafas fora das especificações no período considerado �
 
 
 
-","        0,1      ","        0,2      ","        1,5      ","        2,0      ","        3,0      ", ,enem-data/enem-2019/166-images/context_img_0.png
-29,169,"
+","        0,1      ","        0,2      ","        1,5      ","        2,0      ","        3,0      ",B,enem-data/enem-2019/166-images/context_img_0.png
+27,169,"
 
 
 
@@ -799,8 +755,258 @@ Qual a menor quantidade de caminhões, utilizando suas capacidades máximas, que
 
 
 
-",        Dez caminhões com capacidade máxima de 10 m³.      ,        Cinco caminhões com capacidade máxima de 10 m³.      ,        Um caminhão com capacidade máxima de 5 m³.      ,        Dez caminhões com capacidade máxima de 2 m³.      ,        Um caminhão com capacidade máxima de 2 m³.      , ,enem-data/enem-2019/169-images/context_img_0.png
-30,172,"
+",        Dez caminhões com capacidade máxima de 10 m³.      ,        Cinco caminhões com capacidade máxima de 10 m³.      ,        Um caminhão com capacidade máxima de 5 m³.      ,        Dez caminhões com capacidade máxima de 2 m³.      ,        Um caminhão com capacidade máxima de 2 m³.      ,C,enem-data/enem-2019/169-images/context_img_0.png
+28,161,"
+
+
+As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos.
+Uma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas. Uma dessas secções está indicada na figura.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Essa luminária terá por faces
+
+
+
+
+
+
+",        4 hexágonos regulares e 4 triângulos equiláteros.      ,        2 hexágonos regulares e 4 triângulos equiláteros.      ,        4 quadriláteros e 4 triângulos isósceles.      ,        3 quadriláteros e 4 triângulos isósceles.      ,        3 hexágonos regulares e 4 triângulos equiláteros.      ,A,enem-data/enem-2019/161-images/context_img_0.png
+29,168,"
+
+
+O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento.
+Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros.
+O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo ​​​, o terceiro ​​​​, o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o índice máximo.
+
+
+
+","
+
+
+
+
+
+Qual desses países obteve o maior IDH?
+
+
+
+
+
+
+",        O primeiro.      ,        O segundo.      ,        O terceiro.      ,        O quarto.      ,        O quinto.      ,C,"enem-data/enem-2019/168-images/context_img_0.png,enem-data/enem-2019/168-images/context_img_1.png"
+30,171,"
+
+
+Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do origami (ori = dobrar; kami = papel), que tem um significado altamente simbólico no Japão.
+A base do origami é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando técnica do origami, utilizando uma folha de papel de 18 cm por 12 cm.
+Assim, começou por dobrar a folha conforme a figura.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Após essa primeira dobradura, a medida do segmento AE é
+
+
+
+
+
+
+",        2√22 ​cm      ,        6√3 ​cm      ,        12cm.      ,        6√​5​​ cm      ,        12√​2 ​cm      ,D,enem-data/enem-2019/171-images/context_img_0.png
+31,173,"
+
+
+Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1000,00 por semana.
+Os outros funcionários são diaristas. Cada um trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.
+
+
+
+","
+
+
+Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por
+
+
+",        Y = 80X + 920.      ,        Y = 80X + 1000.      ,        Y = 80X + 1080.      ,        Y = 160X + 840.      ,        Y = 160X + 1000.      ,D,
+32,167,"
+
+
+O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida.
+Um exemplo disso pode ser observado no quadro.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Assim, um pé, em polegada, equivale a
+
+
+
+
+
+
+","        0,1200.      ","        0,3048.      ","        1,0800.      ","        12,0000.      ","        36,0000.      ",D,enem-data/enem-2019/167-images/context_img_0.png
+33,174,"
+
+
+Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.
+
+O usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V.
+
+Sabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários R, R e S, simultaneamente?
+
+
+
+
+
+
+",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      ,A,enem-data/enem-2019/174-images/context_img_0.png
+34,176,"
+
+
+Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20% das declarações de imposto de renda que lhe foram encaminhadas.
+Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.
+Constatou-se, ainda, que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.
+
+
+
+","
+
+
+
+
+
+Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que ela era fraudulenta?
+
+
+
+
+
+
+","        0,0500      ","        0,1000      ","        0,1125      ","        0,3125      ","        0,5000      ",E,
+35,175,"
+
+
+
+
+Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da ultima semana.
+Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da ultima semana.
+
+
+
+","
+
+
+
+
+
+Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é
+
+
+
+
+
+
+",        20.      ,        27.      ,        44.      ,        55.      ,        71.      ,B,enem-data/enem-2019/175-images/context_img_0.png
+36,177,"
+
+
+A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana).
+Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+Segundo o acordo, qual município receberá o investimento extra?
+
+
+
+
+
+
+",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      ,C,enem-data/enem-2019/177-images/context_img_0.png
+37,172,"
 
 
 
@@ -836,13 +1042,90 @@ Segundo essas informações, argumenta-se que os alunos P, J, F e M jogaram, res
 
 
 
-","        basquete, basquete, basquete, basquete.      ","        futebol, basquete, basquete, basquete.      ","        futebol, futebol, basquete, basquete.      ","        futebol, futebol, futebol, basquete.      ","        futebol, futebol, futebol, futebol.      ", ,enem-data/enem-2019/172-images/context_img_0.png
-31,171,"
+","        basquete, basquete, basquete, basquete.      ","        futebol, basquete, basquete, basquete.      ","        futebol, futebol, basquete, basquete.      ","        futebol, futebol, futebol, basquete.      ","        futebol, futebol, futebol, futebol.      ",C,enem-data/enem-2019/172-images/context_img_0.png
+38,178,"
 
 
-Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do origami (ori = dobrar; kami = papel), que tem um significado altamente simbólico no Japão.
-A base do origami é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando técnica do origami, utilizando uma folha de papel de 18 cm por 12 cm.
-Assim, começou por dobrar a folha conforme a figura.
+
+
+Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 m e altura interna igual a 3,30 m, a quatro reservatórios cilíndricos auxiliares (R1, R2, R3 e R4), os quais possuem raios internos e alturas internas medindo 1,5 m.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 m de diâmetro interno e 20 m de comprimento, conectados próximos às bases de cada reservatório.
+Na conexão de cada um desses canos com o reservatório central ha registros que liberam ou interrompem o fluxo de água.
+No momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das colunas de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vasos comunicantes.
+
+
+
+","
+
+
+
+
+
+A medida, em metro, das alturas das colunas de água nos reservatórios auxiliares, após cessar o fluxo de água entre eles, é
+
+
+
+
+
+
+","        1,44.      ","        1,16      ","        1,10.      ","        1,00.      ","        0,95.      ",D,enem-data/enem-2019/178-images/context_img_0.png
+39,179,"
+
+
+Para construir uma piscina, cuja área total da superfície interna é igual a 40 m², uma construtora apresentou o seguinte orçamento:
+
+• R$ 10 000,00 pela elaboração do projeto;
+• R$ 40 000,00 pelos custos fixos;
+• R$ 2 500,00 por metro quadrado para construção da área interna da piscina.
+
+Após a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50%, mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25%. Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10% em relação ao total inicial.
+
+
+
+","
+
+
+
+
+
+O percentual de desconto que a construtora deverá conceder nos custos fixos é de
+
+
+
+
+
+
+","        23,3%.      ","        25,0%.      ","        50,0%.      ","        87,5%.      ","        100,0%.      ",D,
+40,180,"
+
+
+
+
+Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão esta representado na figura.
+
+
+
+
+descreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.
+O valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm.
+Para os cálculos, utilize 3 como aproximação para π.
+
+
 
 
 
@@ -859,24 +1142,24 @@ Assim, começou por dobrar a folha conforme a figura.
 
 
 
-Após essa primeira dobradura, a medida do segmento AE é
+O menor valor inteiro a ser atribuído ao parâmetro β, de forma que o motor a ser construído tenha boa potência, é
 
 
 
 
 
 
-",        2√22 ​cm      ,        6√3 ​cm      ,        12cm.      ,        6√​5​​ cm      ,        12√​2 ​cm      , ,enem-data/enem-2019/171-images/context_img_0.png
-32,167,"
+",        1.      ,        2.      ,        4.      ,        5.      ,        8.      ,D,enem-data/enem-2019/180-images/context_img_0.png
+41,163,"
 
 
-O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida.
-Um exemplo disso pode ser observado no quadro.
+Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.
 
+• Faixa 1: para consumo de até 6 m², valor fixo de R$12,00;
 
+• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6m³;
 
-
-
+• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³. Sabe-se que nessa cidade o consumo máximo de água por residência é de 15 m² por mês.
 
 
 
@@ -885,41 +1168,11 @@ Um exemplo disso pode ser observado no quadro.
 ","
 
 
+ O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido, em metro cúbico, é
 
 
-
-Assim, um pé, em polegada, equivale a
-
-
-
-
-
-
-","        0,1200.      ","        0,3048.      ","        1,0800.      ","        12,0000.      ","        36,0000.      ", ,enem-data/enem-2019/167-images/context_img_0.png
-33,176,"
-
-
-Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20% das declarações de imposto de renda que lhe foram encaminhadas.
-Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.
-Constatou-se, ainda, que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.
-
-
-
-","
-
-
-
-
-
-Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que ela era fraudulenta?
-
-
-
-
-
-
-","        0,0500      ","        0,1000      ","        0,1125      ","        0,3125      ","        0,5000      ", ,
-34,139,"
+",enem-data/enem-2019/163-images/alt_img_0.png,enem-data/enem-2019/163-images/alt_img_1.png,enem-data/enem-2019/163-images/alt_img_2.png,enem-data/enem-2019/163-images/alt_img_3.png,enem-data/enem-2019/163-images/alt_img_4.png,A,
+42,139,"
 
 
 Um grupo de países criou uma instituição responsável por organizar o Programa Internacional de Nivelamento de Estudos (PINE) com o objetivo de melhorar os índices mundiais de educação. Em sua sede foi construída uma escultura suspensa, com a logomarca oficial do programa, em três dimensões, que é formada por suas iniciais, conforme mostrada na figura.
@@ -970,260 +1223,7 @@ A sombra projetada no solo é
 
 
 
-",enem-data/enem-2019/139-images/alt_img_0.png,enem-data/enem-2019/139-images/alt_img_1.png,enem-data/enem-2019/139-images/alt_img_2.png,enem-data/enem-2019/139-images/alt_img_3.png,enem-data/enem-2019/139-images/alt_img_4.png, ,"enem-data/enem-2019/139-images/context_img_0.png,enem-data/enem-2019/139-images/context_img_1.png"
-35,168,"
-
-
-O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento.
-Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros.
-O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo ​​​, o terceiro ​​​​, o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o índice máximo.
-
-
-
-","
-
-
-
-
-
-Qual desses países obteve o maior IDH?
-
-
-
-
-
-
-",        O primeiro.      ,        O segundo.      ,        O terceiro.      ,        O quarto.      ,        O quinto.      , ,"enem-data/enem-2019/168-images/context_img_0.png,enem-data/enem-2019/168-images/context_img_1.png"
-36,174,"
-
-
-Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.
-
-O usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V.
-
-Sabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-
-Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários R, R e S, simultaneamente?
-
-
-
-
-
-
-",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      , ,enem-data/enem-2019/174-images/context_img_0.png
-37,163,"
-
-
-Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.
-
-• Faixa 1: para consumo de até 6 m², valor fixo de R$12,00;
-
-• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6m³;
-
-• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³. Sabe-se que nessa cidade o consumo máximo de água por residência é de 15 m² por mês.
-
-
-
-
-
-","
-
-
- O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido, em metro cúbico, é
-
-
-",enem-data/enem-2019/163-images/alt_img_0.png,enem-data/enem-2019/163-images/alt_img_1.png,enem-data/enem-2019/163-images/alt_img_2.png,enem-data/enem-2019/163-images/alt_img_3.png,enem-data/enem-2019/163-images/alt_img_4.png, ,
-38,175,"
-
-
-
-
-Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da ultima semana.
-Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da ultima semana.
-
-
-
-","
-
-
-
-
-
-Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é
-
-
-
-
-
-
-",        20.      ,        27.      ,        44.      ,        55.      ,        71.      , ,enem-data/enem-2019/175-images/context_img_0.png
-39,177,"
-
-
-A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana).
-Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-
-Segundo o acordo, qual município receberá o investimento extra?
-
-
-
-
-
-
-",        I.      ,        II.      ,        III.      ,        IV.      ,        V.      , ,enem-data/enem-2019/177-images/context_img_0.png
-40,178,"
-
-
-
-
-Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 m e altura interna igual a 3,30 m, a quatro reservatórios cilíndricos auxiliares (R1, R2, R3 e R4), os quais possuem raios internos e alturas internas medindo 1,5 m.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-As ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 m de diâmetro interno e 20 m de comprimento, conectados próximos às bases de cada reservatório.
-Na conexão de cada um desses canos com o reservatório central ha registros que liberam ou interrompem o fluxo de água.
-No momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das colunas de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vasos comunicantes.
-
-
-
-","
-
-
-
-
-
-A medida, em metro, das alturas das colunas de água nos reservatórios auxiliares, após cessar o fluxo de água entre eles, é
-
-
-
-
-
-
-","        1,44.      ","        1,16      ","        1,10.      ","        1,00.      ","        0,95.      ", ,enem-data/enem-2019/178-images/context_img_0.png
-41,179,"
-
-
-Para construir uma piscina, cuja área total da superfície interna é igual a 40 m², uma construtora apresentou o seguinte orçamento:
-
-• R$ 10 000,00 pela elaboração do projeto;
-• R$ 40 000,00 pelos custos fixos;
-• R$ 2 500,00 por metro quadrado para construção da área interna da piscina.
-
-Após a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50%, mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25%. Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10% em relação ao total inicial.
-
-
-
-","
-
-
-
-
-
-O percentual de desconto que a construtora deverá conceder nos custos fixos é de
-
-
-
-
-
-
-","        23,3%.      ","        25,0%.      ","        50,0%.      ","        87,5%.      ","        100,0%.      ", ,
-42,180,"
-
-
-
-
-Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão esta representado na figura.
-
-
-
-
-descreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.
-O valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm.
-Para os cálculos, utilize 3 como aproximação para π.
-
-
-
-
-
-
-
-
-
-
-
-
-","
-
-
-
-
-
-O menor valor inteiro a ser atribuído ao parâmetro β, de forma que o motor a ser construído tenha boa potência, é
-
-
-
-
-
-
-",        1.      ,        2.      ,        4.      ,        5.      ,        8.      , ,enem-data/enem-2019/180-images/context_img_0.png
+",enem-data/enem-2019/139-images/alt_img_0.png,enem-data/enem-2019/139-images/alt_img_1.png,enem-data/enem-2019/139-images/alt_img_2.png,enem-data/enem-2019/139-images/alt_img_3.png,enem-data/enem-2019/139-images/alt_img_4.png,E,"enem-data/enem-2019/139-images/context_img_0.png,enem-data/enem-2019/139-images/context_img_1.png"
 43,170,"
 
 
@@ -1246,4 +1246,4 @@ A expressão relacionando q e m que representa a concentração alcoólica p
 
 
 
-",enem-data/enem-2019/170-images/alt_img_0.png,enem-data/enem-2019/170-images/alt_img_1.png,enem-data/enem-2019/170-images/alt_img_2.png,enem-data/enem-2019/170-images/alt_img_3.png,enem-data/enem-2019/170-images/alt_img_4.png, ,
+",enem-data/enem-2019/170-images/alt_img_0.png,enem-data/enem-2019/170-images/alt_img_1.png,enem-data/enem-2019/170-images/alt_img_2.png,enem-data/enem-2019/170-images/alt_img_3.png,enem-data/enem-2019/170-images/alt_img_4.png,E,

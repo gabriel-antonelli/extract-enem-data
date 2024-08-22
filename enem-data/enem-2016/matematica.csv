@@ -1,5 +1,24 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
-0,146,"
+0,136,"
+
+
+
+
+
+
+
+
+Com base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.
+
+
+","
+
+
+Para alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá
+
+
+",        diminuir em 2 unidades      ,        diminuir em 4 unidades      ,        aumentar em 2 unidades.      ,        aumentar em 4 unidades.      ,        aumentar em 8 unidades.      ,C,enem-data/enem-2016/136-images/context_img_0.png
+1,142,"
 
 
 
@@ -10,13 +29,12 @@
 ","
 
 
-Suponha que ocorra um desastre quando o petroleiro se encontra com sua carga máxima: ele sofre um acidente que ocasiona um furo no fundo do compartimento C.
-Para fins de cálculo, considere desprezíveis as espessuras das placas divisórias.
-Após o fim do vazamento, o volume de petróleo derramado terá sido de
+O proprietário de um veículo precisa trocar os pneus de seu carro e, ao chegar a uma loja, é informado por um vendedor que há somente pneus com os seguintes códigos: 175/65R15, 175/75R15, 175/80R15, 185/60R15 e 205/55R15. Analisando, juntamente com o vendedor, as opções de pneus disponíveis, concluem que o pneu mais adequado para seu veículo é o que tem a menor altura.
+Desta forma, o proprietário do veículo deverá comprar o pneu com a marcação
 
 
-","        1,4 × 10³  m³      ","        1,8 × 10³  m³      ","        2,0 × 10³  m³      ","        3,2 × 10³  m³      ","        6,0 × 10³  m³      ", ,enem-data/enem-2016/146-images/context_img_0.png
-1,149,"
+",        205/55R15.      ,        175/65R15.      ,        175/75R15.      ,        175/80R15.      ,        185/60R15      ,E,enem-data/enem-2016/142-images/context_img_0.png
+2,149,"
 
 
 • Marca A: 2 g de fibras a cada 50 g de pão;
@@ -36,39 +54,8 @@ Disponível em: www.blog.saude.gov.br. Acesso em: 25 fev. 2013.
 A marca a ser escolhida é
 
 
-",        A      ,        B      ,        C      ,        D      ,        E      , ,
-2,140,"
-
-
-
-
-
-
-
-","
-
-
-Qual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?
-
-
-",        1 000      ,        1 250      ,        1 500      ,        2 000      ,        2 500      , ,enem-data/enem-2016/140-images/context_img_0.png
-3,142,"
-
-
-
-
-
-
-
-","
-
-
-O proprietário de um veículo precisa trocar os pneus de seu carro e, ao chegar a uma loja, é informado por um vendedor que há somente pneus com os seguintes códigos: 175/65R15, 175/75R15, 175/80R15, 185/60R15 e 205/55R15. Analisando, juntamente com o vendedor, as opções de pneus disponíveis, concluem que o pneu mais adequado para seu veículo é o que tem a menor altura.
-Desta forma, o proprietário do veículo deverá comprar o pneu com a marcação
-
-
-",        205/55R15.      ,        175/65R15.      ,        175/75R15.      ,        175/80R15.      ,        185/60R15      , ,enem-data/enem-2016/142-images/context_img_0.png
-4,147,"
+",        A      ,        B      ,        C      ,        D      ,        E      ,B,
+3,147,"
 
 
 
@@ -87,39 +74,8 @@ Nessas condições, a probabilidade de ele chegar à área IV sem passar por out
 retornar é igual a
 
 
-",        1/96      ,        1/64      ,        5/24      ,        1/4      ,        5/12      , ,enem-data/enem-2016/147-images/context_img_0.png
-5,141,"
-
-
-
-
-
-
-
-","
-
-
-Após as três “pesagens”, os organizadores do torneio informaram aos atletas quais deles se enfrentariam na primeira luta.
-A primeira luta foi entre os atletas
-
-
-",        I e III      ,        I e IV      ,        II e III      ,        II e IV      ,        III e IV      , ,enem-data/enem-2016/141-images/context_img_0.png
-6,143,"
-
-
-
-
-
-
-
-","
-
-
-Nas condições dadas, qual o tempo mínimo, após o sexto mês, para que o reservatório atinja o nível zero de sua capacidade?
-
-
-",        2 meses e meio.      ,        3 meses e meio.      ,        1 mês e meio.      ,        4 meses.      ,        1 mês.      , ,enem-data/enem-2016/143-images/context_img_0.png
-7,139,"
+",        1/96      ,        1/64      ,        5/24      ,        1/4      ,        5/12      ,C,enem-data/enem-2016/147-images/context_img_0.png
+4,139,"
 
 
 
@@ -134,8 +90,121 @@ Com base nas informações do gráfico, o floricultor verificou que poderia plan
 O mês escolhido para o plantio foi
 
 
-",        janeiro      ,        fevereiro      ,        agosto      ,        novembro      ,        dezembro      , ,enem-data/enem-2016/139-images/context_img_0.png
-8,148,"
+",        janeiro      ,        fevereiro      ,        agosto      ,        novembro      ,        dezembro      ,A,enem-data/enem-2016/139-images/context_img_0.png
+5,138,"
+
+
+
+
+
+
+
+
+Uma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50.
+ 
+
+
+","
+
+
+Qual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?
+
+
+","        23,5%      ","        21,2%      ","        19,0%      ","        11,8%      ","        10,0%      ",A,enem-data/enem-2016/138-images/context_img_0.png
+6,140,"
+
+
+
+
+
+
+
+","
+
+
+Qual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?
+
+
+",        1 000      ,        1 250      ,        1 500      ,        2 000      ,        2 500      ,C,enem-data/enem-2016/140-images/context_img_0.png
+7,143,"
+
+
+
+
+
+
+
+","
+
+
+Nas condições dadas, qual o tempo mínimo, após o sexto mês, para que o reservatório atinja o nível zero de sua capacidade?
+
+
+",        2 meses e meio.      ,        3 meses e meio.      ,        1 mês e meio.      ,        4 meses.      ,        1 mês.      ,A,enem-data/enem-2016/143-images/context_img_0.png
+8,141,"
+
+
+
+
+
+
+
+","
+
+
+Após as três “pesagens”, os organizadores do torneio informaram aos atletas quais deles se enfrentariam na primeira luta.
+A primeira luta foi entre os atletas
+
+
+",        I e III      ,        I e IV      ,        II e III      ,        II e IV      ,        III e IV      ,C,enem-data/enem-2016/141-images/context_img_0.png
+9,150,"
+
+
+
+
+
+
+
+","
+
+
+Com base no quadro, qual é a moda do número de pessoas no elevador durante a subida do térreo ao quinto andar?
+
+
+",        2      ,        3      ,        4      ,        5      ,        6      ,D,enem-data/enem-2016/150-images/context_img_0.png
+10,151,"
+
+
+
+
+
+
+
+","
+
+
+O valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é
+
+
+",        125%      ,        231%      ,        331%      ,        700%      ,        800%      ,D,enem-data/enem-2016/151-images/context_img_0.png
+11,146,"
+
+
+
+
+
+
+
+","
+
+
+Suponha que ocorra um desastre quando o petroleiro se encontra com sua carga máxima: ele sofre um acidente que ocasiona um furo no fundo do compartimento C.
+Para fins de cálculo, considere desprezíveis as espessuras das placas divisórias.
+Após o fim do vazamento, o volume de petróleo derramado terá sido de
+
+
+","        1,4 × 10³  m³      ","        1,8 × 10³  m³      ","        2,0 × 10³  m³      ","        3,2 × 10³  m³      ","        6,0 × 10³  m³      ",D,enem-data/enem-2016/146-images/context_img_0.png
+12,148,"
 
 
 
@@ -156,92 +225,32 @@ II. 7 funcionários para cada região da cidade cujo número de casos seja menor
 Quantos funcionários a prefeitura deverá contratar para efetivar a ação?
 
 
-",        59      ,        65      ,        68      ,        71      ,        80      , ,enem-data/enem-2016/148-images/context_img_0.png
-9,136,"
+",        59      ,        65      ,        68      ,        71      ,        80      ,D,enem-data/enem-2016/148-images/context_img_0.png
+13,155,"
+
+
+Art. 93. A empresa com 100 (cem) ou mais empregados está obrigada a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos com beneficiários reabilitados ou pessoas com deficiência, habilitadas, na seguinte proporção:
+ I. até 200 empregados……………….. 2%;
+ II. de 201 a 500 empregados…………… 3%;
+ III. de 501 a 1 000 empregados………… 4%;
+ IV. de 1 001 em diante………………. 5%.
+
+Disponível em: www.planalto.gov.br. Acesso em: 3 fev. 2015.
 
 
 
 
-
-
-
-
-Com base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.
-
-
-","
-
-
-Para alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá
-
-
-",        diminuir em 2 unidades      ,        diminuir em 4 unidades      ,        aumentar em 2 unidades.      ,        aumentar em 4 unidades.      ,        aumentar em 8 unidades.      , ,enem-data/enem-2016/136-images/context_img_0.png
-10,150,"
-
-
-
-
-
+Constatou-se que a empresa possui 1 200 funcionários, dos quais 10 são reabilitados ou com deficiência, habilitados.
+Para adequar-se à referida lei, a empresa contratará apenas empregados que atendem ao perfil indicado no artigo 93.
 
 
 ","
 
 
-Com base no quadro, qual é a moda do número de pessoas no elevador durante a subida do térreo ao quinto andar?
+O número mínimo de empregados reabilitados ou com deficiência, habilitados, que deverá ser contratado pela empresa é
 
 
-",        2      ,        3      ,        4      ,        5      ,        6      , ,enem-data/enem-2016/150-images/context_img_0.png
-11,138,"
-
-
-
-
-
-
-
-
-Uma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50.
- 
-
-
-","
-
-
-Qual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?
-
-
-","        23,5%      ","        21,2%      ","        19,0%      ","        11,8%      ","        10,0%      ", ,enem-data/enem-2016/138-images/context_img_0.png
-12,151,"
-
-
-
-
-
-
-
-","
-
-
-O valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é
-
-
-",        125%      ,        231%      ,        331%      ,        700%      ,        800%      , ,enem-data/enem-2016/151-images/context_img_0.png
-13,153,"
-
-
-Para cadastrar-se em um site, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.
-
-Disponível em: www.infowester.com. Acesso em: 14 dez. 2012.
-
-
-
-","
-
-
-O número total de senhas possíveis para o cadastramento nesse site é dado por
-
-
-",enem-data/enem-2016/153-images/alt_img_0.png,enem-data/enem-2016/153-images/alt_img_1.png,enem-data/enem-2016/153-images/alt_img_2.png,enem-data/enem-2016/153-images/alt_img_3.png,enem-data/enem-2016/153-images/alt_img_4.png, ,
+",        74      ,        70      ,        64      ,        60      ,        53      ,E,
 14,154,"
 
 
@@ -269,8 +278,24 @@ Disponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado)
 Para atingir a meta desejada, o percentual deve ser
 
 
-",        40%      ,        20%      ,        60%      ,        30%      ,        70%      , ,enem-data/enem-2016/154-images/context_img_0.png
-15,160,"
+",        40%      ,        20%      ,        60%      ,        30%      ,        70%      ,A,enem-data/enem-2016/154-images/context_img_0.png
+15,159,"
+
+
+
+
+
+
+
+","
+
+
+Considere 1,4 e 1,7 como aproximações para √2 e √3 , respectivamente.
+Para que seja atingido o seu objetivo, qual dos exemplares de serra copo o marceneiro deverá escolher?
+
+
+",        I      ,        II      ,        III      ,        IV      ,        V      ,B,enem-data/enem-2016/159-images/context_img_0.png
+16,160,"
 
 
 
@@ -288,8 +313,23 @@ Considere que o padrão apresentado no resultado do exame, no período analisado
 O valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a
 
 
-",        28      ,        21      ,        2      ,        7      ,        14      , ,enem-data/enem-2016/160-images/context_img_0.png
-16,164,"
+",        28      ,        21      ,        2      ,        7      ,        14      ,E,enem-data/enem-2016/160-images/context_img_0.png
+17,158,"
+
+
+
+
+
+
+
+","
+
+
+Nessa disposição, o número que está representado na figura é
+
+
+",        46 171.      ,        147 016      ,        171 064.      ,        460 171.      ,        610 741.      ,D,enem-data/enem-2016/158-images/context_img_0.png
+18,164,"
 
 
 O LIRAa, Levantamento Rápido do Índice de Infestação por Aedes aegypti, consiste num mapeamento da infestação do mosquito Aedes aegypti. O LIRAa é dado pelo percentual do número de imóveis com focos do mosquito, entre os escolhidos de uma região em avaliação.
@@ -310,63 +350,8 @@ Disponível em: http://bvsms.saude.gov.br. Acesso em: 28 out. 2015
 As ações de controle iniciarão pelo bairro
 
 
-",        I      ,        II      ,        III      ,        IV      ,        V      , ,
-17,155,"
-
-
-Art. 93. A empresa com 100 (cem) ou mais empregados está obrigada a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos com beneficiários reabilitados ou pessoas com deficiência, habilitadas, na seguinte proporção:
- I. até 200 empregados……………….. 2%;
- II. de 201 a 500 empregados…………… 3%;
- III. de 501 a 1 000 empregados………… 4%;
- IV. de 1 001 em diante………………. 5%.
-
-Disponível em: www.planalto.gov.br. Acesso em: 3 fev. 2015.
-
-
-
-
-Constatou-se que a empresa possui 1 200 funcionários, dos quais 10 são reabilitados ou com deficiência, habilitados.
-Para adequar-se à referida lei, a empresa contratará apenas empregados que atendem ao perfil indicado no artigo 93.
-
-
-","
-
-
-O número mínimo de empregados reabilitados ou com deficiência, habilitados, que deverá ser contratado pela empresa é
-
-
-",        74      ,        70      ,        64      ,        60      ,        53      , ,
-18,158,"
-
-
-
-
-
-
-
-","
-
-
-Nessa disposição, o número que está representado na figura é
-
-
-",        46 171.      ,        147 016      ,        171 064.      ,        460 171.      ,        610 741.      , ,enem-data/enem-2016/158-images/context_img_0.png
-19,163,"
-
-
-
-
-
-
-
-","
-
-
-Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?
-
-
-",        De 0 a 10.      ,        De 5 a 10.      ,        De 5 a 15.      ,        De 15 a 25.      ,        De 0 a 25.      , ,enem-data/enem-2016/163-images/context_img_0.png
-20,166,"
+",        I      ,        II      ,        III      ,        IV      ,        V      ,A,
+19,166,"
 
 
 
@@ -380,8 +365,39 @@ Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante 
 Para satisfazer o filho mais novo, esse senhor precisa encontrar um terreno retangular cujas medidas, em metro, do comprimento e da largura sejam iguais, respectivamente, a
 
 
-","        7,5 e 14,5.      ","        9,0 e 16,0.      ","        9,3 e 16,3.      ","        10,0 e 17,0.      ","        13,5 e 20,5.      ", ,enem-data/enem-2016/166-images/context_img_0.png
-21,167,"
+","        7,5 e 14,5.      ","        9,0 e 16,0.      ","        9,3 e 16,3.      ","        10,0 e 17,0.      ","        13,5 e 20,5.      ",B,enem-data/enem-2016/166-images/context_img_0.png
+20,163,"
+
+
+
+
+
+
+
+","
+
+
+Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?
+
+
+",        De 0 a 10.      ,        De 5 a 10.      ,        De 5 a 15.      ,        De 15 a 25.      ,        De 0 a 25.      ,B,enem-data/enem-2016/163-images/context_img_0.png
+21,165,"
+
+
+
+
+
+
+
+","
+
+
+A família pretende que esse imóvel tenha a mesma distância de percurso até o local de trabalho da mãe, localizado na rua 6 com a rua E, o consultório do pai, na rua 2 com a rua E, e a escola das crianças, na rua 4 com a rua A.
+Com base nesses dados, o imóvel que atende as pretensões da família deverá ser localizado no encontro das ruas
+
+
+",        3 e C      ,        4 e C      ,        4 e D      ,        4 e E      ,        5 e C      ,C,enem-data/enem-2016/165-images/context_img_0.png
+22,167,"
 
 
 
@@ -399,59 +415,24 @@ Avaliando os resultados, o conselho diretor da empresa decidiu comprar, nos dois
 Nos próximos dois meses, essa empresa deverá comprar a mesma quantidade de matéria-prima comprada no mês
 
 
-",        I      ,        II      ,        IV      ,        V      ,        VII      , ,enem-data/enem-2016/167-images/context_img_0.png
-22,165,"
+",        I      ,        II      ,        IV      ,        V      ,        VII      ,D,enem-data/enem-2016/167-images/context_img_0.png
+23,153,"
 
 
+Para cadastrar-se em um site, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.
 
-
-
-
-
-","
-
-
-A família pretende que esse imóvel tenha a mesma distância de percurso até o local de trabalho da mãe, localizado na rua 6 com a rua E, o consultório do pai, na rua 2 com a rua E, e a escola das crianças, na rua 4 com a rua A.
-Com base nesses dados, o imóvel que atende as pretensões da família deverá ser localizado no encontro das ruas
-
-
-",        3 e C      ,        4 e C      ,        4 e D      ,        4 e E      ,        5 e C      , ,enem-data/enem-2016/165-images/context_img_0.png
-23,159,"
-
-
-
-
+Disponível em: www.infowester.com. Acesso em: 14 dez. 2012.
 
 
 
 ","
 
 
-Considere 1,4 e 1,7 como aproximações para √2 e √3 , respectivamente.
-Para que seja atingido o seu objetivo, qual dos exemplares de serra copo o marceneiro deverá escolher?
+O número total de senhas possíveis para o cadastramento nesse site é dado por
 
 
-",        I      ,        II      ,        III      ,        IV      ,        V      , ,enem-data/enem-2016/159-images/context_img_0.png
-24,169,"
-
-
-
-
-
-
-
-
-Como o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.
-
-
-","
-
-
-Qual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ficar sem combustível na estrada?
-
-
-",        570      ,        500      ,        450      ,        187      ,        150      , ,enem-data/enem-2016/169-images/context_img_0.png
-25,171,"
+",enem-data/enem-2016/153-images/alt_img_0.png,enem-data/enem-2016/153-images/alt_img_1.png,enem-data/enem-2016/153-images/alt_img_2.png,enem-data/enem-2016/153-images/alt_img_3.png,enem-data/enem-2016/153-images/alt_img_4.png,E,
+24,171,"
 
 
 
@@ -470,7 +451,26 @@ Use 3 como aproximação para π e 1,4 como aproximação para √2 .
 O menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de
 
 
-",        1 260.      ,        2 520.      ,        2 800.      ,        3 600.      ,        4 000.      , ,enem-data/enem-2016/171-images/context_img_0.png
+",        1 260.      ,        2 520.      ,        2 800.      ,        3 600.      ,        4 000.      ,B,enem-data/enem-2016/171-images/context_img_0.png
+25,169,"
+
+
+
+
+
+
+
+
+Como o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.
+
+
+","
+
+
+Qual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ficar sem combustível na estrada?
+
+
+",        570      ,        500      ,        450      ,        187      ,        150      ,B,enem-data/enem-2016/169-images/context_img_0.png
 26,175,"
 
 
@@ -486,7 +486,7 @@ Utilize 3 como aproximação para π.
 O número mínimo de viagens que o caminhão precisará fazer para transportar todo o volume de grãos armazenados no silo é
 
 
-",        6      ,        16      ,        17      ,        18      ,        21      , ,enem-data/enem-2016/175-images/context_img_0.png
+",        6      ,        16      ,        17      ,        18      ,        21      ,D,enem-data/enem-2016/175-images/context_img_0.png
 27,174,"
 
 
@@ -505,23 +505,8 @@ sendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real posit
 Qual a relação entre E1 e E2?
 
 
-",        E1 = E2 + 2      ,        E1 = 10².E2 ,        E1 = 10³.E2 ,        E1 = 109/7.E2 ,        E1 = 9/7.E2 , ,enem-data/enem-2016/174-images/context_img_0.png
-28,180,"
-
-
-
-
-
-
-
-","
-
-
-Qual deve ser o lucro mínimo da empresa no mês de junho, em milhares de reais, para o gerente continuar no cargo no próximo semestre?
-
-
-",        26      ,        29      ,        30      ,        31      ,        35      , ,enem-data/enem-2016/180-images/context_img_0.png
-29,177,"
+",        E1 = E2 + 2      ,        E1 = 10².E2 ,        E1 = 10³.E2 ,        E1 = 109/7.E2 ,        E1 = 9/7.E2 ,C,enem-data/enem-2016/174-images/context_img_0.png
+28,177,"
 
 
 
@@ -536,7 +521,22 @@ Não habituado com a unidade pé, e querendo satisfazer sua curiosidade, esse tu
 Qual a medida que mais se aproxima do diâmetro da Roda do Milênio, em metro?
 
 
-",        53      ,        94      ,        113      ,        135      ,        145      , ,enem-data/enem-2016/177-images/context_img_0.png
+",        53      ,        94      ,        113      ,        135      ,        145      ,D,enem-data/enem-2016/177-images/context_img_0.png
+29,180,"
+
+
+
+
+
+
+
+","
+
+
+Qual deve ser o lucro mínimo da empresa no mês de junho, em milhares de reais, para o gerente continuar no cargo no próximo semestre?
+
+
+",        26      ,        29      ,        30      ,        31      ,        35      ,E,enem-data/enem-2016/180-images/context_img_0.png
 30,172,"
 
 
@@ -551,7 +551,7 @@ Qual a medida que mais se aproxima do diâmetro da Roda do Milênio, em metro?
 A projeção ortogonal, no plano α, do caminho traçado no globo pode ser representada por
 
 
-",enem-data/enem-2016/172-images/alt_img_0.png,enem-data/enem-2016/172-images/alt_img_1.png,enem-data/enem-2016/172-images/alt_img_2.png,enem-data/enem-2016/172-images/alt_img_3.png,enem-data/enem-2016/172-images/alt_img_4.png, ,enem-data/enem-2016/172-images/context_img_0.png
+",enem-data/enem-2016/172-images/alt_img_0.png,enem-data/enem-2016/172-images/alt_img_1.png,enem-data/enem-2016/172-images/alt_img_2.png,enem-data/enem-2016/172-images/alt_img_3.png,enem-data/enem-2016/172-images/alt_img_4.png,E,enem-data/enem-2016/172-images/context_img_0.png
 31,178,"
 
 
@@ -566,4 +566,4 @@ A projeção ortogonal, no plano α, do caminho traçado no globo pode ser repre
 Qual é o esboço obtido pelos alunos?
 
 
-",enem-data/enem-2016/178-images/alt_img_0.png,enem-data/enem-2016/178-images/alt_img_1.png,enem-data/enem-2016/178-images/alt_img_2.png,enem-data/enem-2016/178-images/alt_img_3.png,enem-data/enem-2016/178-images/alt_img_4.png, ,enem-data/enem-2016/178-images/context_img_0.png
+",enem-data/enem-2016/178-images/alt_img_0.png,enem-data/enem-2016/178-images/alt_img_1.png,enem-data/enem-2016/178-images/alt_img_2.png,enem-data/enem-2016/178-images/alt_img_3.png,enem-data/enem-2016/178-images/alt_img_4.png,C,enem-data/enem-2016/178-images/context_img_0.png
